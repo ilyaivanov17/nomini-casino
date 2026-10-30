@@ -2,13 +2,13 @@
 title: Arthur Mustoe
 description: Arthur Mustoe ist ein freiberuflicher Content-Autor aus Großbritannien, der sich auf iGaming und
   Casinos spezialisiert. Seine öffentlichen…
-seo_title: Arthur Mustoe – Senior Content Writer • iGaming und Casino | Instant Casino
+seo_title: Arthur Mustoe – Senior Content Writer • iGaming und Casino | Nomini Casino Guide
 type: author
 slug: arthur-mustoe
 aliases:
 - /authors/author-4/
 date: '2026-09-27'
-lastmod: '2026-10-17'
+lastmod: '2026-10-30'
 author_id: author-4
 role: Senior Content Writer • iGaming und Casino
 photo: images/arthur_mustoe.jpg
@@ -39,9 +39,9 @@ Arthur Mustoe ist ein freiberuflicher Content-Autor aus Großbritannien, der sic
 
 Casino- und Slot-Tests, Spielregeln, Anbieterinformationen und Compliance-orientierte Inhalte
 
-### Redaktioneller Beitrag bei Instant Casino
+### Redaktioneller Beitrag bei Nomini Casino Guide
 
-Bei Instant Casino arbeitet das Profil im thematischen Umfeld von Casino-Informationen, Spielbeschreibungen und dem Vergleich von Angebotsbedingungen. Die Einordnung der Inhalte folgt dem jeweiligen Fachgebiet: Spielmechaniken werden anhand der verfügbaren Spieldaten erklärt, Bonusangaben nach Bedingungen strukturiert und Zahlungsmethoden anhand der hinterlegten Limits und Zeitangaben verglichen.
+Bei Nomini Casino Guide arbeitet das Profil im thematischen Umfeld von Casino-Informationen, Spielbeschreibungen und dem Vergleich von Angebotsbedingungen. Die Einordnung der Inhalte folgt dem jeweiligen Fachgebiet: Spielmechaniken werden anhand der verfügbaren Spieldaten erklärt, Bonusangaben nach Bedingungen strukturiert und Zahlungsmethoden anhand der hinterlegten Limits und Zeitangaben verglichen.
 
 ### So ist das Profil einzuordnen
 
