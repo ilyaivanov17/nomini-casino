@@ -19,7 +19,7 @@ screenshots_note: 'Illustrative editorial artwork, not a screenshot of a real op
 ---
 ## Legal information and privacy
 
-This guide groups existing information by topic so rules and limitations are easier to compare. Game rules, RTP figures, bonus terms, payment options and legal availability can vary by version, operator and country. Check details directly in the version currently offered.
+This page collects the legal, privacy and cookie information that applies to this independent editorial guide. It is not the casino operator's terms and does not create or manage player accounts. Details about technical data, contact routes and the publisher should be read in the context of this website; questions about a Nomini account or transaction belong with the operator through its official channels.
 
 ## Privacy policy
 

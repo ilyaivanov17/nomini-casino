@@ -28,7 +28,7 @@ screenshots_note: 'Ilustracja redakcyjna, nie zrzut ekranu rzeczywistego interfe
 ---
 ## Konto, rejestracja, logowanie i częste pytania
 
-Ten przewodnik porządkuje istniejące informacje według tematów, aby łatwiej porównywać zasady i ograniczenia. Zasady gier, RTP, warunki bonusów, metody płatności i dostępność prawna mogą różnić się w zależności od wersji, operatora i kraju. Sprawdź je bezpośrednio w aktualnie oferowanej wersji.
+Ta strona porządkuje informacje o rejestracji, dostępie do konta, weryfikacji tożsamości i częstych pytaniach. Obowiązujące procedury oraz dostępne funkcje określa oficjalny operator; mogą się one różnić zależnie od kraju, metody płatności i statusu konta. Ten niezależny poradnik nie zakłada, nie weryfikuje ani nie odzyskuje kont graczy.
 
 ## Rejestracja konta
 
@@ -168,19 +168,16 @@ Prowizja nie oznacza, że oferta jest odpowiednia lub lepsza. Porównuj warunki 
 
 ### Porównanie: co ma znaczenie w konkretnej sytuacji?
 
-| Sytuacja / punkt | Zalecane działanie |
-|---|---|
-| Przed działaniem | Przeczytaj pełne warunki i sprawdź, czy dotyczą Twojego kraju i konta. |
-| Gdy dane się różnią | Zapisz dokładne brzmienie, datę i ewentualny numer referencyjny. |
-| Gdy pozostają pytania | Skontaktuj się z oficjalną pomocą i nigdy nie podawaj hasła ani kodu jednorazowego. |
+| Obszar | Co sprawdzić |
+| Link partnerski | Zwróć uwagę, czy relacja afiliacyjna została jasno ujawniona. |
+| Ocena oferty | Porównuj warunki według tych samych kryteriów; prowizja nie oznacza jakości. |
+| Pytania o konto | Szczegóły dotyczące konkretnego konta potwierdza oficjalny operator. |
 
 ### Powiązane tematy
 
-Skorzystaj ze stron o płatnościach, bonusach i grach, aby zestawić informacje. Ogólne wskazówki nie zastępują warunków konkretnego konta.
+[Poradnik bonusowy]({{< relref "bonuses" >}}) wyjaśnia, jak czytać warunki promocji. Link partnerski może przynieść serwisowi prowizję; ujawnienie tej informacji opisuje relację handlową, a nie rekomenduje operatora.
 
-Graj tylko tam, gdzie jest to legalne, i ustal stały budżet. Nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
-
----
+Graj tylko tam, gdzie jest to legalne, ustal budżet i nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
 
 ## Co zrobić, gdy gra się zawiesi?
 
@@ -194,19 +191,16 @@ Skontaktuj się z oficjalną pomocą, podając nazwę gry, czas, urządzenie i n
 
 ### Porównanie: co ma znaczenie w konkretnej sytuacji?
 
-| Sytuacja / punkt | Zalecane działanie |
-|---|---|
-| Przed działaniem | Przeczytaj pełne warunki i sprawdź, czy dotyczą Twojego kraju i konta. |
-| Gdy dane się różnią | Zapisz dokładne brzmienie, datę i ewentualny numer referencyjny. |
-| Gdy pozostają pytania | Skontaktuj się z oficjalną pomocą i nigdy nie podawaj hasła ani kodu jednorazowego. |
+| Informacja do zapisania | Dlaczego jest przydatna |
+| Godzina i nazwa gry | Ułatwiają odnalezienie właściwej sesji. |
+| Komunikat błędu lub numer sprawy | Pozwala pomocy technicznej ustalić, czego dotyczy problem. |
+| Saldo i historia gry | Sprawdź, czy runda została rozliczona, zanim spróbujesz ponownie. |
 
 ### Powiązane tematy
 
-Skorzystaj ze stron o płatnościach, bonusach i grach, aby zestawić informacje. Ogólne wskazówki nie zastępują warunków konkretnego konta.
+W sprawach konta i płatności przydatne będą [poradnik płatności]({{< relref "payments" >}}) oraz informacje o koncie. Zapisz nazwę gry, godzinę i numer sprawy, aby operator mógł odnaleźć odpowiednią sesję.
 
-Graj tylko tam, gdzie jest to legalne, i ustal stały budżet. Nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
-
----
+Graj tylko tam, gdzie jest to legalne, ustal budżet i nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
 
 ## Czy dostępna jest aplikacja mobilna?
 
@@ -220,19 +214,16 @@ Jeśli operator udostępnia aplikację, używaj wyłącznie linku z jego zweryfi
 
 ### Porównanie: co ma znaczenie w konkretnej sytuacji?
 
-| Sytuacja / punkt | Zalecane działanie |
-|---|---|
-| Przed działaniem | Przeczytaj pełne warunki i sprawdź, czy dotyczą Twojego kraju i konta. |
-| Gdy dane się różnią | Zapisz dokładne brzmienie, datę i ewentualny numer referencyjny. |
-| Gdy pozostają pytania | Skontaktuj się z oficjalną pomocą i nigdy nie podawaj hasła ani kodu jednorazowego. |
+| Co sprawdzić przy aplikacji | Bezpieczniejsze rozwiązanie |
+| Źródło pobrania | Korzystaj tylko z oficjalnej strony lub sklepu z potwierdzonym wydawcą. |
+| Wydawca i uprawnienia | Sprawdź nazwę twórcy i zakres wymaganych dostępów. |
+| Brak potwierdzonego linku | Zamiast nieznanego pliku użyj responsywnej strony. |
 
 ### Powiązane tematy
 
-Skorzystaj ze stron o płatnościach, bonusach i grach, aby zestawić informacje. Ogólne wskazówki nie zastępują warunków konkretnego konta.
+[Katalog gier]({{< relref "slots" >}}) i pozostałe poradniki są dostępne przez stronę responsywną. Dopóki nie ma potwierdzonej oficjalnej aplikacji, unikaj plików instalacyjnych z zewnętrznych stron i sprawdzaj wydawcę.
 
-Graj tylko tam, gdzie jest to legalne, i ustal stały budżet. Nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
-
----
+Graj tylko tam, gdzie jest to legalne, ustal budżet i nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
 
 ## Czy obecnie potwierdzono bonus powitalny?
 
@@ -246,19 +237,16 @@ Porównaj minimalną wpłatę, mnożnik obrotu, termin ważności, maksymalną s
 
 ### Porównanie: co ma znaczenie w konkretnej sytuacji?
 
-| Sytuacja / punkt | Zalecane działanie |
-|---|---|
-| Przed działaniem | Przeczytaj pełne warunki i sprawdź, czy dotyczą Twojego kraju i konta. |
-| Gdy dane się różnią | Zapisz dokładne brzmienie, datę i ewentualny numer referencyjny. |
-| Gdy pozostają pytania | Skontaktuj się z oficjalną pomocą i nigdy nie podawaj hasła ani kodu jednorazowego. |
+| Element promocji | Co zweryfikować |
+| Dostępność | Potwierdź, że oferta obowiązuje w Twoim kraju i na Twoim koncie. |
+| Kod i uprawnienia | Sprawdź dokładny kod, moment aktywacji i kwalifikującą wpłatę. |
+| Pełny regulamin | Przeczytaj obrót, termin, limit stawki, wykluczone gry i limit wypłaty. |
 
 ### Powiązane tematy
 
-Skorzystaj ze stron o płatnościach, bonusach i grach, aby zestawić informacje. Ogólne wskazówki nie zastępują warunków konkretnego konta.
+[Poradnik warunków bonusów]({{< relref "bonuses" >}}) opisuje wymagania obrotu i terminy. Kody widoczne na stronie pochodzą od właściciela witryny i są oznaczone jako niezweryfikowane; ich aktualną ważność i dostępność potwierdź u operatora.
 
-Graj tylko tam, gdzie jest to legalne, i ustal stały budżet. Nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
-
----
+Graj tylko tam, gdzie jest to legalne, ustal budżet i nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
 
 ## Czy ten projekt sam jest kasynem?
 
@@ -288,19 +276,16 @@ Przed wysłaniem formularza przeczytaj zasady wieku i dostępności kraju, infor
 
 ### Porównanie: co ma znaczenie w konkretnej sytuacji?
 
-| Sytuacja / punkt | Zalecane działanie |
-|---|---|
-| Przed działaniem | Przeczytaj pełne warunki i sprawdź, czy dotyczą Twojego kraju i konta. |
-| Gdy dane się różnią | Zapisz dokładne brzmienie, datę i ewentualny numer referencyjny. |
-| Gdy pozostają pytania | Skontaktuj się z oficjalną pomocą i nigdy nie podawaj hasła ani kodu jednorazowego. |
+| Kontrola przed rejestracją | Dlaczego jest ważna |
+| Wiek i lokalizacja | Najpierw sprawdź, czy dostęp jest legalny w Twoim miejscu pobytu. |
+| Dane osobowe | Podaj własne informacje zgodne z dokumentami. |
+| Bezpieczeństwo konta | Użyj unikalnego hasła i nie zakładaj kolejnych kont, aby ominąć ograniczenia. |
 
 ### Powiązane tematy
 
-Skorzystaj ze stron o płatnościach, bonusach i grach, aby zestawić informacje. Ogólne wskazówki nie zastępują warunków konkretnego konta.
+[Poradnik odpowiedzialnej gry]({{< relref "responsible-gaming" >}}) omawia limity i sygnały ostrzegawcze. Rejestruj się wyłącznie tam, gdzie jest to zgodne z prawem, używając własnych, prawdziwych danych.
 
-Graj tylko tam, gdzie jest to legalne, i ustal stały budżet. Nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
-
----
+Graj tylko tam, gdzie jest to legalne, ustal budżet i nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
 
 ## Jak ocenia się uczciwość automatów?
 
@@ -314,19 +299,16 @@ Sprawdź dostawcę podanego w informacji o grze, wartość RTP i ewentualne opub
 
 ### Porównanie: co ma znaczenie w konkretnej sytuacji?
 
-| Sytuacja / punkt | Zalecane działanie |
-|---|---|
-| Przed działaniem | Przeczytaj pełne warunki i sprawdź, czy dotyczą Twojego kraju i konta. |
-| Gdy dane się różnią | Zapisz dokładne brzmienie, datę i ewentualny numer referencyjny. |
-| Gdy pozostają pytania | Skontaktuj się z oficjalną pomocą i nigdy nie podawaj hasła ani kodu jednorazowego. |
+| Dostępny dowód | Co może potwierdzić |
+| Dostawca i wersja gry | Pozwalają ustalić, których zasad i ustawień dotyczy opis. |
+| RTP i tabela wypłat | Przedstawiają wartość teoretyczną i opublikowane reguły gry. |
+| Testy lub certyfikat | Sprawdź jednostkę i zakres badania; nie przewiduje ono wyniku sesji. |
 
 ### Powiązane tematy
 
-Skorzystaj ze stron o płatnościach, bonusach i grach, aby zestawić informacje. Ogólne wskazówki nie zastępują warunków konkretnego konta.
+[Przewodnik po funkcjach slotów]({{< relref "slot-features" >}}) wyjaśnia mechanikę i wartości teoretyczne. RTP oraz informacje o testach opisują określone parametry, ale nie przewidują wyniku pojedynczej sesji.
 
-Graj tylko tam, gdzie jest to legalne, i ustal stały budżet. Nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
-
----
+Graj tylko tam, gdzie jest to legalne, ustal budżet i nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
 
 ## Jak wypłacić wygrane?
 
@@ -340,14 +322,13 @@ Najpierw sprawdź, czy zakończono weryfikację tożsamości, czy metoda płatno
 
 ### Porównanie: co ma znaczenie w konkretnej sytuacji?
 
-| Sytuacja / punkt | Zalecane działanie |
-|---|---|
-| Przed działaniem | Przeczytaj pełne warunki i sprawdź, czy dotyczą Twojego kraju i konta. |
-| Gdy dane się różnią | Zapisz dokładne brzmienie, datę i ewentualny numer referencyjny. |
-| Gdy pozostają pytania | Skontaktuj się z oficjalną pomocą i nigdy nie podawaj hasła ani kodu jednorazowego. |
+| Kontrola wypłaty | Co sprawdzić przed zatwierdzeniem |
+| Weryfikacja | Upewnij się, że wymagane kontrole tożsamości zostały zakończone. |
+| Metoda płatności | Sprawdź właściciela, dostępność, opłaty i limity. |
+| Potwierdzenie | Zapisz numer i status transakcji; przy opóźnieniu skorzystaj z oficjalnej pomocy. |
 
 ### Powiązane tematy
 
-Skorzystaj ze stron o płatnościach, bonusach i grach, aby zestawić informacje. Ogólne wskazówki nie zastępują warunków konkretnego konta.
+[Poradnik płatności]({{< relref "payments" >}}) przedstawia metody i orientacyjne terminy realizacji. Faktyczny czas zależy od operatora, dostawcy płatności, weryfikacji i warunków konta.
 
-Graj tylko tam, gdzie jest to legalne, i ustal stały budżet. Nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
+Graj tylko tam, gdzie jest to legalne, ustal budżet i nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.

@@ -1,4 +1,5 @@
 ---
+
 medium: https://medium.com/@Michalski_Dan
 title: Dan Michalski
 description: Dan Michalskiは、ギャンブル、カジノ、メディア、テクノロジーを扱う経験豊富なジャーナリスト兼編集者です。公開されているジャーナリストプロフィールでは、Casinos.comとThe Washington Postでの仕事が挙げられています。
@@ -29,26 +30,26 @@ build:
   list: always
 ---
 
-## プロフィール Dan Michalski
+## Dan Michalski の紹介
 
 Dan Michalskiは、ギャンブル、カジノ、メディア、テクノロジーを扱う経験豊富なジャーナリスト兼編集者です。公開されているジャーナリストプロフィールでは、Casinos.comとThe Washington Postでの仕事が挙げられています。
 
-### 専門分野
+### 職業上の専門領域
 
 ギャンブル業界、カジノメディア、編集分析、テクノロジー
 
-### Nomini Casino Guideでの編集上の役割
+### このプロフィールで分かること
 
-Nomini Casino Guideでは、このプロフィールはカジノ情報、ゲームの解説、キャンペーン条件の比較を扱う編集業務に関連しています。専門分野に応じて、利用可能なゲームデータをもとに仕組みを説明し、ボーナスを条件別に整理し、決済方法を登録済みの上限額や処理時間で比較します。
+Dan Michalskiは本プロジェクトで **シニアエディター・ジャーナリスト** として掲載されています。プロフィールは公開されている職業上の分野を説明するためのもので、すべての掲載ゲームを本人が実地検証したこと、特定のプレイ結果や賞金を得たこと、または各記事を承認したことの証明ではありません。
 
-### このプロフィールの見方
+### 編集内容との関係
 
-カジノゲームやキャンペーンを比較する際には、規約全文、ゲームのバージョン、アカウントに表示される条件が重要です。編集上の比較では、記録された数値と解釈を分け、詳細ページや一次情報へのリンクを示します。このプロフィールは職業上の専門分野を説明するもので、個々のキャンペーン条件の確認に代わるものではありません。
+ゲームの仕様、機能、RTPは、利用可能な個別バージョンに照らして確認する必要があります。ボーナスを比較する際は全文の条件を読み、決済手段や上限、処理時間は国・アカウントごとの違いを確認してください。更新される情報については、現行の一次資料を優先します。
 
-### 公開されている職業プロフィール
+### 公開プロフィールへのリンク
 
-[LinkedIn](https://www.linkedin.com/in/danmichalski) · [Muck Rack](https://muckrack.com/dan-michalski)
+[LinkedIn](https://www.linkedin.com/in/danmichalski) · [公式サイト](https://muckrack.com/dan-michalski) · [Medium](https://medium.com/@Michalski_Dan)
 
-| 役割 | 専門分野 | 公開プロフィール | 担当領域 |
-| --- | --- | --- | --- |
-| シニアエディター・ジャーナリスト | ギャンブル業界、カジノメディア、編集分析、テクノロジー | [LinkedIn](https://www.linkedin.com/in/danmichalski) · [Muck Rack](https://muckrack.com/dan-michalski) | ギャンブル業界、カジノメディア、編集分析、テクノロジー |
+| 役割 | 主なテーマ | 公開プロフィール | 専門分野 |
+|---|---|---|---|
+| シニアエディター・ジャーナリスト | ギャンブル業界、カジノメディア、編集分析、テクノロジー | [LinkedIn](https://www.linkedin.com/in/danmichalski) · [公式サイト](https://muckrack.com/dan-michalski) · [Medium](https://medium.com/@Michalski_Dan) | ギャンブル業界、カジノメディア、編集分析、テクノロジー |

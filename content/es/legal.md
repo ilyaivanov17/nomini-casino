@@ -19,7 +19,7 @@ screenshots_note: 'Ilustración editorial, no es una captura de una interfaz rea
 ---
 ## Información legal y privacidad
 
-Esta guía reúne la información por temas para facilitar la comparación de reglas y limitaciones. Las reglas del juego, el RTP, las condiciones de los bonos, los métodos de pago y la disponibilidad legal pueden variar según la versión, el operador y el país. Comprueba los datos en la versión ofrecida actualmente.
+Aquí se reúnen los avisos legales y la información de privacidad y cookies de esta guía editorial independiente. No sustituye las condiciones del operador del casino ni gestiona cuentas de jugadores. Los datos sobre tratamiento técnico, contacto y entidad editora se refieren a este sitio. Las consultas sobre una cuenta o transacción de Nomini deben dirigirse al operador por sus canales oficiales.
 
 ## Política de privacidad
 

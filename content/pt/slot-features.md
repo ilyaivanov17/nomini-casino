@@ -22,7 +22,7 @@ screenshots_note: 'Ilustração editorial; não é uma captura de uma interface 
 ---
 ## Guia de slots: temas, volatilidade e comparação
 
-Este guia reúne informações por tema para facilitar a comparação de regras e limitações. As regras dos jogos, o RTP, as condições dos bónus, os métodos de pagamento e a disponibilidade legal podem variar consoante a versão, o operador e o país. Confirme os dados na versão atualmente disponibilizada.
+Os slots podem partilhar uma estrutura semelhante, mas as funcionalidades não obedecem necessariamente às mesmas regras. Este guia apresenta mecânicas comuns e indica o que deve ser confirmado na ajuda de cada jogo. Os dados do fornecedor, o RTP, a volatilidade e as funcionalidades disponíveis podem variar conforme a versão ou o mercado; consulte a informação do título que está efetivamente disponível.
 
 ## Starburst
 
@@ -38,16 +38,16 @@ Starburst aposta num ecrã simples, pedras preciosas brilhantes e um ritmo rápi
 
 ### Como interpretar os valores
 
-O RTP é um valor teórico calculado ao longo de um número muito elevado de rondas. Não prevê o resultado de uma jogada nem de uma sessão curta. A volatilidade indicada também não significa que vá ganhar.
+O RTP divulgado para Starburst é uma média teórica calculada ao longo de muitas rondas, não uma previsão para uma sessão curta. A volatilidade descreve a variação dos resultados, mas não antecipa a jogada seguinte.
 
 ### O que verificar antes de jogar
 
-Abra a tabela de pagamentos antes de jogar. Aí encontra os valores dos símbolos, as condições das funcionalidades e as regras de rodadas grátis ou jackpots. Defina um orçamento e jogue apenas onde for legal.
-
----
+Antes de abrir Starburst, consulte a ajuda e a tabela de pagamentos. Confirme os valores dos símbolos, a ativação das funcionalidades e as regras de rodadas grátis ou jackpots. Defina um orçamento e respeite a idade mínima e a legislação local.
 
 ## Starburst: Análise editorial aprofundada
-Starburst está associado a NetEnt. A ficha enumera símbolos Wild, respins e um tema centrado em um design visual com tema espacial. Estes dados descrevem o registo do site, mas não substituem a verificação da versão carregada. Antes de publicar, confirma a ajuda do jogo, a tabela de pagamentos e os limites de aposta.
+
+Este perfil reúne a informação publicada sobre Starburst e explica as mecânicas indicadas. É um recurso editorial, não uma declaração de teste prático nem uma previsão; confirme as regras concretas na versão disponível.
+
 
 ### Tema e primeira impressão
 
@@ -91,16 +91,16 @@ Sweet Bonanza chama a atenção pelos doces coloridos e pela mecânica tumble: o
 
 ### Como interpretar os valores
 
-O RTP é um valor teórico calculado ao longo de um número muito elevado de rondas. Não prevê o resultado de uma jogada nem de uma sessão curta. A volatilidade indicada também não significa que vá ganhar.
+Os valores de Sweet Bonanza devem ser lidos como referências estatísticas, não como uma previsão individual. O RTP é calculado a longo prazo e a volatilidade caracteriza as oscilações possíveis; nenhum dos dois indica o que acontecerá numa sessão concreta.
 
 ### O que verificar antes de jogar
 
-Abra a tabela de pagamentos antes de jogar. Aí encontra os valores dos símbolos, as condições das funcionalidades e as regras de rodadas grátis ou jackpots. Defina um orçamento e jogue apenas onde for legal.
-
----
+Confirme a versão de Sweet Bonanza que está disponível: a tabela de pagamentos explica os símbolos, as funcionalidades especiais e as condições das rondas de bónus. Veja também o intervalo de apostas e estabeleça um limite antes de começar.
 
 ## Sweet Bonanza: Análise editorial aprofundada
-Sweet Bonanza está associado a Pragmatic Play. A ficha enumera mecânica Tumble, rodadas grátis, multiplicadores e um tema centrado em colourful sweets and a tumble-style presentation. Estes dados descrevem o registo do site, mas não substituem a verificação da versão carregada. Antes de publicar, confirma a ajuda do jogo, a tabela de pagamentos e os limites de aposta.
+
+As notas sobre Sweet Bonanza distinguem os dados registados do jogo da respetiva explicação editorial. Utilize-as como orientação e confirme depois os símbolos, as funcionalidades e as apostas na ajuda da versão apresentada.
+
 
 ### Tema e primeira impressão
 
@@ -144,16 +144,16 @@ The Dog House tem um tema e funcionalidades próprios que vale a pena conhecer a
 
 ### Como interpretar os valores
 
-O RTP é um valor teórico calculado ao longo de um número muito elevado de rondas. Não prevê o resultado de uma jogada nem de uma sessão curta. A volatilidade indicada também não significa que vá ganhar.
+O RTP divulgado para The Dog House é uma média teórica calculada ao longo de muitas rondas, não uma previsão para uma sessão curta. A volatilidade descreve a variação dos resultados, mas não antecipa a jogada seguinte.
 
 ### O que verificar antes de jogar
 
-Abra a tabela de pagamentos antes de jogar. Aí encontra os valores dos símbolos, as condições das funcionalidades e as regras de rodadas grátis ou jackpots. Defina um orçamento e jogue apenas onde for legal.
-
----
+Antes de abrir The Dog House, consulte a ajuda e a tabela de pagamentos. Confirme os valores dos símbolos, a ativação das funcionalidades e as regras de rodadas grátis ou jackpots. Defina um orçamento e respeite a idade mínima e a legislação local.
 
 ## The Dog House: Análise editorial aprofundada
-The Dog House está associado a Pragmatic Play. A ficha enumera símbolos Wild fixos, respins, rodadas grátis e um tema centrado em a playful dog-house setting. Estes dados descrevem o registo do site, mas não substituem a verificação da versão carregada. Antes de publicar, confirma a ajuda do jogo, a tabela de pagamentos e os limites de aposta.
+
+Este perfil reúne a informação publicada sobre The Dog House e explica as mecânicas indicadas. É um recurso editorial, não uma declaração de teste prático nem uma previsão; confirme as regras concretas na versão disponível.
+
 
 ### Tema e primeira impressão
 
@@ -197,16 +197,16 @@ Ultra Hot Deluxe tem um tema e funcionalidades próprios que vale a pena conhece
 
 ### Como interpretar os valores
 
-O RTP é um valor teórico calculado ao longo de um número muito elevado de rondas. Não prevê o resultado de uma jogada nem de uma sessão curta. A volatilidade indicada também não significa que vá ganhar.
+Os valores de Ultra Hot Deluxe devem ser lidos como referências estatísticas, não como uma previsão individual. O RTP é calculado a longo prazo e a volatilidade caracteriza as oscilações possíveis; nenhum dos dois indica o que acontecerá numa sessão concreta.
 
 ### O que verificar antes de jogar
 
-Abra a tabela de pagamentos antes de jogar. Aí encontra os valores dos símbolos, as condições das funcionalidades e as regras de rodadas grátis ou jackpots. Defina um orçamento e jogue apenas onde for legal.
-
----
+Confirme a versão de Ultra Hot Deluxe que está disponível: a tabela de pagamentos explica os símbolos, as funcionalidades especiais e as condições das rondas de bónus. Veja também o intervalo de apostas e estabeleça um limite antes de começar.
 
 ## Ultra Hot Deluxe: Análise editorial aprofundada
-Ultra Hot Deluxe está associado a EGT. A ficha enumera rolos clássicos, símbolos Wild, jogo de bónus e um tema centrado em a classic fruit-machine visual language. Estes dados descrevem o registo do site, mas não substituem a verificação da versão carregada. Antes de publicar, confirma a ajuda do jogo, a tabela de pagamentos e os limites de aposta.
+
+As notas sobre Ultra Hot Deluxe distinguem os dados registados do jogo da respetiva explicação editorial. Utilize-as como orientação e confirme depois os símbolos, as funcionalidades e as apostas na ajuda da versão apresentada.
+
 
 ### Tema e primeira impressão
 
@@ -250,16 +250,16 @@ Viking Wilds tem um tema e funcionalidades próprios que vale a pena conhecer an
 
 ### Como interpretar os valores
 
-O RTP é um valor teórico calculado ao longo de um número muito elevado de rondas. Não prevê o resultado de uma jogada nem de uma sessão curta. A volatilidade indicada também não significa que vá ganhar.
+O RTP divulgado para Viking Wilds é uma média teórica calculada ao longo de muitas rondas, não uma previsão para uma sessão curta. A volatilidade descreve a variação dos resultados, mas não antecipa a jogada seguinte.
 
 ### O que verificar antes de jogar
 
-Abra a tabela de pagamentos antes de jogar. Aí encontra os valores dos símbolos, as condições das funcionalidades e as regras de rodadas grátis ou jackpots. Defina um orçamento e jogue apenas onde for legal.
-
----
+Antes de abrir Viking Wilds, consulte a ajuda e a tabela de pagamentos. Confirme os valores dos símbolos, a ativação das funcionalidades e as regras de rodadas grátis ou jackpots. Defina um orçamento e respeite a idade mínima e a legislação local.
 
 ## Viking Wilds: Análise editorial aprofundada
-Viking Wilds está associado a NetEnt. A ficha enumera símbolos Wild, multiplicadores, rodadas grátis e um tema centrado em a Norse and Viking adventure theme. Estes dados descrevem o registo do site, mas não substituem a verificação da versão carregada. Antes de publicar, confirma a ajuda do jogo, a tabela de pagamentos e os limites de aposta.
+
+Este perfil reúne a informação publicada sobre Viking Wilds e explica as mecânicas indicadas. É um recurso editorial, não uma declaração de teste prático nem uma previsão; confirme as regras concretas na versão disponível.
+
 
 ### Tema e primeira impressão
 
@@ -303,16 +303,16 @@ Wolf Gold tem um tema e funcionalidades próprios que vale a pena conhecer antes
 
 ### Como interpretar os valores
 
-O RTP é um valor teórico calculado ao longo de um número muito elevado de rondas. Não prevê o resultado de uma jogada nem de uma sessão curta. A volatilidade indicada também não significa que vá ganhar.
+Os valores de Wolf Gold devem ser lidos como referências estatísticas, não como uma previsão individual. O RTP é calculado a longo prazo e a volatilidade caracteriza as oscilações possíveis; nenhum dos dois indica o que acontecerá numa sessão concreta.
 
 ### O que verificar antes de jogar
 
-Abra a tabela de pagamentos antes de jogar. Aí encontra os valores dos símbolos, as condições das funcionalidades e as regras de rodadas grátis ou jackpots. Defina um orçamento e jogue apenas onde for legal.
-
----
+Confirme a versão de Wolf Gold que está disponível: a tabela de pagamentos explica os símbolos, as funcionalidades especiais e as condições das rondas de bónus. Veja também o intervalo de apostas e estabeleça um limite antes de começar.
 
 ## Wolf Gold: Análise editorial aprofundada
-Wolf Gold está associado a Pragmatic Play. A ficha enumera símbolos Wild empilhados, rodadas grátis, Money Respin e um tema centrado em a wolf-and-gold visual theme. Estes dados descrevem o registo do site, mas não substituem a verificação da versão carregada. Antes de publicar, confirma a ajuda do jogo, a tabela de pagamentos e os limites de aposta.
+
+As notas sobre Wolf Gold distinguem os dados registados do jogo da respetiva explicação editorial. Utilize-as como orientação e confirme depois os símbolos, as funcionalidades e as apostas na ajuda da versão apresentada.
+
 
 ### Tema e primeira impressão
 

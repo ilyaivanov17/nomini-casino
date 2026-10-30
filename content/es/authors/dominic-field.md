@@ -1,4 +1,5 @@
 ---
+
 title: Dominic Field
 description: Dominic Field es un redactor freelance de iGaming con amplia experiencia en contenidos sobre juego.
   Sus temas incluyen casinos online, slots, póquer,…
@@ -30,26 +31,26 @@ build:
   list: always
 ---
 
-## Sobre Dominic Field
+## Perfil de Dominic Field
 
 Dominic Field es un redactor freelance de iGaming con amplia experiencia en contenidos sobre juego. Sus temas incluyen casinos online, slots, póquer, apuestas deportivas y la evolución del sector.
 
-### Áreas de especialidad
+### Especialidad profesional
 
 Casinos online, slots, póquer, apuestas deportivas e industria de iGaming
 
-### Contribución editorial en Nomini Casino Guide
+### Alcance de la información del perfil
 
-En Nomini Casino Guide, este perfil forma parte del trabajo editorial sobre información de casinos, explicaciones de juegos y comparación de condiciones. El área de especialidad determina el enfoque: las mecánicas se explican a partir de los datos disponibles, los bonos se organizan por sus condiciones y los métodos de pago se comparan según límites y tiempos indicados.
+Dominic Field aparece en el equipo con el cargo de **Redactor freelance de iGaming**. Los datos describen su ámbito profesional declarado y ayudan a situar los temas que aborda. No constituyen prueba de pruebas prácticas de todos los juegos mencionados, de premios personales ni de aprobación individual de cada página.
 
-### Cómo interpretar este perfil
+### Criterios editoriales relacionados
 
-Al comparar juegos y ofertas de casino importan las condiciones completas, la versión concreta del juego y las reglas que aparecen para cada cuenta. Las comparativas editoriales deben distinguir los datos registrados de la interpretación y enlazar a páginas de detalle y fuentes primarias. Este perfil describe el ámbito profesional, pero no sustituye la lectura de las condiciones de una oferta concreta.
+La información sobre reglas, RTP y funciones debe cotejarse con la versión disponible del juego. Las condiciones promocionales, los límites de pago y la disponibilidad pueden cambiar por campaña, cuenta o jurisdicción. Para tomar decisiones, deben consultarse los términos y fuentes primarias vigentes.
 
-### Perfiles profesionales públicos
+### Perfiles profesionales
 
-[LinkedIn](https://ph.linkedin.com/in/dominic-field-5aa70a1b) · [Website](https://www.dominicfield.com/)
+[LinkedIn](https://ph.linkedin.com/in/dominic-field-5aa70a1b) · [Web](https://www.dominicfield.com/)
 
-| Puesto | Enfoque | Perfil público | Especialidad |
-| --- | --- | --- | --- |
-| Redactor freelance de iGaming | Casinos online, slots, póquer, apuestas deportivas e industria de iGaming | [LinkedIn](https://ph.linkedin.com/in/dominic-field-5aa70a1b) · [Website](https://www.dominicfield.com/) | Casinos online, slots, póquer, apuestas deportivas e industria de iGaming |
+| Cargo | Temas | Perfil público | Área principal |
+|---|---|---|---|
+| Redactor freelance de iGaming | Casinos online, slots, póquer, apuestas deportivas e industria de iGaming | [LinkedIn](https://ph.linkedin.com/in/dominic-field-5aa70a1b) · [Web](https://www.dominicfield.com/) | Casinos online, slots, póquer, apuestas deportivas e industria de iGaming |

@@ -27,11 +27,11 @@ screenshots_note: 'Ilustracja redakcyjna, nie zrzut ekranu rzeczywistego interfe
 ---
 ## O Nomini Casino Guide: redakcja i metodologia
 
-Ten przewodnik porządkuje istniejące informacje według tematów, aby łatwiej porównywać zasady i ograniczenia. Zasady gier, RTP, warunki bonusów, metody płatności i dostępność prawna mogą różnić się w zależności od wersji, operatora i kraju. Sprawdź je bezpośrednio w aktualnie oferowanej wersji.
+Ten niezależny przewodnik porządkuje informacje o grach kasynowych, promocjach, płatnościach i powiązanych z nimi zasadach. Ma ułatwiać porównywanie warunków, które rzeczywiście wpływają na decyzję, zamiast opierać się wyłącznie na reklamowym haśle. Reguły gier, RTP, warunki bonusów, metody płatności i dostępność prawna mogą zależeć od wersji gry, operatora oraz kraju. Dlatego zawsze należy sprawdzić aktualne źródło właściwe dla konkretnej sytuacji.
 
 ## Metodologia redakcyjna
 
-Treści mają charakter redakcyjny. Dane dotyczące RTP, bonusów, płatności i dostępności prawnej należy przed publikacją sprawdzić w aktualnych źródłach pierwotnych. Profile zachowują informacje zapisane w projekcie i nie oznaczają, że autor sprawdził lub zatwierdził każdy połączony tekst.
+Strony mają charakter informacyjny i redakcyjny; nie są instrukcjami operatora ani obietnicą wyniku. Twierdzenia dotyczące RTP, promocji, płatności i dostępności prawnej powinny mieć oparcie w aktualnych źródłach pierwotnych. Profile autorów przedstawiają dane zawodowe zapisane w projekcie, ale nie potwierdzają, że dana osoba sprawdziła lub zatwierdziła każdy opublikowany fragment.
 
 ## Kontakt z redakcją Nomini Casino Guide
 
@@ -112,11 +112,11 @@ Recenzje kasyn i slotów, zasady gier, informacje o dostawcach i treści uwzglę
 
 ### Wkład redakcyjny w Nomini Casino Guide
 
-W Nomini Casino Guide profil należy do pracy redakcyjnej dotyczącej informacji o kasynach, objaśnień gier i porównywania warunków ofert. Specjalizacja wyznacza sposób prezentacji: mechanika gier jest opisywana na podstawie dostępnych danych, bonusy porządkuje się według warunków, a metody płatności zestawia według limitów i podanego czasu realizacji.
+Doświadczenie Marco Ibarry w iGamingu i redakcji wiąże się z tematami recenzji slotów oraz analizy bonusów. Warunki aktualnej promocji zawsze należy jednak sprawdzać w jej pełnym regulaminie.
 
 ### Jak korzystać z tego profilu
 
-Przy porównywaniu gier i ofert kasynowych znaczenie mają pełny regulamin, konkretna wersja gry oraz zasady widoczne na danym koncie. Porównania redakcyjne powinny oddzielać zapisane parametry od interpretacji i prowadzić do odpowiednich stron szczegółowych oraz źródeł pierwotnych. Profil opisuje obszar zawodowy, ale nie zastępuje sprawdzenia warunków konkretnej oferty.
+Doświadczenie zawodowe daje kontekst redakcyjny, ale nie dowodzi, że oferta będzie odpowiednia. Porównaj pełne warunki, zasady udziału i informacje dotyczące konkretnej wersji gry.
 
 ### Publiczne profile zawodowe
 

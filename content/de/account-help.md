@@ -28,7 +28,7 @@ screenshots_note: 'Illustrative redaktionelle Grafik, kein echter Screenshot ein
 ---
 ## Konto, Registrierung, Login und häufige Fragen
 
-Dieser Leitfaden bündelt vorhandene Informationen nach Themen, damit wichtige Regeln und Einschränkungen leichter vergleichbar sind. Spielregeln, RTP-Werte, Bonusbedingungen, Zahlungsoptionen und rechtliche Verfügbarkeit können sich je nach Version, Betreiber und Land ändern. Prüfe die Angaben direkt in der aktuell angebotenen Version.
+Diese Seite führt durch Registrierung, Kontozugang, Identitätsprüfungen und häufige Fragen. Die tatsächlich geltenden Schritte und Funktionen legt der offizielle Betreiber fest; sie können je nach Land, Zahlungsweg und Kontostatus abweichen. Dieses unabhängige Informationsangebot kann kein Spielerkonto eröffnen, prüfen oder wiederherstellen.
 
 ## Nomini Registrierung — Anleitung & KYC
 
@@ -358,19 +358,16 @@ Die Vergütung darf nicht als Nachweis für die Qualität eines Angebots verstan
 
 ### Vergleich: Was ist im Einzelfall entscheidend?
 
-| Situation / Punkt | Empfehlung |
-|---|---|
-| Vor dem Handeln | Lies die vollständigen Bedingungen und prüfe, ob sie zu deinem Land und Konto passen. |
-| Bei einer Abweichung | Speichere den konkreten Wortlaut, das Datum und gegebenenfalls die Referenznummer. |
-| Bei offenen Fragen | Nutze den offiziellen Support des Anbieters und teile niemals Passwort oder Einmalcode. |
+| Prüfpunkt | Worauf du achten solltest |
+| Partnerlink | Achte auf einen klaren Hinweis auf die Affiliate-Beziehung. |
+| Angebotsbewertung | Vergleiche Bedingungen unabhängig; eine Provision ist kein Qualitätsurteil. |
+| Rückfragen | Für kontospezifische Angaben gelten die offiziellen Betreiberinformationen. |
 
 ### Verwandte Themen
 
-Nutze die Zahlungs-, Bonus- und Spielseiten dieses Portals, um die relevanten Angaben nebeneinander zu vergleichen. Allgemeine Informationen ersetzen keine individuellen Bedingungen.
+Der [Bonusleitfaden]({{< relref "bonuses" >}}) erklärt, wie Aktionsbedingungen zu lesen sind. Partnerlinks können eine Provision auslösen; der Hinweis beschreibt die geschäftliche Beziehung dieser Website und ist keine Qualitätsbewertung des Anbieters.
 
-Spiele nur mit einem festen Budget und nur, wenn Glücksspiel für dich legal ist. Setze kein Geld ein, dessen Verlust du nicht tragen kannst.
-
----
+Spiele nur, wenn Glücksspiel an deinem Aufenthaltsort legal ist, halte ein festes Budget ein und setze kein Geld ein, dessen Verlust du nicht tragen kannst.
 
 ## Was tun, wenn ein Spiel einfriert?
 
@@ -384,19 +381,16 @@ Nutze den offiziellen Support und nenne Spielname, Zeitpunkt, Gerät und Referen
 
 ### Vergleich: Was ist im Einzelfall entscheidend?
 
-| Situation / Punkt | Empfehlung |
-|---|---|
-| Vor dem Handeln | Lies die vollständigen Bedingungen und prüfe, ob sie zu deinem Land und Konto passen. |
-| Bei einer Abweichung | Speichere den konkreten Wortlaut, das Datum und gegebenenfalls die Referenznummer. |
-| Bei offenen Fragen | Nutze den offiziellen Support des Anbieters und teile niemals Passwort oder Einmalcode. |
+| Zu dokumentieren | Warum es hilft |
+| Zeitpunkt und Spielname | Damit lässt sich die betreffende Sitzung eher zuordnen. |
+| Fehlermeldung oder Referenz | Gibt dem Support einen konkreten Ansatzpunkt. |
+| Kontostand und Spielverlauf | Prüfe, ob die Runde verbucht wurde, bevor du es erneut versuchst. |
 
 ### Verwandte Themen
 
-Nutze die Zahlungs-, Bonus- und Spielseiten dieses Portals, um die relevanten Angaben nebeneinander zu vergleichen. Allgemeine Informationen ersetzen keine individuellen Bedingungen.
+Bei Zahlungs- oder Kontofragen helfen der [Zahlungsleitfaden]({{< relref "payments" >}}) und die Kontoinformationen weiter. Halte Spielname, Zeitpunkt und Support-Referenz bereit, damit der Betreiber die Sitzung zuordnen kann.
 
-Spiele nur mit einem festen Budget und nur, wenn Glücksspiel für dich legal ist. Setze kein Geld ein, dessen Verlust du nicht tragen kannst.
-
----
+Spiele nur, wenn Glücksspiel an deinem Aufenthaltsort legal ist, halte ein festes Budget ein und setze kein Geld ein, dessen Verlust du nicht tragen kannst.
 
 ## Gibt es eine mobile App?
 
@@ -410,19 +404,16 @@ Wenn der Anbieter eine App anbietet, nutze ausschließlich den Link auf seiner v
 
 ### Vergleich: Was ist im Einzelfall entscheidend?
 
-| Situation / Punkt | Empfehlung |
-|---|---|
-| Vor dem Handeln | Lies die vollständigen Bedingungen und prüfe, ob sie zu deinem Land und Konto passen. |
-| Bei einer Abweichung | Speichere den konkreten Wortlaut, das Datum und gegebenenfalls die Referenznummer. |
-| Bei offenen Fragen | Nutze den offiziellen Support des Anbieters und teile niemals Passwort oder Einmalcode. |
+| App-Prüfung | Sicherer Umgang |
+| Downloadquelle | Nutze nur eine verifizierte Betreiberseite oder einen offiziellen Store-Eintrag. |
+| Herausgeber und Berechtigungen | Prüfe Entwicklername und angeforderte Zugriffe. |
+| Kein bestätigter App-Link | Nutze statt eines unbekannten Downloads die responsive Website. |
 
 ### Verwandte Themen
 
-Nutze die Zahlungs-, Bonus- und Spielseiten dieses Portals, um die relevanten Angaben nebeneinander zu vergleichen. Allgemeine Informationen ersetzen keine individuellen Bedingungen.
+Der [Spielekatalog]({{< relref "slots" >}}) und die übrigen Guides sind über die responsive Website erreichbar. Solange kein offizieller App-Eintrag bestätigt ist, solltest du keine Installationsdateien von Drittseiten verwenden und den Herausgeber prüfen.
 
-Spiele nur mit einem festen Budget und nur, wenn Glücksspiel für dich legal ist. Setze kein Geld ein, dessen Verlust du nicht tragen kannst.
-
----
+Spiele nur, wenn Glücksspiel an deinem Aufenthaltsort legal ist, halte ein festes Budget ein und setze kein Geld ein, dessen Verlust du nicht tragen kannst.
 
 ## Ist aktuell ein Willkommensbonus bestätigt?
 
@@ -436,19 +427,16 @@ Vergleiche Mindesteinzahlung, Umsatzmultiplikator, Ablaufdatum, Höchsteinsatz, 
 
 ### Vergleich: Was ist im Einzelfall entscheidend?
 
-| Situation / Punkt | Empfehlung |
-|---|---|
-| Vor dem Handeln | Lies die vollständigen Bedingungen und prüfe, ob sie zu deinem Land und Konto passen. |
-| Bei einer Abweichung | Speichere den konkreten Wortlaut, das Datum und gegebenenfalls die Referenznummer. |
-| Bei offenen Fragen | Nutze den offiziellen Support des Anbieters und teile niemals Passwort oder Einmalcode. |
+| Angebotsdetail | Was zu prüfen ist |
+| Verfügbarkeit | Bestätige, dass die Aktion für Land und Konto aktiv ist. |
+| Code und Teilnahme | Prüfe Code, Aktivierungszeitpunkt und qualifizierende Einzahlung. |
+| Vollständige Bedingungen | Lies Umsatz, Frist, Einsatzlimits, ausgeschlossene Spiele und Auszahlungshöchstgrenzen. |
 
 ### Verwandte Themen
 
-Nutze die Zahlungs-, Bonus- und Spielseiten dieses Portals, um die relevanten Angaben nebeneinander zu vergleichen. Allgemeine Informationen ersetzen keine individuellen Bedingungen.
+Im [Bonusleitfaden]({{< relref "bonuses" >}}) werden Umsatz- und Laufzeitregeln erläutert. Die auf dieser Website genannten Codes stammen vom Seiteninhaber und sind als ungeprüft markiert; ihre aktuelle Gültigkeit und Teilnahmebedingungen musst du beim Anbieter bestätigen.
 
-Spiele nur mit einem festen Budget und nur, wenn Glücksspiel für dich legal ist. Setze kein Geld ein, dessen Verlust du nicht tragen kannst.
-
----
+Spiele nur, wenn Glücksspiel an deinem Aufenthaltsort legal ist, halte ein festes Budget ein und setze kein Geld ein, dessen Verlust du nicht tragen kannst.
 
 ## Ist dieses Projekt selbst ein Casino?
 
@@ -478,19 +466,16 @@ Vor dem Absenden solltest du Alters- und Länderanforderungen, Datenschutzangabe
 
 ### Vergleich: Was ist im Einzelfall entscheidend?
 
-| Situation / Punkt | Empfehlung |
-|---|---|
-| Vor dem Handeln | Lies die vollständigen Bedingungen und prüfe, ob sie zu deinem Land und Konto passen. |
-| Bei einer Abweichung | Speichere den konkreten Wortlaut, das Datum und gegebenenfalls die Referenznummer. |
-| Bei offenen Fragen | Nutze den offiziellen Support des Anbieters und teile niemals Passwort oder Einmalcode. |
+| Prüfung vor der Anmeldung | Warum sie wichtig ist |
+| Alter und Aufenthaltsort | Kläre die rechtliche Verfügbarkeit vor der Registrierung. |
+| Persönliche Angaben | Verwende Daten, die mit deinen eigenen Dokumenten übereinstimmen. |
+| Kontosicherheit | Nutze ein einzigartiges Passwort und umgehe Beschränkungen nicht durch weitere Konten. |
 
 ### Verwandte Themen
 
-Nutze die Zahlungs-, Bonus- und Spielseiten dieses Portals, um die relevanten Angaben nebeneinander zu vergleichen. Allgemeine Informationen ersetzen keine individuellen Bedingungen.
+Der [Leitfaden zum verantwortungsvollen Spielen]({{< relref "responsible-gaming" >}}) behandelt Limits und Warnzeichen. Registriere dich nur, wenn dies an deinem Aufenthaltsort legal ist, und verwende korrekte persönliche Angaben.
 
-Spiele nur mit einem festen Budget und nur, wenn Glücksspiel für dich legal ist. Setze kein Geld ein, dessen Verlust du nicht tragen kannst.
-
----
+Spiele nur, wenn Glücksspiel an deinem Aufenthaltsort legal ist, halte ein festes Budget ein und setze kein Geld ein, dessen Verlust du nicht tragen kannst.
 
 ## Wie wird die Fairness von Slots geprüft?
 
@@ -504,19 +489,16 @@ Prüfe den in der Spielinformation genannten Anbieter, die RTP-Angabe und gegebe
 
 ### Vergleich: Was ist im Einzelfall entscheidend?
 
-| Situation / Punkt | Empfehlung |
-|---|---|
-| Vor dem Handeln | Lies die vollständigen Bedingungen und prüfe, ob sie zu deinem Land und Konto passen. |
-| Bei einer Abweichung | Speichere den konkreten Wortlaut, das Datum und gegebenenfalls die Referenznummer. |
-| Bei offenen Fragen | Nutze den offiziellen Support des Anbieters und teile niemals Passwort oder Einmalcode. |
+| Möglicher Nachweis | Was er aussagen kann |
+| Spielehersteller und Version | Zeigt, auf welche Regeln und Einstellungen sich Angaben beziehen. |
+| RTP und Auszahlungstabelle | Beschreibt theoretische Kennzahlen und veröffentlichte Spielregeln. |
+| Test oder Zertifizierung | Prüfe Prüfstelle und Geltungsbereich; daraus folgt keine Vorhersage für eine Sitzung. |
 
 ### Verwandte Themen
 
-Nutze die Zahlungs-, Bonus- und Spielseiten dieses Portals, um die relevanten Angaben nebeneinander zu vergleichen. Allgemeine Informationen ersetzen keine individuellen Bedingungen.
+Der [Leitfaden zu Slot-Funktionen]({{< relref "slot-features" >}}) erklärt Mechaniken und theoretische Kennzahlen. RTP- und Prüfhinweise beschreiben bestimmte Parameter, sagen aber nicht voraus, wie eine einzelne Sitzung endet.
 
-Spiele nur mit einem festen Budget und nur, wenn Glücksspiel für dich legal ist. Setze kein Geld ein, dessen Verlust du nicht tragen kannst.
-
----
+Spiele nur, wenn Glücksspiel an deinem Aufenthaltsort legal ist, halte ein festes Budget ein und setze kein Geld ein, dessen Verlust du nicht tragen kannst.
 
 ## Wie lasse ich mir Gewinne auszahlen?
 
@@ -530,14 +512,13 @@ Prüfe zuerst, ob die Identitätsprüfung abgeschlossen ist, ob die Zahlungsmeth
 
 ### Vergleich: Was ist im Einzelfall entscheidend?
 
-| Situation / Punkt | Empfehlung |
-|---|---|
-| Vor dem Handeln | Lies die vollständigen Bedingungen und prüfe, ob sie zu deinem Land und Konto passen. |
-| Bei einer Abweichung | Speichere den konkreten Wortlaut, das Datum und gegebenenfalls die Referenznummer. |
-| Bei offenen Fragen | Nutze den offiziellen Support des Anbieters und teile niemals Passwort oder Einmalcode. |
+| Auszahlungspunkt | Vor der Bestätigung prüfen |
+| Verifizierung | Kläre, ob erforderliche Identitätsprüfungen abgeschlossen sind. |
+| Zahlungsweg | Prüfe Kontoinhaber, Verfügbarkeit, Gebühren und Limits. |
+| Bestätigung | Bewahre Referenz und Status auf; bei Verzögerung den offiziellen Support nutzen. |
 
 ### Verwandte Themen
 
-Nutze die Zahlungs-, Bonus- und Spielseiten dieses Portals, um die relevanten Angaben nebeneinander zu vergleichen. Allgemeine Informationen ersetzen keine individuellen Bedingungen.
+Der [Zahlungsleitfaden]({{< relref "payments" >}}) erläutert Zahlungsmethoden und Bearbeitungsprognosen. Die tatsächliche Dauer hängt vom Betreiber, Zahlungsdienst, Identitätsprüfung und den für das Konto geltenden Bedingungen ab.
 
-Spiele nur mit einem festen Budget und nur, wenn Glücksspiel für dich legal ist. Setze kein Geld ein, dessen Verlust du nicht tragen kannst.
+Spiele nur, wenn Glücksspiel an deinem Aufenthaltsort legal ist, halte ein festes Budget ein und setze kein Geld ein, dessen Verlust du nicht tragen kannst.

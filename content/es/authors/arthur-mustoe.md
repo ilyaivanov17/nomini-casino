@@ -1,4 +1,5 @@
 ---
+
 title: Arthur Mustoe
 description: Arthur Mustoe es un redactor freelance del Reino Unido especializado en iGaming y casinos. Sus
   perfiles profesionales públicos destacan reseñas de…
@@ -31,26 +32,26 @@ build:
   list: always
 ---
 
-## Sobre Arthur Mustoe
+## Perfil de Arthur Mustoe
 
 Arthur Mustoe es un redactor freelance del Reino Unido especializado en iGaming y casinos. Sus perfiles profesionales públicos destacan reseñas de casinos y slots, guías de juego y contenidos que tienen en cuenta el cumplimiento normativo.
 
-### Áreas de especialidad
+### Ámbito profesional
 
 Reseñas de casinos y slots, reglas de juego, información de proveedores y contenido orientado al cumplimiento
 
-### Contribución editorial en Nomini Casino Guide
-
-En Nomini Casino Guide, este perfil forma parte del trabajo editorial sobre información de casinos, explicaciones de juegos y comparación de condiciones. El área de especialidad determina el enfoque: las mecánicas se explican a partir de los datos disponibles, los bonos se organizan por sus condiciones y los métodos de pago se comparan según límites y tiempos indicados.
-
 ### Cómo interpretar este perfil
 
-Al comparar juegos y ofertas de casino importan las condiciones completas, la versión concreta del juego y las reglas que aparecen para cada cuenta. Las comparativas editoriales deben distinguir los datos registrados de la interpretación y enlazar a páginas de detalle y fuentes primarias. Este perfil describe el ámbito profesional, pero no sustituye la lectura de las condiciones de una oferta concreta.
+En este proyecto, Arthur Mustoe figura como **Redactor sénior • iGaming y casinos**. La descripción recoge el área profesional indicada y aporta contexto sobre los temas tratados. No demuestra que haya probado personalmente cada juego o versión, conseguido un resultado concreto ni aprobado todos los artículos del sitio.
+
+### Contexto editorial
+
+Las reglas, las funciones y el RTP deben comprobarse para la versión concreta del juego. Las promociones requieren revisar sus condiciones completas, y los métodos de pago, límites y plazos pueden variar según el país y la cuenta. Para datos que cambian, prevalece la información primaria vigente.
 
 ### Perfiles profesionales públicos
 
-[LinkedIn](https://uk.linkedin.com/in/arthur-mustoe-6051a477) · [CasinoReviews.com](https://casinoreviews.com/)
+[LinkedIn](https://uk.linkedin.com/in/arthur-mustoe-6051a477) · [Web](https://casinoreviews.com/)
 
-| Puesto | Enfoque | Perfil público | Especialidad |
-| --- | --- | --- | --- |
-| Redactor sénior • iGaming y casinos | Reseñas de casinos y slots, reglas de juego, información de proveedores y contenido orientado al cumplimiento | [LinkedIn](https://uk.linkedin.com/in/arthur-mustoe-6051a477) · [CasinoReviews.com](https://casinoreviews.com/) | Reseñas de casinos y slots, reglas de juego, información de proveedores y contenido orientado al cumplimiento |
+| Función | Área temática | Perfil público | Especialidad |
+|---|---|---|---|
+| Redactor sénior • iGaming y casinos | Reseñas de casinos y slots, reglas de juego, información de proveedores y contenido orientado al cumplimiento | [LinkedIn](https://uk.linkedin.com/in/arthur-mustoe-6051a477) · [Web](https://casinoreviews.com/) | Reseñas de casinos y slots, reglas de juego, información de proveedores y contenido orientado al cumplimiento |

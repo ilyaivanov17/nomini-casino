@@ -28,7 +28,7 @@ screenshots_note: 'Ilustración editorial, no es una captura de una interfaz rea
 ---
 ## Cuenta, registro, acceso y preguntas frecuentes
 
-Esta guía reúne la información por temas para facilitar la comparación de reglas y limitaciones. Las reglas del juego, el RTP, las condiciones de los bonos, los métodos de pago y la disponibilidad legal pueden variar según la versión, el operador y el país. Comprueba los datos en la versión ofrecida actualmente.
+Esta página orienta sobre el registro, el acceso a la cuenta, las comprobaciones de identidad y las dudas habituales. Los pasos y funciones disponibles los determina el operador oficial y pueden variar por país, método de pago o situación de la cuenta. Esta guía independiente no puede abrir, verificar ni recuperar cuentas de jugadores.
 
 ## Guía de registro
 
@@ -168,19 +168,16 @@ La comisión no demuestra que una oferta sea adecuada o mejor. Compara las condi
 
 ### Comparación: ¿qué importa en cada caso?
 
-| Situación / punto | Paso recomendado |
-|---|---|
-| Antes de actuar | Lee las condiciones completas y comprueba que se aplican a tu país y cuenta. |
-| Si hay diferencias | Guarda el texto exacto, la fecha y la referencia si existe. |
-| Si quedan dudas | Contacta con el soporte oficial y nunca compartas contraseñas ni códigos de un solo uso. |
+| Aspecto | Qué conviene comprobar |
+| Enlace de socio | Busca una indicación clara de que se trata de un enlace de afiliado. |
+| Valor de la oferta | Compara las condiciones por separado; una comisión no es una valoración de calidad. |
+| Dudas sobre tu cuenta | Para detalles individuales, consulta la información oficial del operador. |
 
 ### Temas relacionados
 
-Utiliza las páginas de pagos, bonos y juegos para comparar la información. La orientación general no sustituye las condiciones específicas de la cuenta.
+La [guía de bonos]({{< relref "bonuses" >}}) explica cómo interpretar las condiciones promocionales. Los enlaces de socio pueden generar una comisión; el aviso describe la relación comercial del sitio y no constituye una valoración del operador.
 
-Juega solo donde sea legal para ti y establece un presupuesto fijo. No apuestes dinero que no puedas permitirte perder.
-
----
+Juega solo donde sea legal para ti, fija un presupuesto y no apuestes dinero que no puedas permitirte perder.
 
 ## ¿Qué hago si un juego se bloquea?
 
@@ -194,19 +191,16 @@ Contacta con el soporte oficial e indica el juego, la hora, el dispositivo y la 
 
 ### Comparación: ¿qué importa en cada caso?
 
-| Situación / punto | Paso recomendado |
-|---|---|
-| Antes de actuar | Lee las condiciones completas y comprueba que se aplican a tu país y cuenta. |
-| Si hay diferencias | Guarda el texto exacto, la fecha y la referencia si existe. |
-| Si quedan dudas | Contacta con el soporte oficial y nunca compartas contraseñas ni códigos de un solo uso. |
+| Dato que conviene guardar | Para qué sirve |
+| Hora y nombre del juego | Ayudan a localizar la sesión correspondiente. |
+| Mensaje de error o referencia | Facilitan que soporte identifique el problema. |
+| Saldo e historial | Comprueba si la ronda se ha liquidado antes de volver a intentarlo. |
 
 ### Temas relacionados
 
-Utiliza las páginas de pagos, bonos y juegos para comparar la información. La orientación general no sustituye las condiciones específicas de la cuenta.
+Para incidencias de cuenta o pagos, consulta la [guía de pagos]({{< relref "payments" >}}) y la información de cuenta. Conserva el nombre del juego, la hora y la referencia de soporte para que el operador pueda localizar la sesión.
 
-Juega solo donde sea legal para ti y establece un presupuesto fijo. No apuestes dinero que no puedas permitirte perder.
-
----
+Juega solo donde sea legal para ti, fija un presupuesto y no apuestes dinero que no puedas permitirte perder.
 
 ## ¿Existe una aplicación móvil?
 
@@ -220,19 +214,16 @@ Si el operador ofrece una aplicación, utiliza el enlace de su web oficial verif
 
 ### Comparación: ¿qué importa en cada caso?
 
-| Situación / punto | Paso recomendado |
-|---|---|
-| Antes de actuar | Lee las condiciones completas y comprueba que se aplican a tu país y cuenta. |
-| Si hay diferencias | Guarda el texto exacto, la fecha y la referencia si existe. |
-| Si quedan dudas | Contacta con el soporte oficial y nunca compartas contraseñas ni códigos de un solo uso. |
+| Comprobación de la app | Opción más segura |
+| Origen de la descarga | Utiliza solo la web oficial verificada o una tienda de aplicaciones oficial. |
+| Editor y permisos | Comprueba quién publica la app y qué accesos solicita. |
+| Sin enlace confirmado | Es preferible usar la web adaptable a descargar un archivo desconocido. |
 
 ### Temas relacionados
 
-Utiliza las páginas de pagos, bonos y juegos para comparar la información. La orientación general no sustituye las condiciones específicas de la cuenta.
+El [catálogo de juegos]({{< relref "slots" >}}) y el resto de las guías están disponibles desde la web adaptable. Mientras no haya una ficha oficial de la aplicación confirmada, evita instaladores de terceros y verifica quién publica cualquier app.
 
-Juega solo donde sea legal para ti y establece un presupuesto fijo. No apuestes dinero que no puedas permitirte perder.
-
----
+Juega solo donde sea legal para ti, fija un presupuesto y no apuestes dinero que no puedas permitirte perder.
 
 ## ¿Está confirmado actualmente algún bono de bienvenida?
 
@@ -246,19 +237,16 @@ Compara el depósito mínimo, el multiplicador de apuesta, la caducidad, la apue
 
 ### Comparación: ¿qué importa en cada caso?
 
-| Situación / punto | Paso recomendado |
-|---|---|
-| Antes de actuar | Lee las condiciones completas y comprueba que se aplican a tu país y cuenta. |
-| Si hay diferencias | Guarda el texto exacto, la fecha y la referencia si existe. |
-| Si quedan dudas | Contacta con el soporte oficial y nunca compartas contraseñas ni códigos de un solo uso. |
+| Dato de la promoción | Qué verificar |
+| Disponibilidad | Confirma que esté activa para tu país y cuenta. |
+| Código y requisitos | Comprueba el código exacto, cuándo activarlo y el depósito válido. |
+| Condiciones completas | Revisa apuesta, caducidad, límites de apuesta, juegos excluidos y topes de retirada. |
 
 ### Temas relacionados
 
-Utiliza las páginas de pagos, bonos y juegos para comparar la información. La orientación general no sustituye las condiciones específicas de la cuenta.
+La [guía de condiciones de bonos]({{< relref "bonuses" >}}) explica los requisitos de apuesta y los plazos. Los códigos publicados aquí han sido facilitados por el propietario del sitio y están marcados como no verificados; comprueba su vigencia con el operador.
 
-Juega solo donde sea legal para ti y establece un presupuesto fijo. No apuestes dinero que no puedas permitirte perder.
-
----
+Juega solo donde sea legal para ti, fija un presupuesto y no apuestes dinero que no puedas permitirte perder.
 
 ## ¿Este proyecto es un casino?
 
@@ -288,19 +276,16 @@ Antes de enviar el formulario, lee los requisitos de edad y país, la informaci�
 
 ### Comparación: ¿qué importa en cada caso?
 
-| Situación / punto | Paso recomendado |
-|---|---|
-| Antes de actuar | Lee las condiciones completas y comprueba que se aplican a tu país y cuenta. |
-| Si hay diferencias | Guarda el texto exacto, la fecha y la referencia si existe. |
-| Si quedan dudas | Contacta con el soporte oficial y nunca compartas contraseñas ni códigos de un solo uso. |
+| Comprobación previa | Por qué importa |
+| Edad y ubicación | Confirma que el servicio sea legal antes de registrarte. |
+| Datos personales | Usa información propia y coherente con tus documentos. |
+| Seguridad | Elige una contraseña única y no abras cuentas adicionales para eludir restricciones. |
 
 ### Temas relacionados
 
-Utiliza las páginas de pagos, bonos y juegos para comparar la información. La orientación general no sustituye las condiciones específicas de la cuenta.
+La [guía de juego responsable]({{< relref "responsible-gaming" >}}) trata los límites y las señales de alerta. Regístrate solo donde esté permitido y utiliza datos personales propios y correctos.
 
-Juega solo donde sea legal para ti y establece un presupuesto fijo. No apuestes dinero que no puedas permitirte perder.
-
----
+Juega solo donde sea legal para ti, fija un presupuesto y no apuestes dinero que no puedas permitirte perder.
 
 ## ¿Cómo se evalúa la equidad de las tragamonedas?
 
@@ -314,19 +299,16 @@ Comprueba el proveedor indicado en la información del juego, el RTP y los datos
 
 ### Comparación: ¿qué importa en cada caso?
 
-| Situación / punto | Paso recomendado |
-|---|---|
-| Antes de actuar | Lee las condiciones completas y comprueba que se aplican a tu país y cuenta. |
-| Si hay diferencias | Guarda el texto exacto, la fecha y la referencia si existe. |
-| Si quedan dudas | Contacta con el soporte oficial y nunca compartas contraseñas ni códigos de un solo uso. |
+| Información disponible | Qué permite comprobar |
+| Proveedor y versión | Identifica las reglas y ajustes aplicables. |
+| RTP y tabla de pagos | Describen el dato teórico y las reglas publicadas. |
+| Pruebas o certificación | Comprueba quién las realizó y su alcance; no predicen una sesión. |
 
 ### Temas relacionados
 
-Utiliza las páginas de pagos, bonos y juegos para comparar la información. La orientación general no sustituye las condiciones específicas de la cuenta.
+La [guía de funciones de slots]({{< relref "slot-features" >}}) explica mecánicas y datos teóricos. El RTP y la información de pruebas describen parámetros, pero no predicen el resultado de una sesión individual.
 
-Juega solo donde sea legal para ti y establece un presupuesto fijo. No apuestes dinero que no puedas permitirte perder.
-
----
+Juega solo donde sea legal para ti, fija un presupuesto y no apuestes dinero que no puedas permitirte perder.
 
 ## ¿Cómo retiro mis ganancias?
 
@@ -340,14 +322,13 @@ Comprueba primero si la verificación de identidad está completa, si el método
 
 ### Comparación: ¿qué importa en cada caso?
 
-| Situación / punto | Paso recomendado |
-|---|---|
-| Antes de actuar | Lee las condiciones completas y comprueba que se aplican a tu país y cuenta. |
-| Si hay diferencias | Guarda el texto exacto, la fecha y la referencia si existe. |
-| Si quedan dudas | Contacta con el soporte oficial y nunca compartas contraseñas ni códigos de un solo uso. |
+| Punto de control | Qué revisar antes de confirmar |
+| Verificación | Comprueba si has completado las comprobaciones de identidad requeridas. |
+| Método de pago | Revisa titularidad, disponibilidad, comisiones y límites. |
+| Confirmación | Guarda la referencia y el estado; ante una demora, contacta con soporte oficial. |
 
 ### Temas relacionados
 
-Utiliza las páginas de pagos, bonos y juegos para comparar la información. La orientación general no sustituye las condiciones específicas de la cuenta.
+La [guía de pagos]({{< relref "payments" >}}) reúne información sobre métodos y plazos orientativos. El tiempo real depende del operador, del proveedor de pago, de la verificación y de las condiciones de la cuenta.
 
-Juega solo donde sea legal para ti y establece un presupuesto fijo. No apuestes dinero que no puedas permitirte perder.
+Juega solo donde sea legal para ti, fija un presupuesto y no apuestes dinero que no puedas permitirte perder.

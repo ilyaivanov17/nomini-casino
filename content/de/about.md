@@ -27,11 +27,11 @@ screenshots_note: 'Illustrative redaktionelle Grafik, kein echter Screenshot ein
 ---
 ## Über Nomini Casino Guide: Redaktion, Autoren und Methodik
 
-Dieser Leitfaden bündelt vorhandene Informationen nach Themen, damit wichtige Regeln und Einschränkungen leichter vergleichbar sind. Spielregeln, RTP-Werte, Bonusbedingungen, Zahlungsoptionen und rechtliche Verfügbarkeit können sich je nach Version, Betreiber und Land ändern. Prüfe die Angaben direkt in der aktuell angebotenen Version.
+Dieser unabhängige Leitfaden ordnet Informationen zu Casinospielen, Aktionen, Zahlungen und den dazugehörigen Regeln. Er soll helfen, die Bedingungen hinter einzelnen Angeboten einzuordnen, statt nur auf Werbeaussagen zu schauen. Spielregeln, RTP, Bonusvorgaben, Zahlungswege und rechtliche Verfügbarkeit können sich je nach Spielversion, Anbieter und Land unterscheiden. Maßgeblich sind deshalb die aktuell geltenden Angaben für den jeweiligen Fall.
 
 ## Redaktionelle Methodik
 
-Die Inhalte sind redaktionelle Informationen. Angaben zu RTP, Bonusbedingungen, Zahlungen und rechtlicher Verfügbarkeit müssen vor Veröffentlichung anhand aktueller Primärquellen geprüft werden. Autorenprofile dokumentieren die im Projekt hinterlegten Angaben und bedeuten nicht automatisch, dass die betreffende Person einen zusammengeführten Text geprüft oder freigegeben hat.
+Unsere Seiten dienen der redaktionellen Orientierung und sind weder Betreiberanweisungen noch Gewinnversprechen. Aussagen zu RTP, Aktionen, Zahlungen und rechtlicher Verfügbarkeit benötigen aktuelle Primärquellen. Die Autorenprofile geben die im Projekt hinterlegten beruflichen Angaben wieder; sie sind kein Beleg dafür, dass ein Autor jeden Abschnitt geprüft oder freigegeben hat.
 
 ## Kontakt — Nomini Casino Guide
 
@@ -112,11 +112,11 @@ Casino- und Slot-Tests, Spielregeln, Anbieterinformationen und Compliance-orient
 
 ### Redaktioneller Beitrag bei Nomini Casino Guide
 
-Bei Nomini Casino Guide arbeitet das Profil im thematischen Umfeld von Casino-Informationen, Spielbeschreibungen und dem Vergleich von Angebotsbedingungen. Die Einordnung der Inhalte folgt dem jeweiligen Fachgebiet: Spielmechaniken werden anhand der verfügbaren Spieldaten erklärt, Bonusangaben nach Bedingungen strukturiert und Zahlungsmethoden anhand der hinterlegten Limits und Zeitangaben verglichen.
+Marco Ibarras iGaming- und Redaktionserfahrung spiegelt sich in den Themen dieses Profils wider, darunter Slot-Bewertungen und Bonusanalysen. Für aktuelle Aktionen sind weiterhin die vollständigen Bedingungen des jeweiligen Angebots maßgeblich.
 
 ### So ist das Profil einzuordnen
 
-Bei Casino- und Bonusinformationen zählen die vollständigen Bedingungen, die konkrete Spielversion und die für das jeweilige Konto angezeigten Regeln. Redaktionelle Vergleiche sollten Kennzahlen getrennt von Einschätzungen ausweisen und auf die entsprechenden Detailseiten und Primärinformationen verlinken. Dieses Profil beschreibt den beruflichen Schwerpunkt und ersetzt keine Prüfung einzelner Angebotsbedingungen.
+Berufliche Erfahrung liefert Kontext für redaktionelle Arbeit, ist aber kein Beleg dafür, dass ein Angebot passt. Vergleichen Sie vollständige Bedingungen, Teilnahmevoraussetzungen und die Informationen zur konkreten Spielversion.
 
 ### Öffentliche Berufsprofile
 

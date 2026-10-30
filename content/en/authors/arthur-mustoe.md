@@ -1,4 +1,5 @@
 ---
+
 title: Arthur Mustoe
 description: Arthur Mustoe is a UK-based freelance content writer specialising in iGaming and casinos. His
   public professional profiles highlight casino and slot…
@@ -28,28 +29,31 @@ noindex: false
 build:
   render: always
   list: always
+
 ---
 
-## About Arthur Mustoe
+## Profile: Arthur Mustoe
 
 Arthur Mustoe is a UK-based freelance content writer specialising in iGaming and casinos. His public professional profiles highlight casino and slot reviews, game guides and content that takes compliance into account.
 
-### Areas of expertise
+### Professional subject area
 
 Casino and slot reviews, game rules, provider information and compliance-aware content
 
-### Editorial contribution at Nomini Casino Guide
+### How to read this profile
 
-At Nomini Casino Guide, this profile belongs to the editorial work covering casino information, game explainers and comparisons of offer terms. The subject area shapes the approach: game mechanics are explained through available game data, bonus details are structured by their conditions, and payment methods are compared using the listed limits and processing times.
+This contributor is listed as **Senior Content Writer • iGaming and casino**. The professional focus above is useful context for understanding the subjects associated with the profile; it is not proof of personal testing, a particular result or approval of every page on this site.
 
-### How to use this profile
+Use the stated subject area as context when reading the contributor's work. For individual games and offers, check the current provider information and the complete terms rather than relying on a profile summary.
 
-When comparing casino games and offers, the full terms, the specific game version and the rules shown for the relevant account matter. Editorial comparisons should separate recorded figures from interpretation and link to relevant detail pages and primary information. This profile describes professional subject areas; it does not replace checking the terms of an individual offer.
+### Editorial context
+
+Game rules and RTP figures can differ by version. Promotion requirements, payment options and local availability may also change. Compare the exact version and account-specific terms, and rely on current primary sources for details that affect a decision.
 
 ### Public professional profiles
 
-[LinkedIn](https://uk.linkedin.com/in/arthur-mustoe-6051a477) · [CasinoReviews.com](https://casinoreviews.com/)
+[LinkedIn](https://uk.linkedin.com/in/arthur-mustoe-6051a477) · [Website](https://casinoreviews.com/)
 
-| Role | Focus | Public profile | Specialty |
-| --- | --- | --- | --- |
-| Senior Content Writer • iGaming and casino | Casino and slot reviews, game rules, provider information and compliance-aware content | [LinkedIn](https://uk.linkedin.com/in/arthur-mustoe-6051a477) · [CasinoReviews.com](https://casinoreviews.com/) | Casino and slot reviews, game rules, provider information and compliance-aware content |
+| Role | Subject area | Public profile | Main focus |
+|---|---|---|---|
+| Senior Content Writer • iGaming and casino | Casino and slot reviews, game rules, provider information and compliance-aware content | [LinkedIn](https://uk.linkedin.com/in/arthur-mustoe-6051a477) · [Website](https://casinoreviews.com/) | Casino and slot reviews, game rules, provider information and compliance-aware content |

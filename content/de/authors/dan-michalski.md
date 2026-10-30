@@ -1,4 +1,5 @@
 ---
+
 medium: https://medium.com/@Michalski_Dan
 title: Dan Michalski
 description: Dan Michalski ist ein langjähriger Journalist und Redakteur mit Schwerpunkten Glücksspiel, Casinos, Medien und
@@ -31,26 +32,26 @@ build:
   list: always
 ---
 
-## Über Dan Michalski
+## Profil: Dan Michalski
 
 Dan Michalski ist ein langjähriger Journalist und Redakteur mit Schwerpunkten Glücksspiel, Casinos, Medien und Technologie. In öffentlichen Journalistenprofilen werden Tätigkeiten für Casinos.com und The Washington Post aufgeführt.
 
-### Fachliche Schwerpunkte
+### Beruflicher Schwerpunkt
 
 Glücksspielbranche, Casino-Medien, redaktionelle Einordnung und Technologie
 
-### Redaktioneller Beitrag bei Nomini Casino Guide
+### Einordnung des Profils
 
-Bei Nomini Casino Guide arbeitet das Profil im thematischen Umfeld von Casino-Informationen, Spielbeschreibungen und dem Vergleich von Angebotsbedingungen. Die Einordnung der Inhalte folgt dem jeweiligen Fachgebiet: Spielmechaniken werden anhand der verfügbaren Spieldaten erklärt, Bonusangaben nach Bedingungen strukturiert und Zahlungsmethoden anhand der hinterlegten Limits und Zeitangaben verglichen.
+Dan Michalski wird in diesem Projekt als **Leitender Redakteur und Journalist** geführt. Das Profil fasst den öffentlich beschriebenen fachlichen Hintergrund zusammen. Es ist kein Nachweis dafür, dass jede erwähnte Spielversion praktisch getestet wurde, dass ein bestimmtes Spielergebnis erzielt wurde oder dass alle Texte persönlich freigegeben sind.
 
-### So ist das Profil einzuordnen
+### Fachlicher Kontext der Beiträge
 
-Bei Casino- und Bonusinformationen zählen die vollständigen Bedingungen, die konkrete Spielversion und die für das jeweilige Konto angezeigten Regeln. Redaktionelle Vergleiche sollten Kennzahlen getrennt von Einschätzungen ausweisen und auf die entsprechenden Detailseiten und Primärinformationen verlinken. Dieses Profil beschreibt den beruflichen Schwerpunkt und ersetzt keine Prüfung einzelner Angebotsbedingungen.
+Für Aussagen zu Spielregeln, RTP und Funktionen ist die konkrete Spielversion maßgeblich. Bonusaktionen müssen anhand ihrer vollständigen Bedingungen bewertet werden; Zahlungsarten, Limits und Bearbeitungszeiten können je nach Land und Konto variieren. Aktuelle Primärinformationen haben Vorrang vor allgemeinen Beschreibungen.
 
 ### Öffentliche Berufsprofile
 
-[Medium](https://medium.com/@Michalski_Dan) · [LinkedIn](https://www.linkedin.com/in/danmichalski) · [Muck Rack](https://muckrack.com/dan-michalski)
+[LinkedIn](https://www.linkedin.com/in/danmichalski) · [Website](https://muckrack.com/dan-michalski) · [Medium](https://medium.com/@Michalski_Dan)
 
-| Rolle | Schwerpunkt | Öffentliches Profil | Fachgebiet |
-| --- | --- | --- | --- |
-| Leitender Redakteur und Journalist | Glücksspielbranche, Casino-Medien, redaktionelle Einordnung und Technologie | [LinkedIn](https://www.linkedin.com/in/danmichalski) · [Muck Rack](https://muckrack.com/dan-michalski) | Glücksspielbranche, Casino-Medien, redaktionelle Einordnung und Technologie |
+| Rolle | Themenbereich | Öffentliches Profil | Fachgebiet |
+|---|---|---|---|
+| Leitender Redakteur und Journalist | Glücksspielbranche, Casino-Medien, redaktionelle Einordnung und Technologie | [LinkedIn](https://www.linkedin.com/in/danmichalski) · [Website](https://muckrack.com/dan-michalski) · [Medium](https://medium.com/@Michalski_Dan) | Glücksspielbranche, Casino-Medien, redaktionelle Einordnung und Technologie |

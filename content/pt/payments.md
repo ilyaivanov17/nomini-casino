@@ -26,7 +26,7 @@ screenshots_note: 'Ilustração editorial; não é uma captura de uma interface 
 ---
 ## Depósitos, levantamentos e métodos de pagamento
 
-Este guia reúne informações por tema para facilitar a comparação de regras e limitações. As regras dos jogos, o RTP, as condições dos bónus, os métodos de pagamento e a disponibilidade legal podem variar consoante a versão, o operador e o país. Confirme os dados na versão atualmente disponibilizada.
+Escolher um meio de pagamento implica confirmar mais do que a presença de um logótipo. Verifique quais as opções efetivamente apresentadas na sua conta, a moeda e os limites, eventuais encargos, o prazo estimado e se o mesmo método permite levantamentos. A disponibilidade e a duração podem depender do país, da verificação e do prestador; a referência atual é a informação apresentada na caixa depois de iniciar sessão.
 
 ### Como encontrar a área de depósitos
 

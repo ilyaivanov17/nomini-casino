@@ -1,4 +1,5 @@
 ---
+
 title: Cristina Tudose
 description: Cristina Tudose es redactora y copywriter en inglés y rumano, especializada en iGaming. Su trabajo
   descrito públicamente incluye reseñas de casinos,…
@@ -31,26 +32,26 @@ build:
   list: always
 ---
 
-## Sobre Cristina Tudose
+## Perfil de Cristina Tudose
 
 Cristina Tudose es redactora y copywriter en inglés y rumano, especializada en iGaming. Su trabajo descrito públicamente incluye reseñas de casinos, contenidos sobre juegos, bonos, SEO y proyectos editoriales del sector.
 
-### Áreas de especialidad
+### Ámbito profesional
 
 Contenido multilingüe de iGaming, reseñas de casinos, bonos, descripciones de juegos y SEO
 
-### Contribución editorial en Nomini Casino Guide
-
-En Nomini Casino Guide, este perfil forma parte del trabajo editorial sobre información de casinos, explicaciones de juegos y comparación de condiciones. El área de especialidad determina el enfoque: las mecánicas se explican a partir de los datos disponibles, los bonos se organizan por sus condiciones y los métodos de pago se comparan según límites y tiempos indicados.
-
 ### Cómo interpretar este perfil
 
-Al comparar juegos y ofertas de casino importan las condiciones completas, la versión concreta del juego y las reglas que aparecen para cada cuenta. Las comparativas editoriales deben distinguir los datos registrados de la interpretación y enlazar a páginas de detalle y fuentes primarias. Este perfil describe el ámbito profesional, pero no sustituye la lectura de las condiciones de una oferta concreta.
+En este proyecto, Cristina Tudose figura como **Redactora de contenidos / copywriter • iGaming**. La descripción recoge el área profesional indicada y aporta contexto sobre los temas tratados. No demuestra que haya probado personalmente cada juego o versión, conseguido un resultado concreto ni aprobado todos los artículos del sitio.
+
+### Contexto editorial
+
+Las reglas, las funciones y el RTP deben comprobarse para la versión concreta del juego. Las promociones requieren revisar sus condiciones completas, y los métodos de pago, límites y plazos pueden variar según el país y la cuenta. Para datos que cambian, prevalece la información primaria vigente.
 
 ### Perfiles profesionales públicos
 
-[LinkedIn](https://ro.linkedin.com/in/cristina-tudose-b1b925168) · [Website](https://cristinatudose.ro/)
+[LinkedIn](https://ro.linkedin.com/in/cristina-tudose-b1b925168) · [Web](https://cristinatudose.ro/)
 
-| Puesto | Enfoque | Perfil público | Especialidad |
-| --- | --- | --- | --- |
-| Redactora de contenidos / copywriter • iGaming | Contenido multilingüe de iGaming, reseñas de casinos, bonos, descripciones de juegos y SEO | [LinkedIn](https://ro.linkedin.com/in/cristina-tudose-b1b925168) · [Website](https://cristinatudose.ro/) | Contenido multilingüe de iGaming, reseñas de casinos, bonos, descripciones de juegos y SEO |
+| Función | Área temática | Perfil público | Especialidad |
+|---|---|---|---|
+| Redactora de contenidos / copywriter • iGaming | Contenido multilingüe de iGaming, reseñas de casinos, bonos, descripciones de juegos y SEO | [LinkedIn](https://ro.linkedin.com/in/cristina-tudose-b1b925168) · [Web](https://cristinatudose.ro/) | Contenido multilingüe de iGaming, reseñas de casinos, bonos, descripciones de juegos y SEO |

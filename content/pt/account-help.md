@@ -28,7 +28,7 @@ screenshots_note: 'Ilustração editorial; não é uma captura de uma interface 
 ---
 ## Conta, registo, início de sessão e perguntas frequentes
 
-Este guia reúne informações por tema para facilitar a comparação de regras e limitações. As regras dos jogos, o RTP, as condições dos bónus, os métodos de pagamento e a disponibilidade legal podem variar consoante a versão, o operador e o país. Confirme os dados na versão atualmente disponibilizada.
+Esta página organiza orientações sobre registo, acesso à conta, verificações de identidade e perguntas frequentes. Os procedimentos e as funcionalidades disponíveis são definidos pelo operador oficial e podem variar consoante o país, o método de pagamento ou o estado da conta. Este guia independente não cria, verifica nem recupera contas de jogadores.
 
 ## Guia de registo
 
@@ -168,19 +168,16 @@ A comissão não prova que uma oferta seja adequada ou melhor. Compare as condi�
 
 ### Comparação: o que importa em cada situação?
 
-| Situação / ponto | Passo recomendado |
-|---|---|
-| Antes de agir | Leia os termos completos e confirme que se aplicam ao seu país e conta. |
-| Se houver diferenças | Guarde o texto exato, a data e a referência, se existir. |
-| Se persistirem dúvidas | Contacte o apoio oficial e nunca partilhe palavras-passe ou códigos temporários. |
+| Aspeto | O que confirmar |
+| Link de parceiro | Verifique se a relação de afiliado está claramente identificada. |
+| Avaliação da oferta | Compare as condições com critérios iguais; uma comissão não é uma avaliação de qualidade. |
+| Dúvidas sobre a conta | Para detalhes individuais, consulte a informação oficial do operador. |
 
 ### Temas relacionados
 
-Utilize as páginas de pagamentos, bónus e jogos para comparar a informação. A orientação geral não substitui as condições específicas da conta.
+O [guia de bónus]({{< relref "bonuses" >}}) explica como interpretar as condições promocionais. Os links de parceiros podem gerar uma comissão; a divulgação descreve a relação comercial do site e não representa uma recomendação do operador.
 
-Jogue apenas onde o jogo é legal para si e defina um orçamento fixo. Nunca aposte dinheiro que não pode perder.
-
----
+Jogue apenas onde seja legal, defina um orçamento e nunca aposte dinheiro que não pode perder.
 
 ## O que fazer se um jogo bloquear?
 
@@ -194,19 +191,16 @@ Contacte o suporte oficial e indique o jogo, a hora, o dispositivo e a referênc
 
 ### Comparação: o que importa em cada situação?
 
-| Situação / ponto | Passo recomendado |
-|---|---|
-| Antes de agir | Leia os termos completos e confirme que se aplicam ao seu país e conta. |
-| Se houver diferenças | Guarde o texto exato, a data e a referência, se existir. |
-| Se persistirem dúvidas | Contacte o apoio oficial e nunca partilhe palavras-passe ou códigos temporários. |
+| Informação a registar | Porque ajuda |
+| Hora e nome do jogo | Facilitam a localização da sessão em causa. |
+| Mensagem de erro ou referência | Dão ao suporte um ponto concreto para investigar. |
+| Saldo e histórico | Confirme se a ronda foi concluída antes de tentar novamente. |
 
 ### Temas relacionados
 
-Utilize as páginas de pagamentos, bónus e jogos para comparar a informação. A orientação geral não substitui as condições específicas da conta.
+Para questões de conta ou pagamentos, consulte o [guia de pagamentos]({{< relref "payments" >}}) e a informação sobre a conta. Guarde o nome do jogo, a hora e a referência do suporte para facilitar a identificação da sessão.
 
-Jogue apenas onde o jogo é legal para si e defina um orçamento fixo. Nunca aposte dinheiro que não pode perder.
-
----
+Jogue apenas onde seja legal, defina um orçamento e nunca aposte dinheiro que não pode perder.
 
 ## Existe uma aplicação móvel?
 
@@ -220,19 +214,16 @@ Se o operador disponibilizar uma aplicação, utilize apenas o link do site ofic
 
 ### Comparação: o que importa em cada situação?
 
-| Situação / ponto | Passo recomendado |
-|---|---|
-| Antes de agir | Leia os termos completos e confirme que se aplicam ao seu país e conta. |
-| Se houver diferenças | Guarde o texto exato, a data e a referência, se existir. |
-| Se persistirem dúvidas | Contacte o apoio oficial e nunca partilhe palavras-passe ou códigos temporários. |
+| Verificação da aplicação | Opção mais segura |
+| Origem da descarga | Utilize apenas o site oficial verificado ou uma loja oficial. |
+| Editor e permissões | Confirme quem publica a aplicação e os acessos pedidos. |
+| Sem link confirmado | Prefira o site adaptável a um ficheiro desconhecido. |
 
 ### Temas relacionados
 
-Utilize as páginas de pagamentos, bónus e jogos para comparar a informação. A orientação geral não substitui as condições específicas da conta.
+O [catálogo de jogos]({{< relref "slots" >}}) e os restantes guias podem ser consultados no site adaptável. Enquanto não existir uma aplicação oficial confirmada, evite ficheiros de instalação de terceiros e verifique o editor.
 
-Jogue apenas onde o jogo é legal para si e defina um orçamento fixo. Nunca aposte dinheiro que não pode perder.
-
----
+Jogue apenas onde seja legal, defina um orçamento e nunca aposte dinheiro que não pode perder.
 
 ## Está confirmado algum bónus de boas-vindas atualmente?
 
@@ -246,19 +237,16 @@ Compare o depósito mínimo, o multiplicador de aposta, a validade, a aposta má
 
 ### Comparação: o que importa em cada situação?
 
-| Situação / ponto | Passo recomendado |
-|---|---|
-| Antes de agir | Leia os termos completos e confirme que se aplicam ao seu país e conta. |
-| Se houver diferenças | Guarde o texto exato, a data e a referência, se existir. |
-| Se persistirem dúvidas | Contacte o apoio oficial e nunca partilhe palavras-passe ou códigos temporários. |
+| Elemento da oferta | O que confirmar |
+| Disponibilidade | Verifique se a campanha está ativa no seu país e conta. |
+| Código e elegibilidade | Confirme o código exato, o momento de ativação e o depósito elegível. |
+| Condições integrais | Leia os requisitos de aposta, validade, limites, jogos excluídos e limites de levantamento. |
 
 ### Temas relacionados
 
-Utilize as páginas de pagamentos, bónus e jogos para comparar a informação. A orientação geral não substitui as condições específicas da conta.
+O [guia das condições dos bónus]({{< relref "bonuses" >}}) explica os requisitos de aposta e os prazos. Os códigos apresentados neste site foram fornecidos pelo proprietário e estão assinalados como não verificados; confirme a validade e elegibilidade atuais junto do operador.
 
-Jogue apenas onde o jogo é legal para si e defina um orçamento fixo. Nunca aposte dinheiro que não pode perder.
-
----
+Jogue apenas onde seja legal, defina um orçamento e nunca aposte dinheiro que não pode perder.
 
 ## Este projeto é um casino?
 
@@ -288,19 +276,16 @@ Antes de enviar o formulário, leia os requisitos de idade e país, a informaç�
 
 ### Comparação: o que importa em cada situação?
 
-| Situação / ponto | Passo recomendado |
-|---|---|
-| Antes de agir | Leia os termos completos e confirme que se aplicam ao seu país e conta. |
-| Se houver diferenças | Guarde o texto exato, a data e a referência, se existir. |
-| Se persistirem dúvidas | Contacte o apoio oficial e nunca partilhe palavras-passe ou códigos temporários. |
+| Verificação antes do registo | Porque conta |
+| Idade e localização | Confirme a legalidade do acesso antes de criar uma conta. |
+| Dados pessoais | Utilize dados próprios e coerentes com os seus documentos. |
+| Segurança | Defina uma palavra-passe única e não crie contas adicionais para contornar restrições. |
 
 ### Temas relacionados
 
-Utilize as páginas de pagamentos, bónus e jogos para comparar a informação. A orientação geral não substitui as condições específicas da conta.
+O [guia de jogo responsável]({{< relref "responsible-gaming" >}}) aborda limites e sinais de alerta. Registe-se apenas onde for legal e utilize dados pessoais corretos que lhe pertençam.
 
-Jogue apenas onde o jogo é legal para si e defina um orçamento fixo. Nunca aposte dinheiro que não pode perder.
-
----
+Jogue apenas onde seja legal, defina um orçamento e nunca aposte dinheiro que não pode perder.
 
 ## Como é avaliada a imparcialidade das slots?
 
@@ -314,19 +299,16 @@ Verifique o fornecedor indicado na informação do jogo, o RTP e eventuais dados
 
 ### Comparação: o que importa em cada situação?
 
-| Situação / ponto | Passo recomendado |
-|---|---|
-| Antes de agir | Leia os termos completos e confirme que se aplicam ao seu país e conta. |
-| Se houver diferenças | Guarde o texto exato, a data e a referência, se existir. |
-| Se persistirem dúvidas | Contacte o apoio oficial e nunca partilhe palavras-passe ou códigos temporários. |
+| Informação disponível | O que permite confirmar |
+| Fornecedor e versão | Identificam as regras e configurações aplicáveis. |
+| RTP e tabela de pagamentos | Descrevem o valor teórico e as regras publicadas. |
+| Testes ou certificação | Confirme a entidade e o âmbito; não permitem prever uma sessão. |
 
 ### Temas relacionados
 
-Utilize as páginas de pagamentos, bónus e jogos para comparar a informação. A orientação geral não substitui as condições específicas da conta.
+O [guia das funcionalidades dos slots]({{< relref "slot-features" >}}) explica mecânicas e valores teóricos. O RTP e os dados de testes descrevem parâmetros, mas não asseguram o resultado de uma sessão individual.
 
-Jogue apenas onde o jogo é legal para si e defina um orçamento fixo. Nunca aposte dinheiro que não pode perder.
-
----
+Jogue apenas onde seja legal, defina um orçamento e nunca aposte dinheiro que não pode perder.
 
 ## Como levantar os ganhos?
 
@@ -340,14 +322,13 @@ Verifique primeiro se a validação de identidade está concluída, se o meio de
 
 ### Comparação: o que importa em cada situação?
 
-| Situação / ponto | Passo recomendado |
-|---|---|
-| Antes de agir | Leia os termos completos e confirme que se aplicam ao seu país e conta. |
-| Se houver diferenças | Guarde o texto exato, a data e a referência, se existir. |
-| Se persistirem dúvidas | Contacte o apoio oficial e nunca partilhe palavras-passe ou códigos temporários. |
+| Verificação do levantamento | O que confirmar antes de avançar |
+| Identidade | Confirme se as verificações exigidas estão concluídas. |
+| Método de pagamento | Verifique titularidade, disponibilidade, taxas e limites. |
+| Confirmação | Guarde a referência e o estado; em caso de atraso, contacte o suporte oficial. |
 
 ### Temas relacionados
 
-Utilize as páginas de pagamentos, bónus e jogos para comparar a informação. A orientação geral não substitui as condições específicas da conta.
+O [guia de pagamentos]({{< relref "payments" >}}) explica métodos e prazos estimados. O tempo efetivo depende do operador, do prestador de pagamentos, da verificação e das condições da conta.
 
-Jogue apenas onde o jogo é legal para si e defina um orçamento fixo. Nunca aposte dinheiro que não pode perder.
+Jogue apenas onde seja legal, defina um orçamento e nunca aposte dinheiro que não pode perder.

@@ -5,7 +5,7 @@ type: page
 author: cristina-tudose
 seo_title: Casino bonus terms explained | Nomini Casino Guide
 lastmod: '2026-10-30'
-article_review_status: editorial-approved
+article_review_status: editorial-review-pending
 reviewed_by: Cristina Tudose
 review_date: '2026-10-30'
 build:
@@ -27,10 +27,9 @@ screenshots:
 - /images/guides/bonuses.svg
 screenshots_note: 'Illustrative editorial artwork, not a screenshot of a real operator interface.'
 ---
+A promotion is more than the amount shown in its banner. Before opting in, work out how the wagering base is calculated, which games qualify, what deadlines apply and whether a cashout cap or stake limit changes the result. The examples below explain common wording; they are not confirmation of a current Nomini campaign.
 
-A €500 bonus may look more attractive than 50 free spins. The headline figure does not tell you what you must do to receive or withdraw it. Check the wagering requirement, eligible games, expiry date and rules for withdrawing before completing the bonus.
-
-The important details are not always shown beside the advertised amount. Read the full promotion terms before opting in or depositing. This guide explains common terms; it does not describe a current Nomini offer. The rules of the specific promotion and the relevant country always take priority.
+Use the complete terms for the specific offer and country as the controlling reference. Check the rules again immediately before activation, because eligibility, payment methods and promotion conditions can be revised.
 
 ## Start with these details
 

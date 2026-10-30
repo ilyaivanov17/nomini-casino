@@ -1,4 +1,5 @@
 ---
+
 title: Cristina Tudose
 description: Cristina Tudose ist eine englisch- und rumänischsprachige Content-Autorin und Copywriterin mit
   Schwerpunkt iGaming. Zu ihren öffentlich beschriebenen…
@@ -31,26 +32,26 @@ build:
   list: always
 ---
 
-## Über Cristina Tudose
+## Profil: Cristina Tudose
 
 Cristina Tudose ist eine englisch- und rumänischsprachige Content-Autorin und Copywriterin mit Schwerpunkt iGaming. Zu ihren öffentlich beschriebenen Themen gehören Casino-Tests, Spielinhalte, Boni, SEO und redaktionelle iGaming-Projekte.
 
-### Fachliche Schwerpunkte
+### Beruflicher Schwerpunkt
 
 Mehrsprachige iGaming-Inhalte, Casino-Tests, Boni, Spielbeschreibungen und SEO
 
-### Redaktioneller Beitrag bei Nomini Casino Guide
+### Einordnung des Profils
 
-Bei Nomini Casino Guide arbeitet das Profil im thematischen Umfeld von Casino-Informationen, Spielbeschreibungen und dem Vergleich von Angebotsbedingungen. Die Einordnung der Inhalte folgt dem jeweiligen Fachgebiet: Spielmechaniken werden anhand der verfügbaren Spieldaten erklärt, Bonusangaben nach Bedingungen strukturiert und Zahlungsmethoden anhand der hinterlegten Limits und Zeitangaben verglichen.
+Im Projekt ist Cristina Tudose als **Content Writer / Copywriter • iGaming** aufgeführt. Die Angaben beschreiben den beruflichen Themenbereich und helfen, die redaktionelle Perspektive einzuordnen. Sie belegen weder einen persönlichen Test jedes erwähnten Spiels noch bestimmte Spielergebnisse oder eine individuelle Freigabe sämtlicher Seiten.
 
-### So ist das Profil einzuordnen
+### Worauf es bei den behandelten Themen ankommt
 
-Bei Casino- und Bonusinformationen zählen die vollständigen Bedingungen, die konkrete Spielversion und die für das jeweilige Konto angezeigten Regeln. Redaktionelle Vergleiche sollten Kennzahlen getrennt von Einschätzungen ausweisen und auf die entsprechenden Detailseiten und Primärinformationen verlinken. Dieses Profil beschreibt den beruflichen Schwerpunkt und ersetzt keine Prüfung einzelner Angebotsbedingungen.
+Bei Spielbeschreibungen sind die tatsächlich angebotene Version und die dazugehörigen Regeln entscheidend. RTP-Werte und Funktionen können sich je nach Konfiguration unterscheiden. Bei Promotionen zählen die vollständigen Umsatz-, Frist- und Auszahlungsbedingungen; bei Zahlungen sind die im jeweiligen Konto angezeigten Methoden und Limits maßgeblich.
 
 ### Öffentliche Berufsprofile
 
 [LinkedIn](https://ro.linkedin.com/in/cristina-tudose-b1b925168) · [Website](https://cristinatudose.ro/)
 
-| Rolle | Schwerpunkt | Öffentliches Profil | Fachgebiet |
-| --- | --- | --- | --- |
+| Rolle | Themengebiet | Öffentliches Profil | Fachlicher Fokus |
+|---|---|---|---|
 | Content Writer / Copywriter • iGaming | Mehrsprachige iGaming-Inhalte, Casino-Tests, Boni, Spielbeschreibungen und SEO | [LinkedIn](https://ro.linkedin.com/in/cristina-tudose-b1b925168) · [Website](https://cristinatudose.ro/) | Mehrsprachige iGaming-Inhalte, Casino-Tests, Boni, Spielbeschreibungen und SEO |

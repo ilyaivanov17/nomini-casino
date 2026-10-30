@@ -19,9 +19,7 @@ screenshots_note: "This custom-created illustration is not the original game int
 
 ## A record win — and an important distinction
 
-On 11 October 2018, NetEnt announced a €3.5 million jackpot on Mega Fortune. The winner was a player from Lower Saxony who was playing at PokerStars Casino. According to the announcement, he was a journalist who arrived home in the evening and started a session while a pizza was cooking in the oven. NetEnt also said that he had deposited just over €2 before the win. The company described the payout as the largest online win in PokerStars Casino history at that time. It also reported that Mega Fortune had paid out eight jackpots of more than €1 million during 2018.
-
-The story is striking, but one detail matters when explaining the game: **NetEnt reported a deposit of just over €2, not a €2 stake on the winning spin.** The press release does not state the stake used on that spin or how many spins came before it. Describing the event as “a €2 bet turned into €3.5 million” would therefore go beyond what the source confirms.
+Mega Fortune is useful as a case study because a headline jackpot can be confused with the mechanics and evidence behind it. This article separates the reported 2018 event from what the public game description actually says about progressive pools, bonus triggers, RTP and volatility. It also points out where the available sources do not answer a question.
 
 ## What makes a jackpot progressive?
 

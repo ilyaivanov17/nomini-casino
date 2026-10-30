@@ -1,4 +1,5 @@
 ---
+
 title: Jon Pill
 description: Jon Pill trabalha como redator freelancer e jornalista sobre jogo desde 2015. Os seus temas incluem estratégia,
   póquer e jogos de casino; a Casino Guru…
@@ -31,26 +32,26 @@ build:
 medium: https://medium.com/@JonPill
 ---
 
-## Sobre Jon Pill
+## Perfil de Jon Pill
 
 Jon Pill trabalha como redator freelancer e jornalista sobre jogo desde 2015. Os seus temas incluem estratégia, póquer e jogos de casino; a Casino Guru apresenta-o publicamente como Game Analyst.
 
-### Áreas de especialidade
+### Especialização profissional
 
 Estratégia de jogo, regras de póquer, jogos de casino e análise de mecânicas
 
-### Contributo editorial na Nomini Casino Guide
+### Âmbito deste perfil
 
-Na Nomini Casino Guide, este perfil integra o trabalho editorial sobre informação de casinos, explicações de jogos e comparação das condições das ofertas. A área de especialidade orienta a abordagem: as mecânicas são explicadas com base nos dados disponíveis, os bónus são organizados pelas respetivas condições e os métodos de pagamento são comparados por limites e tempos indicados.
+Jon Pill surge associado ao projeto com a função de **Analista de jogos e jornalista sobre jogo**. O resumo apresenta a área profissional indicada e dá contexto aos temas abordados. Não constitui prova de que tenha testado pessoalmente todas as versões de jogos mencionadas, conseguido um prémio específico ou aprovado cada página publicada.
 
-### Como interpretar este perfil
+### Contexto para leitura dos conteúdos
 
-Ao comparar jogos e ofertas de casino, são importantes os termos completos, a versão concreta do jogo e as regras apresentadas para cada conta. As comparações editoriais devem separar os dados registados da interpretação e ligar às páginas de detalhe e a fontes primárias. Este perfil descreve a área profissional, mas não substitui a consulta das condições de uma oferta específica.
+As regras, funcionalidades e valores de RTP devem ser confirmados na versão efetivamente disponível. As campanhas exigem a consulta dos termos completos, enquanto métodos de pagamento, limites e prazos podem variar por país e conta. Para dados sujeitos a alterações, consulte as fontes primárias atuais.
 
 ### Perfis profissionais públicos
 
-[Medium](https://medium.com/@JonPill)
+[Site](https://medium.com/@JonPill)
 
-| Função | Foco | Perfil público | Especialidade |
-| --- | --- | --- | --- |
-| Analista de jogos e jornalista sobre jogo | Estratégia de jogo, regras de póquer, jogos de casino e análise de mecânicas | [Medium](https://medium.com/@JonPill) | Estratégia de jogo, regras de póquer, jogos de casino e análise de mecânicas |
+| Função | Temas | Perfil público | Área principal |
+|---|---|---|---|
+| Analista de jogos e jornalista sobre jogo | Estratégia de jogo, regras de póquer, jogos de casino e análise de mecânicas | [Site](https://medium.com/@JonPill) | Estratégia de jogo, regras de póquer, jogos de casino e análise de mecânicas |

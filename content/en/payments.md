@@ -26,7 +26,7 @@ screenshots_note: 'Illustrative editorial artwork, not a screenshot of a real op
 ---
 ## Deposits, withdrawals and payment methods
 
-This guide groups existing information by topic so rules and limitations are easier to compare. Game rules, RTP figures, bonus terms, payment options and legal availability can vary by version, operator and country. Check details directly in the version currently offered.
+Choosing a payment route involves more than checking a logo. Confirm which methods are currently displayed for your account, the currency and limits, any charges, the expected processing window and whether the same route can be used for withdrawals. Availability and timing can depend on location, verification and the payment provider; the cashier shown after sign-in is the current reference.
 
 ### How to find the deposit area
 

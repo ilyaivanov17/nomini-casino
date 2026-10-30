@@ -1,4 +1,5 @@
 ---
+
 title: Marco Ibarra
 description: Marco Ibarra ist ein zweisprachiger iGaming-Autor, Redakteur und Manager. Seine fachlichen Schwerpunkte
   sind Online-Casinos, Slot-Bewertungen,…
@@ -31,26 +32,26 @@ build:
   list: always
 ---
 
-## Über Marco Ibarra
+## Profil: Marco Ibarra
 
 Marco Ibarra ist ein zweisprachiger iGaming-Autor, Redakteur und Manager. Seine fachlichen Schwerpunkte sind Online-Casinos, Slot-Bewertungen, Bonusanalysen und suchorientierte redaktionelle Arbeit.
 
-### Fachliche Schwerpunkte
+### Beruflicher Schwerpunkt
 
 Online-Casinos, Slot-Bewertungen, Bonusanalysen und SEO-orientierte Redaktion
 
-### Redaktioneller Beitrag bei Nomini Casino Guide
+### Einordnung des Profils
 
-Bei Nomini Casino Guide arbeitet das Profil im thematischen Umfeld von Casino-Informationen, Spielbeschreibungen und dem Vergleich von Angebotsbedingungen. Die Einordnung der Inhalte folgt dem jeweiligen Fachgebiet: Spielmechaniken werden anhand der verfügbaren Spieldaten erklärt, Bonusangaben nach Bedingungen strukturiert und Zahlungsmethoden anhand der hinterlegten Limits und Zeitangaben verglichen.
+Marco Ibarra wird in diesem Projekt als **iGaming-Autor und Redakteur** geführt. Das Profil fasst den öffentlich beschriebenen fachlichen Hintergrund zusammen. Es ist kein Nachweis dafür, dass jede erwähnte Spielversion praktisch getestet wurde, dass ein bestimmtes Spielergebnis erzielt wurde oder dass alle Texte persönlich freigegeben sind.
 
-### So ist das Profil einzuordnen
+### Fachlicher Kontext der Beiträge
 
-Bei Casino- und Bonusinformationen zählen die vollständigen Bedingungen, die konkrete Spielversion und die für das jeweilige Konto angezeigten Regeln. Redaktionelle Vergleiche sollten Kennzahlen getrennt von Einschätzungen ausweisen und auf die entsprechenden Detailseiten und Primärinformationen verlinken. Dieses Profil beschreibt den beruflichen Schwerpunkt und ersetzt keine Prüfung einzelner Angebotsbedingungen.
+Für Aussagen zu Spielregeln, RTP und Funktionen ist die konkrete Spielversion maßgeblich. Bonusaktionen müssen anhand ihrer vollständigen Bedingungen bewertet werden; Zahlungsarten, Limits und Bearbeitungszeiten können je nach Land und Konto variieren. Aktuelle Primärinformationen haben Vorrang vor allgemeinen Beschreibungen.
 
 ### Öffentliche Berufsprofile
 
-[LinkedIn](https://cl.linkedin.com/in/ibarram94/en) · [Medium](https://medium.com/@yugutagi2001) · [Website](https://marco-ibarra.com/)
+[LinkedIn](https://cl.linkedin.com/in/ibarram94/en) · [Website](https://marco-ibarra.com/) · [Medium](https://medium.com/@yugutagi2001)
 
-| Rolle | Schwerpunkt | Öffentliches Profil | Fachgebiet |
-| --- | --- | --- | --- |
-| iGaming-Autor und Redakteur | Online-Casinos, Slot-Bewertungen, Bonusanalysen und SEO-orientierte Redaktion | [LinkedIn](https://cl.linkedin.com/in/ibarram94/en) · [Medium](https://medium.com/@yugutagi2001) · [Website](https://marco-ibarra.com/) | Online-Casinos, Slot-Bewertungen, Bonusanalysen und SEO-orientierte Redaktion |
+| Rolle | Themenbereich | Öffentliches Profil | Fachgebiet |
+|---|---|---|---|
+| iGaming-Autor und Redakteur | Online-Casinos, Slot-Bewertungen, Bonusanalysen und SEO-orientierte Redaktion | [LinkedIn](https://cl.linkedin.com/in/ibarram94/en) · [Website](https://marco-ibarra.com/) · [Medium](https://medium.com/@yugutagi2001) | Online-Casinos, Slot-Bewertungen, Bonusanalysen und SEO-orientierte Redaktion |

@@ -21,9 +21,9 @@ screenshots_note: 'Ilustracja redakcyjna, nie zrzut ekranu rzeczywistego interfe
 ---
 ## Przewodnik po slotach: funkcje i mechanika
 
-Ten przewodnik porządkuje istniejące informacje według tematów, aby łatwiej porównywać zasady i ograniczenia. Zasady gier, RTP, warunki bonusów, metody płatności i dostępność prawna mogą różnić się w zależności od wersji, operatora i kraju. Sprawdź je bezpośrednio w aktualnie oferowanej wersji.
+Motyw graficzny slotu to dopiero początek oceny. Aby zrozumieć działanie gry, sprawdź jej zasady, tabelę wypłat, warunki uruchamiania funkcji oraz sposób prezentacji RTP i zmienności. Dane katalogowe pomagają się zorientować, ale nie przewidują wyniku pojedynczej sesji; właściwym punktem odniesienia jest wersja dostępna w grze.
 
-Praktyczne studium przypadku wyjaśnia działanie progresywnego jackpota: nasz [materiał o Mega Fortune i wygranej 3,5 mln euro]({{< relref "mega-fortune-progressive-jackpot" >}}) oddziela potwierdzone fakty z 2018 roku od opublikowanych zasad gry, RTP i ograniczeń dostępnych danych o zmienności.
+Przykład progresywnej nagrody opisuje [analiza Mega Fortune i jackpota o wartości 3,5 mln euro]({{< relref "mega-fortune-progressive-jackpot" >}}). Oddziela ona fakty ogłoszone w 2018 roku od opublikowanych zasad gry oraz kwestii, których publiczne materiały nie potwierdzają.
 
 ## Gates of Olympus
 
@@ -39,16 +39,16 @@ Gates of Olympus czerpie z mitologii greckiej, a ważną rolę odgrywają w nim 
 
 ### Jak rozumieć te wartości
 
-RTP to wartość teoretyczna obliczana dla bardzo dużej liczby rund. Nie przewiduje wyniku pojedynczego obrotu ani krótkiej sesji. Podana zmienność również nie oznacza, że wygrasz.
+Podany RTP dla Gates of Olympus to teoretyczna średnia obliczana dla bardzo wielu rund, a nie prognoza krótkiej sesji. Zmienność opisuje wahania wyników, lecz nie przewiduje kolejnego obrotu.
 
 ### Co sprawdzić przed rozpoczęciem
 
-Przed grą otwórz tabelę wypłat. Znajdziesz tam wartości symboli, warunki uruchamiania funkcji oraz zasady darmowych spinów lub jackpotów. Ustal budżet i graj tylko tam, gdzie jest to legalne.
-
----
+Przed uruchomieniem Gates of Olympus otwórz pomoc gry i tabelę wypłat. Sprawdź wartości symboli, warunki uruchamiania funkcji oraz zasady darmowych spinów lub jackpotów. Ustal budżet i przestrzegaj lokalnych wymogów wieku oraz prawa.
 
 ## Gates of Olympus: Rozszerzona analiza redakcyjna
-Gates of Olympus jest przypisany do dostawcy Pragmatic Play. Profil strony wymienia: symbole Scatter, mnożniki, funkcja bonusowa; motyw obejmuje a Greek-mythology setting. Są to informacje z rekordu strony, które nie zastępują kontroli faktycznie uruchomionej wersji. Przed publikacją porównaj te dane z pomocą w uruchomionej wersji gry, tabelą wypłat i aktualnymi limitami stawek.
+
+Ten profil łączy opublikowane informacje o Gates of Olympus z objaśnieniem wymienionych mechanik. To materiał redakcyjny, nie potwierdzenie testu praktycznego ani prognoza wyniku; dokładne zasady sprawdź w dostępnej wersji gry.
+
 
 ### Motyw i pierwsze wrażenie
 
@@ -100,16 +100,16 @@ Gonzo’s Quest nawiązuje do poszukiwania skarbów i wykorzystuje spadające sy
 
 ### Jak rozumieć te wartości
 
-RTP to wartość teoretyczna obliczana dla bardzo dużej liczby rund. Nie przewiduje wyniku pojedynczego obrotu ani krótkiej sesji. Podana zmienność również nie oznacza, że wygrasz.
+Parametry Gonzo's Quest warto traktować jako dane orientacyjne, nie osobistą prognozę. RTP jest obliczane długoterminowo, a zmienność pokazuje możliwe różnice między wynikami. Żaden z tych wskaźników nie określa przebiegu konkretnej sesji.
 
 ### Co sprawdzić przed rozpoczęciem
 
-Przed grą otwórz tabelę wypłat. Znajdziesz tam wartości symboli, warunki uruchamiania funkcji oraz zasady darmowych spinów lub jackpotów. Ustal budżet i graj tylko tam, gdzie jest to legalne.
-
----
+Sprawdź wersję Gonzo's Quest, która jest faktycznie dostępna. Tabela wypłat opisuje symbole, funkcje specjalne i warunki rund bonusowych. Przejrzyj także zakres stawek i ustal limit przed rozpoczęciem.
 
 ## Gonzo's Quest: Rozszerzona analiza redakcyjna
-Gonzo's Quest jest przypisany do dostawcy NetEnt. Profil strony wymienia: mechanika lawiny, mnożniki, Free Falls; motyw obejmuje an exploration theme. Są to informacje z rekordu strony, które nie zastępują kontroli faktycznie uruchomionej wersji. Przed publikacją porównaj te dane z pomocą w uruchomionej wersji gry, tabelą wypłat i aktualnymi limitami stawek.
+
+Opis Gonzo's Quest oddziela zapisane dane gry od ich redakcyjnego wyjaśnienia. Potraktuj go jako wskazówkę, a następnie potwierdź symbole, funkcje i dostępne stawki w pomocy aktualnie oferowanego tytułu.
+
 
 ### Motyw i pierwsze wrażenie
 
@@ -161,16 +161,16 @@ Legacy of Dead ma własny motyw i zestaw funkcji, które warto poznać przed gr�
 
 ### Jak rozumieć te wartości
 
-RTP to wartość teoretyczna obliczana dla bardzo dużej liczby rund. Nie przewiduje wyniku pojedynczego obrotu ani krótkiej sesji. Podana zmienność również nie oznacza, że wygrasz.
+Podany RTP dla Legacy of Dead to teoretyczna średnia obliczana dla bardzo wielu rund, a nie prognoza krótkiej sesji. Zmienność opisuje wahania wyników, lecz nie przewiduje kolejnego obrotu.
 
 ### Co sprawdzić przed rozpoczęciem
 
-Przed grą otwórz tabelę wypłat. Znajdziesz tam wartości symboli, warunki uruchamiania funkcji oraz zasady darmowych spinów lub jackpotów. Ustal budżet i graj tylko tam, gdzie jest to legalne.
-
----
+Przed uruchomieniem Legacy of Dead otwórz pomoc gry i tabelę wypłat. Sprawdź wartości symboli, warunki uruchamiania funkcji oraz zasady darmowych spinów lub jackpotów. Ustal budżet i przestrzegaj lokalnych wymogów wieku oraz prawa.
 
 ## Legacy of Dead: Rozszerzona analiza redakcyjna
-Legacy of Dead jest przypisany do dostawcy Play'n GO. Profil strony wymienia: rozszerzający się symbol, darmowe spiny, gra bonusowa; motyw obejmuje an ancient-world adventure theme. Są to informacje z rekordu strony, które nie zastępują kontroli faktycznie uruchomionej wersji. Przed publikacją porównaj te dane z pomocą w uruchomionej wersji gry, tabelą wypłat i aktualnymi limitami stawek.
+
+Ten profil łączy opublikowane informacje o Legacy of Dead z objaśnieniem wymienionych mechanik. To materiał redakcyjny, nie potwierdzenie testu praktycznego ani prognoza wyniku; dokładne zasady sprawdź w dostępnej wersji gry.
+
 
 ### Motyw i pierwsze wrażenie
 
@@ -222,16 +222,16 @@ Mega Moolah ma własny motyw i zestaw funkcji, które warto poznać przed grą. 
 
 ### Jak rozumieć te wartości
 
-RTP to wartość teoretyczna obliczana dla bardzo dużej liczby rund. Nie przewiduje wyniku pojedynczego obrotu ani krótkiej sesji. Podana zmienność również nie oznacza, że wygrasz.
+Parametry Mega Moolah warto traktować jako dane orientacyjne, nie osobistą prognozę. RTP jest obliczane długoterminowo, a zmienność pokazuje możliwe różnice między wynikami. Żaden z tych wskaźników nie określa przebiegu konkretnej sesji.
 
 ### Co sprawdzić przed rozpoczęciem
 
-Przed grą otwórz tabelę wypłat. Znajdziesz tam wartości symboli, warunki uruchamiania funkcji oraz zasady darmowych spinów lub jackpotów. Ustal budżet i graj tylko tam, gdzie jest to legalne.
-
----
+Sprawdź wersję Mega Moolah, która jest faktycznie dostępna. Tabela wypłat opisuje symbole, funkcje specjalne i warunki rund bonusowych. Przejrzyj także zakres stawek i ustal limit przed rozpoczęciem.
 
 ## Mega Moolah: Rozszerzona analiza redakcyjna
-Mega Moolah jest przypisany do dostawcy Microgaming. Profil strony wymienia: jackpot progresywny, symbole Wild, darmowe spiny; motyw obejmuje a jackpot-centred presentation. Są to informacje z rekordu strony, które nie zastępują kontroli faktycznie uruchomionej wersji. Przed publikacją porównaj te dane z pomocą w uruchomionej wersji gry, tabelą wypłat i aktualnymi limitami stawek.
+
+Opis Mega Moolah oddziela zapisane dane gry od ich redakcyjnego wyjaśnienia. Potraktuj go jako wskazówkę, a następnie potwierdź symbole, funkcje i dostępne stawki w pomocy aktualnie oferowanego tytułu.
+
 
 ### Motyw i pierwsze wrażenie
 
@@ -283,16 +283,16 @@ Rich Wilde and the Book of Dead ma własny motyw i zestaw funkcji, które warto 
 
 ### Jak rozumieć te wartości
 
-RTP to wartość teoretyczna obliczana dla bardzo dużej liczby rund. Nie przewiduje wyniku pojedynczego obrotu ani krótkiej sesji. Podana zmienność również nie oznacza, że wygrasz.
+Podany RTP dla Rich Wilde and the Book of Dead to teoretyczna średnia obliczana dla bardzo wielu rund, a nie prognoza krótkiej sesji. Zmienność opisuje wahania wyników, lecz nie przewiduje kolejnego obrotu.
 
 ### Co sprawdzić przed rozpoczęciem
 
-Przed grą otwórz tabelę wypłat. Znajdziesz tam wartości symboli, warunki uruchamiania funkcji oraz zasady darmowych spinów lub jackpotów. Ustal budżet i graj tylko tam, gdzie jest to legalne.
-
----
+Przed uruchomieniem Rich Wilde and the Book of Dead otwórz pomoc gry i tabelę wypłat. Sprawdź wartości symboli, warunki uruchamiania funkcji oraz zasady darmowych spinów lub jackpotów. Ustal budżet i przestrzegaj lokalnych wymogów wieku oraz prawa.
 
 ## Rich Wilde and the Book of Dead: Rozszerzona analiza redakcyjna
-Rich Wilde and the Book of Dead jest przypisany do dostawcy Play'n GO. Profil strony wymienia: symbole Wild, darmowe spiny, rozszerzający się symbol; motyw obejmuje a book-and-adventure theme. Są to informacje z rekordu strony, które nie zastępują kontroli faktycznie uruchomionej wersji. Przed publikacją porównaj te dane z pomocą w uruchomionej wersji gry, tabelą wypłat i aktualnymi limitami stawek.
+
+Ten profil łączy opublikowane informacje o Rich Wilde and the Book of Dead z objaśnieniem wymienionych mechanik. To materiał redakcyjny, nie potwierdzenie testu praktycznego ani prognoza wyniku; dokładne zasady sprawdź w dostępnej wersji gry.
+
 
 ### Motyw i pierwsze wrażenie
 

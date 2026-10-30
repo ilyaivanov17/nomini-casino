@@ -1,4 +1,5 @@
 ---
+
 title: Arthur Mustoe
 description: Arthur Mustoe ist ein freiberuflicher Content-Autor aus Großbritannien, der sich auf iGaming und
   Casinos spezialisiert. Seine öffentlichen…
@@ -31,26 +32,26 @@ build:
   list: always
 ---
 
-## Über Arthur Mustoe
+## Profil: Arthur Mustoe
 
 Arthur Mustoe ist ein freiberuflicher Content-Autor aus Großbritannien, der sich auf iGaming und Casinos spezialisiert. Seine öffentlichen Berufsprofile heben Casino- und Slot-Tests, Spielanleitungen und Inhalte hervor, die Compliance-Aspekte berücksichtigen.
 
-### Fachliche Schwerpunkte
+### Beruflicher Schwerpunkt
 
 Casino- und Slot-Tests, Spielregeln, Anbieterinformationen und Compliance-orientierte Inhalte
 
-### Redaktioneller Beitrag bei Nomini Casino Guide
+### Einordnung des Profils
 
-Bei Nomini Casino Guide arbeitet das Profil im thematischen Umfeld von Casino-Informationen, Spielbeschreibungen und dem Vergleich von Angebotsbedingungen. Die Einordnung der Inhalte folgt dem jeweiligen Fachgebiet: Spielmechaniken werden anhand der verfügbaren Spieldaten erklärt, Bonusangaben nach Bedingungen strukturiert und Zahlungsmethoden anhand der hinterlegten Limits und Zeitangaben verglichen.
+Im Projekt ist Arthur Mustoe als **Senior Content Writer • iGaming und Casino** aufgeführt. Die Angaben beschreiben den beruflichen Themenbereich und helfen, die redaktionelle Perspektive einzuordnen. Sie belegen weder einen persönlichen Test jedes erwähnten Spiels noch bestimmte Spielergebnisse oder eine individuelle Freigabe sämtlicher Seiten.
 
-### So ist das Profil einzuordnen
+### Worauf es bei den behandelten Themen ankommt
 
-Bei Casino- und Bonusinformationen zählen die vollständigen Bedingungen, die konkrete Spielversion und die für das jeweilige Konto angezeigten Regeln. Redaktionelle Vergleiche sollten Kennzahlen getrennt von Einschätzungen ausweisen und auf die entsprechenden Detailseiten und Primärinformationen verlinken. Dieses Profil beschreibt den beruflichen Schwerpunkt und ersetzt keine Prüfung einzelner Angebotsbedingungen.
+Bei Spielbeschreibungen sind die tatsächlich angebotene Version und die dazugehörigen Regeln entscheidend. RTP-Werte und Funktionen können sich je nach Konfiguration unterscheiden. Bei Promotionen zählen die vollständigen Umsatz-, Frist- und Auszahlungsbedingungen; bei Zahlungen sind die im jeweiligen Konto angezeigten Methoden und Limits maßgeblich.
 
 ### Öffentliche Berufsprofile
 
-[LinkedIn](https://uk.linkedin.com/in/arthur-mustoe-6051a477) · [CasinoReviews.com](https://casinoreviews.com/)
+[LinkedIn](https://uk.linkedin.com/in/arthur-mustoe-6051a477) · [Website](https://casinoreviews.com/)
 
-| Rolle | Schwerpunkt | Öffentliches Profil | Fachgebiet |
-| --- | --- | --- | --- |
-| Senior Content Writer • iGaming und Casino | Casino- und Slot-Tests, Spielregeln, Anbieterinformationen und Compliance-orientierte Inhalte | [LinkedIn](https://uk.linkedin.com/in/arthur-mustoe-6051a477) · [CasinoReviews.com](https://casinoreviews.com/) | Casino- und Slot-Tests, Spielregeln, Anbieterinformationen und Compliance-orientierte Inhalte |
+| Rolle | Themengebiet | Öffentliches Profil | Fachlicher Fokus |
+|---|---|---|---|
+| Senior Content Writer • iGaming und Casino | Casino- und Slot-Tests, Spielregeln, Anbieterinformationen und Compliance-orientierte Inhalte | [LinkedIn](https://uk.linkedin.com/in/arthur-mustoe-6051a477) · [Website](https://casinoreviews.com/) | Casino- und Slot-Tests, Spielregeln, Anbieterinformationen und Compliance-orientierte Inhalte |

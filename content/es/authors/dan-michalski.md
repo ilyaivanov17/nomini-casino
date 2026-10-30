@@ -1,4 +1,5 @@
 ---
+
 medium: https://medium.com/@Michalski_Dan
 title: Dan Michalski
 description: Dan Michalski es un periodista y editor con amplia trayectoria en juego, casinos, medios y tecnología. Sus perfiles
@@ -31,26 +32,26 @@ build:
   list: always
 ---
 
-## Sobre Dan Michalski
+## Perfil de Dan Michalski
 
 Dan Michalski es un periodista y editor con amplia trayectoria en juego, casinos, medios y tecnología. Sus perfiles periodísticos públicos incluyen trabajos para Casinos.com y The Washington Post.
 
-### Áreas de especialidad
+### Especialidad profesional
 
 Industria del juego, medios sobre casinos, análisis editorial y tecnología
 
-### Contribución editorial en Nomini Casino Guide
+### Alcance de la información del perfil
 
-En Nomini Casino Guide, este perfil forma parte del trabajo editorial sobre información de casinos, explicaciones de juegos y comparación de condiciones. El área de especialidad determina el enfoque: las mecánicas se explican a partir de los datos disponibles, los bonos se organizan por sus condiciones y los métodos de pago se comparan según límites y tiempos indicados.
+Dan Michalski aparece en el equipo con el cargo de **Editor sénior y periodista**. Los datos describen su ámbito profesional declarado y ayudan a situar los temas que aborda. No constituyen prueba de pruebas prácticas de todos los juegos mencionados, de premios personales ni de aprobación individual de cada página.
 
-### Cómo interpretar este perfil
+### Criterios editoriales relacionados
 
-Al comparar juegos y ofertas de casino importan las condiciones completas, la versión concreta del juego y las reglas que aparecen para cada cuenta. Las comparativas editoriales deben distinguir los datos registrados de la interpretación y enlazar a páginas de detalle y fuentes primarias. Este perfil describe el ámbito profesional, pero no sustituye la lectura de las condiciones de una oferta concreta.
+La información sobre reglas, RTP y funciones debe cotejarse con la versión disponible del juego. Las condiciones promocionales, los límites de pago y la disponibilidad pueden cambiar por campaña, cuenta o jurisdicción. Para tomar decisiones, deben consultarse los términos y fuentes primarias vigentes.
 
-### Perfiles profesionales públicos
+### Perfiles profesionales
 
-[Medium](https://medium.com/@Michalski_Dan) · [LinkedIn](https://www.linkedin.com/in/danmichalski) · [Muck Rack](https://muckrack.com/dan-michalski)
+[LinkedIn](https://www.linkedin.com/in/danmichalski) · [Web](https://muckrack.com/dan-michalski) · [Medium](https://medium.com/@Michalski_Dan)
 
-| Puesto | Enfoque | Perfil público | Especialidad |
-| --- | --- | --- | --- |
-| Editor sénior y periodista | Industria del juego, medios sobre casinos, análisis editorial y tecnología | [LinkedIn](https://www.linkedin.com/in/danmichalski) · [Muck Rack](https://muckrack.com/dan-michalski) | Industria del juego, medios sobre casinos, análisis editorial y tecnología |
+| Cargo | Temas | Perfil público | Área principal |
+|---|---|---|---|
+| Editor sénior y periodista | Industria del juego, medios sobre casinos, análisis editorial y tecnología | [LinkedIn](https://www.linkedin.com/in/danmichalski) · [Web](https://muckrack.com/dan-michalski) · [Medium](https://medium.com/@Michalski_Dan) | Industria del juego, medios sobre casinos, análisis editorial y tecnología |

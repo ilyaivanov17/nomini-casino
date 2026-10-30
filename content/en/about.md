@@ -27,11 +27,11 @@ screenshots_note: 'Illustrative editorial artwork, not a screenshot of a real op
 ---
 ## About Nomini Casino Guide: editorial team and methodology
 
-This guide groups existing information by topic so rules and limitations are easier to compare. Game rules, RTP figures, bonus terms, payment options and legal availability can vary by version, operator and country. Check details directly in the version currently offered.
+This independent guide brings together practical information on casino games, offers, payments and related rules. Its purpose is to help readers compare the conditions attached to different topics rather than treat a headline claim as the whole story. Rules, RTP, bonus terms, payment options and legal access can change with the game version, operator or jurisdiction, so always check the current source that applies to your situation.
 
 ## Editorial methodology
 
-The material is editorial information. RTP figures, bonus terms, payment details and legal availability must be checked against current primary sources before publication. Author profiles preserve the project’s recorded details and do not imply that a contributor has reviewed or approved every merged text.
+Our pages are editorial reference material, not operator instructions or guarantees. Claims about RTP, promotions, payments and legal availability need support from up-to-date primary sources. Contributor profiles show the background recorded for each person; they should not be read as confirmation that an author reviewed or approved every passage on the site.
 
 ## Contact the Nomini Casino Guide editorial team
 
@@ -112,11 +112,11 @@ Casino and slot reviews, game rules, provider information and compliance-aware c
 
 ### Editorial contribution at Nomini Casino Guide
 
-At Nomini Casino Guide, this profile belongs to the editorial work covering casino information, game explainers and comparisons of offer terms. The subject area shapes the approach: game mechanics are explained through available game data, bonus details are structured by their conditions, and payment methods are compared using the listed limits and processing times.
+Marco Ibarra's iGaming and editorial background is reflected in the topics associated with this profile, including slot reviews and bonus analysis. The conditions of any current offer must be checked separately against its complete terms.
 
 ### How to use this profile
 
-When comparing casino games and offers, the full terms, the specific game version and the rules shown for the relevant account matter. Editorial comparisons should separate recorded figures from interpretation and link to relevant detail pages and primary information. This profile describes professional subject areas; it does not replace checking the terms of an individual offer.
+Professional experience is context for editorial work, not proof that an offer is suitable. Compare full conditions, eligibility rules and the specific game information before making a decision.
 
 ### Public professional profiles
 

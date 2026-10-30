@@ -27,11 +27,11 @@ screenshots_note: 'Ilustración editorial, no es una captura de una interfaz rea
 ---
 ## Sobre Nomini Casino Guide: equipo editorial y metodología
 
-Esta guía reúne la información por temas para facilitar la comparación de reglas y limitaciones. Las reglas del juego, el RTP, las condiciones de los bonos, los métodos de pago y la disponibilidad legal pueden variar según la versión, el operador y el país. Comprueba los datos en la versión ofrecida actualmente.
+Esta guía independiente organiza información sobre juegos de casino, promociones, pagos y las reglas relacionadas. La intención es ayudar a comparar las condiciones que hay detrás de cada oferta, no quedarse únicamente con el mensaje publicitario. Las reglas, el RTP, los requisitos de los bonos, los métodos de pago y la disponibilidad legal pueden cambiar según la versión del juego, el operador o el país. Por eso conviene acudir siempre a la fuente vigente que corresponda al caso concreto.
 
 ## Metodología editorial
 
-El contenido es información editorial. Antes de publicar, los datos de RTP, bonos, pagos y disponibilidad legal deben verificarse con fuentes primarias actuales. Los perfiles conservan los datos registrados en el proyecto y no implican que cada autor haya revisado o aprobado todos los textos reunidos.
+Estas páginas son material informativo de carácter editorial; no son instrucciones del operador ni promesas de resultados. Las afirmaciones sobre RTP, promociones, pagos y disponibilidad legal necesitan respaldo en fuentes primarias actualizadas. Los perfiles de autores reflejan la información profesional registrada en el proyecto, pero no demuestran que una persona haya revisado o aprobado cada fragmento publicado.
 
 ## Contacto con la redacción de Nomini Casino Guide
 
@@ -112,11 +112,11 @@ Reseñas de casinos y slots, reglas de juego, información de proveedores y cont
 
 ### Contribución editorial en Nomini Casino Guide
 
-En Nomini Casino Guide, este perfil forma parte del trabajo editorial sobre información de casinos, explicaciones de juegos y comparación de condiciones. El área de especialidad determina el enfoque: las mecánicas se explican a partir de los datos disponibles, los bonos se organizan por sus condiciones y los métodos de pago se comparan según límites y tiempos indicados.
+La experiencia de Marco Ibarra en iGaming y edición se refleja en temas como las reseñas de slots y el análisis de bonos. Las condiciones de una promoción actual deben consultarse siempre en su texto completo.
 
 ### Cómo interpretar este perfil
 
-Al comparar juegos y ofertas de casino importan las condiciones completas, la versión concreta del juego y las reglas que aparecen para cada cuenta. Las comparativas editoriales deben distinguir los datos registrados de la interpretación y enlazar a páginas de detalle y fuentes primarias. Este perfil describe el ámbito profesional, pero no sustituye la lectura de las condiciones de una oferta concreta.
+La experiencia profesional aporta contexto editorial, pero no demuestra que una oferta sea adecuada. Revisa las condiciones completas, los requisitos de participación y la información de la versión concreta del juego.
 
 ### Perfiles profesionales públicos
 

@@ -1,4 +1,5 @@
 ---
+
 title: Corey Levitan
 description: Corey Levitan cobre entretenimento, restauração e jogo em Las Vegas. O seu percurso inclui seis anos de reportagem
   para o Las Vegas Review-Journal;…
@@ -31,26 +32,26 @@ build:
 medium: https://corey-levitan-merklin.medium.com/
 ---
 
-## Sobre Corey Levitan
+## Perfil de Corey Levitan
 
 Corey Levitan cobre entretenimento, restauração e jogo em Las Vegas. O seu percurso inclui seis anos de reportagem para o Las Vegas Review-Journal; juntou-se à Casino.org em 2022.
 
-### Áreas de especialidade
+### Área profissional
 
 Las Vegas, notícias sobre jogo, entretenimento e jornalismo de casinos
 
-### Contributo editorial na Nomini Casino Guide
+### Como interpretar o perfil
 
-Na Nomini Casino Guide, este perfil integra o trabalho editorial sobre informação de casinos, explicações de jogos e comparação das condições das ofertas. A área de especialidade orienta a abordagem: as mecânicas são explicadas com base nos dados disponíveis, os bónus são organizados pelas respetivas condições e os métodos de pagamento são comparados por limites e tempos indicados.
+Neste projeto, Corey Levitan está identificado como **Jornalista e autor sobre casinos**. A descrição apresenta a área profissional indicada e ajuda a contextualizar os temas associados ao perfil. Não comprova que tenha testado pessoalmente todos os jogos referidos, obtido um resultado específico ou aprovado cada artigo publicado no site.
 
-### Como interpretar este perfil
+### Contexto editorial
 
-Ao comparar jogos e ofertas de casino, são importantes os termos completos, a versão concreta do jogo e as regras apresentadas para cada conta. As comparações editoriais devem separar os dados registados da interpretação e ligar às páginas de detalhe e a fontes primárias. Este perfil descreve a área profissional, mas não substitui a consulta das condições de uma oferta específica.
+As regras, funcionalidades e valores de RTP devem ser confirmados para a versão concreta do jogo. As promoções exigem a leitura das condições completas; os meios de pagamento, limites e prazos podem variar conforme o país e a conta. Para informação sujeita a alterações, devem prevalecer as fontes primárias atuais.
 
 ### Perfis profissionais públicos
 
-[LinkedIn](https://www.linkedin.com/in/coreylevitan) · [Medium](https://corey-levitan-merklin.medium.com/)
+[LinkedIn](https://www.linkedin.com/in/coreylevitan) · [Site](https://corey-levitan-merklin.medium.com/)
 
-| Função | Foco | Perfil público | Especialidade |
-| --- | --- | --- | --- |
-| Jornalista e autor sobre casinos | Las Vegas, notícias sobre jogo, entretenimento e jornalismo de casinos | [LinkedIn](https://www.linkedin.com/in/coreylevitan) · [Medium](https://corey-levitan-merklin.medium.com/) | Las Vegas, notícias sobre jogo, entretenimento e jornalismo de casinos |
+| Função | Temas | Perfil público | Especialidade |
+|---|---|---|---|
+| Jornalista e autor sobre casinos | Las Vegas, notícias sobre jogo, entretenimento e jornalismo de casinos | [LinkedIn](https://www.linkedin.com/in/coreylevitan) · [Site](https://corey-levitan-merklin.medium.com/) | Las Vegas, notícias sobre jogo, entretenimento e jornalismo de casinos |

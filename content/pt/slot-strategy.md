@@ -21,9 +21,9 @@ screenshots_note: 'Ilustração editorial; não é uma captura de uma interface 
 ---
 ## Guia de slots: funcionalidades e mecânicas
 
-Este guia reúne informações por tema para facilitar a comparação de regras e limitações. As regras dos jogos, o RTP, as condições dos bónus, os métodos de pagamento e a disponibilidade legal podem variar consoante a versão, o operador e o país. Confirme os dados na versão atualmente disponibilizada.
+O tema visual de um slot é apenas o início da análise. Para perceber como o jogo funciona, consulte as regras, a tabela de pagamentos, os critérios de ativação das funcionalidades e a forma como são apresentados o RTP e a volatilidade. Os dados de catálogo servem de orientação, mas não antecipam o resultado de uma sessão; a referência é a versão efetivamente disponível no jogo.
 
-Um caso prático ajuda a explicar como funciona um jackpot progressivo: o nosso [artigo sobre o Mega Fortune e o prémio de 3,5 milhões de euros]({{< relref "mega-fortune-progressive-jackpot" >}}) separa os factos confirmados de 2018 das regras publicadas do jogo, do RTP e dos limites dos dados de volatilidade disponíveis.
+Para ver um exemplo de prémio progressivo, consulte o [estudo de caso do Mega Fortune e do jackpot de 3,5 milhões de euros]({{< relref "mega-fortune-progressive-jackpot" >}}). O texto separa os factos divulgados em 2018, as regras publicadas do jogo e os aspetos que os materiais públicos não permitem confirmar.
 
 ## Gates of Olympus
 
@@ -39,16 +39,16 @@ Gates of Olympus inspira-se na mitologia grega e dá destaque aos multiplicadore
 
 ### Como interpretar os valores
 
-O RTP é um valor teórico calculado ao longo de um número muito elevado de rondas. Não prevê o resultado de uma jogada nem de uma sessão curta. A volatilidade indicada também não significa que vá ganhar.
+O RTP divulgado para Gates of Olympus é uma média teórica calculada ao longo de muitas rondas, não uma previsão para uma sessão curta. A volatilidade descreve a variação dos resultados, mas não antecipa a jogada seguinte.
 
 ### O que verificar antes de jogar
 
-Abra a tabela de pagamentos antes de jogar. Aí encontra os valores dos símbolos, as condições das funcionalidades e as regras de rodadas grátis ou jackpots. Defina um orçamento e jogue apenas onde for legal.
-
----
+Antes de abrir Gates of Olympus, consulte a ajuda e a tabela de pagamentos. Confirme os valores dos símbolos, a ativação das funcionalidades e as regras de rodadas grátis ou jackpots. Defina um orçamento e respeite a idade mínima e a legislação local.
 
 ## Gates of Olympus: Análise editorial aprofundada
-Gates of Olympus está associado a Pragmatic Play. A ficha enumera símbolos Scatter, multiplicadores, funcionalidade de bónus e um tema centrado em a Greek-mythology setting. Estes dados descrevem o registo do site, mas não substituem a verificação da versão carregada. Antes de publicar, confirma a ajuda do jogo, a tabela de pagamentos e os limites de aposta.
+
+Este perfil reúne a informação publicada sobre Gates of Olympus e explica as mecânicas indicadas. É um recurso editorial, não uma declaração de teste prático nem uma previsão; confirme as regras concretas na versão disponível.
+
 
 ### Tema e primeira impressão
 
@@ -92,16 +92,16 @@ Gonzo’s Quest inspira-se numa caça ao tesouro e usa símbolos em queda, em ve
 
 ### Como interpretar os valores
 
-O RTP é um valor teórico calculado ao longo de um número muito elevado de rondas. Não prevê o resultado de uma jogada nem de uma sessão curta. A volatilidade indicada também não significa que vá ganhar.
+Os valores de Gonzo's Quest devem ser lidos como referências estatísticas, não como uma previsão individual. O RTP é calculado a longo prazo e a volatilidade caracteriza as oscilações possíveis; nenhum dos dois indica o que acontecerá numa sessão concreta.
 
 ### O que verificar antes de jogar
 
-Abra a tabela de pagamentos antes de jogar. Aí encontra os valores dos símbolos, as condições das funcionalidades e as regras de rodadas grátis ou jackpots. Defina um orçamento e jogue apenas onde for legal.
-
----
+Confirme a versão de Gonzo's Quest que está disponível: a tabela de pagamentos explica os símbolos, as funcionalidades especiais e as condições das rondas de bónus. Veja também o intervalo de apostas e estabeleça um limite antes de começar.
 
 ## Gonzo's Quest: Análise editorial aprofundada
-Gonzo's Quest está associado a NetEnt. A ficha enumera mecânica Avalanche, multiplicadores, Free Falls e um tema centrado em an exploration theme. Estes dados descrevem o registo do site, mas não substituem a verificação da versão carregada. Antes de publicar, confirma a ajuda do jogo, a tabela de pagamentos e os limites de aposta.
+
+As notas sobre Gonzo's Quest distinguem os dados registados do jogo da respetiva explicação editorial. Utilize-as como orientação e confirme depois os símbolos, as funcionalidades e as apostas na ajuda da versão apresentada.
+
 
 ### Tema e primeira impressão
 
@@ -145,16 +145,16 @@ Legacy of Dead tem um tema e funcionalidades próprios que vale a pena conhecer 
 
 ### Como interpretar os valores
 
-O RTP é um valor teórico calculado ao longo de um número muito elevado de rondas. Não prevê o resultado de uma jogada nem de uma sessão curta. A volatilidade indicada também não significa que vá ganhar.
+O RTP divulgado para Legacy of Dead é uma média teórica calculada ao longo de muitas rondas, não uma previsão para uma sessão curta. A volatilidade descreve a variação dos resultados, mas não antecipa a jogada seguinte.
 
 ### O que verificar antes de jogar
 
-Abra a tabela de pagamentos antes de jogar. Aí encontra os valores dos símbolos, as condições das funcionalidades e as regras de rodadas grátis ou jackpots. Defina um orçamento e jogue apenas onde for legal.
-
----
+Antes de abrir Legacy of Dead, consulte a ajuda e a tabela de pagamentos. Confirme os valores dos símbolos, a ativação das funcionalidades e as regras de rodadas grátis ou jackpots. Defina um orçamento e respeite a idade mínima e a legislação local.
 
 ## Legacy of Dead: Análise editorial aprofundada
-Legacy of Dead está associado a Play'n GO. A ficha enumera símbolo expansivo, rodadas grátis, jogo de bónus e um tema centrado em an ancient-world adventure theme. Estes dados descrevem o registo do site, mas não substituem a verificação da versão carregada. Antes de publicar, confirma a ajuda do jogo, a tabela de pagamentos e os limites de aposta.
+
+Este perfil reúne a informação publicada sobre Legacy of Dead e explica as mecânicas indicadas. É um recurso editorial, não uma declaração de teste prático nem uma previsão; confirme as regras concretas na versão disponível.
+
 
 ### Tema e primeira impressão
 
@@ -198,16 +198,16 @@ Mega Moolah tem um tema e funcionalidades próprios que vale a pena conhecer ant
 
 ### Como interpretar os valores
 
-O RTP é um valor teórico calculado ao longo de um número muito elevado de rondas. Não prevê o resultado de uma jogada nem de uma sessão curta. A volatilidade indicada também não significa que vá ganhar.
+Os valores de Mega Moolah devem ser lidos como referências estatísticas, não como uma previsão individual. O RTP é calculado a longo prazo e a volatilidade caracteriza as oscilações possíveis; nenhum dos dois indica o que acontecerá numa sessão concreta.
 
 ### O que verificar antes de jogar
 
-Abra a tabela de pagamentos antes de jogar. Aí encontra os valores dos símbolos, as condições das funcionalidades e as regras de rodadas grátis ou jackpots. Defina um orçamento e jogue apenas onde for legal.
-
----
+Confirme a versão de Mega Moolah que está disponível: a tabela de pagamentos explica os símbolos, as funcionalidades especiais e as condições das rondas de bónus. Veja também o intervalo de apostas e estabeleça um limite antes de começar.
 
 ## Mega Moolah: Análise editorial aprofundada
-Mega Moolah está associado a Microgaming. A ficha enumera jackpot progressivo, símbolos Wild, rodadas grátis e um tema centrado em a jackpot-centred presentation. Estes dados descrevem o registo do site, mas não substituem a verificação da versão carregada. Antes de publicar, confirma a ajuda do jogo, a tabela de pagamentos e os limites de aposta.
+
+As notas sobre Mega Moolah distinguem os dados registados do jogo da respetiva explicação editorial. Utilize-as como orientação e confirme depois os símbolos, as funcionalidades e as apostas na ajuda da versão apresentada.
+
 
 ### Tema e primeira impressão
 
@@ -251,16 +251,16 @@ Rich Wilde and the Book of Dead tem um tema e funcionalidades próprios que vale
 
 ### Como interpretar os valores
 
-O RTP é um valor teórico calculado ao longo de um número muito elevado de rondas. Não prevê o resultado de uma jogada nem de uma sessão curta. A volatilidade indicada também não significa que vá ganhar.
+O RTP divulgado para Rich Wilde and the Book of Dead é uma média teórica calculada ao longo de muitas rondas, não uma previsão para uma sessão curta. A volatilidade descreve a variação dos resultados, mas não antecipa a jogada seguinte.
 
 ### O que verificar antes de jogar
 
-Abra a tabela de pagamentos antes de jogar. Aí encontra os valores dos símbolos, as condições das funcionalidades e as regras de rodadas grátis ou jackpots. Defina um orçamento e jogue apenas onde for legal.
-
----
+Antes de abrir Rich Wilde and the Book of Dead, consulte a ajuda e a tabela de pagamentos. Confirme os valores dos símbolos, a ativação das funcionalidades e as regras de rodadas grátis ou jackpots. Defina um orçamento e respeite a idade mínima e a legislação local.
 
 ## Rich Wilde and the Book of Dead: Análise editorial aprofundada
-Rich Wilde and the Book of Dead está associado a Play'n GO. A ficha enumera símbolos Wild, rodadas grátis, símbolo expansivo e um tema centrado em a book-and-adventure theme. Estes dados descrevem o registo do site, mas não substituem a verificação da versão carregada. Antes de publicar, confirma a ajuda do jogo, a tabela de pagamentos e os limites de aposta.
+
+Este perfil reúne a informação publicada sobre Rich Wilde and the Book of Dead e explica as mecânicas indicadas. É um recurso editorial, não uma declaração de teste prático nem uma previsão; confirme as regras concretas na versão disponível.
+
 
 ### Tema e primeira impressão
 

@@ -19,9 +19,7 @@ screenshots_note: 'Ta ilustracja została przygotowana na potrzeby artykułu. Ni
 
 ## Rekordowa wygrana — i ważne rozróżnienie
 
-11 października 2018 roku NetEnt poinformował o jackpocie w wysokości 3,5 mln euro w grze Mega Fortune. Zwycięzcą był gracz z Dolnej Saksonii, który grał w PokerStars Casino. Według komunikatu był dziennikarzem, wrócił wieczorem do domu i rozpoczął grę, czekając, aż w piekarniku upiecze się pizza. NetEnt podał również, że przed wygraną gracz wpłacił nieco ponad 2 euro. Firma określiła wypłatę jako największą wygraną online w historii PokerStars Casino w tamtym czasie. Poinformowała też, że w 2018 roku Mega Fortune wypłaciło osiem jackpotów przekraczających milion euro.
-
-Ta historia robi wrażenie, ale przy wyjaśnianiu mechaniki istotny jest jeden szczegół: **NetEnt podał kwotę depozytu nieco wyższą niż 2 euro, a nie stawkę 2 euro na zwycięskim obrocie.** Komunikat nie określa stawki użytej w tym obrocie ani liczby wcześniejszych obrotów. Opisanie zdarzenia jako „zakład za 2 euro zmienił się w 3,5 miliona” wykraczałoby poza to, co potwierdza źródło.
+Mega Fortune to przydatny przykład pokazujący, dlaczego głośna wygrana nie powinna być utożsamiana z pełnym opisem mechaniki gry ani z zakresem potwierdzonych informacji. Artykuł oddziela zdarzenie ogłoszone w 2018 roku od publicznych danych o progresywnej puli, uruchamianiu bonusu, RTP i zmienności. Wskazuje też kwestie, których dostępne źródła nie rozstrzygają.
 
 ## Co oznacza jackpot progresywny?
 

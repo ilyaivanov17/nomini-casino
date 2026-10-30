@@ -19,9 +19,7 @@ screenshots_note: 'Diese eigens erstellte Illustration zeigt weder die Original-
 
 ## Ein Rekordgewinn – und eine wichtige Unterscheidung
 
-Am 11. Oktober 2018 meldete NetEnt einen Jackpot von 3,5 Millionen Euro bei Mega Fortune. Gewonnen hatte ein Spieler aus Niedersachsen, der bei PokerStars Casino spielte. Laut der damaligen Mitteilung war er Journalist, kam am Abend nach Hause und startete das Spiel, während eine Pizza im Ofen war. NetEnt schrieb außerdem, dass der Spieler zuvor etwas mehr als zwei Euro eingezahlt hatte. Der Gewinn sei damals der höchste Online-Gewinn in der Geschichte von PokerStars Casino gewesen. NetEnt zählte für Mega Fortune im Jahr 2018 insgesamt acht Jackpots von jeweils mehr als einer Million Euro.
-
-Die Geschichte ist bemerkenswert. Für die Erklärung der Spielmechanik ist aber eine Formulierung entscheidend: **NetEnt sprach von einer Einzahlung von etwas mehr als zwei Euro – nicht von einem Einsatz von zwei Euro auf dem Gewinn-Dreh.** Die Pressemitteilung nennt weder den konkreten Einsatz des entscheidenden Spins noch die Zahl der vorherigen Drehungen. Wer die Geschichte als „zwei Euro Einsatz verwandelten sich in 3,5 Millionen“ wiedergibt, macht aus der Quelle eine stärkere Behauptung, als sie belegt.
+Mega Fortune eignet sich als Fallbeispiel, weil ein spektakulärer Jackpot leicht mit den tatsächlichen Spielmechaniken und den belegten Informationen vermischt wird. Dieser Beitrag trennt den gemeldeten Gewinn aus dem Jahr 2018 von den Angaben, die öffentlich zu Jackpot-Pools, Bonus-Auslösern, RTP und Volatilität verfügbar sind. Ebenso wird kenntlich gemacht, welche Fragen die Quellen offenlassen.
 
 ## Was einen progressiven Jackpot ausmacht
 

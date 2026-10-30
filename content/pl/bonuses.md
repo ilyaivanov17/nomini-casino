@@ -5,7 +5,7 @@ type: page
 author: cristina-tudose
 seo_title: Warunki bonusów kasynowych – wyjaśnienie | Nomini Casino Guide
 lastmod: '2026-10-30'
-article_review_status: editorial-approved
+article_review_status: editorial-review-pending
 reviewed_by: Cristina Tudose
 review_date: '2026-10-30'
 build:
@@ -27,10 +27,9 @@ screenshots:
 - /images/guides/bonuses.svg
 screenshots_note: 'Ilustracja redakcyjna, nie zrzut ekranu rzeczywistego interfejsu operatora.'
 ---
+Kwota widoczna w reklamie nie wystarcza, by ocenić promocję. Przed jej przyjęciem ustal, od jakiej podstawy liczony jest obrót, które gry się do niego zaliczają, jakie obowiązują terminy oraz czy występują limity stawek lub wypłat. Przykłady w tym poradniku objaśniają typowe zapisy; nie potwierdzają dostępności konkretnej aktualnej kampanii Nomini.
 
-Bonus w wysokości 500 € może wyglądać atrakcyjniej niż 50 darmowych spinów. Sama reklamowana kwota nie wyjaśnia jednak, co trzeba zrobić, aby skorzystać z bonusu lub wypłacić wygraną. Sprawdź wymagania obrotu, gry uwzględniane w obrocie, termin ważności oraz zasady wypłat, zanim zaakceptujesz promocję.
-
-Najważniejsze szczegóły nie zawsze są widoczne obok reklamowanej kwoty. Przed przystąpieniem do promocji lub wpłatą przeczytaj pełny regulamin. Ten poradnik wyjaśnia typowe pojęcia; nie opisuje aktualnej oferty Nomini. Zawsze decydują warunki konkretnej promocji i przepisy właściwe dla danego kraju.
+Rozstrzygające są pełne warunki danej oferty i zasady obowiązujące w konkretnym kraju. Sprawdź je ponownie tuż przed aktywacją, ponieważ kryteria udziału, metody płatności i reguły promocji mogą się zmieniać.
 
 ## Co sprawdzić w pierwszej kolejności
 

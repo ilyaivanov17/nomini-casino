@@ -26,7 +26,7 @@ screenshots_note: 'Illustrative redaktionelle Grafik, kein echter Screenshot ein
 ---
 ## Einzahlungen, Auszahlungen und Zahlungsmethoden
 
-Dieser Leitfaden bündelt vorhandene Informationen nach Themen, damit wichtige Regeln und Einschränkungen leichter vergleichbar sind. Spielregeln, RTP-Werte, Bonusbedingungen, Zahlungsoptionen und rechtliche Verfügbarkeit können sich je nach Version, Betreiber und Land ändern. Prüfe die Angaben direkt in der aktuell angebotenen Version.
+Bei der Wahl eines Zahlungswegs reicht es nicht, nur auf ein Logo zu achten. Prüfe im eigenen Konto, welche Methoden tatsächlich angeboten werden, welche Währung und Limits gelten, ob Gebühren anfallen, welcher Zeitraum genannt wird und ob derselbe Weg auch für Auszahlungen vorgesehen ist. Verfügbarkeit und Dauer können von Land, Verifizierung und Zahlungsdienst abhängen; maßgeblich ist der Kassenbereich nach dem Login.
 
 ## Geld einzahlen bei Nomini
 

@@ -22,7 +22,7 @@ screenshots_note: 'Illustrative redaktionelle Grafik, kein echter Screenshot ein
 ---
 ## Slot-Leitfaden: Grundlagen und Spielprofile
 
-Dieser Leitfaden bündelt vorhandene Informationen nach Themen, damit wichtige Regeln und Einschränkungen leichter vergleichbar sind. Spielregeln, RTP-Werte, Bonusbedingungen, Zahlungsoptionen und rechtliche Verfügbarkeit können sich je nach Version, Betreiber und Land ändern. Prüfe die Angaben direkt in der aktuell angebotenen Version.
+Dieses Verzeichnis fasst Profile ausgewählter Slots zusammen, damit sich Spielmechanik und veröffentlichte Kennzahlen an einer Stelle nachlesen lassen. Ein Profil ist ein Einstieg in Auszahlungstabelle und Spielhilfe, keine Empfehlung und keine Ergebnisprognose. RTP, Volatilität, Einsätze und Funktionen können je nach Konfiguration, Region und Version abweichen; prüfe die Angaben des tatsächlich gestarteten Spiels.
 
 ## Bigger Bass Bonanza
 
@@ -38,17 +38,16 @@ Das Angler-Thema und die Bonusmechanik geben Bigger Bass Bonanza seinen eigenen 
 
 ### Was die Zahlen aussagen – und was nicht
 
-RTP ist ein theoretischer Wert über sehr viele Spielrunden. Er sagt nicht voraus, was in einer einzelnen Runde oder während einer kurzen Sitzung passiert. Auch die angegebene Volatilität ist keine Aussage darüber, ob du gewinnen wirst.
+Der für Bigger Bass Bonanza angegebene RTP ist ein theoretischer Durchschnitt über sehr viele Runden und keine Prognose für eine kurze Sitzung. Die Volatilität beschreibt Schwankungen der Ergebnisse, nicht den nächsten Spin.
 
 ### Was du vor dem Start wissen solltest
 
-Öffne vor dem Spielen die Auszahlungstabelle. Dort findest du die Symbolwerte, die Bedingungen für Sonderfunktionen und gegebenenfalls Regeln für Freispiele oder Jackpots. Lege ein festes Budget fest und spiele nur, wenn dies an deinem Aufenthaltsort erlaubt ist.
-
----
+Öffne vor dem Start von Bigger Bass Bonanza die Spielhilfe und Auszahlungstabelle. Prüfe Symbolwerte, Auslöser von Sonderfunktionen und Regeln für Freispiele oder Jackpots. Lege vorher ein Budget fest und beachte die lokalen Alters- und Rechtsvorgaben.
 
 ## Bigger Bass Bonanza: Ausführliche redaktionelle Analyse
 
-Dieser Beitrag ordnet Bigger Bass Bonanza redaktionell ein. Er trennt Spielinformationen von Interpretation und sagt keine Ergebnisse voraus.
+Dieses Profil ordnet die veröffentlichten Angaben zu Bigger Bass Bonanza ein und erklärt die aufgeführten Spielmechaniken. Es ist eine redaktionelle Orientierung, kein Nachweis eines Praxistests oder eine Ergebnisprognose. Die genauen Regeln sind in der verfügbaren Spielversion zu prüfen.
+
 
 Bigger Bass Bonanza wird von Pragmatic Play angeboten. Das hinterlegte Profil nennt die Funktionen Scatter, Freispiele, Multiplikatoren; als Themenrahmen dient fishing and aquatic imagery. Diese Angaben beschreiben das Profil der Seite, ersetzen aber nicht die Kontrolle der tatsächlich geladenen Spielversion. Vor einer Veröffentlichung sollten Spielhilfe, Auszahlungstabelle und Einsatzgrenzen direkt geprüft werden.
 
@@ -90,17 +89,16 @@ Bonanza ist für sein Cluster-Spielprinzip bekannt: Zusammenhängende Symbole k�
 
 ### Was die Zahlen aussagen – und was nicht
 
-RTP ist ein theoretischer Wert über sehr viele Spielrunden. Er sagt nicht voraus, was in einer einzelnen Runde oder während einer kurzen Sitzung passiert. Auch die angegebene Volatilität ist keine Aussage darüber, ob du gewinnen wirst.
+Die Kennzahlen zu Bonanza sind als Orientierung zu verstehen, nicht als persönliche Vorhersage. RTP wird langfristig berechnet; die Volatilität beschreibt mögliche Ausschläge. Was in einer Sitzung passiert, lässt sich daraus nicht ableiten.
 
 ### Was du vor dem Start wissen solltest
 
-Öffne vor dem Spielen die Auszahlungstabelle. Dort findest du die Symbolwerte, die Bedingungen für Sonderfunktionen und gegebenenfalls Regeln für Freispiele oder Jackpots. Lege ein festes Budget fest und spiele nur, wenn dies an deinem Aufenthaltsort erlaubt ist.
-
----
+Prüfe die tatsächlich verfügbare Version von Bonanza: In der Auszahlungstabelle stehen Symbolwerte, Sonderfunktionen und Bedingungen für Bonusrunden. Sieh dir auch den Einsatzbereich an und setze vorab ein Limit.
 
 ## Bonanza: Ausführliche redaktionelle Analyse
 
-Dieser Beitrag ordnet Bonanza redaktionell ein. Er trennt Spielinformationen von Interpretation und sagt keine Ergebnisse voraus.
+Die Hinweise zu Bonanza trennen hinterlegte Spieldaten von redaktioneller Einordnung. Nutze sie als Orientierung und gleiche Symbole, Funktionen sowie Einsatzmöglichkeiten anschließend mit der Spielhilfe der angebotenen Version ab.
+
 
 Bonanza wird von Big Time Gaming angeboten. Das hinterlegte Profil nennt die Funktionen Cluster-Gewinne, Bonusfeature, Freispiele; als Themenrahmen dient a compact, high-energy slot presentation. Diese Angaben beschreiben das Profil der Seite, ersetzen aber nicht die Kontrolle der tatsächlich geladenen Spielversion. Vor einer Veröffentlichung sollten Spielhilfe, Auszahlungstabelle und Einsatzgrenzen direkt geprüft werden.
 
@@ -142,17 +140,16 @@ Book of Dead setzt auf eine Abenteuerwelt rund um das alte Ägypten. Im Mittelpu
 
 ### Was die Zahlen aussagen – und was nicht
 
-RTP ist ein theoretischer Wert über sehr viele Spielrunden. Er sagt nicht voraus, was in einer einzelnen Runde oder während einer kurzen Sitzung passiert. Auch die angegebene Volatilität ist keine Aussage darüber, ob du gewinnen wirst.
+Der für Book of Dead angegebene RTP ist ein theoretischer Durchschnitt über sehr viele Runden und keine Prognose für eine kurze Sitzung. Die Volatilität beschreibt Schwankungen der Ergebnisse, nicht den nächsten Spin.
 
 ### Was du vor dem Start wissen solltest
 
-Öffne vor dem Spielen die Auszahlungstabelle. Dort findest du die Symbolwerte, die Bedingungen für Sonderfunktionen und gegebenenfalls Regeln für Freispiele oder Jackpots. Lege ein festes Budget fest und spiele nur, wenn dies an deinem Aufenthaltsort erlaubt ist.
-
----
+Öffne vor dem Start von Book of Dead die Spielhilfe und Auszahlungstabelle. Prüfe Symbolwerte, Auslöser von Sonderfunktionen und Regeln für Freispiele oder Jackpots. Lege vorher ein Budget fest und beachte die lokalen Alters- und Rechtsvorgaben.
 
 ## Book of Dead: Ausführliche redaktionelle Analyse
 
-Dieser Beitrag ordnet Book of Dead redaktionell ein. Er trennt Spielinformationen von Interpretation und sagt keine Ergebnisse voraus.
+Dieses Profil ordnet die veröffentlichten Angaben zu Book of Dead ein und erklärt die aufgeführten Spielmechaniken. Es ist eine redaktionelle Orientierung, kein Nachweis eines Praxistests oder eine Ergebnisprognose. Die genauen Regeln sind in der verfügbaren Spielversion zu prüfen.
+
 
 Book of Dead wird von Play'n GO angeboten. Das hinterlegte Profil nennt die Funktionen Scatter, Freispiele, Erweiterndes Symbol; als Themenrahmen dient an ancient-Egypt adventure theme. Diese Angaben beschreiben das Profil der Seite, ersetzen aber nicht die Kontrolle der tatsächlich geladenen Spielversion. Vor einer Veröffentlichung sollten Spielhilfe, Auszahlungstabelle und Einsatzgrenzen direkt geprüft werden.
 
@@ -194,17 +191,16 @@ Dragon’s Luck setzt auf ein Drachenthema und kombiniert es laut Datensatz mit 
 
 ### Was die Zahlen aussagen – und was nicht
 
-RTP ist ein theoretischer Wert über sehr viele Spielrunden. Er sagt nicht voraus, was in einer einzelnen Runde oder während einer kurzen Sitzung passiert. Auch die angegebene Volatilität ist keine Aussage darüber, ob du gewinnen wirst.
+Die Kennzahlen zu Dragon's Luck sind als Orientierung zu verstehen, nicht als persönliche Vorhersage. RTP wird langfristig berechnet; die Volatilität beschreibt mögliche Ausschläge. Was in einer Sitzung passiert, lässt sich daraus nicht ableiten.
 
 ### Was du vor dem Start wissen solltest
 
-Öffne vor dem Spielen die Auszahlungstabelle. Dort findest du die Symbolwerte, die Bedingungen für Sonderfunktionen und gegebenenfalls Regeln für Freispiele oder Jackpots. Lege ein festes Budget fest und spiele nur, wenn dies an deinem Aufenthaltsort erlaubt ist.
-
----
+Prüfe die tatsächlich verfügbare Version von Dragon's Luck: In der Auszahlungstabelle stehen Symbolwerte, Sonderfunktionen und Bedingungen für Bonusrunden. Sieh dir auch den Einsatzbereich an und setze vorab ein Limit.
 
 ## Dragon's Luck: Ausführliche redaktionelle Analyse
 
-Dieser Beitrag ordnet Dragon's Luck redaktionell ein. Er trennt Spielinformationen von Interpretation und sagt keine Ergebnisse voraus.
+Die Hinweise zu Dragon's Luck trennen hinterlegte Spieldaten von redaktioneller Einordnung. Nutze sie als Orientierung und gleiche Symbole, Funktionen sowie Einsatzmöglichkeiten anschließend mit der Spielhilfe der angebotenen Version ab.
+
 
 Dragon's Luck wird von Play'n GO angeboten. Das hinterlegte Profil nennt die Funktionen Wilds, Scatter, Bonusspiel; als Themenrahmen dient a dragon and luck motif. Diese Angaben beschreiben das Profil der Seite, ersetzen aber nicht die Kontrolle der tatsächlich geladenen Spielversion. Vor einer Veröffentlichung sollten Spielhilfe, Auszahlungstabelle und Einsatzgrenzen direkt geprüft werden.
 
@@ -246,17 +242,16 @@ Fruit Party verbindet eine helle Fruchtoptik mit Tumble-Gewinnen und Multiplikat
 
 ### Was die Zahlen aussagen – und was nicht
 
-RTP ist ein theoretischer Wert über sehr viele Spielrunden. Er sagt nicht voraus, was in einer einzelnen Runde oder während einer kurzen Sitzung passiert. Auch die angegebene Volatilität ist keine Aussage darüber, ob du gewinnen wirst.
+Der für Fruit Party angegebene RTP ist ein theoretischer Durchschnitt über sehr viele Runden und keine Prognose für eine kurze Sitzung. Die Volatilität beschreibt Schwankungen der Ergebnisse, nicht den nächsten Spin.
 
 ### Was du vor dem Start wissen solltest
 
-Öffne vor dem Spielen die Auszahlungstabelle. Dort findest du die Symbolwerte, die Bedingungen für Sonderfunktionen und gegebenenfalls Regeln für Freispiele oder Jackpots. Lege ein festes Budget fest und spiele nur, wenn dies an deinem Aufenthaltsort erlaubt ist.
-
----
+Öffne vor dem Start von Fruit Party die Spielhilfe und Auszahlungstabelle. Prüfe Symbolwerte, Auslöser von Sonderfunktionen und Regeln für Freispiele oder Jackpots. Lege vorher ein Budget fest und beachte die lokalen Alters- und Rechtsvorgaben.
 
 ## Fruit Party: Ausführliche redaktionelle Analyse
 
-Dieser Beitrag ordnet Fruit Party redaktionell ein. Er trennt Spielinformationen von Interpretation und sagt keine Ergebnisse voraus.
+Dieses Profil ordnet die veröffentlichten Angaben zu Fruit Party ein und erklärt die aufgeführten Spielmechaniken. Es ist eine redaktionelle Orientierung, kein Nachweis eines Praxistests oder eine Ergebnisprognose. Die genauen Regeln sind in der verfügbaren Spielversion zu prüfen.
+
 
 Fruit Party wird von Pragmatic Play angeboten. Das hinterlegte Profil nennt die Funktionen Tumble, Gewinnmultiplikatoren, Freispiele; als Themenrahmen dient bright fruit imagery and a light arcade-like presentation. Diese Angaben beschreiben das Profil der Seite, ersetzen aber nicht die Kontrolle der tatsächlich geladenen Spielversion. Vor einer Veröffentlichung sollten Spielhilfe, Auszahlungstabelle und Einsatzgrenzen direkt geprüft werden.
 

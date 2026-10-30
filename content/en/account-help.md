@@ -28,7 +28,7 @@ screenshots_note: 'Illustrative editorial artwork, not a screenshot of a real op
 ---
 ## Account, registration, login and common questions
 
-This guide groups existing information by topic so rules and limitations are easier to compare. Game rules, RTP figures, bonus terms, payment options and legal availability can vary by version, operator and country. Check details directly in the version currently offered.
+Use this page as a navigation guide to registration, account access, identity checks and common questions. The exact steps and available functions are set by the official operator and may differ by country, payment method or account status. This independent guide cannot open, verify or recover a player account.
 
 ## Registration guide
 
@@ -142,19 +142,16 @@ A commission is not evidence that an offer is suitable or high quality. Compare 
 
 ### Compare: what matters in your situation?
 
-| Situation / point | Recommended step |
-|---|---|
-| Before acting | Read the full terms and check they apply to your country and account. |
-| If details differ | Save the exact wording, date and any reference number. |
-| If questions remain | Contact official support and never share a password or one-time code. |
+| Point to review | Practical check |
+| Referral link | Look for a clear affiliate disclosure near the link. |
+| Offer quality | Compare the same terms independently; commission is not a quality rating. |
+| Questions about terms | Use the operator's official information for account-specific details. |
 
 ### Related topics
 
-Use this portal’s payment, bonus and game pages to compare relevant information side by side. General information does not replace account-specific terms.
+The [bonus guide]({{< relref "bonuses" >}}) explains how to read promotion terms. Referral links may generate a commission; the disclosure describes the site's commercial relationship and should not be treated as a rating of the operator.
 
-Only gamble where it is legal for you, and set a firm budget. Never stake money you cannot afford to lose.
-
----
+Only gamble where it is legal for you, keep a fixed budget, and never stake money you cannot afford to lose.
 
 ## What should I do if a game freezes?
 
@@ -168,19 +165,16 @@ Contact official support with the game name, time, device and reference if avail
 
 ### Compare: what matters in your situation?
 
-| Situation / point | Recommended step |
-|---|---|
-| Before acting | Read the full terms and check they apply to your country and account. |
-| If details differ | Save the exact wording, date and any reference number. |
-| If questions remain | Contact official support and never share a password or one-time code. |
+| Point to record | Why it helps |
+| Time and game title | Helps the operator locate the relevant session. |
+| Error message or reference | Gives support a specific issue to investigate. |
+| Balance and game history | Check whether the round was settled before trying again. |
 
 ### Related topics
 
-Use this portal’s payment, bonus and game pages to compare relevant information side by side. General information does not replace account-specific terms.
+For payment or account questions, the [payment guide]({{< relref "payments" >}}) and account information may help. Keep the game title, time and support reference together so the operator can identify the session.
 
-Only gamble where it is legal for you, and set a firm budget. Never stake money you cannot afford to lose.
-
----
+Only gamble where it is legal for you, keep a fixed budget, and never stake money you cannot afford to lose.
 
 ## Is there a mobile app?
 
@@ -194,19 +188,16 @@ If the operator provides an app, use only a link from its verified official webs
 
 ### Compare: what matters in your situation?
 
-| Situation / point | Recommended step |
-|---|---|
-| Before acting | Read the full terms and check they apply to your country and account. |
-| If details differ | Save the exact wording, date and any reference number. |
-| If questions remain | Contact official support and never share a password or one-time code. |
+| App check | Safer approach |
+| Download source | Use only a verified operator or official app-store page. |
+| Publisher and permissions | Confirm the developer identity and requested access. |
+| No confirmed app link | Use the responsive website rather than an unknown download. |
 
 ### Related topics
 
-Use this portal’s payment, bonus and game pages to compare relevant information side by side. General information does not replace account-specific terms.
+The [game catalogue]({{< relref "slots" >}}) and the other guides are available through the responsive website. Until an official app listing is confirmed, avoid third-party installation files and check the publisher before granting permissions.
 
-Only gamble where it is legal for you, and set a firm budget. Never stake money you cannot afford to lose.
-
----
+Only gamble where it is legal for you, keep a fixed budget, and never stake money you cannot afford to lose.
 
 ## Is a current welcome bonus verified?
 
@@ -220,19 +211,16 @@ Compare the minimum deposit, wagering multiplier, expiry, maximum stake, exclude
 
 ### Compare: what matters in your situation?
 
-| Situation / point | Recommended step |
-|---|---|
-| Before acting | Read the full terms and check they apply to your country and account. |
-| If details differ | Save the exact wording, date and any reference number. |
-| If questions remain | Contact official support and never share a password or one-time code. |
+| Offer detail | What to verify |
+| Availability | Confirm the promotion is active for your country and account. |
+| Code and eligibility | Check the exact code, activation timing and qualifying deposit. |
+| Full conditions | Review wagering, expiry, stake limits, excluded games and withdrawal caps. |
 
 ### Related topics
 
-Use this portal’s payment, bonus and game pages to compare relevant information side by side. General information does not replace account-specific terms.
+The [bonus guide]({{< relref "bonuses" >}}) explains wagering and expiry conditions. The codes shown on this site were supplied by the site owner and are marked unverified; confirm whether a code is active and eligible with the operator.
 
-Only gamble where it is legal for you, and set a firm budget. Never stake money you cannot afford to lose.
-
----
+Only gamble where it is legal for you, keep a fixed budget, and never stake money you cannot afford to lose.
 
 ## Is this project itself a casino?
 
@@ -262,19 +250,16 @@ Before submitting, read the age and country eligibility rules, privacy informati
 
 ### Compare: what matters in your situation?
 
-| Situation / point | Recommended step |
-|---|---|
-| Before acting | Read the full terms and check they apply to your country and account. |
-| If details differ | Save the exact wording, date and any reference number. |
-| If questions remain | Contact official support and never share a password or one-time code. |
+| Registration check | Why it matters |
+| Age and location | Confirm legal access before creating an account. |
+| Personal details | Enter information that matches your own documents. |
+| Account security | Use a unique password and do not open extra accounts to bypass restrictions. |
 
 ### Related topics
 
-Use this portal’s payment, bonus and game pages to compare relevant information side by side. General information does not replace account-specific terms.
+The [responsible gambling guide]({{< relref "responsible-gaming" >}}) covers spending limits and warning signs. Registration should only take place where it is legal and should use the player's own accurate details.
 
-Only gamble where it is legal for you, and set a firm budget. Never stake money you cannot afford to lose.
-
----
+Only gamble where it is legal for you, keep a fixed budget, and never stake money you cannot afford to lose.
 
 ## How is slot fairness assessed?
 
@@ -288,19 +273,16 @@ Check the provider named on the game information screen, its RTP figure and any 
 
 ### Compare: what matters in your situation?
 
-| Situation / point | Recommended step |
-|---|---|
-| Before acting | Read the full terms and check they apply to your country and account. |
-| If details differ | Save the exact wording, date and any reference number. |
-| If questions remain | Contact official support and never share a password or one-time code. |
+| Evidence to look for | What it can establish |
+| Game provider and version | Identifies which rules and settings apply. |
+| RTP and paytable | Explains theoretical return and the published game rules. |
+| Testing or certification | Check who performed it and which jurisdiction it covers; it does not predict a session. |
 
 ### Related topics
 
-Use this portal’s payment, bonus and game pages to compare relevant information side by side. General information does not replace account-specific terms.
+The [slot features guide]({{< relref "slot-features" >}}) explains game mechanics and theoretical figures. RTP and testing information describe defined parameters; neither can promise how an individual session will end.
 
-Only gamble where it is legal for you, and set a firm budget. Never stake money you cannot afford to lose.
-
----
+Only gamble where it is legal for you, keep a fixed budget, and never stake money you cannot afford to lose.
 
 ## How do I withdraw winnings?
 
@@ -314,14 +296,13 @@ First check whether identity verification is complete, whether the payment metho
 
 ### Compare: what matters in your situation?
 
-| Situation / point | Recommended step |
-|---|---|
-| Before acting | Read the full terms and check they apply to your country and account. |
-| If details differ | Save the exact wording, date and any reference number. |
-| If questions remain | Contact official support and never share a password or one-time code. |
+| Withdrawal check | Before confirming |
+| Verification | Make sure any required identity checks are complete. |
+| Payment route | Check account ownership, method availability, fees and limits. |
+| Confirmation | Save the transaction reference and status; use official support if delayed. |
 
 ### Related topics
 
-Use this portal’s payment, bonus and game pages to compare relevant information side by side. General information does not replace account-specific terms.
+The [payment guide]({{< relref "payments" >}}) sets out available payment information and general processing estimates. Actual timing depends on the operator, payment provider, identity checks and account-specific terms.
 
-Only gamble where it is legal for you, and set a firm budget. Never stake money you cannot afford to lose.
+Only gamble where it is legal for you, keep a fixed budget, and never stake money you cannot afford to lose.
