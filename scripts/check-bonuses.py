@@ -20,8 +20,8 @@ for item in items:
     for key in ("code", "amount", "status", "source_url", "expires"):
         if key not in item:
             sys.exit(f"ERROR: bonus record missing '{key}'.")
-    if not item["code"] or not item["amount"]:
-        sys.exit("ERROR: each bonus needs a code and display amount.")
+    if not item["code"]:
+        sys.exit("ERROR: each bonus needs a code.")
     if item["code"] in seen:
         sys.exit(f"ERROR: duplicate promo code '{item['code']}'.")
     seen.add(item["code"])
