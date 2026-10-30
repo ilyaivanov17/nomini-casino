@@ -2,8 +2,8 @@
 title: Legal information and privacy
 description: 'Legal information, privacy, cookies and important details about this informational website.'
 type: page
-seo_title: Legal information and privacy | Instant Casino
-lastmod: '2026-10-28'
+seo_title: 'Legal information and privacy | Nomini Casino Guide'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -25,9 +25,9 @@ This guide groups existing information by topic so rules and limitations are eas
 
 ## 1. Scope and contact
 
-Instant Casino is an information and comparison website about online-casino topics. This notice describes the types of processing that may occur when you visit the site or contact the editorial team. The precise technical details also depend on the hosting and email services actually used.
+Nomini Casino Guide is an independent information and comparison website about Nomini. It is not the official Nomini website and is not operated by the casino. This notice describes types of data processing that may occur when you visit this guide. The precise technical details depend on the hosting and email services actually used.
 
-For privacy-related enquiries, contact the Instant Casino Editorial Team at [info@instant.com](mailto:info@instant.com) or by phone at [+49 10 111 0253](tel:+49101110253). Please provide only the information needed to handle your request.
+
 
 ## 2. Technical access data
 
@@ -59,7 +59,7 @@ Data should be retained only for as long as needed for the purpose or as require
 
 ## 9. Privacy rights
 
-Depending on the law that applies, you may have rights to access, rectify or erase personal data, restrict or object to processing, and request data portability. Where processing is based on consent, it may be withdrawn for the future. Use the contact details above for a privacy request. You may also complain to a competent data-protection authority.
+Depending on the law that applies, you may have rights to access, rectify or erase personal data, restrict or object to processing, and request data portability. Where processing is based on consent, it may be withdrawn for the future. As no verified publisher contact has been supplied for this guide, use the contact details of the relevant hosting provider where applicable or contact a competent data-protection authority.
 
 ## 10. Updates
 
@@ -102,16 +102,16 @@ Use the consent controls shown on the website where available. Clearing browser 
 
 ## Website and editorial contact
 
-**Instant Casino Editorial Team**
+**Independent Nomini Casino Guide**
 
-- Email: [info@instant.com](mailto:info@instant.com)
-- Phone: [+49 10 111 0253](tel:+49101110253)
+
+
 
 This page concerns an information and comparison website about online-casino topics. The contact details above are for editorial matters, corrections, source notes and general enquiries.
 
 ## Nature of the website
 
-Instant Casino publishes editorial information and comparisons about games, bonuses, payment methods and related topics. The website does not accept player wagers, operate player accounts or process deposits and withdrawals as a gambling operator. Account and payment matters belong to the relevant operator.
+Nomini Casino Guide publishes editorial information and comparisons about games, bonuses, payment methods and related topics. The website does not accept player wagers, operate player accounts or process deposits and withdrawals as a gambling operator. Account and payment matters belong to the relevant operator.
 
 ## Editorial content and updates
 
@@ -129,19 +129,12 @@ External websites are linked as additional sources or offers. Their operators ar
 
 Texts, images and other materials are protected by applicable intellectual-property laws. Reuse beyond legally permitted exceptions requires permission from the relevant rights holder.
 
-## Publisher and company details
+## Publisher identity and Nomini operator information
 
-The publisher has supplied the following company details for this website:
+The legal identity and registered address of the publisher of this independent guide have not yet been verified and are therefore not stated here. This website is an independent information resource, not the official Nomini website and not the casino operator.
 
-- **Registered legal name:** Instant Gaming plc
-- **Company registration number:** C59314
-- **Registered address:** Level 7, The Plaza Business Centre, Bisazza Street, Sliema, SLM 1640, Malta
-- **Gaming regulator named by the publisher:** [Malta Gaming Authority (MGA)](https://www.mga.org.mt/licensee-hub/licensee-register/)
-- **Licence reference supplied:** MGA/CRP/237/2013
-- **Licence type and original issue date supplied:** B2C Gaming Service Licence; 1 August 2018
+Nomini's [official General Terms and Conditions](https://nomini.com/en/rules), version 1.12, state that the terms were last updated on 19 August 2026. In the reviewed text, “Company” is described as the company operating the website, but the page does not identify that legal entity by registered name or company number. This guide therefore does not publish an unverified company identity or licence reference. Readers should consult the current official terms and applicable regulator information for their jurisdiction.
 
-The MGA's [official Licensee Register](https://www.mga.org.mt/licensee-hub/licensee-register/) is the primary place to check the current licence holder, authorised activities and status. Company details can be checked through the [Malta Business Registry](https://www.mbr.mt/). These official registers are linked for independent verification; this page does not represent a live registry extract, and the licence reference above should not be taken on its own as confirmation that a licence is currently active or covers this website or every market.
+For account, deposit, withdrawal or bonus matters, contact Nomini through its official website. This guide does not accept wagers, hold player balances or process transactions.
 
-Instant Casino publishes informational and comparative content. It does not accept wagers, operate player accounts or process deposits and withdrawals through this website. Do not confuse information about a named company or gaming licence with proof that every third-party casino reviewed here is licensed in your jurisdiction.
-
-**Last updated: 29 October 2026**
+**Last updated: 30 October 2026**
