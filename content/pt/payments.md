@@ -2,8 +2,8 @@
 title: Depósitos, levantamentos e métodos de pagamento
 description: 'Compare depósitos e levantamentos, possíveis taxas, tempos de processamento e verificações.'
 type: page
-seo_title: Depósitos, levantamentos e métodos de pagamento | Instant Casino
-lastmod: '2026-10-28'
+seo_title: Depósitos, levantamentos e métodos de pagamento | Nomini Casino Guide
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -30,7 +30,7 @@ Este guia reúne informações por tema para facilitar a comparação de regras 
 
 ### Como encontrar a área de depósitos
 
-1. Abre a Instant Casino através do endereço oficial que já conheces e inicia sessão. Nunca introduzas as credenciais numa página informativa independente.
+1. Abre a Nomini através do endereço oficial que já conheces e inicia sessão. Nunca introduzas as credenciais numa página informativa independente.
 2. Na conta, procura **Caixa**, **Depositar** ou uma secção de pagamentos com nome semelhante. A designação exata pode variar.
 3. Escolhe um método que esteja realmente disponível na tua conta. Confirma no caixa o valor mínimo, a moeda, as taxas e o prazo estimado.
 4. Introduz o montante e revê o resumo. Se pretenderes usar um bónus, lê as condições antes de pagar e confirma se o método escolhido é elegível.
@@ -50,9 +50,11 @@ Verifique se o método é elegível para a promoção pretendida. Leia as condi�
 
 Guarde a confirmação e a referência da transação. Não envie dados completos do cartão nem credenciais para um site editorial ou contacto não oficial.
 
-## Depósitos no Instant Casino: o que verificar antes de pagar
+## Depósitos no Nomini: o que verificar antes de pagar
 
-Um guia útil sobre **depósitos no Instant Casino** deve explicar mais do que os logótipos de pagamento. Antes de escolher, confirme os valores mínimo e máximo apresentados na sua conta, a moeda, eventuais comissões do prestador e se o mesmo método pode ser usado para levantamentos. Os valores da tabela são os dados guardados neste projeto; não garantem que todos os métodos estejam disponíveis em todos os países ou contas.
+Um guia sobre **depósitos na Nomini** deve explicar mais do que os logótipos de pagamento. Confirme os valores mínimo e máximo apresentados na sua conta, a moeda, eventuais taxas e se o mesmo método permite levantamentos.
+
+**Nota de verificação dos dados:** Os valores das tabelas seguintes provêm de dados de catálogo de uma versão anterior do projeto e não foram confirmados na caixa atual da Nomini. Não comprovam os métodos de pagamento, limites, taxas ou prazos atualmente disponíveis na Nomini. Confirme todos os detalhes na caixa oficial para o seu país e conta.
 
 ### Lista de verificação antes do depósito
 
