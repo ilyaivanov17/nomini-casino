@@ -1,13 +1,13 @@
 ---
 title: Arthur Mustoe
 description: Arthur Mustoeは、iGamingとカジノを専門とする英国拠点のフリーランス・コンテンツライターです。公開されている職業プロフィールでは、カジノやスロットのレビュー、ゲームガイド、コンプライアンスを考慮したコンテンツが主な分野として紹介されています。
-seo_title: Arthur Mustoe – シニアコンテンツライター • iGaming・カジノ | Instant Casino
+seo_title: Arthur Mustoe – シニアコンテンツライター • iGaming・カジノ | Nomini Casino Guide
 type: author
 slug: arthur-mustoe
 aliases:
 - /ja/authors/author-4/
 date: '2026-09-27'
-lastmod: '2026-10-17'
+lastmod: '2026-10-30'
 author_id: author-4
 role: シニアコンテンツライター • iGaming・カジノ
 photo: images/arthur_mustoe.jpg
@@ -36,9 +36,9 @@ Arthur Mustoeは、iGamingとカジノを専門とする英国拠点のフリー
 
 カジノ・スロットのレビュー、ゲームルール、プロバイダー情報、コンプライアンスを考慮した内容
 
-### Instant Casinoでの編集上の役割
+### Nomini Casino Guideでの編集上の役割
 
-Instant Casinoでは、このプロフィールはカジノ情報、ゲームの解説、キャンペーン条件の比較を扱う編集業務に関連しています。専門分野に応じて、利用可能なゲームデータをもとに仕組みを説明し、ボーナスを条件別に整理し、決済方法を登録済みの上限額や処理時間で比較します。
+Nomini Casino Guideでは、このプロフィールはカジノ情報、ゲームの解説、キャンペーン条件の比較を扱う編集業務に関連しています。専門分野に応じて、利用可能なゲームデータをもとに仕組みを説明し、ボーナスを条件別に整理し、決済方法を登録済みの上限額や処理時間で比較します。
 
 ### このプロフィールの見方
 
