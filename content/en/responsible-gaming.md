@@ -1,8 +1,8 @@
 ---
-title: 'Safer gambling: risks, limits and protection'
-description: 'Recognise gambling risks, set limits and find support for safer play.'
+title: 'Safer gambling: warning signs, limits and support'
+description: 'Understand gambling risk, decide on boundaries and find practical ways to protect yourself.'
 type: page
-seo_title: 'Safer gambling: risks, limits and protection | Nomini Casino Guide'
+seo_title: 'Safer gambling: limits, warning signs and support | Nomini Casino Guide'
 lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
@@ -14,27 +14,40 @@ screenshots:
 - /images/guides/responsible-gaming.svg
 screenshots_note: 'Illustrative editorial artwork, not a screenshot of a real operator interface.'
 ---
-## Responsible gambling
+## Make room for safer play
 
-Online gambling carries a financial risk. Set a time and spending limit before playing, never use money needed for essentials, and do not treat gambling as a way to earn income.
+Online gambling can lead to financial loss. Decide how much time and money you are prepared to spend before opening a game, keep essential household funds separate, and never rely on gambling to earn money.
 
-### Warning signs
+### When to pause
 
-Chasing losses, hiding activity, borrowing to gamble or struggling to stop are reasons to pause and seek support. Self-exclusion and blocking tools may help create distance.
+Trying to win back losses, keeping gambling secret, borrowing to continue or finding it difficult to stop are reasons to step away and consider outside help. Blocking and self-exclusion options can provide a barrier when willpower alone is not enough.
 
-### Adults only
+### Age and local law
 
-Gambling is for adults only and may be restricted by jurisdiction. If play stops feeling like entertainment, stop and contact a qualified support service.
+Gambling is for adults only. Local rules may restrict which services can be used and by whom. When an activity no longer feels like entertainment, stop and speak with a qualified support organisation.
 
-## Warning signs and practical steps
+## Set your limits in advance
 
-| Warning sign | Immediate step | Longer-term protection |
+Choose a spending amount that you can afford to lose without affecting essential costs, and decide how long a session may last. Do not raise stakes to recover money already lost. Hiding gambling, repeatedly exceeding your own limits or seeing it interfere with everyday responsibilities are signs that a break and support may be needed.
+
+| Warning sign | First response | Further protection |
 |---|---|---|
-| Chasing a loss | Stop the session and do not increase stakes | Set a break or exclusion period |
-| Spending more than planned | Stop deposits and review recent transactions | Use deposit and loss limits where available |
-| Hiding gambling from others | Tell a trusted person what is happening | Seek independent support or counselling |
-| Gambling affects work, sleep or relationships | Take a break from gambling | Consider self-exclusion and professional help |
+| Chasing losses | End the current session | Lower limits or activate a break |
+| Losing track of time | Stop playing | Set time and spending controls |
+| Concealing gambling | Speak to someone you trust | Consider self-exclusion |
+| Daily life is affected | Step away from gambling | Seek professional support |
 
-### A budget is a limit, not a target
+Gambling is not an income plan. Do not play under pressure or with money set aside for rent, food, bills or other necessities.
 
-Never use money needed for rent, food, bills or debt payments. Do not borrow to gamble or treat a bonus as income. If you cannot keep the limits you set, stop playing and use independent support services in your country. Self-exclusion tools, blocking software and help from a trusted person can create distance from gambling. This website is informational and does not provide medical care. Gambling is for adults only and involves a risk of financial loss.
+## Warning signs and practical responses
+
+| Warning sign | Immediate action | Longer-term option |
+|---|---|---|
+| Trying to recover losses | Close the session; do not increase stakes | Set a cooling-off period or self-exclusion |
+| Spending beyond the plan | Stop further deposits and review transactions | Use deposit and loss limits where offered |
+| Hiding activity from others | Tell a trusted person what is happening | Contact an independent support or counselling service |
+| Work, sleep or relationships suffer | Take a break from gambling | Consider professional help and self-exclusion |
+
+### A budget sets a ceiling, not a spending goal
+
+Do not use money intended for rent, food, utilities or debt repayments. Do not borrow to gamble or treat a bonus as income. When you cannot stick to the limits you set, stop and seek independent support in your country. Self-exclusion, blocking tools and help from someone you trust can create distance from gambling. This website provides information only and does not offer medical care. Gambling is restricted to adults and involves a risk of financial loss.
