@@ -1,0 +1,79 @@
+{{- $lang := .Site.Language.Lang -}}
+{{- $title := "Promo codes to check" -}}
+{{- $intro := "These codes were supplied for listing, but current acceptance has not been independently confirmed. Check the operator’s official terms, your country and the expiry date before use." -}}
+{{- $label := "PROMO CODE" -}}
+{{- $copy := "Copy code" -}}
+{{- $copied := "Copied" -}}
+{{- $copyFail := "Copy manually" -}}
+{{- $note := "Instant Casino is an independent information website. It does not issue these codes, accept deposits or guarantee that a promotion is active." -}}
+{{- $guide := "Read the bonus guide" -}}
+{{- if eq $lang "de" -}}
+  {{- $title = "Aktionscodes prüfen" -}}
+  {{- $intro = "Diese Codes wurden zur Aufnahme bereitgestellt; ihre aktuelle Gültigkeit wurde nicht unabhängig bestätigt. Prüfe vor der Nutzung die offiziellen Bedingungen, dein Land und das Ablaufdatum." -}}
+  {{- $label = "AKTIONSCODE" -}}
+  {{- $copy = "Code kopieren" -}}
+  {{- $copied = "Kopiert" -}}
+  {{- $copyFail = "Manuell kopieren" -}}
+  {{- $note = "Instant Casino ist eine unabhängige Informationsseite. Wir geben diese Codes nicht aus, nehmen keine Einzahlungen an und garantieren keine aktive Aktion." -}}
+  {{- $guide = "Bonus-Leitfaden lesen" -}}
+{{- else if eq $lang "es" -}}
+  {{- $title = "Códigos promocionales para consultar" -}}
+  {{- $intro = "Estos códigos se han facilitado para su publicación, pero no se ha confirmado de forma independiente que sigan activos. Antes de usarlos, consulta las condiciones oficiales, tu país y la fecha de caducidad." -}}
+  {{- $label = "CÓDIGO PROMOCIONAL" -}}
+  {{- $copy = "Copiar código" -}}
+  {{- $copied = "Copiado" -}}
+  {{- $copyFail = "Copiar manualmente" -}}
+  {{- $note = "Instant Casino es un sitio informativo independiente. No emite estos códigos, no acepta depósitos ni garantiza que una promoción esté activa." -}}
+  {{- $guide = "Leer la guía de bonos" -}}
+{{- else if eq $lang "pt" -}}
+  {{- $title = "Códigos promocionais a consultar" -}}
+  {{- $intro = "Estes códigos foram fornecidos para publicação, mas a sua aceitação atual não foi confirmada de forma independente. Antes de os utilizar, consulte as condições oficiais, o seu país e a data de validade." -}}
+  {{- $label = "CÓDIGO PROMOCIONAL" -}}
+  {{- $copy = "Copiar código" -}}
+  {{- $copied = "Copiado" -}}
+  {{- $copyFail = "Copiar manualmente" -}}
+  {{- $note = "A Instant Casino é um site informativo independente. Não emite estes códigos, não aceita depósitos nem garante que uma promoção esteja ativa." -}}
+  {{- $guide = "Ler o guia de bónus" -}}
+{{- else if eq $lang "ja" -}}
+  {{- $title = "確認用プロモーションコード" -}}
+  {{- $intro = "これらのコードは掲載用に提供されたものですが、現在利用できるかは独立して確認できていません。利用前に公式規約、対象地域、有効期限を確認してください。" -}}
+  {{- $label = "プロモーションコード" -}}
+  {{- $copy = "コードをコピー" -}}
+  {{- $copied = "コピーしました" -}}
+  {{- $copyFail = "手動でコピー" -}}
+  {{- $note = "Instant Casinoは独立した情報サイトです。コードの発行、入金の受付、キャンペーンの有効性の保証は行っていません。" -}}
+  {{- $guide = "ボーナスガイドを読む" -}}
+{{- else if eq $lang "pl" -}}
+  {{- $title = "Kody promocyjne do sprawdzenia" -}}
+  {{- $intro = "Te kody przekazano do publikacji, ale ich aktualna ważność nie została niezależnie potwierdzona. Przed użyciem sprawdź oficjalne warunki, swój kraj i datę wygaśnięcia." -}}
+  {{- $label = "KOD PROMOCYJNY" -}}
+  {{- $copy = "Kopiuj kod" -}}
+  {{- $copied = "Skopiowano" -}}
+  {{- $copyFail = "Skopiuj ręcznie" -}}
+  {{- $note = "Instant Casino to niezależny serwis informacyjny. Nie wydaje tych kodów, nie przyjmuje depozytów i nie gwarantuje, że promocja jest aktywna." -}}
+  {{- $guide = "Przeczytaj poradnik bonusów" -}}
+{{- end -}}
+<section class="promo-codes-section" aria-labelledby="promo-codes-title">
+  <div class="container mx-auto px-4">
+    <div class="promo-codes-panel">
+      <div class="promo-codes-heading">
+        <span class="promo-codes-eyebrow">{{ $label }}</span>
+        <h2 id="promo-codes-title">{{ $title }}</h2>
+        <p>{{ $intro }}</p>
+      </div>
+      <div class="promo-codes-grid">
+        {{ range site.Data.bonuses }}
+          <article class="promo-code-card">
+            <div class="promo-code-card-top"><span class="promo-code-tag">{{ $label }}</span><span class="promo-code-spark" aria-hidden="true">✦</span></div>
+            <div class="promo-code-offer">{{ .amount }}</div>
+            <code class="promo-code-value">{{ .code }}</code>
+            <button class="promo-code-copy" type="button" data-copy-code="{{ .code }}" data-copy-label="{{ $copy }}" data-copied-label="{{ $copied }}" data-copy-fail-label="{{ $copyFail }}">{{ $copy }}</button>
+            <span class="promo-code-status" role="status" aria-live="polite"></span>
+          </article>
+        {{ end }}
+      </div>
+      <p class="promo-codes-note">{{ $note }}</p>
+      <a class="promo-codes-guide" href="{{ "bonuses/" | relLangURL }}">{{ $guide }} <span aria-hidden="true">→</span></a>
+    </div>
+  </div>
+</section>

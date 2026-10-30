@@ -1,0 +1,28 @@
+status: pending
+records:
+- key: operator_identity
+  description: Operator identity, licence/jurisdiction and official domain
+  source_url: https://Instant Casino.com/
+  source_type: primary
+  last_verified: '2026-10-17'
+  verification_note: 'The supplied clb.kngpulse.com URL redirects to Instant Casino.com. Keep the operator/licence status pending until the live legal/terms page and regulator register are checked together; do not reuse the former Starda/Fiery Play licence details as Instant Casino credentials.'
+- key: welcome_offer
+  description: Current welcome offer, wagering, minimum deposit and expiry
+  source_url: ''
+  source_type: primary
+  last_verified: ''
+- key: recurring_promotions
+  description: Current reload, cashback, tournament and other recurring promotions
+  source_url: ''
+  source_type: primary
+  last_verified: ''
+- key: payment_methods
+  description: Current payment methods, limits, fees and processing times
+  source_url: ''
+  source_type: primary
+  last_verified: ''
+- key: responsible_gaming
+  description: Current responsible-gaming, self-exclusion and support information
+  source_url: ''
+  source_type: primary
+  last_verified: ''

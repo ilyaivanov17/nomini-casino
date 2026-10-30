@@ -1,0 +1,34 @@
+{{- $page := . -}}
+{{- $test := $page.Params.test | default dict -}}
+{{- if and $page.Params.review_verified $page.Params.review_rating $page.Params.review_summary $test.verified $test.empty_spin_observation $test.bonus_observation $test.bonus_trigger_spin $test.verdict $test.bankroll_advice -}}
+  {{- $authorSlug := $page.Params.author | default "marco-ibarra" -}}
+  {{- $authorPage := site.GetPage (printf "/authors/%s" $authorSlug) -}}
+  {{- $authorName := $page.Params.author_name | default "Marco Ibarra" -}}
+  {{- $authorRole := $page.Params.author_role | default "iGaming-Autor und Redakteur" -}}
+  {{- $authorURL := printf "%sauthors/%s/" site.BaseURL $authorSlug -}}
+  {{- $authorPhoto := $page.Params.author_photo | default "/images/Marco_Ibarra.jpg" -}}
+  {{- $mediumURL := $page.Params.author_medium | default "https://medium.com/@yugutagi2001" -}}
+  {{- $linkedinURL := $page.Params.author_linkedin | default "" -}}
+  {{- $muckRackURL := $page.Params.author_muckrack | default "" -}}
+  {{- with $authorPage -}}
+    {{- $authorName = .Title -}}
+    {{- $authorRole = .Params.role | default $authorRole -}}
+    {{- $authorURL = .Permalink -}}
+    {{- $authorPhoto = .Params.photo | default $authorPhoto -}}
+    {{- $mediumURL = .Params.medium | default $mediumURL -}}
+    {{- $linkedinURL = .Params.social.linkedin | default $linkedinURL -}}
+    {{- $muckRackURL = .Params.muckrack | default $muckRackURL -}}
+  {{- end -}}
+  {{- $sameAs := slice -}}
+  {{- with $mediumURL }}{{ $sameAs = $sameAs | append . }}{{ end -}}
+  {{- with $linkedinURL }}{{ $sameAs = $sameAs | append . }}{{ end -}}
+  {{- with $muckRackURL }}{{ $sameAs = $sameAs | append . }}{{ end -}}
+  {{- with $authorPage }}{{ with .Params.social.website }}{{ $sameAs = $sameAs | append . }}{{ end }}{{ end -}}
+  {{- $person := dict "@type" "Person" "@id" (printf "%s#person" $authorURL) "name" $authorName "jobTitle" $authorRole "url" $authorURL "image" ($authorPhoto | absURL) "sameAs" $sameAs -}}
+  {{- $publisher := dict "@type" "Organization" "@id" (printf "%s#organization" site.BaseURL) "name" "Instant Casino" "url" site.BaseURL -}}
+  {{- $provider := dict "@type" "Organization" "name" ($page.Params.review_game_provider | default $page.Params.provider | default "Pragmatic Play") "url" "https://www.pragmaticplay.com/" -}}
+  {{- $game := dict "@type" "Game" "name" ($page.Params.review_game_name | default $page.Title) "provider" $provider -}}
+  {{- $rating := dict "@type" "Rating" "ratingValue" $page.Params.review_rating "bestRating" ($page.Params.review_rating_best | default 5) "worstRating" ($page.Params.review_rating_worst | default 1) -}}
+  {{- $review := dict "@context" "https://schema.org" "@type" "Review" "@id" (printf "%s#review" $page.Permalink) "url" $page.Permalink "inLanguage" "de-DE" "headline" $page.Title "reviewBody" $page.Params.review_summary "author" $person "publisher" $publisher "datePublished" ($page.Date.Format "2006-01-02") "dateModified" ($page.Lastmod.Format "2006-01-02") "itemReviewed" $game "reviewRating" $rating -}}
+  <script type="application/ld+json">{{ $review | jsonify | safeJS }}</script>
+{{- end -}}

@@ -1,0 +1,140 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{{ $design := site.Params.design }}
+<style>:root{--brand-bg:{{ $design.background | default "#050b18" }};--brand-surface:{{ $design.surface | default "#0d1728" }};--brand-surface-raised:{{ $design.surface_raised | default "#121f33" }};--brand-text:{{ $design.text | default "#f5f7fb" }};--brand-muted:{{ $design.muted | default "#aebbd0" }};--brand-accent:{{ $design.accent | default "#f4bd50" }};--brand-accent-hover:{{ $design.accent_hover | default "#ffcf6d" }};--brand-border:{{ $design.border | default "rgba(173,190,220,.16)" }};--brand-radius:{{ $design.radius | default "18px" }};--content-width:{{ $design.content_width | default "1240px" }};--hero-height:{{ $design.hero_height | default "360px" }};--hero-height-mobile:{{ $design.hero_height_mobile | default "410px" }};--card-image-height:{{ $design.card_image_height | default "148px" }};--guide-columns:{{ $design.guide_columns | default 3 }};--section-spacing:{{ $design.section_spacing | default "1.7rem" }};}</style>
+{{ $settingsPage := site.GetPage "/editorial/settings" }}
+{{ $settings := dict }}
+{{ with $settingsPage }}{{ $settings = .Params }}{{ end }}
+{{ $brand := $settings.brand | default site.Title }}
+{{ $title := .Params.seo_title | default (cond .IsHome $brand (printf "%s | %s" .Title $brand)) }}
+{{ $description := .Params.description | default $settings.description }}
+<title>{{ $title }}</title>
+<meta name="description" content="{{ $description }}">
+{{ with $settings.author }}<meta name="author" content="{{ . }}">{{ end }}
+{{ $isAuthorProfile := eq .Type "author" }}
+{{ $reviewTest := .Params.test | default dict }}
+{{/* Indexing policy: all public pages are indexable. Only tracking/redirect URLs under /go/ are excluded. */}}
+{{ $path := strings.TrimSuffix "/" .RelPermalink }}
+{{ $isGoRoute := or (eq $path "/go") (hasPrefix $path "/go/") }}
+{{ $isIndexable := and .Site.Params.indexingEnabled (not $isGoRoute) }}
+{{ if $isIndexable }}<meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1">{{ else }}<meta name="robots" content="noindex,follow,noarchive">{{ end }}
+<link rel="canonical" href="{{ .Permalink }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ $description }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ $brand }}">
+<meta property="og:locale" content="{{ $settings.locale | default .Site.Language.Name }}">
+{{ range .AllTranslations }}{{ if ne .Language.Name $.Language.Name }}{{ $translationSettings := .Site.GetPage "/editorial/settings" }}<meta property="og:locale:alternate" content="{{ $translationSettings.Params.locale | default .Language.Name }}">{{ end }}{{ end }}
+{{ $og := .Params.ogImage | default $settings.og_image | default site.Params.images.social }}
+<meta property="og:image" content="{{ $og | absURL }}">
+<meta property="og:image:alt" content="{{ $title }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ $title }}">
+<meta name="twitter:description" content="{{ $description }}">
+<meta name="twitter:image" content="{{ $og | absURL }}">
+<link rel="icon" href="{{ "favicon.ico" | relURL }}" sizes="any">
+<link rel="icon" href="{{ "favicon.svg" | relURL }}" type="image/svg+xml">
+<link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | relURL }}">
+
+{{ $default := .Site.Home.Permalink }}
+{{ $hasGerman := false }}
+{{ range .AllTranslations }}
+  <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+  {{ if eq .Language.Lang "de" }}{{ $default = .Permalink }}{{ $hasGerman = true }}{{ end }}
+{{ end }}
+{{ if not $hasGerman }}{{ $default = .Site.Home.Permalink }}{{ end }}
+<link rel="alternate" hreflang="x-default" href="{{ $default }}">
+
+{{ with .OutputFormats.Get "RSS" }}
+<link rel="alternate" type="application/rss+xml" href="{{ .Permalink }}" title="{{ $brand }}">
+{{ end }}
+
+{{ if .IsPage }}
+  {{ with .Date }}<meta property="article:published_time" content="{{ .Format "2006-01-02T15:04:05Z07:00" }}">{{ end }}
+  {{ with .Lastmod }}<meta property="article:modified_time" content="{{ .Format "2006-01-02T15:04:05Z07:00" }}">{{ end }}
+{{ end }}
+
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"WebSite",
+  "name":{{ $settings.brand | jsonify | safeJS }},
+  "url":{{ .Site.BaseURL | jsonify | safeJS }},
+  "description":{{ $description | jsonify | safeJS }},
+  "inLanguage":{{ .Site.Language.Name | jsonify | safeJS }}
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"Organization",
+  "name":{{ $brand | jsonify | safeJS }},
+  "url":{{ .Site.BaseURL | jsonify | safeJS }}
+}
+</script>
+{{ end }}
+
+{{ if .IsPage }}
+{{ if and (eq .Type "catalog") .Params.review_verified .Params.review_rating .Params.review_summary $reviewTest.verified $reviewTest.empty_spin_observation $reviewTest.bonus_observation $reviewTest.bonus_trigger_spin $reviewTest.verdict $reviewTest.bankroll_advice }}
+  {{ partial "schema-review.html" . }}
+{{ else }}
+<script type="application/ld+json">
+{{ if $isAuthorProfile }}
+{{- $sameAs := slice -}}
+{{- with .Params.medium }}{{ $sameAs = $sameAs | append . }}{{ end -}}
+{{- with .Params.social.linkedin }}{{ $sameAs = $sameAs | append . }}{{ end -}}
+{{- with .Params.social.website }}{{ $sameAs = $sameAs | append . }}{{ end -}}
+{{- with .Params.muckrack }}{{ $sameAs = $sameAs | append . }}{{ end -}}
+{{- $person := dict "@context" "https://schema.org" "@type" "Person" "@id" (printf "%s#person" .Permalink) "name" .Title "url" .Permalink "jobTitle" (.Params.role | default "iGaming-Autor und Redakteur") "sameAs" $sameAs -}}
+{{- with .Params.photo }}{{ $person = merge $person (dict "image" (. | absURL)) }}{{ end -}}
+{{ $person | jsonify | safeJS }}
+{{ else if or (eq .Type "bonuses") (eq .Type "deposits") (eq .Type "slots") (eq .Type "faq") (eq .Type "page") }}
+{
+  "@context":"https://schema.org",
+  "@type":"Article",
+  "headline":{{ $title | jsonify | safeJS }},
+  "url":{{ .Permalink | jsonify | safeJS }},
+  "description":{{ $description | jsonify | safeJS }},
+  "inLanguage":{{ .Site.Language.Name | jsonify | safeJS }},
+  "mainEntityOfPage":{"@type":"WebPage","@id":{{ .Permalink | jsonify | safeJS }}},
+  "author":{{ with .Params.author }}{{ $authorPage := site.GetPage (printf "/authors/%s" .) }}{{ if $authorPage }}{"@type":"Person","@id":{{ printf "%s#person" $authorPage.Permalink | jsonify | safeJS }},"name":{{ $authorPage.Title | jsonify | safeJS }},"url":{{ $authorPage.Permalink | jsonify | safeJS }}}{{ else }}{"@type":"Organization","name":{{ $settings.author | jsonify | safeJS }}}{{ end }}{{ else }}{"@type":"Organization","name":{{ $settings.author | jsonify | safeJS }}}{{ end }},
+  "publisher":{"@type":"Organization","name":{{ $brand | jsonify | safeJS }},"url":{{ .Site.BaseURL | jsonify | safeJS }}}
+  {{- with .Date }},"datePublished":{{ .Format "2006-01-02" | jsonify | safeJS }}{{ end }}
+  {{- with .Lastmod }},"dateModified":{{ .Format "2006-01-02" | jsonify | safeJS }}{{ end }}
+}
+{{ else }}
+{
+  "@context":"https://schema.org",
+  "@type":"WebPage",
+  "name":{{ $title | jsonify | safeJS }},
+  "url":{{ .Permalink | jsonify | safeJS }},
+  "description":{{ $description | jsonify | safeJS }},
+  "inLanguage":{{ .Site.Language.Name | jsonify | safeJS }},
+  "isPartOf":{"@type":"WebSite","name":{{ $settings.brand | jsonify | safeJS }},"url":{{ .Site.BaseURL | jsonify | safeJS }}},
+  "author":{{ if .Params.author }}{"@type":"Person","@id":{{ printf "%sauthors/%s/#person" site.BaseURL .Params.author | jsonify | safeJS }},"name":{{ .Params.author_name | default "Marco Ibarra" | jsonify | safeJS }},"jobTitle":{{ .Params.author_role | default "iGaming-Autor und Redakteur" | jsonify | safeJS }},"url":{{ printf "%sauthors/%s/" site.BaseURL .Params.author | jsonify | safeJS }}}{{ else }}{"@type":"Organization","name":{{ $settings.author | jsonify | safeJS }}}{{ end }}
+}
+{{ end }}
+</script>
+{{ end }}
+
+{{ if not .IsHome }}
+{{ $breadcrumbParent := .Parent }}
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"BreadcrumbList",
+  "itemListElement":[
+    {"@type":"ListItem","position":1,"name":{{ partial "t.html" "home" | jsonify | safeJS }},"item":{{ .Site.Home.Permalink | jsonify | safeJS }}}
+    {{- if .Parent -}}
+    ,{"@type":"ListItem","position":2,"name":{{ .Parent.Title | jsonify | safeJS }},"item":{{ .Parent.Permalink | jsonify | safeJS }}}
+    {{- end -}}
+    ,{"@type":"ListItem","position":{{ if .Parent }}3{{ else }}2{{ end }},"name":{{ .Title | jsonify | safeJS }},"item":{{ .Permalink | jsonify | safeJS }}}
+  ]
+}
+</script>
+{{ end }}
+{{ end }}
+
+<link rel="stylesheet" href="{{ "css/main.css" | relURL }}?v=20261029-promo-codes">

@@ -1,0 +1,21 @@
+# Defense in depth: never serve common source/config/backup paths if mistakenly copied.
+/.git /404.html 404
+/.git/* /404.html 404
+/.env /404.html 404
+/.env.* /404.html 404
+/hugo.toml /404.html 404
+/wrangler.toml /404.html 404
+/wrangler.json /404.html 404
+/wrangler.jsonc /404.html 404
+/package.json /404.html 404
+/package-lock.json /404.html 404
+/pnpm-lock.yaml /404.html 404
+/yarn.lock /404.html 404
+/composer.json /404.html 404
+/composer.lock /404.html 404
+/README.md /404.html 404
+/DEVELOPMENT.md /404.html 404
+/PRODUCTION-AUDIT.md /404.html 404
+/*.zip /404.html 404
+/*.bak /404.html 404
+/*.sql /404.html 404

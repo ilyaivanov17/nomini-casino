@@ -1,0 +1,43 @@
+# Local and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Build output and generated assets
+/public/
+/resources/_gen/
+.hugo_build.lock
+
+# Node / Wrangler local state
+node_modules/
+.wrangler/
+
+# Backups, exports and archives must never enter the source repository
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+*.bak
+*.backup
+*.old
+*.sql
+*.dump
+
+# Local project backups and original archive
+/public-archive-previous-build/
+/content-archive-original/
+/instant-casino 1.1.3/

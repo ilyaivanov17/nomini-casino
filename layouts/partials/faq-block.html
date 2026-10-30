@@ -1,0 +1,16 @@
+{{ with .Params.page_faq }}
+<section class="mt-16" aria-labelledby="page-faq-title">
+  <h2 id="page-faq-title" class="text-2xl font-bold text-white mb-6">{{ partial "t.html" "questions" }}</h2>
+  <div class="space-y-3">
+    {{ range . }}
+    <details class="glass rounded-lg group">
+      <summary class="flex items-center justify-between p-4 cursor-pointer list-none focus-visible:outline focus-visible:outline-2 focus-visible:outline-amber-400">
+        <span class="font-semibold text-white">{{ .q }}</span>
+        <span class="ml-4 text-amber-400 transition-transform group-open:rotate-180" aria-hidden="true"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"><polyline points="6 9 12 15 18 9"></polyline></svg></span>
+      </summary>
+      <div class="px-4 pb-4 text-slate-300 prose prose-invert prose-sm max-w-none">{{ .a | markdownify }}</div>
+    </details>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

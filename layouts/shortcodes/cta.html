@@ -1,0 +1,3 @@
+{{- $key := .Get 0 | default "primary" -}}
+{{- $settings := (site.GetPage "/editorial/settings").Params -}}
+<a href="{{ $settings.affiliate_link }}" target="_blank" rel="nofollow sponsored noopener" class="inline-flex items-center px-4 py-2 bg-amber-500 hover:bg-amber-400 text-slate-950 font-bold rounded-lg transition no-underline">{{ index $settings.cta_labels $key }}</a>

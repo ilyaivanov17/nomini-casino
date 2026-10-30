@@ -1,0 +1,50 @@
+{{ define "main" }}
+{{ $authors := where site.RegularPages "Type" "author" }}
+{{ if site.Params.authorProfilesIndexable }}
+<section class="casino-section py-16 authors-page">
+  <div class="container mx-auto px-4">
+    <div class="authors-hero glass-strong rounded-3xl">
+      <div class="authors-hero-copy">
+        <span class="eyebrow">{{ partial "t.html" "authors" }}</span>
+        <h1 class="text-4xl md:text-6xl font-black text-white mt-3 mb-4">{{ .Title }}</h1>
+        <p class="authors-hero-text">{{ .Params.description }}</p>
+        <div class="authors-hero-stats"><span><strong>{{ len $authors }}</strong> {{ partial "t.html" "authors" }}</span><span><strong>{{ len site.Languages }}</strong> {{ partial "t.html" "languages_count" }}</span><span><strong>18+</strong> {{ partial "t.html" "editorial_focus_label" }}</span></div>
+      </div>
+      <div class="authors-hero-mark"><span>✦</span><small>{{ partial "t.html" "editorial_team" }}</small></div>
+    </div>
+
+    <div class="authors-index-copy prose prose-invert prose-lg max-w-4xl mt-8 mb-10">{{ .Content }}</div>
+
+    <div class="author-grid author-grid-premium authors-showcase">
+      {{ range $authors }}
+      {{ $author := . }}
+      <article class="author-card author-card-premium author-card-beautiful glass rounded-2xl overflow-hidden">
+        <div class="author-cover"></div>
+        <div class="author-card-body">
+          <div class="author-identity">
+            <div class="author-avatar author-avatar-premium author-avatar-initials" aria-hidden="true">
+              {{ with $author.Params.photo }}<img src="{{ . | relURL }}" alt="{{ $author.Title }}" loading="lazy" decoding="async">{{ else }}<span>{{ substr $author.Title 0 1 }}</span>{{ end }}
+            </div>
+            <div class="author-identity-copy"><h2>{{ .Title }}</h2><p>{{ .Params.role }}</p></div>
+            {{ if .Params.verified }}<span class="author-profile-status">{{ partial "t.html" "public_profile" }}</span>{{ end }}
+          </div>
+          <div class="author-specialty">{{ .Params.label }}</div>
+          <p class="author-card-bio">{{ .Params.bio }}</p>
+          <div class="author-card-footer">
+            <a class="author-profile-btn" href="{{ .RelPermalink }}">{{ partial "t.html" "author_profile" }} <span>→</span></a>
+            <div class="author-social-mini">
+              {{ with .Params.social.linkedin }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer" aria-label="{{ partial "t.html" "social_linkedin" }}">in</a>{{ end }}
+              {{ with .Params.social.website }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer" aria-label="{{ partial "t.html" "social_website" }}">↗</a>{{ end }}
+            </div>
+          </div>
+        </div>
+      </article>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ else }}
+<section class="casino-section py-16"><div class="container mx-auto px-4 max-w-3xl"><h1 class="text-4xl font-black text-white mb-4">{{ .Title }}</h1><p class="text-slate-300">{{ partial "t.html" "author_profiles_pending" }}</p></div></section>
+{{ end }}
+
+{{ end }}

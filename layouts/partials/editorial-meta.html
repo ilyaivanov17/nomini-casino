@@ -1,0 +1,19 @@
+{{ if and (not .IsHome) (ne .Type "author") }}
+{{ $settings := (site.GetPage "/editorial/settings").Params }}
+{{ $authorPage := false }}
+{{ with .Params.author }}{{ $authorPage = site.GetPage (printf "/authors/%s" .) }}{{ end }}
+{{ $byline := "Written by:" }}
+{{ if eq .Site.Language.Lang "de" }}{{ $byline = "Verfasst von:" }}
+{{ else if eq .Site.Language.Lang "es" }}{{ $byline = "Escrito por:" }}
+{{ else if eq .Site.Language.Lang "pt" }}{{ $byline = "Escrito por:" }}
+{{ else if eq .Site.Language.Lang "pl" }}{{ $byline = "Autor:" }}
+{{ else if eq .Site.Language.Lang "ja" }}{{ $byline = "執筆者：" }}{{ end }}
+<div class="editorial-meta flex flex-wrap items-center gap-x-4 gap-y-2 text-sm text-slate-500 mb-8" aria-label="{{ partial "t.html" "editorial_metadata" }}">
+  {{ with $authorPage }}
+  <span>{{ $byline }} <a class="text-slate-300 underline" href="{{ .RelPermalink }}"><strong>{{ .Title }}</strong></a></span>
+  {{ else }}
+  <span>{{ partial "t.html" "editorial_by" }}: <strong class="text-slate-300">{{ $settings.author }}</strong></span>
+  {{ end }}
+  {{ with .Lastmod }}<span>{{ partial "t.html" "last_updated" }}: <time datetime="{{ .Format "2006-01-02" }}">{{ .Format "02.01.2006" }}</time></span>{{ end }}
+</div>
+{{ end }}

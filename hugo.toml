@@ -1,0 +1,120 @@
+# Production canonical domain supplied for this project.
+baseURL = 'https://instant.slot-reviews.com/'
+title = "Instant Casino"
+defaultContentLanguage = 'de'
+defaultContentLanguageInSubdir = false
+# Each language's Markdown lives in its own folder. German remains the root URL language.
+enableRobotsTXT = true
+[minify]
+  minifyOutput = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+canonifyURLs = false
+enableGitInfo = false
+disableKinds = ['taxonomy', 'term']
+
+[languages]
+  [languages.de]
+    contentDir = 'content/de'
+    label = 'Deutsch'
+    locale = 'de-DE'
+    weight = 1
+  [languages.en]
+    contentDir = 'content/en'
+    label = 'English'
+    locale = 'en-US'
+    weight = 2
+  [languages.pl]
+    contentDir = 'content/pl'
+    label = 'Polski'
+    locale = 'pl-PL'
+    weight = 3
+  [languages.es]
+    contentDir = 'content/es'
+    label = 'Español'
+    locale = 'es-ES'
+    weight = 4
+  [languages.pt]
+    contentDir = 'content/pt'
+    label = 'Português'
+    locale = 'pt-PT'
+    weight = 5
+  [languages.ja]
+    contentDir = 'content/ja'
+    label = '日本語'
+    locale = 'ja-JP'
+    weight = 6
+[params]
+  # Production build flag enabled. Legal/operator/source verification status remains explicitly recorded in editorial settings and source registry.
+  # Keep false until operator identity, affiliate destinations and official offer sources are verified.
+  productionReady = true
+  indexingEnabled = true  # All public content pages are indexable; /go/ tracking routes are excluded.
+  authorProfilesIndexable = true  # Keep the author index and existing author profiles visible; do not delete or replace author records.
+  showExternalRatings = false
+
+
+# Central design controls: routine brand/visual tuning happens here, not across templates.
+[params.design]
+  background = '#050b18'
+  surface = '#0d1728'
+  surface_raised = '#121f33'
+  text = '#f5f7fb'
+  muted = '#aebbd0'
+  accent = '#f4bd50'
+  accent_hover = '#ffcf6d'
+  border = 'rgba(173, 190, 220, 0.16)'
+  radius = '18px'
+  content_width = '1240px'
+  hero_height = '360px'
+  hero_height_mobile = '410px'
+  card_image_height = '148px'
+  guide_columns = 3
+  section_spacing = '1.7rem'
+
+[params.images]
+  hero = '/images/instant-casino-hero.webp'
+  social = '/images/instant-casino-social.webp'
+
+[params.images.guides]
+  slots = '/images/slots/book-of-dead.jpg'
+  bonuses = '/images/guides/casino-bonus.webp'
+  payments = '/images/guides/casino-payments.webp'
+  account-help = '/images/guides/casino-account.webp'
+  responsible-gaming = '/images/responsible-play-landscape.webp'
+  about = '/images/guides/casino-editorial.webp'
+  legal = '/images/guides/casino-editorial.webp'
+  slot-features = '/images/slots/gates-of-olympus.jpg'
+  slot-strategy = '/images/slots/wolf-gold.webp'
+
+[imaging]
+  resampleFilter = 'Lanczos'
+
+[imaging.jpeg]
+  quality = 85
+
+[imaging.webp]
+  quality = 85
+
+[imaging.avif]
+  quality = 85
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.highlight]
+    noClasses = false
+
+[sitemap]
+  changefreq = 'weekly'
+  priority = 0.5
+  filename = 'sitemap.xml'
+
+[outputs]
+  home = ['HTML', 'RSS']
+  section = ['HTML']
+  page = ['HTML']
+
+[privacy]
+  [privacy.googleAnalytics]
+    disable = true
