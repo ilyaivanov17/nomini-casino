@@ -112,11 +112,11 @@ Casino- und Slot-Tests, Spielregeln, Anbieterinformationen und Compliance-orient
 
 ### Redaktioneller Beitrag bei Nomini Casino Guide
 
-Bei Nomini Casino Guide arbeitet das Profil im thematischen Umfeld von Casino-Informationen, Spielbeschreibungen und dem Vergleich von Angebotsbedingungen. Die Einordnung der Inhalte folgt dem jeweiligen Fachgebiet: Spielmechaniken werden anhand der verfügbaren Spieldaten erklärt, Bonusangaben nach Bedingungen strukturiert und Zahlungsmethoden anhand der hinterlegten Limits und Zeitangaben verglichen.
+Marco Ibarras iGaming- und Redaktionserfahrung spiegelt sich in den Themen dieses Profils wider, darunter Slot-Bewertungen und Bonusanalysen. Für aktuelle Aktionen sind weiterhin die vollständigen Bedingungen des jeweiligen Angebots maßgeblich.
 
 ### So ist das Profil einzuordnen
 
-Bei Casino- und Bonusinformationen zählen die vollständigen Bedingungen, die konkrete Spielversion und die für das jeweilige Konto angezeigten Regeln. Redaktionelle Vergleiche sollten Kennzahlen getrennt von Einschätzungen ausweisen und auf die entsprechenden Detailseiten und Primärinformationen verlinken. Dieses Profil beschreibt den beruflichen Schwerpunkt und ersetzt keine Prüfung einzelner Angebotsbedingungen.
+Berufliche Erfahrung liefert Kontext für redaktionelle Arbeit, ist aber kein Beleg dafür, dass ein Angebot passt. Vergleichen Sie vollständige Bedingungen, Teilnahmevoraussetzungen und die Informationen zur konkreten Spielversion.
 
 ### Öffentliche Berufsprofile
 

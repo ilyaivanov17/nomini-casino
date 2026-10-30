@@ -112,11 +112,11 @@ Análises de casinos e slots, regras dos jogos, informação sobre fornecedores 
 
 ### Contributo editorial na Nomini Casino Guide
 
-Na Nomini Casino Guide, este perfil integra o trabalho editorial sobre informação de casinos, explicações de jogos e comparação das condições das ofertas. A área de especialidade orienta a abordagem: as mecânicas são explicadas com base nos dados disponíveis, os bónus são organizados pelas respetivas condições e os métodos de pagamento são comparados por limites e tempos indicados.
+A experiência de Marco Ibarra em iGaming e edição está relacionada com temas como análises de slots e avaliação de bónus. As condições de uma campanha atual devem ser consultadas no regulamento completo da oferta.
 
 ### Como interpretar este perfil
 
-Ao comparar jogos e ofertas de casino, são importantes os termos completos, a versão concreta do jogo e as regras apresentadas para cada conta. As comparações editoriais devem separar os dados registados da interpretação e ligar às páginas de detalhe e a fontes primárias. Este perfil descreve a área profissional, mas não substitui a consulta das condições de uma oferta específica.
+A experiência profissional dá contexto ao trabalho editorial, mas não prova que uma oferta seja adequada. Compare as condições completas, os requisitos de participação e os dados da versão específica do jogo.
 
 ### Perfis profissionais públicos
 

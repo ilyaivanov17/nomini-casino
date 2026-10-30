@@ -112,11 +112,11 @@ Casino and slot reviews, game rules, provider information and compliance-aware c
 
 ### Editorial contribution at Nomini Casino Guide
 
-At Nomini Casino Guide, this profile belongs to the editorial work covering casino information, game explainers and comparisons of offer terms. The subject area shapes the approach: game mechanics are explained through available game data, bonus details are structured by their conditions, and payment methods are compared using the listed limits and processing times.
+Marco Ibarra's iGaming and editorial background is reflected in the topics associated with this profile, including slot reviews and bonus analysis. The conditions of any current offer must be checked separately against its complete terms.
 
 ### How to use this profile
 
-When comparing casino games and offers, the full terms, the specific game version and the rules shown for the relevant account matter. Editorial comparisons should separate recorded figures from interpretation and link to relevant detail pages and primary information. This profile describes professional subject areas; it does not replace checking the terms of an individual offer.
+Professional experience is context for editorial work, not proof that an offer is suitable. Compare full conditions, eligibility rules and the specific game information before making a decision.
 
 ### Public professional profiles
 
