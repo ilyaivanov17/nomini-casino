@@ -2,8 +2,8 @@
 title: 'Guia de slots: temas, volatilidade e comparação'
 description: 'Explicação de rodadas grátis, wilds, scatters, rondas de bónus e outras funcionalidades.'
 type: page
-seo_title: 'Guia de slots: temas, volatilidade e comparação | Instant Casino'
-lastmod: '2026-10-28'
+seo_title: 'Guia de slots: temas, volatilidade e comparação | Nomini Casino Guide'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
