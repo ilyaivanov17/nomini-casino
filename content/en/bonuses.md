@@ -3,7 +3,7 @@ title: How to understand casino bonus terms
 description: A practical guide to wagering requirements, expiry dates, game contribution, maximum cashout and withdrawal rules.
 type: page
 author: cristina-tudose
-seo_title: Casino bonus terms explained | Instant Casino
+seo_title: Casino bonus terms explained | Nomini Casino Guide
 lastmod: '2026-10-30'
 article_review_status: editorial-approved
 reviewed_by: Cristina Tudose
@@ -30,7 +30,7 @@ screenshots_note: 'Illustrative editorial artwork, not a screenshot of a real op
 
 A €500 bonus may look more attractive than 50 free spins. The headline figure does not tell you what you must do to receive or withdraw it. Check the wagering requirement, eligible games, expiry date and rules for withdrawing before completing the bonus.
 
-The important details are not always shown beside the advertised amount. Read the full promotion terms before opting in or depositing. This guide explains common terms; it does not describe a current Instant Casino offer. The rules of the specific promotion and the relevant country always take priority.
+The important details are not always shown beside the advertised amount. Read the full promotion terms before opting in or depositing. This guide explains common terms; it does not describe a current Nomini offer. The rules of the specific promotion and the relevant country always take priority.
 
 ## Start with these details
 
@@ -167,4 +167,4 @@ BIÖG lists counselling services, while OASIS provides self-exclusion in Germany
 
 *Official sources checked on 30 October 2026. Recheck links, contact details, hours and legal information before approval.*
 
-*Disclosure: Instant Casino may earn a commission from clearly marked affiliate links.*
+*Disclosure: This independent Nomini Casino Guide may earn a commission from clearly marked affiliate links.*
