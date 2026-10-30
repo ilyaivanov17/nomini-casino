@@ -1,13 +1,13 @@
 ---
 title: Corey Levitan
 description: Corey Levitanは、ラスベガスのエンターテインメント、飲食、ギャンブルについて報道しています。Las Vegas Review-Journalで6年間取材し、2022年にCasino.orgに加わりました。
-seo_title: Corey Levitan – ジャーナリスト・カジノライター | Instant Casino
+seo_title: Corey Levitan – ジャーナリスト・カジノライター | Nomini Casino Guide
 type: author
 slug: corey-levitan
 aliases:
 - /ja/authors/author-1/
 date: '2026-09-27'
-lastmod: '2026-10-17'
+lastmod: '2026-10-30'
 author_id: author-1
 role: ジャーナリスト・カジノライター
 photo: images/Corey_Levitan.jpg
@@ -37,9 +37,9 @@ Corey Levitanは、ラスベガスのエンターテインメント、飲食、�
 
 ラスベガス、ギャンブルニュース、エンターテインメント、カジノ報道
 
-### Instant Casinoでの編集上の役割
+### Nomini Casino Guideでの編集上の役割
 
-Instant Casinoでは、このプロフィールはカジノ情報、ゲームの解説、キャンペーン条件の比較を扱う編集業務に関連しています。専門分野に応じて、利用可能なゲームデータをもとに仕組みを説明し、ボーナスを条件別に整理し、決済方法を登録済みの上限額や処理時間で比較します。
+Nomini Casino Guideでは、このプロフィールはカジノ情報、ゲームの解説、キャンペーン条件の比較を扱う編集業務に関連しています。専門分野に応じて、利用可能なゲームデータをもとに仕組みを説明し、ボーナスを条件別に整理し、決済方法を登録済みの上限額や処理時間で比較します。
 
 ### このプロフィールの見方
 
