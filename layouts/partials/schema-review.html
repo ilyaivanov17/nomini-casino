@@ -25,7 +25,7 @@
   {{- with $muckRackURL }}{{ $sameAs = $sameAs | append . }}{{ end -}}
   {{- with $authorPage }}{{ with .Params.social.website }}{{ $sameAs = $sameAs | append . }}{{ end }}{{ end -}}
   {{- $person := dict "@type" "Person" "@id" (printf "%s#person" $authorURL) "name" $authorName "jobTitle" $authorRole "url" $authorURL "image" ($authorPhoto | absURL) "sameAs" $sameAs -}}
-  {{- $publisher := dict "@type" "Organization" "@id" (printf "%s#organization" site.BaseURL) "name" "Instant Casino" "url" site.BaseURL -}}
+  {{- $publisher := dict "@type" "Organization" "@id" (printf "%s#organization" site.BaseURL) "name" "Independent Editorial Team" "url" site.BaseURL -}}
   {{- $provider := dict "@type" "Organization" "name" ($page.Params.review_game_provider | default $page.Params.provider | default "Pragmatic Play") "url" "https://www.pragmaticplay.com/" -}}
   {{- $game := dict "@type" "Game" "name" ($page.Params.review_game_name | default $page.Title) "provider" $provider -}}
   {{- $rating := dict "@type" "Rating" "ratingValue" $page.Params.review_rating "bestRating" ($page.Params.review_rating_best | default 5) "worstRating" ($page.Params.review_rating_worst | default 1) -}}
