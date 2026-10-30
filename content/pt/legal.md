@@ -27,6 +27,8 @@ Este guia reúne informações por tema para facilitar a comparação de regras 
 
 O Nomini Casino Guide é um site informativo e comparativo independente sobre a Nomini. Não é o site oficial da Nomini nem é operado pelo casino. Este aviso descreve os tipos de tratamento de dados que podem ocorrer quando visita este guia. Os detalhes técnicos dependem dos serviços de alojamento e correio eletrónico efetivamente utilizados.
 
+Para questões editoriais e de privacidade sobre este guia, contacte [info@nomini.com](mailto:info@nomini.com).
+
 
 
 ## 2. Dados técnicos de acesso
@@ -142,12 +144,24 @@ As ligações para sites de terceiros são disponibilizadas como fontes ou recur
 
 Textos, imagens e outros materiais estão protegidos pelas normas aplicáveis de propriedade intelectual. A reutilização fora das exceções legais requer autorização do titular dos direitos.
 
-## Identidade do editor e informações sobre a Nomini
+## Dados do editor fornecidos para este guia
 
-A identidade jurídica e a morada registada do editor deste guia independente ainda não foram verificadas e, por isso, não são indicadas aqui. Este site é um recurso informativo independente; não é o site oficial da Nomini nem o operador do casino.
+O editor forneceu os seguintes dados societários para este site informativo independente:
 
-Os [Termos e Condições oficiais da Nomini](https://nomini.com/en/rules), versão 1.12, indicam como última atualização a data de 19 de agosto de 2026. No texto consultado, «Empresa» é definida genericamente como a empresa que opera o site, mas a página não identifica a sua denominação legal registada nem o número de registo. Por isso, este guia não publica uma identidade empresarial ou referência de licença que não tenha sido verificada. Consulte os termos oficiais atuais e as informações do regulador competente na sua jurisdição.
+- **Denominação legal registada:** Instant Gaming plc
+- **Número de registo da empresa:** C59314
+- **Morada registada:** Level 7, The Plaza Business Centre, Bisazza Street, Sliema, SLM 1640, Malta
+- **Entidade reguladora indicada nas informações fornecidas pelo editor:** [Malta Gaming Authority (MGA)](https://www.mga.org.mt/licensee-hub/licensee-register/)
+- **Referência de licença fornecida:** MGA/CRP/237/2013
+- **Tipo de licença e data de emissão inicial fornecidos:** B2C Gaming Service Licence; 1 de agosto de 2018
+- **Contacto fornecido para o site e a redação:** [info@nomini.com](mailto:info@nomini.com)
 
-Para questões de conta, depósitos, levantamentos ou bónus, contacte a Nomini através do seu site oficial. Este guia não aceita apostas, não mantém saldos de jogadores nem processa transações.
+Estes dados foram recuperados das informações do editor anteriormente fornecidas para este site. Identificam o editor deste guia; **não identificam** o operador da Nomini Casino nem demonstram que a licença MGA indicada se aplica à Nomini ou a este domínio.
+
+O [registo oficial de titulares de licença da MGA](https://www.mga.org.mt/licensee-hub/licensee-register/) é a fonte principal para verificar o titular atual, as atividades autorizadas e o estado da licença. Os dados da empresa podem ser consultados no [Malta Business Registry](https://www.mbr.mt/). Esta página não é uma consulta em tempo real ao registo e a referência fornecida, por si só, não confirma que a licença esteja atualmente ativa nem que abranja este site ou todos os mercados.
+
+Os [Termos e Condições oficiais da Nomini](https://nomini.com/en/rules), versão 1.12, foram atualizados pela última vez em 19 de agosto de 2026. O texto consultado descreve genericamente o operador como a empresa que gere o site, sem indicar a denominação legal registada nem o número de registo. Por isso, os dados do editor acima não devem ser confundidos com os dados do operador da Nomini.
+
+Para questões de conta, depósitos, levantamentos ou bónus da Nomini, utilize as opções de contacto do [site oficial da Nomini](https://nomini.com/en/about). A página oficial About indica support@nomini.com para apoio ao cliente. Este guia não aceita apostas, não mantém saldos de jogadores nem processa transações.
 
 **Última atualização: 30 de outubro de 2026**
