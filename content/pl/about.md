@@ -41,7 +41,7 @@ Treści mają charakter redakcyjny. Dane dotyczące RTP, bonusów, płatności i
 
 
 
-Skorzystaj z tych danych, aby zgłosić korektę, zapytać o źródła, poinformować o niedziałającym linku, problemie z dostępnością lub zaproponować współpracę. W miarę możliwości podaj adres strony i dokładny fragment tekstu.
+W sprawach korekt redakcyjnych, źródeł, dostępności i ogólnych zapytań napisz na [info@nomini.com](mailto:info@nomini.com). W sprawach konta, bonusów, wpłat lub wypłat skontaktuj się z Nomini przez oficjalną stronę. Nie wysyłaj temu serwisowi haseł ani pełnych danych płatniczych.
 
 Serwis jest portalem informacyjnym i porównawczym, a nie operatorem hazardowym. W sprawach konta kasynowego, wpłaty, wypłaty lub bonusu skontaktuj się z oficjalną obsługą danego operatora.
 
