@@ -1,18 +1,18 @@
 ---
-title: 'Instant Casino: games, bonuses and payments explained'
+title: 'Nomini Casino: games, bonuses and payments explained'
 description: 'Clear, practical information about game mechanics, bonus terms, payments and account security.'
 type: page
-seo_title: Instant Casino – independent information guide | Instant Casino
-lastmod: '2026-10-28'
+seo_title: Nomini Casino Guide – games, bonuses and payment information
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
   list: always
 ---
 
-## How Instant Casino researches and explains casino information
+## How we research and explain Nomini Casino information
 
-Instant Casino is an independent informational website about online casino games, slot mechanics, promotions, payment methods and account security. Our purpose is to help readers understand the details behind a game or offer—not to promise winnings, encourage deposits or present gambling as a way to earn money. We do not operate a casino, accept bets, hold player balances or process deposits and withdrawals.
+This independent guide covers Nomini Casino's online games, slot mechanics, promotions, payment methods and account security. It is not the official Nomini website and is not operated by the casino. Our purpose is to explain relevant terms—not to promise winnings, encourage deposits or present gambling as a way to earn money.
 
 ### Experience, expertise and editorial responsibility
 
