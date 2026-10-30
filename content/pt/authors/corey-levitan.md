@@ -2,13 +2,13 @@
 title: Corey Levitan
 description: Corey Levitan cobre entretenimento, restauração e jogo em Las Vegas. O seu percurso inclui seis anos de reportagem
   para o Las Vegas Review-Journal;…
-seo_title: Corey Levitan – Jornalista e autor sobre casinos | Instant Casino
+seo_title: Corey Levitan – Jornalista e autor sobre casinos | Nomini Casino Guide
 type: author
 slug: corey-levitan
 aliases:
 - /pt/authors/author-1/
 date: '2026-09-27'
-lastmod: '2026-10-17'
+lastmod: '2026-10-30'
 author_id: author-1
 role: Jornalista e autor sobre casinos
 photo: images/Corey_Levitan.jpg
@@ -39,9 +39,9 @@ Corey Levitan cobre entretenimento, restauração e jogo em Las Vegas. O seu per
 
 Las Vegas, notícias sobre jogo, entretenimento e jornalismo de casinos
 
-### Contributo editorial na Instant Casino
+### Contributo editorial na Nomini Casino Guide
 
-Na Instant Casino, este perfil integra o trabalho editorial sobre informação de casinos, explicações de jogos e comparação das condições das ofertas. A área de especialidade orienta a abordagem: as mecânicas são explicadas com base nos dados disponíveis, os bónus são organizados pelas respetivas condições e os métodos de pagamento são comparados por limites e tempos indicados.
+Na Nomini Casino Guide, este perfil integra o trabalho editorial sobre informação de casinos, explicações de jogos e comparação das condições das ofertas. A área de especialidade orienta a abordagem: as mecânicas são explicadas com base nos dados disponíveis, os bónus são organizados pelas respetivas condições e os métodos de pagamento são comparados por limites e tempos indicados.
 
 ### Como interpretar este perfil
 
