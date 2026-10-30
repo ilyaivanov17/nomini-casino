@@ -497,10 +497,9 @@ a:focus-visible,button:focus-visible,summary:focus-visible,.language-select:focu
 
 
 /* =========================================================
-   Instant Casino — fiery lobby refresh
-   Inspired by the supplied reference's visual language:
-   near-black/burgundy surfaces, gold CTAs, luminous edges,
-   compact game rows, promotional cards and motion.
+   Nomini — berry and citrus visual system
+   A lively independent guide identity: deep plum surfaces, berry accents,
+   warm citrus CTAs, rounded panels and clear editorial hierarchy.
    ========================================================= */
 :root{
   --lobby-bg:#070405;
@@ -2538,3 +2537,230 @@ footer .glass-strong { border-radius: 22px; }
 .home-author-card .author-identity-copy{padding-top:0}
 .home-author-card .author-card-body{padding-top:1.1rem}
 @media(max-width:640px){.home-author-card .home-author-cover{height:220px}}
+
+
+/* =========================================================
+   NOMINI BRAND OVERRIDE
+   Berry pink, plum and citrus accents; retains the existing
+   responsive layout while removing the previous fiery-red theme.
+   ========================================================= */
+:root{
+  --brand-bg:#10091f;
+  --brand-surface:#1b1230;
+  --brand-surface-raised:#291941;
+  --brand-text:#fbf7ff;
+  --brand-muted:#c6b6d5;
+  --brand-accent:#ff5b87;
+  --brand-accent-hover:#ff944d;
+  --brand-border:rgba(211,181,246,.18);
+  --lobby-bg:#10091f;
+  --lobby-surface:#1b1230;
+  --lobby-surface-2:#291941;
+  --lobby-border:#49305e;
+  --lobby-border-bright:#9d55b9;
+  --lobby-red:#ff5b87;
+  --lobby-red-2:#ff83a6;
+  --lobby-gold:#ffc45c;
+  --lobby-gold-2:#ff944d;
+  --lobby-text:#fbf7ff;
+  --lobby-muted:#c6b6d5;
+}
+html{background:#10091f}
+body{
+  background:
+    radial-gradient(ellipse at 86% 4%,rgba(255,91,135,.16),transparent 28rem),
+    radial-gradient(ellipse at 8% 32%,rgba(152,83,219,.15),transparent 28rem),
+    linear-gradient(180deg,#10091f 0%,#130c23 48%,#0d0819 100%);
+  color:var(--lobby-text);
+}
+body:before{opacity:.12}
+.glass,.glass-strong{
+  background:rgba(31,19,49,.84);
+  border-color:rgba(211,181,246,.16);
+}
+.lobby-header{
+  background:rgba(16,9,31,.9);
+  border-bottom-color:rgba(255,91,135,.2);
+}
+.lobby-logo-mark{
+  color:#ff6e9b;
+  filter:drop-shadow(0 0 14px rgba(255,91,135,.4));
+}
+.lobby-logo-type{color:#fff8ff}
+.lobby-logo-type b{color:#ff8aab}
+.lobby-nav-link{color:#d0c0df}
+.lobby-nav-link:hover,.lobby-nav-link.is-active{
+  color:#fff;
+  background:rgba(255,91,135,.12);
+}
+.lobby-nav-link.is-active:after{
+  background:linear-gradient(90deg,transparent,#ff6e9b,#ffc45c,transparent);
+}
+.lobby-language{
+  background:#201433!important;
+  border-color:rgba(211,181,246,.2)!important;
+}
+.lobby-ghost-cta{color:#f8efff;border-color:rgba(211,181,246,.25)}
+.lobby-ghost-cta:hover{
+  border-color:rgba(255,140,173,.55);
+  background:rgba(255,91,135,.09);
+}
+.lobby-gold-cta,.casino-primary{
+  background:linear-gradient(120deg,#ff6e9b 0%,#ff8a79 50%,#ffc45c 100%);
+  color:#24102c;
+  box-shadow:0 10px 28px rgba(255,91,135,.2),inset 0 1px 0 rgba(255,255,255,.48);
+}
+.lobby-gold-cta:hover,.casino-primary:hover{
+  background:linear-gradient(120deg,#ff8fb2 0%,#ffa080 48%,#ffd17c 100%);
+  color:#24102c;
+}
+.lobby-outline-cta,.casino-secondary{
+  color:#ffeaf2;
+  border-color:rgba(255,126,165,.4);
+  background:rgba(255,91,135,.07);
+}
+.lobby-outline-cta:hover,.casino-secondary:hover{
+  background:rgba(255,91,135,.14);
+  border-color:rgba(255,156,185,.7);
+}
+.lobby-mobile-menu{background:rgba(16,9,31,.98);border-color:rgba(211,181,246,.15)}
+.lobby-mobile-menu a{color:#f2e9fb}
+.lobby-hero-card,.hero-offer{
+  border-color:rgba(255,112,160,.3);
+  background:#201432;
+}
+.lobby-hero-bg{
+  background:
+    radial-gradient(circle at 12% 32%,rgba(255,91,135,.2),transparent 28%),
+    radial-gradient(circle at 88% 50%,rgba(255,196,92,.16),transparent 30%),
+    linear-gradient(110deg,#211333 0%,#241438 42%,#10091f 100%);
+}
+.lobby-hero-card:after{
+  background:linear-gradient(90deg,rgba(16,9,31,.98) 0%,rgba(16,9,31,.9) 36%,rgba(22,12,37,.56) 60%,rgba(16,9,31,.05) 100%);
+}
+.lobby-kicker,.hero-lead{color:#e0d2ec}
+.lobby-hero-copy h1 span,.offer-label,.lobby-section-kicker{
+  color:#ffc45c;
+}
+.lobby-hero-copy h1 span{text-shadow:0 0 28px rgba(255,196,92,.18)}
+.lobby-hero-copy p{color:#d6c7e3}
+.pulse-dot{
+  background:#9fe17d;
+  box-shadow:0 0 0 5px rgba(159,225,125,.1),0 0 18px rgba(159,225,125,.4);
+}
+.lobby-trust-row span:first-child{
+  color:#ffc45c;
+  border-color:rgba(255,196,92,.3);
+}
+.lobby-trust-row span{color:#c2b1d2;border-color:rgba(211,181,246,.16)}
+.lobby-slider-dots span{background:#593555}
+.lobby-slider-dots span.is-active{background:#ff6e9b;box-shadow:0 0 18px rgba(255,110,155,.45)}
+.lobby-search,.lobby-category-chip{
+  background:linear-gradient(180deg,#211433,#1a1029);
+  border-color:rgba(211,181,246,.18);
+}
+.lobby-search svg{stroke:#c7b2db}
+.lobby-search input{color:#fff}
+.lobby-search input::placeholder{color:#927fa7}
+.lobby-search button{
+  background:linear-gradient(120deg,#ff6e9b,#ffc45c);
+  color:#24102c;
+}
+.lobby-category-chip{color:#c9b8d9}
+.lobby-category-chip:hover,.lobby-category-chip.is-active{
+  color:#fff;
+  border-color:rgba(255,110,155,.48);
+  background:linear-gradient(180deg,#352047,#261638);
+}
+.lobby-section-kicker{color:#ff8cab}
+.lobby-head-link,.lobby-more-row a,.offer-link,.section-link,
+.guide-card-copy>span,.featured-game-copy>span,.featured-view-all,.home-editorial-copy>a{
+  color:#ff88a8;
+}
+.lobby-arrow,.lobby-game-card,.bonus-lobby-card,.activity-panel,
+.activity-side .side-mini-card,.feature-strip,.author-card,.author-card-premium{
+  background:linear-gradient(155deg,#251739,#191027);
+  border-color:rgba(211,181,246,.17);
+}
+.lobby-arrow:hover{border-color:#ff8cab;color:#fff;background:#332043}
+.lobby-game-card:hover,.slot-card:hover,.guide-image-card:hover,.featured-game-card:hover{
+  border-color:rgba(255,126,165,.62);
+  box-shadow:0 18px 44px rgba(4,2,14,.3),0 0 24px rgba(255,91,135,.08);
+}
+.game-card-art,.slot-image-wrap,.guide-image-frame,.featured-game-image{background:#211536}
+.game-tag{background:linear-gradient(120deg,#ff5b87,#a44be0)}
+.game-tag.hot{background:linear-gradient(120deg,#ff5b87,#c14fc9)}
+.game-tag.new{background:linear-gradient(120deg,#90d978,#3cae9b)}
+.game-hover-veil a{
+  border-color:rgba(255,196,92,.4);
+  color:#ffe0a6;
+  background:rgba(24,12,39,.9);
+}
+.game-card-body p,.lobby-more-row,.bonus-card-meta,.activity-feed small,
+.info-number,.info-rail-grid p,.lobby-final-card p{color:#b5a3c7}
+.bonus-section:before{background-image:radial-gradient(circle at 50% 45%,rgba(179,95,225,.18),transparent 58%)}
+.bonus-lobby-card{
+  background:linear-gradient(150deg,rgba(255,255,255,.035),transparent 36%),linear-gradient(180deg,#28183b,#191027);
+}
+.bonus-card-glow{background:radial-gradient(circle,rgba(255,91,135,.3),transparent 68%)}
+.bonus-pill{color:#26112e;background:linear-gradient(120deg,#ff7fa5,#ffc45c)}
+.bonus-code{color:#dbcce9;border-color:rgba(211,181,246,.18)}
+.activity-panel,.activity-side .side-mini-card{
+  background:linear-gradient(180deg,#241637,#191027);
+}
+.activity-icon,.side-mini-icon{
+  background:linear-gradient(145deg,#39204b,#241638);
+  border-color:rgba(255,196,92,.2);
+  color:#ffc45c;
+}
+.info-rail-grid{border-color:rgba(211,181,246,.16)}
+.info-rail-grid>div{border-color:rgba(211,181,246,.13)}
+.info-rail-grid strong,.game-card-body h3{color:#fff8ff}
+.lobby-final-card{
+  border-color:rgba(255,110,155,.3);
+  background:radial-gradient(circle at 84% 40%,rgba(255,196,92,.12),transparent 22rem),linear-gradient(100deg,#28163b,#160d25);
+}
+.promo-codes-panel{
+  border-color:rgba(255,126,165,.25);
+  background:radial-gradient(circle at 90% 0,rgba(173,88,221,.18),transparent 24rem),linear-gradient(135deg,rgba(37,22,57,.97),rgba(17,10,31,.98));
+}
+.promo-codes-eyebrow,.promo-code-spark{color:#ffc45c}
+.promo-code-card{background:linear-gradient(155deg,rgba(63,38,80,.78),rgba(24,15,39,.9));border-color:rgba(211,181,246,.16)}
+.promo-code-card:hover{border-color:rgba(255,126,165,.42)}
+.promo-code-value{border-color:rgba(255,196,92,.42);background:rgba(255,196,92,.07);color:#ffe2a6}
+.promo-code-copy{background:linear-gradient(120deg,#ff6e9b,#ffc45c);border-color:rgba(255,196,92,.55);color:#24102c}
+.promo-code-copy:hover{background:linear-gradient(120deg,#ff8fb2,#ffd17c)}
+.promo-codes-guide{color:#ff9db8}
+.promo-codes-guide:hover{color:#ffc45c}
+main article.container,main .prose,main .casino-section{color:#eee5f7}
+main article.container .breadcrumbs{color:#b5a3c7}
+main article.container .breadcrumbs a{color:#e7b2c7}
+main article.container h1,main article.container h2,main article.container h3{color:#fff8ff}
+main article.container .glass,main article.container .glass-strong{
+  background:linear-gradient(180deg,#251739,#191027);
+  border-color:rgba(211,181,246,.18);
+}
+main article.container .casino-primary{background:linear-gradient(120deg,#ff6e9b,#ffc45c);color:#24102c}
+.author-avatar,.author-avatar-premium{border-color:rgba(255,126,165,.5)}
+.author-link,.social-link,.social-button{color:#ff9db8;border-color:rgba(255,126,165,.28)}
+.author-section-label{color:#ffc45c}
+.author-specialty{color:#ffc45c;background:rgba(255,196,92,.09);border-color:rgba(255,196,92,.18)}
+.verified-badge{color:#a6e58b}
+footer{
+  background:linear-gradient(180deg,transparent,#0d0818 14%);
+  border-color:rgba(211,181,246,.16);
+}
+footer .glass-strong,footer .footer-authors{
+  background:linear-gradient(180deg,#211433,#160e25)!important;
+  border-color:rgba(211,181,246,.16)!important;
+}
+footer a:hover{color:#ffc45c!important}
+#cookie-banner{background:#211433;border-color:rgba(211,181,246,.22)}
+.prose a{color:#ff88a8}
+.prose a:hover{color:#ffc45c}
+@media(max-width:900px){
+  .lobby-hero-card:after{background:linear-gradient(90deg,rgba(16,9,31,.98) 0%,rgba(16,9,31,.9) 46%,rgba(16,9,31,.24) 100%)}
+}
+@media(max-width:640px){
+  .lobby-hero-card:after{background:linear-gradient(180deg,rgba(16,9,31,.99) 0%,rgba(16,9,31,.92) 48%,rgba(16,9,31,.5) 100%)}
+}
