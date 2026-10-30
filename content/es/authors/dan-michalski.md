@@ -3,13 +3,13 @@ medium: https://medium.com/@Michalski_Dan
 title: Dan Michalski
 description: Dan Michalski es un periodista y editor con amplia trayectoria en juego, casinos, medios y tecnología. Sus perfiles
   periodísticos públicos incluyen…
-seo_title: Dan Michalski – Editor sénior y periodista | Instant Casino
+seo_title: Dan Michalski – Editor sénior y periodista | Nomini Casino Guide
 type: author
 slug: dan-michalski
 aliases:
 - /es/authors/author-2/
 date: '2026-09-27'
-lastmod: '2026-10-17'
+lastmod: '2026-10-30'
 author_id: author-2
 role: Editor sénior y periodista
 photo: images/Dan_Michalski.jpg
@@ -39,9 +39,9 @@ Dan Michalski es un periodista y editor con amplia trayectoria en juego, casinos
 
 Industria del juego, medios sobre casinos, análisis editorial y tecnología
 
-### Contribución editorial en Instant Casino
+### Contribución editorial en Nomini Casino Guide
 
-En Instant Casino, este perfil forma parte del trabajo editorial sobre información de casinos, explicaciones de juegos y comparación de condiciones. El área de especialidad determina el enfoque: las mecánicas se explican a partir de los datos disponibles, los bonos se organizan por sus condiciones y los métodos de pago se comparan según límites y tiempos indicados.
+En Nomini Casino Guide, este perfil forma parte del trabajo editorial sobre información de casinos, explicaciones de juegos y comparación de condiciones. El área de especialidad determina el enfoque: las mecánicas se explican a partir de los datos disponibles, los bonos se organizan por sus condiciones y los métodos de pago se comparan según límites y tiempos indicados.
 
 ### Cómo interpretar este perfil
 
