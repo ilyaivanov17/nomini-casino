@@ -1,4 +1,5 @@
 ---
+
 title: Corey Levitan
 description: Corey Levitan covers entertainment, dining and gambling in Las Vegas. His career includes six years reporting
   for the Las Vegas Review-Journal; he…
@@ -29,28 +30,31 @@ build:
   render: always
   list: always
 medium: https://corey-levitan-merklin.medium.com/
+
 ---
 
-## About Corey Levitan
+## Profile: Corey Levitan
 
 Corey Levitan covers entertainment, dining and gambling in Las Vegas. His career includes six years reporting for the Las Vegas Review-Journal; he joined Casino.org in 2022.
 
-### Areas of expertise
+### Professional subject area
 
 Las Vegas, gambling news, entertainment and casino journalism
 
-### Editorial contribution at Nomini Casino Guide
+### How to read this profile
 
-At Nomini Casino Guide, this profile belongs to the editorial work covering casino information, game explainers and comparisons of offer terms. The subject area shapes the approach: game mechanics are explained through available game data, bonus details are structured by their conditions, and payment methods are compared using the listed limits and processing times.
+This contributor is listed as **Journalist and casino writer**. The professional focus above is useful context for understanding the subjects associated with the profile; it is not proof of personal testing, a particular result or approval of every page on this site.
 
-### How to use this profile
+The contributor's listed focus helps explain the topics associated with this profile. Specific game mechanics, bonus conditions and payment details still need to be checked against current primary information.
 
-When comparing casino games and offers, the full terms, the specific game version and the rules shown for the relevant account matter. Editorial comparisons should separate recorded figures from interpretation and link to relevant detail pages and primary information. This profile describes professional subject areas; it does not replace checking the terms of an individual offer.
+### Editorial context
+
+Game rules and RTP figures can differ by version. Promotion requirements, payment options and local availability may also change. Compare the exact version and account-specific terms, and rely on current primary sources for details that affect a decision.
 
 ### Public professional profiles
 
 [LinkedIn](https://www.linkedin.com/in/coreylevitan) · [Medium](https://corey-levitan-merklin.medium.com/)
 
-| Role | Focus | Public profile | Specialty |
-| --- | --- | --- | --- |
+| Role | Subject area | Public profile | Main focus |
+|---|---|---|---|
 | Journalist and casino writer | Las Vegas, gambling news, entertainment and casino journalism | [LinkedIn](https://www.linkedin.com/in/coreylevitan) · [Medium](https://corey-levitan-merklin.medium.com/) | Las Vegas, gambling news, entertainment and casino journalism |

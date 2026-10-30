@@ -1,4 +1,5 @@
 ---
+
 title: Jon Pill
 description: Jon Pill has worked as a freelance writer and gambling journalist since 2015. His subject areas include game
   strategy, poker and casino games; Casino…
@@ -29,28 +30,31 @@ build:
   render: always
   list: always
 medium: https://medium.com/@JonPill
+
 ---
 
-## About Jon Pill
+## Profile: Jon Pill
 
 Jon Pill has worked as a freelance writer and gambling journalist since 2015. His subject areas include game strategy, poker and casino games; Casino Guru publicly lists him as a Game Analyst.
 
-### Areas of expertise
+### Professional subject area
 
 Game strategy, poker rules, casino games and analysis of game mechanics
 
-### Editorial contribution at Nomini Casino Guide
+### How to read this profile
 
-At Nomini Casino Guide, this profile belongs to the editorial work covering casino information, game explainers and comparisons of offer terms. The subject area shapes the approach: game mechanics are explained through available game data, bonus details are structured by their conditions, and payment methods are compared using the listed limits and processing times.
+This contributor is listed as **Game analyst and gambling journalist**. The professional focus above is useful context for understanding the subjects associated with the profile; it is not proof of personal testing, a particular result or approval of every page on this site.
 
-### How to use this profile
+This background describes a professional area, not a test record. Readers should use the linked public profile for career context and verify changing casino details at the relevant official source.
 
-When comparing casino games and offers, the full terms, the specific game version and the rules shown for the relevant account matter. Editorial comparisons should separate recorded figures from interpretation and link to relevant detail pages and primary information. This profile describes professional subject areas; it does not replace checking the terms of an individual offer.
+### Editorial context
+
+Game rules and RTP figures can differ by version. Promotion requirements, payment options and local availability may also change. Compare the exact version and account-specific terms, and rely on current primary sources for details that affect a decision.
 
 ### Public professional profiles
 
 [Medium](https://medium.com/@JonPill)
 
-| Role | Focus | Public profile | Specialty |
-| --- | --- | --- | --- |
+| Role | Subject area | Public profile | Main focus |
+|---|---|---|---|
 | Game analyst and gambling journalist | Game strategy, poker rules, casino games and analysis of game mechanics | [Medium](https://medium.com/@JonPill) | Game strategy, poker rules, casino games and analysis of game mechanics |
