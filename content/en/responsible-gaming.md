@@ -2,8 +2,8 @@
 title: 'Safer gambling: risks, limits and protection'
 description: 'Recognise gambling risks, set limits and find support for safer play.'
 type: page
-seo_title: 'Safer gambling: risks, limits and protection | Instant Casino'
-lastmod: '2026-10-28'
+seo_title: 'Safer gambling: risks, limits and protection | Nomini Casino Guide'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
