@@ -2,8 +2,8 @@
 title: Información legal y privacidad
 description: 'Información legal, privacidad, cookies y detalles importantes de este sitio informativo.'
 type: page
-seo_title: Información legal y privacidad | Instant Casino
-lastmod: '2026-10-28'
+seo_title: 'Información legal y privacidad | Nomini Casino Guide'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -25,9 +25,9 @@ Esta guía reúne la información por temas para facilitar la comparación de re
 
 ## 1. Ámbito y contacto
 
-Instant Casino es un sitio informativo y comparativo sobre casinos en línea. Este aviso describe los tipos de tratamiento que pueden producirse al visitar la web o contactar con la redacción. Los detalles técnicos también dependen de los servicios de alojamiento y correo que se utilicen realmente.
+Nomini Casino Guide es un sitio informativo y comparativo independiente sobre Nomini. No es el sitio oficial de Nomini ni está gestionado por el casino. Este aviso describe los tipos de tratamiento de datos que pueden producirse al visitar esta guía. Los detalles técnicos dependen de los servicios de alojamiento y correo que se utilicen realmente.
 
-Para consultas sobre privacidad, contacta con el equipo editorial de Instant Casino en [info@instant.com](mailto:info@instant.com) o en el teléfono [+49 10 111 0253](tel:+49101110253). Facilita únicamente los datos necesarios para tramitar la solicitud.
+
 
 ## 2. Datos técnicos de acceso
 
@@ -115,16 +115,16 @@ Utiliza los controles de consentimiento disponibles en el sitio. Borrar el almac
 
 ## Sitio web y contacto editorial
 
-**Equipo editorial de Instant Casino**
+**Equipo editorial de Nomini Casino Guide**
 
-- Correo electrónico: [info@instant.com](mailto:info@instant.com)
-- Teléfono: [+49 10 111 0253](tel:+49101110253)
+
+
 
 Esta página se refiere a un sitio informativo y comparativo sobre casinos en línea. Los datos anteriores se destinan a consultas editoriales, correcciones, referencias de fuentes y preguntas generales.
 
 ## Naturaleza del sitio
 
-Instant Casino publica información editorial y comparaciones sobre juegos, bonos, métodos de pago y temas relacionados. El sitio no acepta apuestas de jugadores, no gestiona cuentas de casino ni procesa depósitos o retiradas como operador de juego. Las cuestiones sobre cuentas y pagos deben dirigirse al operador correspondiente.
+Nomini Casino Guide publica información editorial y comparaciones sobre juegos, bonos, métodos de pago y temas relacionados. El sitio no acepta apuestas de jugadores, no gestiona cuentas de casino ni procesa depósitos o retiradas como operador de juego. Las cuestiones sobre cuentas y pagos deben dirigirse al operador correspondiente.
 
 ## Contenido editorial y actualizaciones
 
@@ -142,19 +142,12 @@ Los enlaces a sitios de terceros se ofrecen como fuentes o recursos adicionales.
 
 Los textos, imágenes y demás materiales están protegidos por las normas de propiedad intelectual aplicables. Su reutilización fuera de las excepciones legales requiere autorización del titular correspondiente.
 
-## Datos del editor y de la empresa
+## Identidad del editor e información sobre Nomini
 
-El editor ha facilitado los siguientes datos societarios para este sitio web:
+La identidad jurídica y el domicilio social del editor de esta guía independiente aún no se han verificado y, por tanto, no se indican aquí. Este sitio es un recurso informativo independiente; no es el sitio oficial de Nomini ni el operador del casino.
 
-- **Nombre legal registrado:** Instant Gaming plc
-- **Número de registro mercantil:** C59314
-- **Domicilio social indicado:** Level 7, The Plaza Business Centre, Bisazza Street, Sliema, SLM 1640, Malta
-- **Regulador de juego indicado por el editor:** [Malta Gaming Authority (MGA)](https://www.mga.org.mt/licensee-hub/licensee-register/)
-- **Referencia de licencia facilitada:** MGA/CRP/237/2013
-- **Tipo de licencia y fecha de emisión inicial facilitados:** B2C Gaming Service Licence; 1 de agosto de 2018
+Los [Términos y condiciones oficiales de Nomini](https://nomini.com/en/rules), versión 1.12, indican como última actualización el 19 de agosto de 2026. En el texto consultado, «Empresa» se define de forma general como la empresa que opera el sitio web, pero la página no identifica su nombre legal registrado ni su número de sociedad. Por ello, esta guía no publica una identidad empresarial ni una referencia de licencia que no se hayan verificado. Consulta las condiciones oficiales vigentes y la información del regulador competente en tu jurisdicción.
 
-El [registro oficial de licenciatarios de la MGA](https://www.mga.org.mt/licensee-hub/licensee-register/) es la fuente principal para comprobar el titular, las actividades autorizadas y el estado actual de una licencia. Los datos societarios pueden comprobarse en el [Malta Business Registry](https://www.mbr.mt/). Estos enlaces permiten una verificación independiente; esta página no es una consulta registral en tiempo real y la referencia indicada, por sí sola, no confirma que la licencia siga activa ni que cubra este sitio web o todos los mercados.
+Para asuntos de cuenta, depósitos, retiradas o bonos, contacta con Nomini a través de su sitio oficial. Esta guía no acepta apuestas, no mantiene saldos de jugadores ni procesa transacciones.
 
-Instant Casino publica contenido informativo y comparativo. Este sitio no acepta apuestas, no gestiona cuentas de jugadores ni procesa depósitos o retiradas. La información sobre una empresa o una licencia no demuestra que todos los casinos de terceros analizados aquí estén autorizados en tu jurisdicción.
-
-**Última actualización: 29 de octubre de 2026**
+**Última actualización: 30 de octubre de 2026**
