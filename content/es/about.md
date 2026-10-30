@@ -1,9 +1,9 @@
 ---
-title: 'Sobre Instant Casino: equipo editorial y metodología'
+title: 'Sobre la guía de Nomini: equipo y metodología'
 description: 'Conoce nuestro método editorial, la revisión de fuentes y las responsabilidades del equipo.'
 type: page
-seo_title: 'Sobre Instant Casino: equipo editorial y metodología | Instant Casino'
-lastmod: '2026-10-28'
+seo_title: 'Sobre Nomini | Equipo y metodología'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -25,7 +25,7 @@ screenshots:
 - /images/guides/casino-editorial.webp
 screenshots_note: 'Ilustración editorial, no es una captura de una interfaz real del operador.'
 ---
-## Sobre Instant Casino: equipo editorial y metodología
+## Sobre Nomini Casino Guide: equipo editorial y metodología
 
 Esta guía reúne la información por temas para facilitar la comparación de reglas y limitaciones. Las reglas del juego, el RTP, las condiciones de los bonos, los métodos de pago y la disponibilidad legal pueden variar según la versión, el operador y el país. Comprueba los datos en la versión ofrecida actualmente.
 
@@ -33,14 +33,13 @@ Esta guía reúne la información por temas para facilitar la comparación de re
 
 El contenido es información editorial. Antes de publicar, los datos de RTP, bonos, pagos y disponibilidad legal deben verificarse con fuentes primarias actuales. Los perfiles conservan los datos registrados en el proyecto y no implican que cada autor haya revisado o aprobado todos los textos reunidos.
 
-## Contacto con la redacción de Instant Casino
+## Contacto con la redacción de Nomini Casino Guide
 
 ## Contacto con la redacción
 
-**Equipo editorial de Instant Casino**
+**Equipo editorial de Nomini Casino Guide**
 
-- Correo electrónico: [info@instant.com](mailto:info@instant.com)
-- Teléfono: [+49 10 111 0253](tel:+49101110253)
+
 
 Utiliza estos datos para enviar correcciones, preguntar por las fuentes, informar de enlaces rotos o problemas de accesibilidad y proponer colaboraciones. Siempre que puedas, incluye la URL y el fragmento exacto.
 
@@ -64,11 +63,11 @@ Nunca envíes contraseñas, códigos de recuperación, datos completos de tarjet
 
 ---
 
-## Política editorial y método de comparación | Instant Casino
+## Política editorial y método de comparación | Nomini Casino Guide
 
 # Política editorial y método de comparación
 
-Esta página explica cómo Instant Casino organiza la información sobre juegos, bonos, métodos de pago y preguntas frecuentes. El objetivo es ofrecer una comparación clara: los titulares promocionales se leen junto a las condiciones que influyen realmente en una decisión.
+Esta página explica cómo Nomini Casino Guide organiza la información sobre juegos, bonos, métodos de pago y preguntas frecuentes. El objetivo es ofrecer una comparación clara: los titulares promocionales se leen junto a las condiciones que influyen realmente en una decisión.
 
 ## Qué comparamos
 
@@ -111,9 +110,9 @@ Arthur Mustoe es un redactor freelance del Reino Unido especializado en iGaming 
 
 Reseñas de casinos y slots, reglas de juego, información de proveedores y contenido orientado al cumplimiento
 
-### Contribución editorial en Instant Casino
+### Contribución editorial en Nomini Casino Guide
 
-En Instant Casino, este perfil forma parte del trabajo editorial sobre información de casinos, explicaciones de juegos y comparación de condiciones. El área de especialidad determina el enfoque: las mecánicas se explican a partir de los datos disponibles, los bonos se organizan por sus condiciones y los métodos de pago se comparan según límites y tiempos indicados.
+En Nomini Casino Guide, este perfil forma parte del trabajo editorial sobre información de casinos, explicaciones de juegos y comparación de condiciones. El área de especialidad determina el enfoque: las mecánicas se explican a partir de los datos disponibles, los bonos se organizan por sus condiciones y los métodos de pago se comparan según límites y tiempos indicados.
 
 ### Cómo interpretar este perfil
 
@@ -139,9 +138,9 @@ Corey Levitan cubre entretenimiento, gastronomía y juego en Las Vegas. Su traye
 
 Las Vegas, noticias sobre juego, entretenimiento y periodismo de casinos
 
-### Contribución editorial en Instant Casino
+### Contribución editorial en Nomini Casino Guide
 
-En Instant Casino, este perfil forma parte del trabajo editorial sobre información de casinos, explicaciones de juegos y comparación de condiciones. El área de especialidad determina el enfoque: las mecánicas se explican a partir de los datos disponibles, los bonos se organizan por sus condiciones y los métodos de pago se comparan según límites y tiempos indicados.
+En Nomini Casino Guide, este perfil forma parte del trabajo editorial sobre información de casinos, explicaciones de juegos y comparación de condiciones. El área de especialidad determina el enfoque: las mecánicas se explican a partir de los datos disponibles, los bonos se organizan por sus condiciones y los métodos de pago se comparan según límites y tiempos indicados.
 
 ### Cómo interpretar este perfil
 
@@ -167,9 +166,9 @@ Cristina Tudose es redactora y copywriter en inglés y rumano, especializada en 
 
 Contenido multilingüe de iGaming, reseñas de casinos, bonos, descripciones de juegos y SEO
 
-### Contribución editorial en Instant Casino
+### Contribución editorial en Nomini Casino Guide
 
-En Instant Casino, este perfil forma parte del trabajo editorial sobre información de casinos, explicaciones de juegos y comparación de condiciones. El área de especialidad determina el enfoque: las mecánicas se explican a partir de los datos disponibles, los bonos se organizan por sus condiciones y los métodos de pago se comparan según límites y tiempos indicados.
+En Nomini Casino Guide, este perfil forma parte del trabajo editorial sobre información de casinos, explicaciones de juegos y comparación de condiciones. El área de especialidad determina el enfoque: las mecánicas se explican a partir de los datos disponibles, los bonos se organizan por sus condiciones y los métodos de pago se comparan según límites y tiempos indicados.
 
 ### Cómo interpretar este perfil
 
@@ -195,9 +194,9 @@ Dan Michalski es un periodista y editor con amplia trayectoria en juego, casinos
 
 Industria del juego, medios sobre casinos, análisis editorial y tecnología
 
-### Contribución editorial en Instant Casino
+### Contribución editorial en Nomini Casino Guide
 
-En Instant Casino, este perfil forma parte del trabajo editorial sobre información de casinos, explicaciones de juegos y comparación de condiciones. El área de especialidad determina el enfoque: las mecánicas se explican a partir de los datos disponibles, los bonos se organizan por sus condiciones y los métodos de pago se comparan según límites y tiempos indicados.
+En Nomini Casino Guide, este perfil forma parte del trabajo editorial sobre información de casinos, explicaciones de juegos y comparación de condiciones. El área de especialidad determina el enfoque: las mecánicas se explican a partir de los datos disponibles, los bonos se organizan por sus condiciones y los métodos de pago se comparan según límites y tiempos indicados.
 
 ### Cómo interpretar este perfil
 
@@ -223,9 +222,9 @@ Dominic Field es un redactor freelance de iGaming con amplia experiencia en cont
 
 Casinos online, slots, póquer, apuestas deportivas e industria de iGaming
 
-### Contribución editorial en Instant Casino
+### Contribución editorial en Nomini Casino Guide
 
-En Instant Casino, este perfil forma parte del trabajo editorial sobre información de casinos, explicaciones de juegos y comparación de condiciones. El área de especialidad determina el enfoque: las mecánicas se explican a partir de los datos disponibles, los bonos se organizan por sus condiciones y los métodos de pago se comparan según límites y tiempos indicados.
+En Nomini Casino Guide, este perfil forma parte del trabajo editorial sobre información de casinos, explicaciones de juegos y comparación de condiciones. El área de especialidad determina el enfoque: las mecánicas se explican a partir de los datos disponibles, los bonos se organizan por sus condiciones y los métodos de pago se comparan según límites y tiempos indicados.
 
 ### Cómo interpretar este perfil
 
@@ -251,9 +250,9 @@ Jon Pill trabaja como redactor freelance y periodista de juego desde 2015. Sus t
 
 Estrategia de juego, reglas de póquer, juegos de casino y análisis de mecánicas
 
-### Contribución editorial en Instant Casino
+### Contribución editorial en Nomini Casino Guide
 
-En Instant Casino, este perfil forma parte del trabajo editorial sobre información de casinos, explicaciones de juegos y comparación de condiciones. El área de especialidad determina el enfoque: las mecánicas se explican a partir de los datos disponibles, los bonos se organizan por sus condiciones y los métodos de pago se comparan según límites y tiempos indicados.
+En Nomini Casino Guide, este perfil forma parte del trabajo editorial sobre información de casinos, explicaciones de juegos y comparación de condiciones. El área de especialidad determina el enfoque: las mecánicas se explican a partir de los datos disponibles, los bonos se organizan por sus condiciones y los métodos de pago se comparan según límites y tiempos indicados.
 
 ### Cómo interpretar este perfil
 
@@ -279,9 +278,9 @@ Marco Ibarra es un redactor, editor y gestor bilingüe de iGaming. Sus áreas de
 
 Casinos online, reseñas de slots, análisis de bonos y edición orientada al SEO
 
-### Contribución editorial en Instant Casino
+### Contribución editorial en Nomini Casino Guide
 
-En Instant Casino, este perfil forma parte del trabajo editorial sobre información de casinos, explicaciones de juegos y comparación de condiciones. El área de especialidad determina el enfoque: las mecánicas se explican a partir de los datos disponibles, los bonos se organizan por sus condiciones y los métodos de pago se comparan según límites y tiempos indicados.
+En Nomini Casino Guide, este perfil forma parte del trabajo editorial sobre información de casinos, explicaciones de juegos y comparación de condiciones. El área de especialidad determina el enfoque: las mecánicas se explican a partir de los datos disponibles, los bonos se organizan por sus condiciones y los métodos de pago se comparan según límites y tiempos indicados.
 
 ### Cómo interpretar este perfil
 
