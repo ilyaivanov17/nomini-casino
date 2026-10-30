@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Static SEO/content audit for Instant Casino Hugo project; does not replace a Hugo build."""
+"""Static SEO/content audit for the Nomini Casino Guide Hugo project; does not replace a Hugo build."""
 from __future__ import annotations
 from pathlib import Path
 import argparse, re, sys, collections
@@ -131,7 +131,7 @@ def main():
         for lang in LANGS[1:]:
             dui=settings['de'].get('ui',{}); ui=settings.get(lang,{}).get('ui',{})
             # Meaningful text strings left exactly in German are usually translation misses; proper names and common terms are skipped.
-            allow={'FAQ','Cookies','Cashback','LinkedIn','Website','Code','Minimum','Maximum','Instant Casino','RTP','SEO','VIP','Live','OK','EUR','USD','BTC','ETH','KYC','URL','JSON-LD'}
+            allow={'FAQ','Cookies','Cashback','LinkedIn','Website','Code','Minimum','Maximum','Nomini','Nomini Casino Guide','RTP','SEO','VIP','Live','OK','EUR','USD','BTC','ETH','KYC','URL','JSON-LD'}
             same=[k for k,v in dui.items() if isinstance(v,str) and len(v)>10 and v==ui.get(k) and v not in allow and not re.search(r'^[0-9 ./+→–-]+$',v)]
             if same: warnings.append(f'{lang}: {len(same)} UI strings unchanged from German: {same[:12]}')
     cfg=(root/'hugo.toml').read_text(encoding='utf-8') if (root/'hugo.toml').exists() else ''
