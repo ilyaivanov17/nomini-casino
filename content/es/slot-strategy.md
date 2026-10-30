@@ -2,7 +2,7 @@
 title: 'Guía de tragamonedas: funciones y mecánicas'
 description: 'Comprende RTP, volatilidad y mecánicas sin tratarlos como predicciones de resultados.'
 type: page
-seo_title: 'Guía de tragamonedas: funciones y mecánicas | Instant Casino'
+seo_title: 'Guía de tragamonedas: funciones y mecánicas | Nomini Casino Guide'
 lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
