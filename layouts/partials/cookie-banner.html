@@ -1,0 +1,22 @@
+<div id="cookie-banner" class="fixed bottom-0 left-0 right-0 z-[100] glass-strong border-t border-white/10 p-4 hidden" role="dialog" aria-labelledby="cookie-title" aria-describedby="cookie-description">
+  <div class="container mx-auto flex flex-col md:flex-row items-center gap-4">
+    <p id="cookie-description" class="text-sm text-slate-300 flex-1"><span id="cookie-title" class="font-semibold">{{ partial "t.html" "cookie_text" }}</span> <a href="{{ "legal/" | relLangURL }}" class="text-amber-400 underline">{{ partial "t.html" "privacy" }}</a>.</p>
+    <div class="flex flex-wrap gap-2">
+      <button id="cookie-accept" class="px-4 py-2 bg-amber-500 hover:bg-amber-400 text-slate-950 text-sm font-bold rounded-lg transition">{{ partial "t.html" "accept" }}</button>
+      <button id="cookie-decline" class="px-4 py-2 glass hover:bg-white/10 text-white text-sm font-semibold rounded-lg transition">{{ partial "t.html" "reject" }}</button>
+      <button id="cookie-settings" aria-expanded="false" aria-controls="cookie-settings-panel" class="px-4 py-2 glass hover:bg-white/10 text-white text-sm font-semibold rounded-lg transition">{{ partial "t.html" "settings" }}</button>
+    </div>
+  </div>
+  <div id="cookie-settings-panel" class="container mx-auto mt-4 max-w-3xl hidden" role="region" aria-labelledby="cookie-settings-title">
+    <div class="glass rounded-xl p-5">
+      <h2 id="cookie-settings-title" class="text-lg font-bold text-white mb-2">{{ partial "t.html" "cookie_settings_title" }}</h2>
+      <p class="text-sm text-slate-400 mb-4">{{ partial "t.html" "cookie_settings_text" }}</p>
+      <div class="space-y-3">
+        <label class="flex items-center justify-between gap-4 text-sm text-slate-300"><span>{{ partial "t.html" "necessary" }}</span><input type="checkbox" checked disabled aria-label="{{ partial "t.html" "necessary" }}"></label>
+        <label class="flex items-center justify-between gap-4 text-sm text-slate-300"><span>{{ partial "t.html" "analytics" }}</span><input id="cookie-analytics" type="checkbox" aria-label="{{ partial "t.html" "analytics" }}"></label>
+        <label class="flex items-center justify-between gap-4 text-sm text-slate-300"><span>{{ partial "t.html" "marketing" }}</span><input id="cookie-marketing" type="checkbox" aria-label="{{ partial "t.html" "marketing" }}"></label>
+      </div>
+      <div class="mt-4 flex justify-end"><button id="cookie-save-settings" class="px-4 py-2 bg-amber-500 hover:bg-amber-400 text-slate-950 text-sm font-bold rounded-lg transition">{{ partial "t.html" "save_settings" }}</button></div>
+    </div>
+  </div>
+</div>

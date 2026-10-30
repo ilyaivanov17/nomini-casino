@@ -1,0 +1,78 @@
+name: Hugo production build
+
+on:
+  push:
+    branches: [main, nomini-rebrand-work]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate-and-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install audit dependencies
+        run: python -m pip install --disable-pip-version-check PyYAML
+
+      - name: Install Hugo Extended
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.169.0'
+          extended: true
+
+      - name: Validate content and SEO
+        run: |
+          python scripts/check-site.py
+          python scripts/check-bonuses.py
+          python scripts/seo-audit.py
+          python scripts/language-coverage.py
+          python scripts/check-locales.py
+
+      - name: Build production site
+        run: hugo --cleanDestinationDir --minify --environment production --printPathWarnings
+
+      - name: Check public text for Cyrillic
+        run: python scripts/check-public-cyrillic.py public
+
+      - name: Validate generated sitemap
+        run: python scripts/check-sitemap.py
+
+      - name: Check public output for leaked files
+        run: ./scripts/check-public-output.sh public
+
+      - name: Set up Node for mobile browser tests
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install Playwright browser test dependencies
+        run: |
+          npm install --no-save playwright
+          npx playwright install --with-deps chromium
+
+      - name: Run mobile layout smoke tests
+        run: |
+          python3 -m http.server 4173 --directory public >/tmp/nomini-casino-preview.log 2>&1 &
+          echo $! > /tmp/nomini-casino-preview.pid
+          for i in $(seq 1 30); do curl -fsS http://127.0.0.1:4173/ >/dev/null && break; sleep 1; done
+          node tests/mobile-smoke.cjs
+          kill "$(cat /tmp/nomini-casino-preview.pid)" || true
+
+      - name: Upload static site artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: nomini-casino-public
+          path: public/
+          if-no-files-found: error
+          retention-days: 14

@@ -1,0 +1,119 @@
+# Canonical production domain for the independent Nomini Casino guide.
+baseURL = 'https://nomini.slot-reviews.com/'
+title = "Nomini Casino Guide"
+defaultContentLanguage = 'de'
+defaultContentLanguageInSubdir = false
+# Each language's Markdown lives in its own folder. German remains the root URL language.
+enableRobotsTXT = true
+[minify]
+  minifyOutput = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+canonifyURLs = false
+enableGitInfo = false
+disableKinds = ['taxonomy', 'term']
+
+[languages]
+  [languages.de]
+    contentDir = 'content/de'
+    label = 'Deutsch'
+    locale = 'de-DE'
+    weight = 1
+  [languages.en]
+    contentDir = 'content/en'
+    label = 'English'
+    locale = 'en-US'
+    weight = 2
+  [languages.pl]
+    contentDir = 'content/pl'
+    label = 'Polski'
+    locale = 'pl-PL'
+    weight = 3
+  [languages.es]
+    contentDir = 'content/es'
+    label = 'Español'
+    locale = 'es-ES'
+    weight = 4
+  [languages.pt]
+    contentDir = 'content/pt'
+    label = 'Português'
+    locale = 'pt-PT'
+    weight = 5
+  [languages.ja]
+    contentDir = 'content/ja'
+    label = '日本語'
+    locale = 'ja-JP'
+    weight = 6
+[params]
+  # Keep productionReady false until the publisher identity/contact details and Nomini source records are independently verified.
+  productionReady = false
+  indexingEnabled = true  # Public editorial pages are indexable; /go/ referral routes are excluded.
+  authorProfilesIndexable = true  # Keep the author index and existing author profiles visible; do not delete or replace author records.
+  showExternalRatings = false
+
+
+# Central design controls: routine brand/visual tuning happens here, not across templates.
+[params.design]
+  background = '#10091f'
+  surface = '#1b1230'
+  surface_raised = '#291941'
+  text = '#fbf7ff'
+  muted = '#c6b6d5'
+  accent = '#ff5b87'
+  accent_hover = '#ff944d'
+  border = 'rgba(211, 181, 246, 0.18)'
+  radius = '18px'
+  content_width = '1240px'
+  hero_height = '360px'
+  hero_height_mobile = '410px'
+  card_image_height = '148px'
+  guide_columns = 3
+  section_spacing = '1.7rem'
+
+[params.images]
+  hero = '/images/hero-premium.webp'
+  social = '/images/og-default.webp'
+
+[params.images.guides]
+  slots = '/images/slots/book-of-dead.jpg'
+  bonuses = '/images/guides/casino-bonus.webp'
+  payments = '/images/guides/casino-payments.webp'
+  account-help = '/images/guides/casino-account.webp'
+  responsible-gaming = '/images/responsible-play-landscape.webp'
+  about = '/images/guides/casino-editorial.webp'
+  legal = '/images/guides/casino-editorial.webp'
+  slot-features = '/images/slots/gates-of-olympus.jpg'
+  slot-strategy = '/images/slots/wolf-gold.webp'
+
+[imaging]
+  resampleFilter = 'Lanczos'
+
+[imaging.jpeg]
+  quality = 85
+
+[imaging.webp]
+  quality = 85
+
+[imaging.avif]
+  quality = 85
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.highlight]
+    noClasses = false
+
+[sitemap]
+  changefreq = 'weekly'
+  priority = 0.5
+  filename = 'sitemap.xml'
+
+[outputs]
+  home = ['HTML', 'RSS']
+  section = ['HTML']
+  page = ['HTML']
+
+[privacy]
+  [privacy.googleAnalytics]
+    disable = true

@@ -1,0 +1,17 @@
+{{ with .Params.screenshots }}
+<div class="article-image-gallery" aria-label="{{ $.Title }} — illustrative images">
+  {{ range . }}
+  {{ $src := . }}
+  {{ $parsedSrc := urls.Parse $src }}
+  {{ $imageSrc := cond $parsedSrc.IsAbs $src ($src | relURL) }}
+  {{ $name := path.Base $src | replaceRE "[-_]" " " | replaceRE "\\.(webp|jpg|jpeg|png)$" "" }}
+  {{ $alt := $.Params.screenshots_alt | default (printf "%s — %s" $.Title $name) }}
+  {{ $caption := $.Params.screenshots_caption | default (printf "%s — %s" $.Title $name) }}
+  <figure class="article-image-card">
+    <img src="{{ $imageSrc }}" alt="{{ $alt }}" loading="lazy" decoding="async" width="1200" height="750">
+    <figcaption>{{ $caption }}</figcaption>
+  </figure>
+  {{ end }}
+</div>
+{{ with $.Params.screenshots_note }}<p class="article-image-note">{{ . }}</p>{{ end }}
+{{ end }}

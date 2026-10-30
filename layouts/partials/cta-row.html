@@ -1,0 +1,11 @@
+{{- $settings := (site.GetPage "/editorial/settings").Params -}}
+{{- $variant := $settings.layout_variant | default "proof-first" -}}
+{{- $slot := .slot | default "hero_cta" -}}
+{{- $variantCfg := index $settings.cta_variants $variant -}}
+{{- $ctaKey := index $variantCfg $slot | default "primary" -}}
+<section class="cta-row py-8" data-cta-placement="{{ $slot }}" data-layout-variant="{{ $variant }}">
+  <div class="container mx-auto px-4 max-w-4xl flex flex-wrap justify-center gap-3">
+    <a href="{{ $settings.affiliate_link }}" target="_blank" rel="nofollow sponsored noopener"
+       class="inline-flex items-center px-6 py-3 bg-amber-500 hover:bg-amber-400 text-slate-950 font-bold rounded-lg transition no-underline">{{ index $settings.cta_labels $ctaKey }}</a>
+  </div>
+</section>

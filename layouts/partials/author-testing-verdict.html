@@ -1,0 +1,77 @@
+{{- $page := . -}}
+{{- $authorSlug := $page.Params.test_author | default $page.Params.author  -}}
+{{- $authorPage := site.GetPage (printf "/authors/%s" $authorSlug) -}}
+{{- $authorName := $page.Params.author_name  -}}
+{{- $authorRole := $page.Params.author_role | default "iGaming-Autor und Redakteur" -}}
+{{- $profileURL := printf "%sauthors/%s/" site.BaseURL $authorSlug -}}
+{{- $photo := $page.Params.author_photo  -}}
+{{- $mediumURL := $page.Params.author_medium  -}}
+{{- $linkedinURL := $page.Params.author_linkedin | default "" -}}
+{{- $checked := $page.Params.review_checked_at -}}
+{{- $test := $page.Params.test | default dict -}}
+{{- $testVerified := $test.verified | default false -}}
+{{- $testReady := and $testVerified $test.spins $test.bankroll $test.stake $test.empty_spin_observation $test.bonus_observation $test.bonus_trigger_spin $test.verdict $test.bankroll_advice -}}
+{{- $spins := $test.spins | default 500 -}}
+{{- $bankroll := $test.bankroll | default 200 -}}
+{{- $stake := $test.stake | default 0.40 -}}
+{{- $bankrollDisplay := printf "%v" $bankroll -}}
+{{- $stakeDisplay := printf "%.2f" $stake | replaceRE "\\." "," -}}
+{{- with $authorPage -}}
+  {{- $authorName = .Title -}}
+  {{- $authorRole = .Params.role | default $authorRole -}}
+  {{- $profileURL = .Permalink -}}
+  {{- $photo = .Params.photo | default $photo -}}
+  {{- $mediumURL = .Params.medium | default $mediumURL -}}
+  {{- $linkedinURL = .Params.social.linkedin | default $linkedinURL -}}
+{{- end -}}
+<section class="author-test" aria-labelledby="author-test-heading">
+  <header class="author-test__header">
+    {{ with $photo }}<img class="author-test__photo" src="{{ . | relURL }}" alt="Porträt von {{ $authorName }}" width="80" height="80" loading="lazy" decoding="async">{{ end }}
+    <div class="author-test__identity">
+      <h2 class="author-test__heading" id="author-test-heading">{{ if $testReady }}Mein persönlicher Testbericht: {{ $spins }} Spins bei Sweet Bonanza{{ else }}Sweet Bonanza unter der Lupe: So prüfen wir den Slot{{ end }}</h2>
+      <p class="author-test__meta">Von <a href="{{ $profileURL }}">{{ $authorName }}</a> · {{ $authorRole }}</p>
+      {{- if $checked }}
+        <p class="author-test__meta">Zuletzt geprüft am <time datetime="{{ dateFormat "2006-01-02" $checked }}">{{ dateFormat "02.01.2006" $checked }}</time></p>
+      {{- else if $testReady }}
+        <p class="author-test__meta">Testdaten vom Seitenbetreiber bestätigt; einzelne Sitzung, keine unabhängige Prüfung</p>
+      {{- else }}
+        <p class="author-test__meta">Persönliches Testprotokoll: noch nicht verifiziert</p>
+      {{- end }}
+    </div>
+  </header>
+  {{- if $testReady }}
+    <div class="author-test__facts" aria-label="Dokumentierte Testparameter">
+      <div class="author-test__fact"><span class="author-test__fact-label">Testumfang</span><strong class="author-test__fact-value">{{ $spins }} Spins</strong></div>
+      <div class="author-test__fact"><span class="author-test__fact-label">Startbankroll</span><strong class="author-test__fact-value">{{ $bankrollDisplay }} €</strong></div>
+      <div class="author-test__fact"><span class="author-test__fact-label">Einsatz pro Spin</span><strong class="author-test__fact-value">{{ $stakeDisplay }} €</strong></div>
+    </div>
+    <h3 class="author-test__section-title">📌 Beobachtungen aus der Spielsitzung</h3>
+    <p>Ich habe Sweet Bonanza von Pragmatic Play anhand einer dokumentierten Sitzung mit {{ $spins }} Spins geprüft. Das Startbudget lag bei {{ $bankrollDisplay }} €, der Einsatz bei {{ $stakeDisplay }} € pro Drehung.</p>
+    <p><strong>Die Durststrecke:</strong> {{ $test.empty_spin_observation }} Solche Phasen können das verfügbare Budget deutlich belasten. Eine einzelne Sitzung erlaubt jedoch keine verlässliche Prognose zukünftiger Ergebnisse.</p>
+    <p><strong>Der Bonusmoment:</strong> Im Spin {{ $test.bonus_trigger_spin }} wurde der Bonus durch Scatter-Symbole ausgelöst. Anschließend habe ich Freispiele und die Tumble-Funktion beobachtet. {{ $test.bonus_observation }}</p>
+    <div class="author-test__verdict"><strong>📌 Mein Test-Fazit</strong><p>{{ $test.verdict }}</p></div>
+    <h3 class="author-test__section-title">Mein Rat zum Bankroll-Management</h3>
+    <p>{{ $test.bankroll_advice }}</p>
+  {{- else }}
+    <div class="author-test__planned">
+      <h3 class="author-test__section-title">📌 Geplanter Testaufbau</h3>
+      <div class="author-test__facts" aria-label="Geplante Testparameter">
+        <div class="author-test__fact"><span class="author-test__fact-label">Vorgesehener Umfang</span><strong class="author-test__fact-value">{{ $spins }} Spins</strong></div>
+        <div class="author-test__fact"><span class="author-test__fact-label">Geplantes Startbudget</span><strong class="author-test__fact-value">{{ $bankrollDisplay }} €</strong></div>
+        <div class="author-test__fact"><span class="author-test__fact-label">Geplanter Einsatz</span><strong class="author-test__fact-value">{{ $stakeDisplay }} €</strong></div>
+      </div>
+      <p>Diese Werte beschreiben den vorgesehenen Testaufbau und sind kein Nachweis einer bereits durchgeführten Spielsitzung. Der persönliche Erfahrungsbericht wird erst veröffentlicht, wenn die Spins, die Bonusauslösung und die Beobachtungen aus einem tatsächlichen Testprotokoll geprüft wurden.</p>
+      <p>Sweet Bonanza nutzt die Tumble-Mechanik: Nach einem Gewinn können Symbole verschwinden und neue Symbole nachrücken. Bei hoher Volatilität können Ergebnisse stark schwanken; aus einer kurzen Sitzung lässt sich kein zukünftiger Gewinn ableiten.</p>
+    </div>
+  {{- end }}
+  <h3 class="author-test__section-title">Hinweis zu Bonus Buy und Budget</h3>
+  <p>Ein Bonuskauf ist nicht pauschal mathematisch nachteilig; maßgeblich sind Kaufpreis und die Auszahlungsbedingungen der konkreten Spielversion. Er belastet die Bankroll jedoch unmittelbar. Spiele nur mit einem vorher festgelegten Budget und erhöhe Einsätze nicht, um Verluste auszugleichen.</p>
+  <p class="author-test__notice">Glücksspiel ist mit finanziellen Risiken verbunden. Setze nur Geld ein, dessen Verlust du dir leisten kannst, und beachte die örtlichen gesetzlichen Vorgaben.</p>
+  <nav class="author-test__profiles" aria-label="Autorenprofile">
+    {{ with $profileURL }}<a class="author-test__profile" href="{{ . }}" rel="author">Autorenprofil</a>{{ end }}
+    {{ with $mediumURL }}<a class="author-test__profile" href="{{ . }}" target="_blank" rel="author noopener noreferrer" aria-label="Medium-Profil von {{ $authorName }}"><span class="author-test__icon" aria-hidden="true">M</span> Medium</a>{{ end }}
+    {{- with $linkedinURL }}
+      <a class="author-test__profile" href="{{ . }}" target="_blank" rel="author noopener noreferrer" aria-label="LinkedIn-Profil von {{ $authorName }}"><span class="author-test__icon" aria-hidden="true">in</span> LinkedIn</a>
+    {{- end }}
+  </nav>
+</section>

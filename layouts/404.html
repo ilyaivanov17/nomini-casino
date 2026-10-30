@@ -1,0 +1,9 @@
+{{ define "main" }}
+{{ $settings := (site.GetPage "/editorial/settings").Params }}
+<section class="container mx-auto px-4 py-24 max-w-3xl text-center">
+  <div class="text-7xl font-black text-amber-400 mb-6">404</div>
+  <h1 class="text-4xl font-black text-white mb-4">{{ partial "t.html" "not_found" }}</h1>
+  <p class="text-slate-300 mb-8">{{ $settings.brand }}</p>
+  <a href="{{ .Site.Home.RelPermalink }}" class="inline-flex items-center px-6 py-3 bg-amber-500 hover:bg-amber-400 text-slate-950 font-bold rounded-lg transition">{{ partial "t.html" "back_home" }}</a>
+</section>
+{{ end }}

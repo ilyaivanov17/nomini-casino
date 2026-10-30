@@ -1,0 +1,7 @@
+editorial:
+  score: ""
+  label: "Editorial assessment"
+  checked: "pending"
+  status: "pending_source_verification"
+  note: "Do not publish a numeric rating or testimonial block until the source, date and review count have been documented."
+sources: []

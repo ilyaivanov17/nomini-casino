@@ -1,0 +1,42 @@
+{{ define "main" }}
+{{ $author := .Params }}
+<article class="casino-section py-16 author-single-page">
+  <div class="container mx-auto px-4 max-w-5xl">
+    {{ if $author.author_id }}
+    <div class="author-profile author-profile-beautiful glass-strong rounded-3xl overflow-hidden">
+      <div class="author-profile-banner"></div>
+      <div class="author-profile-inner">
+        <div class="author-profile-head">
+          <div class="author-avatar author-avatar-lg author-avatar-profile author-avatar-initials" aria-hidden="true">
+            {{ with $author.photo }}<img src="{{ . | relURL }}" alt="{{ $author.name }}" loading="eager" decoding="async">{{ else }}<span>{{ substr $.Title 0 1 }}</span>{{ end }}
+          </div>
+          <div class="author-profile-title">
+            <div class="author-profile-kicker"><span class="eyebrow">{{ partial "t.html" "author_profile" }}</span>{{ if $author.verified }}<span class="verified-badge author-verified">✓ {{ partial "t.html" "public_profile" }}</span>{{ end }}</div>
+            <h1 class="text-4xl md:text-5xl font-black text-white mt-2">{{ $author.name }}</h1>
+            <p class="author-profile-role">{{ $author.role }}</p>
+            <p class="author-profile-location">{{ $author.label }}</p>
+          </div>
+        </div>
+        <div class="author-profile-grid">
+          <div class="author-profile-main">
+            <div class="author-section-label">{{ partial "t.html" "about_author" }}</div>
+            <div class="prose prose-invert prose-lg"><p>{{ $author.bio }}</p></div>
+            <div class="author-focus-box"><strong>{{ partial "t.html" "editorial_focus" }}</strong><span>{{ $author.label }}</span><span>{{ partial "t.html" "author_focus_games" }}</span><span>{{ partial "t.html" "author_focus_bonuses" }}</span></div>
+          </div>
+          <aside class="author-contact-card author-contact-beautiful">
+            <div class="author-section-label">{{ partial "t.html" "public_profiles" }}</div>
+            <p class="text-slate-400 text-sm mt-2">{{ partial "t.html" "follow_author" }}</p>
+            <div class="social-row author-social-large">
+              {{ with $author.social.linkedin }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="social-button"><span>in</span> {{ partial "t.html" "social_linkedin" }}</a>{{ end }}
+              {{ with $author.social.website }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="social-button"><span>↗</span> {{ partial "t.html" "social_website" }}</a>{{ end }}
+            </div>
+            {{ $settings := (site.GetPage "/editorial/settings").Params }}<a href="{{ $settings.affiliate_link }}" target="_blank" rel="nofollow sponsored noopener" class="author-cta">{{ $settings.affiliate_cta }} <span>→</span></a>
+          </aside>
+        </div>
+      </div>
+    </div>
+    <section class="author-extended-content prose prose-invert prose-lg max-w-4xl mx-auto mt-12">{{ .Content }}</section>
+    {{ else }}<h1 class="text-4xl font-black text-white">{{ partial "t.html" "not_found" }}</h1>{{ end }}
+  </div>
+</article>
+{{ end }}

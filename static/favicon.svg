@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+<title>Nomini Casino Guide</title>
+<defs>
+  <linearGradient id="berry" x1="9" y1="7" x2="51" y2="56" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#ff9bbb"/>
+    <stop offset=".52" stop-color="#ff5b87"/>
+    <stop offset="1" stop-color="#9e4bd2"/>
+  </linearGradient>
+  <linearGradient id="citrus" x1="13" y1="42" x2="49" y2="17" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#ff9a4d"/>
+    <stop offset="1" stop-color="#ffd36c"/>
+  </linearGradient>
+</defs>
+<rect width="64" height="64" rx="17" fill="#160d29"/>
+<path d="M31 18c-2-8-9-11-16-9 4 5 8 8 14 10M33 18c2-8 9-11 16-8-3 5-8 8-14 10" fill="none" stroke="#a4e27a" stroke-width="3.2" stroke-linecap="round"/>
+<path d="M32 18c-12-2-22 7-22 20 0 13 12 21 22 21s22-8 22-21c0-13-10-22-22-20Z" fill="url(#berry)" stroke="#ffd5e2" stroke-width="2"/>
+<path d="M17 34c5-7 11-9 15-9 6 0 12 3 16 9-5 1-9 5-11 12-2-4-6-7-10-7-4 0-7 1-10 4" fill="url(#citrus)" opacity=".28"/>
+<path d="M24 32c-2 4-2 8 0 13M40 31c2 4 2 8 0 13" fill="none" stroke="#fff0f4" stroke-opacity=".8" stroke-width="2" stroke-linecap="round"/>
+<circle cx="23" cy="27" r="2.1" fill="#fff"/>
+</svg>

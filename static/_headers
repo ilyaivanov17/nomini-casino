@@ -1,0 +1,20 @@
+# Baseline browser security headers for the static Cloudflare Pages site.
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=()
+  X-Permitted-Cross-Domain-Policies: none
+  Strict-Transport-Security: max-age=31536000
+
+# Tracking/redirect endpoints should never appear in search results.
+/go
+  X-Robots-Tag: noindex, nofollow
+/go/*
+  X-Robots-Tag: noindex, nofollow
+
+# Do not index Cloudflare Pages project hostnames (duplicate-content defense).
+https://:project.pages.dev/*
+  X-Robots-Tag: noindex
+https://:version.:project.pages.dev/*
+  X-Robots-Tag: noindex

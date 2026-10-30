@@ -1,0 +1,7 @@
+{{- $key := . -}}
+{{- $settings := site.GetPage "/editorial/settings" -}}
+{{- with $settings -}}
+  {{- index .Params.ui $key | default $key -}}
+{{- else -}}
+  {{- $key -}}
+{{- end -}}

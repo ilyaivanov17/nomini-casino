@@ -1,0 +1,17 @@
+{{ define "main" }}
+{{ $settings := (site.GetPage "/editorial/settings").Params }}
+{{ $variant := $settings.layout_variant | default "proof-first" }}
+<article class="container mx-auto px-4 py-12 max-w-4xl">
+  <nav class="breadcrumbs text-sm text-slate-400 mb-6" aria-label="{{ partial "t.html" "breadcrumb" }}"><a href="{{ .Site.Home.RelPermalink }}" class="hover:text-amber-400">{{ partial "t.html" "home" }}</a><span aria-hidden="true"> → </span><span class="text-slate-300">{{ .Title }}</span></nav>
+  <header class="mb-8"><h1 class="text-4xl font-black text-white mb-4">{{ .Title }}</h1>{{ with .Params.description }}<p class="text-slate-300 text-lg">{{ . }}</p>{{ end }}</header>
+{{ partial "editorial-meta.html" . }}
+    {{ if eq $variant "proof-first" }}{{ partial "cta-row.html" (dict "slot" "hero_cta") }}{{ partial "screenshots.html" . }}{{ end }}
+  {{ if eq $variant "editorial" }}{{ partial "screenshots.html" . }}{{ end }}
+  <div class="prose prose-invert prose-lg max-w-none">{{ if and (eq .Content "") .Params.bio }}<p>{{ .Params.bio }}</p><h2>{{ partial "t.html" "about_author" }}</h2><p>{{ partial "t.html" "author_profiles_pending" }}</p>{{ else }}{{ .Content }}{{ end }}</div>
+  {{ if eq $variant "compact" }}{{ partial "cta-row.html" (dict "slot" "hero_cta") }}{{ partial "screenshots.html" . }}{{ end }}
+  {{ if in (slice "account-help" "payments") .File.BaseFileName }}{{ partial "promo-codes.html" . }}{{ end }}
+  {{ partial "faq-block.html" . }}
+  {{ partial "related-links.html" . }}
+  {{ partial "cta-row.html" (dict "slot" "footer_cta") }}
+</article>
+{{ end }}
