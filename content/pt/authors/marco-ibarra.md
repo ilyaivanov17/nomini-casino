@@ -2,13 +2,13 @@
 title: Marco Ibarra
 description: Marco Ibarra é um autor, editor e gestor bilingue de iGaming. As suas áreas de especialidade incluem
   casinos online, análises de slots, análise de…
-seo_title: Marco Ibarra – Autor e editor de iGaming | Instant Casino
+seo_title: Marco Ibarra – Autor e editor de iGaming | Nomini Casino Guide
 type: author
 slug: marco-ibarra
 aliases:
 - /pt/authors/author-3/
 date: '2026-09-27'
-lastmod: '2026-10-17'
+lastmod: '2026-10-30'
 author_id: author-3
 role: Autor e editor de iGaming
 photo: images/Marco_Ibarra.jpg
@@ -38,9 +38,9 @@ Marco Ibarra é um autor, editor e gestor bilingue de iGaming. As suas áreas de
 
 Casinos online, análises de slots, análise de bónus e edição orientada para SEO
 
-### Contributo editorial na Instant Casino
+### Contributo editorial na Nomini Casino Guide
 
-Na Instant Casino, este perfil integra o trabalho editorial sobre informação de casinos, explicações de jogos e comparação das condições das ofertas. A área de especialidade orienta a abordagem: as mecânicas são explicadas com base nos dados disponíveis, os bónus são organizados pelas respetivas condições e os métodos de pagamento são comparados por limites e tempos indicados.
+Na Nomini Casino Guide, este perfil integra o trabalho editorial sobre informação de casinos, explicações de jogos e comparação das condições das ofertas. A área de especialidade orienta a abordagem: as mecânicas são explicadas com base nos dados disponíveis, os bónus são organizados pelas respetivas condições e os métodos de pagamento são comparados por limites e tempos indicados.
 
 ### Como interpretar este perfil
 
