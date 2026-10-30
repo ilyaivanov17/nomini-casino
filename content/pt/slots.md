@@ -38,16 +38,16 @@ Bigger Bass Bonanza tem um tema e funcionalidades próprios que vale a pena conh
 
 ### Como interpretar os valores
 
-O RTP é um valor teórico calculado ao longo de um número muito elevado de rondas. Não prevê o resultado de uma jogada nem de uma sessão curta. A volatilidade indicada também não significa que vá ganhar.
+O RTP divulgado para Bigger Bass Bonanza é uma média teórica calculada ao longo de muitas rondas, não uma previsão para uma sessão curta. A volatilidade descreve a variação dos resultados, mas não antecipa a jogada seguinte.
 
 ### O que verificar antes de jogar
 
-Abra a tabela de pagamentos antes de jogar. Aí encontra os valores dos símbolos, as condições das funcionalidades e as regras de rodadas grátis ou jackpots. Defina um orçamento e jogue apenas onde for legal.
-
----
+Antes de abrir Bigger Bass Bonanza, consulte a ajuda e a tabela de pagamentos. Confirme os valores dos símbolos, a ativação das funcionalidades e as regras de rodadas grátis ou jackpots. Defina um orçamento e respeite a idade mínima e a legislação local.
 
 ## Bigger Bass Bonanza: Análise editorial aprofundada
-Bigger Bass Bonanza está associado a Pragmatic Play. A ficha enumera símbolos Scatter, rodadas grátis, multiplicadores e um tema centrado em fishing and aquatic imagery. Estes dados descrevem o registo do site, mas não substituem a verificação da versão carregada. Antes de publicar, confirma a ajuda do jogo, a tabela de pagamentos e os limites de aposta.
+
+Este perfil reúne a informação publicada sobre Bigger Bass Bonanza e explica as mecânicas indicadas. É um recurso editorial, não uma declaração de teste prático nem uma previsão; confirme as regras concretas na versão disponível.
+
 
 ### Tema e primeira impressão
 
@@ -91,16 +91,16 @@ Bonanza tem um tema e funcionalidades próprios que vale a pena conhecer antes d
 
 ### Como interpretar os valores
 
-O RTP é um valor teórico calculado ao longo de um número muito elevado de rondas. Não prevê o resultado de uma jogada nem de uma sessão curta. A volatilidade indicada também não significa que vá ganhar.
+Os valores de Bonanza devem ser lidos como referências estatísticas, não como uma previsão individual. O RTP é calculado a longo prazo e a volatilidade caracteriza as oscilações possíveis; nenhum dos dois indica o que acontecerá numa sessão concreta.
 
 ### O que verificar antes de jogar
 
-Abra a tabela de pagamentos antes de jogar. Aí encontra os valores dos símbolos, as condições das funcionalidades e as regras de rodadas grátis ou jackpots. Defina um orçamento e jogue apenas onde for legal.
-
----
+Confirme a versão de Bonanza que está disponível: a tabela de pagamentos explica os símbolos, as funcionalidades especiais e as condições das rondas de bónus. Veja também o intervalo de apostas e estabeleça um limite antes de começar.
 
 ## Bonanza: Análise editorial aprofundada
-Bonanza está associado a Big Time Gaming. A ficha enumera vitórias por agrupamento, funcionalidade de bónus, rodadas grátis e um tema centrado em a compact, high-energy slot presentation. Estes dados descrevem o registo do site, mas não substituem a verificação da versão carregada. Antes de publicar, confirma a ajuda do jogo, a tabela de pagamentos e os limites de aposta.
+
+As notas sobre Bonanza distinguem os dados registados do jogo da respetiva explicação editorial. Utilize-as como orientação e confirme depois os símbolos, as funcionalidades e as apostas na ajuda da versão apresentada.
+
 
 ### Tema e primeira impressão
 
@@ -144,16 +144,16 @@ Book of Dead passa-se num cenário de aventura inspirado no antigo Egito, com o 
 
 ### Como interpretar os valores
 
-O RTP é um valor teórico calculado ao longo de um número muito elevado de rondas. Não prevê o resultado de uma jogada nem de uma sessão curta. A volatilidade indicada também não significa que vá ganhar.
+O RTP divulgado para Book of Dead é uma média teórica calculada ao longo de muitas rondas, não uma previsão para uma sessão curta. A volatilidade descreve a variação dos resultados, mas não antecipa a jogada seguinte.
 
 ### O que verificar antes de jogar
 
-Abra a tabela de pagamentos antes de jogar. Aí encontra os valores dos símbolos, as condições das funcionalidades e as regras de rodadas grátis ou jackpots. Defina um orçamento e jogue apenas onde for legal.
-
----
+Antes de abrir Book of Dead, consulte a ajuda e a tabela de pagamentos. Confirme os valores dos símbolos, a ativação das funcionalidades e as regras de rodadas grátis ou jackpots. Defina um orçamento e respeite a idade mínima e a legislação local.
 
 ## Book of Dead: Análise editorial aprofundada
-Book of Dead está associado a Play'n GO. A ficha enumera símbolos Scatter, rodadas grátis, símbolo expansivo e um tema centrado em an ancient-Egypt adventure theme. Estes dados descrevem o registo do site, mas não substituem a verificação da versão carregada. Antes de publicar, confirma a ajuda do jogo, a tabela de pagamentos e os limites de aposta.
+
+Este perfil reúne a informação publicada sobre Book of Dead e explica as mecânicas indicadas. É um recurso editorial, não uma declaração de teste prático nem uma previsão; confirme as regras concretas na versão disponível.
+
 
 ### Tema e primeira impressão
 
@@ -197,16 +197,16 @@ Dragon's Luck tem um tema e funcionalidades próprios que vale a pena conhecer a
 
 ### Como interpretar os valores
 
-O RTP é um valor teórico calculado ao longo de um número muito elevado de rondas. Não prevê o resultado de uma jogada nem de uma sessão curta. A volatilidade indicada também não significa que vá ganhar.
+Os valores de Dragon's Luck devem ser lidos como referências estatísticas, não como uma previsão individual. O RTP é calculado a longo prazo e a volatilidade caracteriza as oscilações possíveis; nenhum dos dois indica o que acontecerá numa sessão concreta.
 
 ### O que verificar antes de jogar
 
-Abra a tabela de pagamentos antes de jogar. Aí encontra os valores dos símbolos, as condições das funcionalidades e as regras de rodadas grátis ou jackpots. Defina um orçamento e jogue apenas onde for legal.
-
----
+Confirme a versão de Dragon's Luck que está disponível: a tabela de pagamentos explica os símbolos, as funcionalidades especiais e as condições das rondas de bónus. Veja também o intervalo de apostas e estabeleça um limite antes de começar.
 
 ## Dragon's Luck: Análise editorial aprofundada
-Dragon's Luck está associado a Play'n GO. A ficha enumera símbolos Wild, símbolos Scatter, jogo de bónus e um tema centrado em a dragon and luck motif. Estes dados descrevem o registo do site, mas não substituem a verificação da versão carregada. Antes de publicar, confirma a ajuda do jogo, a tabela de pagamentos e os limites de aposta.
+
+As notas sobre Dragon's Luck distinguem os dados registados do jogo da respetiva explicação editorial. Utilize-as como orientação e confirme depois os símbolos, as funcionalidades e as apostas na ajuda da versão apresentada.
+
 
 ### Tema e primeira impressão
 
@@ -250,16 +250,16 @@ Fruit Party tem um tema e funcionalidades próprios que vale a pena conhecer ant
 
 ### Como interpretar os valores
 
-O RTP é um valor teórico calculado ao longo de um número muito elevado de rondas. Não prevê o resultado de uma jogada nem de uma sessão curta. A volatilidade indicada também não significa que vá ganhar.
+O RTP divulgado para Fruit Party é uma média teórica calculada ao longo de muitas rondas, não uma previsão para uma sessão curta. A volatilidade descreve a variação dos resultados, mas não antecipa a jogada seguinte.
 
 ### O que verificar antes de jogar
 
-Abra a tabela de pagamentos antes de jogar. Aí encontra os valores dos símbolos, as condições das funcionalidades e as regras de rodadas grátis ou jackpots. Defina um orçamento e jogue apenas onde for legal.
-
----
+Antes de abrir Fruit Party, consulte a ajuda e a tabela de pagamentos. Confirme os valores dos símbolos, a ativação das funcionalidades e as regras de rodadas grátis ou jackpots. Defina um orçamento e respeite a idade mínima e a legislação local.
 
 ## Fruit Party: Análise editorial aprofundada
-Fruit Party está associado a Pragmatic Play. A ficha enumera mecânica Tumble, multiplicadores de prémios, rodadas grátis e um tema centrado em bright fruit imagery and a light arcade-like presentation. Estes dados descrevem o registo do site, mas não substituem a verificação da versão carregada. Antes de publicar, confirma a ajuda do jogo, a tabela de pagamentos e os limites de aposta.
+
+Este perfil reúne a informação publicada sobre Fruit Party e explica as mecânicas indicadas. É um recurso editorial, não uma declaração de teste prático nem uma previsão; confirme as regras concretas na versão disponível.
+
 
 ### Tema e primeira impressão
 
