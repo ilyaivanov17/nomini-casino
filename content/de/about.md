@@ -41,7 +41,7 @@ Die Inhalte sind redaktionelle Informationen. Angaben zu RTP, Bonusbedingungen, 
 
 
 
-Für dieses unabhängige Informationsportal wurde keine verifizierte öffentliche E-Mail- oder Postadresse angegeben. Bei Fragen zu Konto, Bonus, Ein- oder Auszahlungen wende dich direkt an Nomini über dessen offizielle Website. Sende diesem Portal keine Passwörter oder vollständigen Zahlungsdaten.
+Für redaktionelle Korrekturen, Quellenfragen, Hinweise zur Barrierefreiheit und allgemeine Anfragen schreibe an [info@nomini.com](mailto:info@nomini.com). Bei Konto-, Bonus-, Ein- oder Auszahlungsfragen wende dich über die offizielle Website an Nomini. Sende keine Passwörter oder vollständigen Zahlungsdaten an diesen Guide.
 
 Dieses Informations- und Vergleichsportal ist kein Glücksspielanbieter. Bei Fragen zu einem Spielerkonto, einer Einzahlung, einer Auszahlung oder einem Bonus wende dich an den offiziellen Support des jeweiligen Betreibers.
 
