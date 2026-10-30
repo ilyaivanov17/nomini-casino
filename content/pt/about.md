@@ -1,9 +1,9 @@
 ---
-title: 'Sobre o Instant Casino: equipa editorial e metodologia'
+title: 'Sobre o guia Nomini: equipa e metodologia'
 description: 'Conheça o método editorial, a verificação de fontes e as responsabilidades da equipa.'
 type: page
-seo_title: 'Sobre o Instant Casino: equipa editorial e metodologia | Instant Casino'
-lastmod: '2026-10-28'
+seo_title: 'Sobre a Nomini | Equipa e metodologia'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -25,7 +25,7 @@ screenshots:
 - /images/guides/casino-editorial.webp
 screenshots_note: 'Ilustração editorial; não é uma captura de uma interface real do operador.'
 ---
-## Sobre o Instant Casino: equipa editorial e metodologia
+## Sobre o Nomini Casino Guide: equipa editorial e metodologia
 
 Este guia reúne informações por tema para facilitar a comparação de regras e limitações. As regras dos jogos, o RTP, as condições dos bónus, os métodos de pagamento e a disponibilidade legal podem variar consoante a versão, o operador e o país. Confirme os dados na versão atualmente disponibilizada.
 
@@ -33,16 +33,15 @@ Este guia reúne informações por tema para facilitar a comparação de regras 
 
 O conteúdo é informação editorial. Antes da publicação, os dados de RTP, bónus, pagamentos e disponibilidade legal devem ser confirmados em fontes primárias atuais. Os perfis preservam os dados registados no projeto e não significam que cada autor tenha revisto ou aprovado todos os textos reunidos.
 
-## Contacto com a redação da Instant Casino
+## Contacto com a redação da Nomini Casino Guide
 
 ## Contacto com a redação
 
-**Equipa editorial da Instant Casino**
+**Equipa editorial da Nomini Casino Guide**
 
-- E-mail: [info@instant.com](mailto:info@instant.com)
-- Telefone: [+49 10 111 0253](tel:+49101110253)
 
-Utilize estes contactos para comunicar correções, esclarecer fontes, indicar ligações quebradas, reportar problemas de acessibilidade ou propor parcerias. Sempre que possível, inclua o URL da página e o excerto exato.
+
+Não foi fornecido um endereço público de e-mail ou postal verificado para este guia independente. Para questões de conta, bónus, depósitos ou levantamentos, contacte a Nomini através do seu site oficial. Não envie palavras-passe nem dados completos de pagamento para este guia.
 
 Este site é um portal informativo e comparativo, não é um operador de jogo. Para questões de conta, depósitos, levantamentos ou bónus, contacte o apoio oficial do operador correspondente.
 
@@ -64,11 +63,11 @@ Nunca envie palavras-passe, códigos de recuperação, dados completos de cartõ
 
 ---
 
-## Política editorial e método de comparação | Instant Casino
+## Política editorial e método de comparação | Nomini Casino Guide
 
 # Política editorial e método de comparação
 
-Esta página explica como a Instant Casino organiza informações sobre jogos, bónus, métodos de pagamento e perguntas frequentes. O objetivo é permitir uma comparação clara: os títulos promocionais são analisados em conjunto com as condições que realmente influenciam uma decisão.
+Esta página explica como a Nomini Casino Guide organiza informações sobre jogos, bónus, métodos de pagamento e perguntas frequentes. O objetivo é permitir uma comparação clara: os títulos promocionais são analisados em conjunto com as condições que realmente influenciam uma decisão.
 
 ## O que comparamos
 
@@ -111,9 +110,9 @@ Arthur Mustoe é um redator freelancer do Reino Unido especializado em iGaming e
 
 Análises de casinos e slots, regras dos jogos, informação sobre fornecedores e conteúdos orientados para a conformidade
 
-### Contributo editorial na Instant Casino
+### Contributo editorial na Nomini Casino Guide
 
-Na Instant Casino, este perfil integra o trabalho editorial sobre informação de casinos, explicações de jogos e comparação das condições das ofertas. A área de especialidade orienta a abordagem: as mecânicas são explicadas com base nos dados disponíveis, os bónus são organizados pelas respetivas condições e os métodos de pagamento são comparados por limites e tempos indicados.
+Na Nomini Casino Guide, este perfil integra o trabalho editorial sobre informação de casinos, explicações de jogos e comparação das condições das ofertas. A área de especialidade orienta a abordagem: as mecânicas são explicadas com base nos dados disponíveis, os bónus são organizados pelas respetivas condições e os métodos de pagamento são comparados por limites e tempos indicados.
 
 ### Como interpretar este perfil
 
@@ -139,9 +138,9 @@ Corey Levitan cobre entretenimento, restauração e jogo em Las Vegas. O seu per
 
 Las Vegas, notícias sobre jogo, entretenimento e jornalismo de casinos
 
-### Contributo editorial na Instant Casino
+### Contributo editorial na Nomini Casino Guide
 
-Na Instant Casino, este perfil integra o trabalho editorial sobre informação de casinos, explicações de jogos e comparação das condições das ofertas. A área de especialidade orienta a abordagem: as mecânicas são explicadas com base nos dados disponíveis, os bónus são organizados pelas respetivas condições e os métodos de pagamento são comparados por limites e tempos indicados.
+Na Nomini Casino Guide, este perfil integra o trabalho editorial sobre informação de casinos, explicações de jogos e comparação das condições das ofertas. A área de especialidade orienta a abordagem: as mecânicas são explicadas com base nos dados disponíveis, os bónus são organizados pelas respetivas condições e os métodos de pagamento são comparados por limites e tempos indicados.
 
 ### Como interpretar este perfil
 
@@ -167,9 +166,9 @@ Cristina Tudose é redatora e copywriter em inglês e romeno, especializada em i
 
 Conteúdos multilingues de iGaming, análises de casinos, bónus, descrições de jogos e SEO
 
-### Contributo editorial na Instant Casino
+### Contributo editorial na Nomini Casino Guide
 
-Na Instant Casino, este perfil integra o trabalho editorial sobre informação de casinos, explicações de jogos e comparação das condições das ofertas. A área de especialidade orienta a abordagem: as mecânicas são explicadas com base nos dados disponíveis, os bónus são organizados pelas respetivas condições e os métodos de pagamento são comparados por limites e tempos indicados.
+Na Nomini Casino Guide, este perfil integra o trabalho editorial sobre informação de casinos, explicações de jogos e comparação das condições das ofertas. A área de especialidade orienta a abordagem: as mecânicas são explicadas com base nos dados disponíveis, os bónus são organizados pelas respetivas condições e os métodos de pagamento são comparados por limites e tempos indicados.
 
 ### Como interpretar este perfil
 
@@ -195,9 +194,9 @@ Dan Michalski é um jornalista e editor experiente nas áreas de jogo, casinos, 
 
 Setor do jogo, media de casinos, análise editorial e tecnologia
 
-### Contributo editorial na Instant Casino
+### Contributo editorial na Nomini Casino Guide
 
-Na Instant Casino, este perfil integra o trabalho editorial sobre informação de casinos, explicações de jogos e comparação das condições das ofertas. A área de especialidade orienta a abordagem: as mecânicas são explicadas com base nos dados disponíveis, os bónus são organizados pelas respetivas condições e os métodos de pagamento são comparados por limites e tempos indicados.
+Na Nomini Casino Guide, este perfil integra o trabalho editorial sobre informação de casinos, explicações de jogos e comparação das condições das ofertas. A área de especialidade orienta a abordagem: as mecânicas são explicadas com base nos dados disponíveis, os bónus são organizados pelas respetivas condições e os métodos de pagamento são comparados por limites e tempos indicados.
 
 ### Como interpretar este perfil
 
@@ -223,9 +222,9 @@ Dominic Field é um redator freelancer de iGaming com experiência prolongada em
 
 Casinos online, slots, póquer, apostas desportivas e setor de iGaming
 
-### Contributo editorial na Instant Casino
+### Contributo editorial na Nomini Casino Guide
 
-Na Instant Casino, este perfil integra o trabalho editorial sobre informação de casinos, explicações de jogos e comparação das condições das ofertas. A área de especialidade orienta a abordagem: as mecânicas são explicadas com base nos dados disponíveis, os bónus são organizados pelas respetivas condições e os métodos de pagamento são comparados por limites e tempos indicados.
+Na Nomini Casino Guide, este perfil integra o trabalho editorial sobre informação de casinos, explicações de jogos e comparação das condições das ofertas. A área de especialidade orienta a abordagem: as mecânicas são explicadas com base nos dados disponíveis, os bónus são organizados pelas respetivas condições e os métodos de pagamento são comparados por limites e tempos indicados.
 
 ### Como interpretar este perfil
 
@@ -251,9 +250,9 @@ Jon Pill trabalha como redator freelancer e jornalista sobre jogo desde 2015. Os
 
 Estratégia de jogo, regras de póquer, jogos de casino e análise de mecânicas
 
-### Contributo editorial na Instant Casino
+### Contributo editorial na Nomini Casino Guide
 
-Na Instant Casino, este perfil integra o trabalho editorial sobre informação de casinos, explicações de jogos e comparação das condições das ofertas. A área de especialidade orienta a abordagem: as mecânicas são explicadas com base nos dados disponíveis, os bónus são organizados pelas respetivas condições e os métodos de pagamento são comparados por limites e tempos indicados.
+Na Nomini Casino Guide, este perfil integra o trabalho editorial sobre informação de casinos, explicações de jogos e comparação das condições das ofertas. A área de especialidade orienta a abordagem: as mecânicas são explicadas com base nos dados disponíveis, os bónus são organizados pelas respetivas condições e os métodos de pagamento são comparados por limites e tempos indicados.
 
 ### Como interpretar este perfil
 
@@ -279,9 +278,9 @@ Marco Ibarra é um autor, editor e gestor bilingue de iGaming. As suas áreas de
 
 Casinos online, análises de slots, análise de bónus e edição orientada para SEO
 
-### Contributo editorial na Instant Casino
+### Contributo editorial na Nomini Casino Guide
 
-Na Instant Casino, este perfil integra o trabalho editorial sobre informação de casinos, explicações de jogos e comparação das condições das ofertas. A área de especialidade orienta a abordagem: as mecânicas são explicadas com base nos dados disponíveis, os bónus são organizados pelas respetivas condições e os métodos de pagamento são comparados por limites e tempos indicados.
+Na Nomini Casino Guide, este perfil integra o trabalho editorial sobre informação de casinos, explicações de jogos e comparação das condições das ofertas. A área de especialidade orienta a abordagem: as mecânicas são explicadas com base nos dados disponíveis, os bónus são organizados pelas respetivas condições e os métodos de pagamento são comparados por limites e tempos indicados.
 
 ### Como interpretar este perfil
 
