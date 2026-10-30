@@ -22,7 +22,7 @@ screenshots_note: 'Ilustración editorial, no es una captura de una interfaz rea
 ---
 ## Guía de tragamonedas: temas, volatilidad y comparación
 
-Esta guía reúne la información por temas para facilitar la comparación de reglas y limitaciones. Las reglas del juego, el RTP, las condiciones de los bonos, los métodos de pago y la disponibilidad legal pueden variar según la versión, el operador y el país. Comprueba los datos en la versión ofrecida actualmente.
+Aunque muchas tragamonedas comparten una estructura básica, sus funciones no siguen necesariamente las mismas reglas. Esta guía explica las mecánicas habituales y qué conviene consultar en la ayuda de cada título. Los datos del proveedor, el RTP, la volatilidad y las funciones disponibles pueden cambiar según la versión o el mercado; comprueba siempre el juego concreto al que tienes acceso.
 
 ## Starburst
 

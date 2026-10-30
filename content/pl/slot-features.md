@@ -22,7 +22,7 @@ screenshots_note: 'Ilustracja redakcyjna, nie zrzut ekranu rzeczywistego interfe
 ---
 ## Przewodnik po slotach: motywy, zmienność i porównanie
 
-Ten przewodnik porządkuje istniejące informacje według tematów, aby łatwiej porównywać zasady i ograniczenia. Zasady gier, RTP, warunki bonusów, metody płatności i dostępność prawna mogą różnić się w zależności od wersji, operatora i kraju. Sprawdź je bezpośrednio w aktualnie oferowanej wersji.
+Wiele slotów ma podobny układ, ale nie oznacza to, że ich funkcje działają według identycznych zasad. Ten przewodnik porządkuje najczęściej spotykane mechaniki i wskazuje, czego szukać w pomocy konkretnej gry. Dane dostawcy, RTP, oznaczenia zmienności i dostępność funkcji mogą zależeć od wersji lub rynku, dlatego sprawdź opis tytułu, który faktycznie jest dostępny.
 
 ## Starburst
 

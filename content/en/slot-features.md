@@ -22,7 +22,7 @@ screenshots_note: 'Illustrative editorial artwork, not a screenshot of a real op
 ---
 ## Slot guide: themes, volatility and comparison
 
-This guide groups existing information by topic so rules and limitations are easier to compare. Game rules, RTP figures, bonus terms, payment options and legal availability can vary by version, operator and country. Check details directly in the version currently offered.
+Slots share a familiar format, but the details behind their features are not interchangeable. This guide explains how common mechanics are described and what to look for in a game's own rules. Provider data, RTP, volatility labels and feature availability can vary by version or market, so use the in-game help for the exact title you can access.
 
 ## Starburst
 

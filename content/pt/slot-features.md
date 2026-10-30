@@ -22,7 +22,7 @@ screenshots_note: 'Ilustração editorial; não é uma captura de uma interface 
 ---
 ## Guia de slots: temas, volatilidade e comparação
 
-Este guia reúne informações por tema para facilitar a comparação de regras e limitações. As regras dos jogos, o RTP, as condições dos bónus, os métodos de pagamento e a disponibilidade legal podem variar consoante a versão, o operador e o país. Confirme os dados na versão atualmente disponibilizada.
+Os slots podem partilhar uma estrutura semelhante, mas as funcionalidades não obedecem necessariamente às mesmas regras. Este guia apresenta mecânicas comuns e indica o que deve ser confirmado na ajuda de cada jogo. Os dados do fornecedor, o RTP, a volatilidade e as funcionalidades disponíveis podem variar conforme a versão ou o mercado; consulte a informação do título que está efetivamente disponível.
 
 ## Starburst
 

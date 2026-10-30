@@ -22,7 +22,7 @@ screenshots_note: 'Illustrative redaktionelle Grafik, kein echter Screenshot ein
 ---
 ## Slot-Leitfaden: Themen, Volatilität und Vergleich
 
-Dieser Leitfaden bündelt vorhandene Informationen nach Themen, damit wichtige Regeln und Einschränkungen leichter vergleichbar sind. Spielregeln, RTP-Werte, Bonusbedingungen, Zahlungsoptionen und rechtliche Verfügbarkeit können sich je nach Version, Betreiber und Land ändern. Prüfe die Angaben direkt in der aktuell angebotenen Version.
+Viele Slots haben einen ähnlichen Grundaufbau, doch ihre Funktionen folgen nicht automatisch denselben Regeln. Dieser Leitfaden ordnet gängige Mechaniken ein und zeigt, welche Angaben in der Spielhilfe relevant sind. Anbieterwerte, RTP, Volatilität und verfügbare Funktionen können je nach Version oder Markt abweichen; maßgeblich ist die Hilfe des tatsächlich angebotenen Spiels.
 
 ## Starburst
 
