@@ -1,4 +1,5 @@
 ---
+
 title: Corey Levitan
 description: Corey Levitan berichtet über Unterhaltung, Gastronomie und Glücksspiel in Las Vegas. Zu seiner Laufbahn gehören
   sechs Jahre Berichterstattung für das…
@@ -31,26 +32,26 @@ build:
 medium: https://corey-levitan-merklin.medium.com/
 ---
 
-## Über Corey Levitan
+## Profil: Corey Levitan
 
 Corey Levitan berichtet über Unterhaltung, Gastronomie und Glücksspiel in Las Vegas. Zu seiner Laufbahn gehören sechs Jahre Berichterstattung für das Las Vegas Review-Journal; 2022 wechselte er zu Casino.org.
 
-### Fachliche Schwerpunkte
+### Beruflicher Schwerpunkt
 
 Las Vegas, Glücksspielnachrichten, Unterhaltung und Casino-Berichterstattung
 
-### Redaktioneller Beitrag bei Nomini Casino Guide
+### Einordnung des Profils
 
-Bei Nomini Casino Guide arbeitet das Profil im thematischen Umfeld von Casino-Informationen, Spielbeschreibungen und dem Vergleich von Angebotsbedingungen. Die Einordnung der Inhalte folgt dem jeweiligen Fachgebiet: Spielmechaniken werden anhand der verfügbaren Spieldaten erklärt, Bonusangaben nach Bedingungen strukturiert und Zahlungsmethoden anhand der hinterlegten Limits und Zeitangaben verglichen.
+Im Projekt ist Corey Levitan als **Journalist und Casino-Autor** aufgeführt. Die Angaben beschreiben den beruflichen Themenbereich und helfen, die redaktionelle Perspektive einzuordnen. Sie belegen weder einen persönlichen Test jedes erwähnten Spiels noch bestimmte Spielergebnisse oder eine individuelle Freigabe sämtlicher Seiten.
 
-### So ist das Profil einzuordnen
+### Worauf es bei den behandelten Themen ankommt
 
-Bei Casino- und Bonusinformationen zählen die vollständigen Bedingungen, die konkrete Spielversion und die für das jeweilige Konto angezeigten Regeln. Redaktionelle Vergleiche sollten Kennzahlen getrennt von Einschätzungen ausweisen und auf die entsprechenden Detailseiten und Primärinformationen verlinken. Dieses Profil beschreibt den beruflichen Schwerpunkt und ersetzt keine Prüfung einzelner Angebotsbedingungen.
+Bei Spielbeschreibungen sind die tatsächlich angebotene Version und die dazugehörigen Regeln entscheidend. RTP-Werte und Funktionen können sich je nach Konfiguration unterscheiden. Bei Promotionen zählen die vollständigen Umsatz-, Frist- und Auszahlungsbedingungen; bei Zahlungen sind die im jeweiligen Konto angezeigten Methoden und Limits maßgeblich.
 
 ### Öffentliche Berufsprofile
 
-[LinkedIn](https://www.linkedin.com/in/coreylevitan) · [Medium](https://corey-levitan-merklin.medium.com/)
+[LinkedIn](https://www.linkedin.com/in/coreylevitan) · [Website](https://corey-levitan-merklin.medium.com/)
 
-| Rolle | Schwerpunkt | Öffentliches Profil | Fachgebiet |
-| --- | --- | --- | --- |
-| Journalist und Casino-Autor | Las Vegas, Glücksspielnachrichten, Unterhaltung und Casino-Berichterstattung | [LinkedIn](https://www.linkedin.com/in/coreylevitan) · [Medium](https://corey-levitan-merklin.medium.com/) | Las Vegas, Glücksspielnachrichten, Unterhaltung und Casino-Berichterstattung |
+| Rolle | Themengebiet | Öffentliches Profil | Fachlicher Fokus |
+|---|---|---|---|
+| Journalist und Casino-Autor | Las Vegas, Glücksspielnachrichten, Unterhaltung und Casino-Berichterstattung | [LinkedIn](https://www.linkedin.com/in/coreylevitan) · [Website](https://corey-levitan-merklin.medium.com/) | Las Vegas, Glücksspielnachrichten, Unterhaltung und Casino-Berichterstattung |
