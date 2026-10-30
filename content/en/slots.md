@@ -2,8 +2,8 @@
 title: 'Slot guide: fundamentals and game profiles'
 description: 'Game profiles covering rules, features and key information about selected online slots.'
 type: page
-seo_title: 'Slot guide: fundamentals and game profiles | Instant Casino'
-lastmod: '2026-10-28'
+seo_title: 'Slot guide: fundamentals and game profiles | Nomini Casino Guide'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
