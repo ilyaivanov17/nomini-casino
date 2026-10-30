@@ -3,7 +3,7 @@ title: Cómo entender las condiciones de los bonos de casino
 description: Guía práctica sobre requisitos de apuesta, plazos, contribución de juegos, límites de retirada y pagos.
 type: page
 author: cristina-tudose
-seo_title: Condiciones de los bonos de casino explicadas | Instant Casino
+seo_title: Condiciones de los bonos de casino explicadas | Nomini Casino Guide
 lastmod: '2026-10-30'
 article_review_status: editorial-approved
 reviewed_by: Cristina Tudose
@@ -30,7 +30,7 @@ screenshots_note: 'Ilustración editorial, no es una captura de una interfaz rea
 
 Un bono de 500 € puede parecer más atractivo que 50 giros gratis. Pero la cifra anunciada no explica qué tienes que hacer para utilizarlo o retirar las ganancias. Comprueba el requisito de apuesta, los juegos válidos, la fecha de caducidad y las reglas de retirada antes de aceptar la promoción.
 
-Los detalles importantes no siempre aparecen junto al importe anunciado. Lee las condiciones completas antes de registrarte en la oferta o ingresar dinero. Esta guía explica términos habituales; no describe una promoción actual de Instant Casino. Siempre prevalecen las condiciones de la oferta concreta y las normas del país correspondiente.
+Los detalles importantes no siempre aparecen junto al importe anunciado. Lee las condiciones completas antes de registrarte en la oferta o ingresar dinero. Esta guía explica términos habituales; no describe una promoción actual de Nomini. Siempre prevalecen las condiciones de la oferta concreta y las normas del país correspondiente.
 
 ## Qué debes comprobar primero
 
@@ -167,4 +167,4 @@ BIÖG ofrece información y asesoramiento; OASIS permite solicitar la autoexclus
 
 *Fuentes oficiales comprobadas el 30/10/2026. Antes de aprobar el texto, vuelve a comprobar enlaces, teléfonos, horarios e información legal.*
 
-*Aviso: Instant Casino puede recibir comisiones por enlaces de afiliación identificados como tales.*
+*Aviso: esta guía independiente de Nomini Casino puede recibir comisiones por enlaces de afiliación identificados como tales.*
