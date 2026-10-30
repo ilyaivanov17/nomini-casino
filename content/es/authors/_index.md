@@ -1,17 +1,17 @@
 ---
-title: Autores de Instant Casino
-description: Conoce a los siete colaboradores de Instant Casino, sus especialidades y enlaces a perfiles profesionales
+title: Autores de Nomini Casino Guide
+description: Conoce a los siete colaboradores de Nomini Casino Guide, sus especialidades y enlaces a perfiles profesionales
   públicos.
-seo_title: Autores y equipo editorial | Instant Casino
+seo_title: Autores y equipo editorial | Nomini Casino Guide
 type: authors
 date: 2026-09-27
-lastmod: '2026-10-17'
+lastmod: '2026-10-30'
 build:
   render: always
   list: always
 ---
 
-## Equipo editorial de Instant Casino
+## Equipo editorial de Nomini Casino Guide
 
 Esta página presenta a las siete personas que colaboran en el proyecto. Cada perfil resume su especialidad y enlaza con fuentes públicas para que los lectores puedan consultar su experiencia en iGaming, periodismo de casinos, análisis de juegos, bonos y trabajo editorial.
 
