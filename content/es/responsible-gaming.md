@@ -2,8 +2,8 @@
 title: 'Juego responsable: riesgos, límites y protección'
 description: 'Identifica riesgos, establece límites y encuentra recursos para jugar de forma más segura.'
 type: page
-seo_title: 'Juego responsable: riesgos, límites y protección | Instant Casino'
-lastmod: '2026-10-28'
+seo_title: 'Juego responsable: riesgos, límites y protección | Nomini Casino Guide'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
