@@ -3,7 +3,7 @@ title: Como compreender as condições dos bónus de casino
 description: Guia prático sobre requisitos de aposta, prazos, contribuição dos jogos, limites de levantamento e pagamentos.
 type: page
 author: cristina-tudose
-seo_title: Condições dos bónus de casino explicadas | Instant Casino
+seo_title: Condições dos bónus de casino explicadas | Nomini Casino Guide
 lastmod: '2026-10-30'
 article_review_status: editorial-approved
 reviewed_by: Cristina Tudose
@@ -30,7 +30,7 @@ screenshots_note: 'Ilustração editorial; não é uma captura de uma interface 
 
 Um bónus de 500 € pode parecer mais atrativo do que 50 rodadas grátis. Mas o valor anunciado não explica o que tens de fazer para utilizar o bónus ou levantar os ganhos. Confirma o requisito de aposta, os jogos elegíveis, o prazo de validade e as regras de levantamento antes de aceitar a promoção.
 
-Os detalhes importantes nem sempre aparecem junto ao valor anunciado. Lê as condições completas antes de aderir ou depositar. Este guia explica termos comuns; não descreve uma oferta atual da Instant Casino. Aplicam-se sempre as condições da promoção concreta e as regras do país em causa.
+Os detalhes importantes nem sempre aparecem junto ao valor anunciado. Lê as condições completas antes de aderir ou depositar. Este guia explica termos comuns; não descreve uma oferta atual da Nomini. Aplicam-se sempre as condições da promoção concreta e as regras do país em causa.
 
 ## O que deves verificar primeiro
 
@@ -167,4 +167,4 @@ O BIÖG disponibiliza informação e aconselhamento; o OASIS permite pedir autoe
 
 *Fontes oficiais verificadas em 30/10/2026. Antes da aprovação, confirma novamente as ligações, contactos, horários e informações legais.*
 
-*Aviso: a Instant Casino pode receber comissões através de ligações de afiliados devidamente identificadas.*
+*Aviso: este guia independente da Nomini Casino pode receber comissões através de ligações de afiliados devidamente identificadas.*
