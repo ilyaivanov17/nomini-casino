@@ -2,13 +2,13 @@
 title: Cristina Tudose
 description: Cristina Tudose tworzy treści i teksty marketingowe w języku angielskim i rumuńskim, specjalizując
   się w iGamingu. Opisywane publicznie obszary jej…
-seo_title: Cristina Tudose – Autorka treści / copywriterka • iGaming | Instant Casino
+seo_title: Cristina Tudose – Autorka treści / copywriterka • iGaming | Nomini Casino Guide
 type: author
 slug: cristina-tudose
 aliases:
 - /pl/authors/author-5/
 date: '2026-09-27'
-lastmod: '2026-10-17'
+lastmod: '2026-10-30'
 author_id: author-5
 role: Autorka treści / copywriterka • iGaming
 photo: images/Cristina_Tudose.jpg
@@ -39,9 +39,9 @@ Cristina Tudose tworzy treści i teksty marketingowe w języku angielskim i rumu
 
 Wielojęzyczne treści iGaming, recenzje kasyn, bonusy, opisy gier i SEO
 
-### Wkład redakcyjny w Instant Casino
+### Wkład redakcyjny w Nomini Casino Guide
 
-W Instant Casino profil należy do pracy redakcyjnej dotyczącej informacji o kasynach, objaśnień gier i porównywania warunków ofert. Specjalizacja wyznacza sposób prezentacji: mechanika gier jest opisywana na podstawie dostępnych danych, bonusy porządkuje się według warunków, a metody płatności zestawia według limitów i podanego czasu realizacji.
+W Nomini Casino Guide profil należy do pracy redakcyjnej dotyczącej informacji o kasynach, objaśnień gier i porównywania warunków ofert. Specjalizacja wyznacza sposób prezentacji: mechanika gier jest opisywana na podstawie dostępnych danych, bonusy porządkuje się według warunków, a metody płatności zestawia według limitów i podanego czasu realizacji.
 
 ### Jak korzystać z tego profilu
 
