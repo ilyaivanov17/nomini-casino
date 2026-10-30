@@ -1,11 +1,12 @@
 {{ define "main" }}
 {{ $images := .Site.Params.images }}
+{{ $settings := (site.GetPage "/editorial/settings").Params }}
 <section class="lobby-hero">
   <div class="container mx-auto px-4">
     <div class="lobby-hero-card">
       <div class="lobby-hero-art" aria-hidden="true"><img src="{{ $images.hero | relURL }}" alt="" width="1200" height="675" fetchpriority="high"></div>
       <div class="lobby-hero-copy">
-        <div class="lobby-kicker"><span class="pulse-dot"></span> Instant Casino · {{ .Site.Language.Label }}</div>
+        <div class="lobby-kicker"><span class="pulse-dot"></span> {{ $settings.brand }} · {{ .Site.Language.Label }}</div>
         <h1>{{ .Title }}</h1>
         <p>{{ .Description }}</p>
         <div class="lobby-hero-actions">
@@ -20,7 +21,7 @@
 {{ partial "promo-codes.html" . }}
 <section class="lobby-section">
   <div class="container mx-auto px-4">
-    <div class="lobby-section-head"><div><div class="lobby-section-kicker">Instant Casino</div><h2>{{ if eq .Site.Language.Lang "de" }}Leitfäden auf einen Blick{{ else if eq .Site.Language.Lang "en" }}Explore our guides{{ else if eq .Site.Language.Lang "es" }}Explora nuestras guías{{ else if eq .Site.Language.Lang "pt" }}Explore os nossos guias{{ else if eq .Site.Language.Lang "ja" }}ガイド一覧{{ else }}Przewodniki tematyczne{{ end }}</h2><p class="lobby-section-intro">{{ if eq .Site.Language.Lang "de" }}Kompakte Erklärungen zu Spielen, Bedingungen, Zahlungen und Sicherheit.{{ else if eq .Site.Language.Lang "en" }}Practical explanations of game mechanics, bonus rules, deposits, withdrawals and account security.{{ else if eq .Site.Language.Lang "es" }}Explicaciones prácticas sobre juegos, bonos, pagos y seguridad de la cuenta.{{ else if eq .Site.Language.Lang "pt" }}Explicações práticas sobre jogos, bónus, pagamentos e segurança da conta.{{ else if eq .Site.Language.Lang "ja" }}ゲームの仕組み、ボーナス条件、決済、アカウントの安全性を解説します。{{ else }}Praktyczne informacje o grach, bonusach, płatnościach i bezpieczeństwie konta.{{ end }}</p></div></div>
+    <div class="lobby-section-head"><div><div class="lobby-section-kicker">{{ $settings.brand }}</div><h2>{{ if eq .Site.Language.Lang "de" }}Leitfäden auf einen Blick{{ else if eq .Site.Language.Lang "en" }}Explore our guides{{ else if eq .Site.Language.Lang "es" }}Explora nuestras guías{{ else if eq .Site.Language.Lang "pt" }}Explore os nossos guias{{ else if eq .Site.Language.Lang "ja" }}ガイド一覧{{ else }}Przewodniki tematyczne{{ end }}</h2><p class="lobby-section-intro">{{ if eq .Site.Language.Lang "de" }}Kompakte Erklärungen zu Spielen, Bedingungen, Zahlungen und Sicherheit.{{ else if eq .Site.Language.Lang "en" }}Practical explanations of game mechanics, bonus rules, deposits, withdrawals and account security.{{ else if eq .Site.Language.Lang "es" }}Explicaciones prácticas sobre juegos, bonos, pagos y seguridad de la cuenta.{{ else if eq .Site.Language.Lang "pt" }}Explicações práticas sobre jogos, bónus, pagamentos e segurança da conta.{{ else if eq .Site.Language.Lang "ja" }}ゲームの仕組み、ボーナス条件、決済、アカウントの安全性を解説します。{{ else }}Praktyczne informacje o grach, bonusach, płatnościach i bezpieczeństwie konta.{{ end }}</p></div></div>
     <div class="guide-grid">
       {{ $pages := where .Site.RegularPages "Section" "ne" "editorial" }}
       {{ range $pages.ByWeight }}
