@@ -2,8 +2,8 @@
 title: 'Przewodnik po slotach: motywy, zmienność i porównanie'
 description: 'Wyjaśnienie darmowych spinów, symboli wild i scatter, rund bonusowych oraz innych funkcji.'
 type: page
-seo_title: 'Przewodnik po slotach: motywy, zmienność i porównanie | Instant Casino'
-lastmod: '2026-10-28'
+seo_title: 'Przewodnik po slotach: motywy, zmienność i porównanie | Nomini Casino Guide'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
