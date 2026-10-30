@@ -4,26 +4,22 @@ type: site_settings
 build:
   render: never
   list: always
-brand: Instant Casino
-description: 'Independent Instant Casino information: game data, bonus terms, payment methods and responsible-play
-  guidance.'
-author: Instant Casino Editorial Team
+brand: Nomini
+description: 'Independent information about Nomini Casino: game guides, bonus terms, payment methods and safer gambling.'
+author: Independent Editorial Team
 locale: en-US
 market_label: Online casino
 currency: EUR
-operator_name: Instant Casino
+operator_name: Nomini Casino
 affiliate_link: /go/bonus
 affiliate_cta: View bonus
 affiliate_cta_bonus: Check bonus terms
 affiliate_cta_register: Explore offer
-email: 'info@instant.com'
-phone: '+49 10 111 0253'
-address: 'Level 7, The Plaza Business Centre, Bisazza Street, Sliema, SLM 1640, Malta'
 year: 2026
 og_image: /images/hero-casino-neon.webp
 layout_variant: proof-first
 verification_status: pending
-contact_verification_required: false
+contact_verification_required: true
 menu:
 - name: Home
   pageRef: /
@@ -197,7 +193,7 @@ ui:
   editorial_by: Editorial team
   last_updated: Last updated
   public_profile: Public profile
-  author_profiles_pending: Meet the Instant Casino contributors and explore their public professional profiles.
+  author_profiles_pending: Meet the independent contributors covering Nomini Casino.
   related_content: Related content
   related_content_title: Related pages
   related_bonuses: Bonuses and terms
@@ -269,7 +265,7 @@ ui:
   flexible_text: The layout adapts to desktop, tablet and mobile.
   responsibility: Responsible play
   responsibility_text: Adults only. Set a budget and read the terms before participating.
-  final_label: Instant Casino guide
+  final_label: Nomini Casino guide
   final_title: Ready to review the current terms?
   final_text: Open the current offer page and check the applicable terms before proceeding.
   to_offer: View offer
@@ -282,10 +278,10 @@ ui:
   favorite: Favourite
   hero_slide: Main banner
   comparison: Comparison
-seo_title: Editorial policy and review method | Instant Casino
+seo_title: 'Nomini Casino Guide | Independent information and review'
 verification_note: Offers, availability, payment routes and limits can vary by country, account and the provider’s
   current display. Check the terms that apply to you before a transaction.
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
 ---
 
 ## Editorial policy and review method
