@@ -2,13 +2,13 @@
 title: Corey Levitan
 description: Corey Levitan opisuje rozrywkę, gastronomię i hazard w Las Vegas. Jego kariera obejmuje sześć lat pracy reporterskiej
   dla Las Vegas Review-Journal; w…
-seo_title: Corey Levitan – Dziennikarz i autor tekstów o kasynach | Instant Casino
+seo_title: Corey Levitan – Dziennikarz i autor tekstów o kasynach | Nomini Casino Guide
 type: author
 slug: corey-levitan
 aliases:
 - /pl/authors/author-1/
 date: '2026-09-27'
-lastmod: '2026-10-17'
+lastmod: '2026-10-30'
 author_id: author-1
 role: Dziennikarz i autor tekstów o kasynach
 photo: images/Corey_Levitan.jpg
@@ -39,9 +39,9 @@ Corey Levitan opisuje rozrywkę, gastronomię i hazard w Las Vegas. Jego kariera
 
 Las Vegas, wiadomości o hazardzie, rozrywka i dziennikarstwo kasynowe
 
-### Wkład redakcyjny w Instant Casino
+### Wkład redakcyjny w Nomini Casino Guide
 
-W Instant Casino profil należy do pracy redakcyjnej dotyczącej informacji o kasynach, objaśnień gier i porównywania warunków ofert. Specjalizacja wyznacza sposób prezentacji: mechanika gier jest opisywana na podstawie dostępnych danych, bonusy porządkuje się według warunków, a metody płatności zestawia według limitów i podanego czasu realizacji.
+W Nomini Casino Guide profil należy do pracy redakcyjnej dotyczącej informacji o kasynach, objaśnień gier i porównywania warunków ofert. Specjalizacja wyznacza sposób prezentacji: mechanika gier jest opisywana na podstawie dostępnych danych, bonusy porządkuje się według warunków, a metody płatności zestawia według limitów i podanego czasu realizacji.
 
 ### Jak korzystać z tego profilu
 
