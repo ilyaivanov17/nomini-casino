@@ -2,13 +2,13 @@
 medium: https://medium.com/@Michalski_Dan
 title: Dan Michalski
 description: Dan Michalskiは、ギャンブル、カジノ、メディア、テクノロジーを扱う経験豊富なジャーナリスト兼編集者です。公開されているジャーナリストプロフィールでは、Casinos.comとThe Washington Postでの仕事が挙げられています。
-seo_title: Dan Michalski – シニアエディター・ジャーナリスト | Instant Casino
+seo_title: Dan Michalski – シニアエディター・ジャーナリスト | Nomini Casino Guide
 type: author
 slug: dan-michalski
 aliases:
 - /ja/authors/author-2/
 date: '2026-09-27'
-lastmod: '2026-10-17'
+lastmod: '2026-10-30'
 author_id: author-2
 role: シニアエディター・ジャーナリスト
 photo: images/Dan_Michalski.jpg
@@ -37,9 +37,9 @@ Dan Michalskiは、ギャンブル、カジノ、メディア、テクノロジ�
 
 ギャンブル業界、カジノメディア、編集分析、テクノロジー
 
-### Instant Casinoでの編集上の役割
+### Nomini Casino Guideでの編集上の役割
 
-Instant Casinoでは、このプロフィールはカジノ情報、ゲームの解説、キャンペーン条件の比較を扱う編集業務に関連しています。専門分野に応じて、利用可能なゲームデータをもとに仕組みを説明し、ボーナスを条件別に整理し、決済方法を登録済みの上限額や処理時間で比較します。
+Nomini Casino Guideでは、このプロフィールはカジノ情報、ゲームの解説、キャンペーン条件の比較を扱う編集業務に関連しています。専門分野に応じて、利用可能なゲームデータをもとに仕組みを説明し、ボーナスを条件別に整理し、決済方法を登録済みの上限額や処理時間で比較します。
 
 ### このプロフィールの見方
 
