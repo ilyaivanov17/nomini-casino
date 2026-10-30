@@ -55,14 +55,14 @@ disableKinds = ['taxonomy', 'term']
 
 # Central design controls: routine brand/visual tuning happens here, not across templates.
 [params.design]
-  background = '#050b18'
-  surface = '#0d1728'
-  surface_raised = '#121f33'
-  text = '#f5f7fb'
-  muted = '#aebbd0'
-  accent = '#f4bd50'
-  accent_hover = '#ffcf6d'
-  border = 'rgba(173, 190, 220, 0.16)'
+  background = '#10091f'
+  surface = '#1b1230'
+  surface_raised = '#291941'
+  text = '#fbf7ff'
+  muted = '#c6b6d5'
+  accent = '#ff5b87'
+  accent_hover = '#ff944d'
+  border = 'rgba(211, 181, 246, 0.18)'
   radius = '18px'
   content_width = '1240px'
   hero_height = '360px'
