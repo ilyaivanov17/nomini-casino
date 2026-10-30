@@ -1,4 +1,5 @@
 ---
+
 title: Marco Ibarra
 description: Marco Ibarra es un redactor, editor y gestor bilingüe de iGaming. Sus áreas de especialidad incluyen
   casinos online, reseñas de slots, análisis de…
@@ -30,26 +31,26 @@ build:
   list: always
 ---
 
-## Sobre Marco Ibarra
+## Perfil de Marco Ibarra
 
 Marco Ibarra es un redactor, editor y gestor bilingüe de iGaming. Sus áreas de especialidad incluyen casinos online, reseñas de slots, análisis de bonos y trabajo editorial orientado a las búsquedas.
 
-### Áreas de especialidad
+### Especialidad profesional
 
 Casinos online, reseñas de slots, análisis de bonos y edición orientada al SEO
 
-### Contribución editorial en Nomini Casino Guide
+### Alcance de la información del perfil
 
-En Nomini Casino Guide, este perfil forma parte del trabajo editorial sobre información de casinos, explicaciones de juegos y comparación de condiciones. El área de especialidad determina el enfoque: las mecánicas se explican a partir de los datos disponibles, los bonos se organizan por sus condiciones y los métodos de pago se comparan según límites y tiempos indicados.
+Marco Ibarra aparece en el equipo con el cargo de **Redactor y editor de iGaming**. Los datos describen su ámbito profesional declarado y ayudan a situar los temas que aborda. No constituyen prueba de pruebas prácticas de todos los juegos mencionados, de premios personales ni de aprobación individual de cada página.
 
-### Cómo interpretar este perfil
+### Criterios editoriales relacionados
 
-Al comparar juegos y ofertas de casino importan las condiciones completas, la versión concreta del juego y las reglas que aparecen para cada cuenta. Las comparativas editoriales deben distinguir los datos registrados de la interpretación y enlazar a páginas de detalle y fuentes primarias. Este perfil describe el ámbito profesional, pero no sustituye la lectura de las condiciones de una oferta concreta.
+La información sobre reglas, RTP y funciones debe cotejarse con la versión disponible del juego. Las condiciones promocionales, los límites de pago y la disponibilidad pueden cambiar por campaña, cuenta o jurisdicción. Para tomar decisiones, deben consultarse los términos y fuentes primarias vigentes.
 
-### Perfiles profesionales públicos
+### Perfiles profesionales
 
-[LinkedIn](https://cl.linkedin.com/in/ibarram94/en) · [Website](https://marco-ibarra.com/)
+[LinkedIn](https://cl.linkedin.com/in/ibarram94/en) · [Web](https://marco-ibarra.com/)
 
-| Puesto | Enfoque | Perfil público | Especialidad |
-| --- | --- | --- | --- |
-| Redactor y editor de iGaming | Casinos online, reseñas de slots, análisis de bonos y edición orientada al SEO | [LinkedIn](https://cl.linkedin.com/in/ibarram94/en) · [Website](https://marco-ibarra.com/) | Casinos online, reseñas de slots, análisis de bonos y edición orientada al SEO |
+| Cargo | Temas | Perfil público | Área principal |
+|---|---|---|---|
+| Redactor y editor de iGaming | Casinos online, reseñas de slots, análisis de bonos y edición orientada al SEO | [LinkedIn](https://cl.linkedin.com/in/ibarram94/en) · [Web](https://marco-ibarra.com/) | Casinos online, reseñas de slots, análisis de bonos y edición orientada al SEO |
