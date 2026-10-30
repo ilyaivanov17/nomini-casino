@@ -5,7 +5,7 @@ type: page
 author: cristina-tudose
 seo_title: Casino-Bonusbedingungen verstehen | Nomini Casino Guide
 lastmod: '2026-10-30'
-article_review_status: editorial-approved
+article_review_status: editorial-review-pending
 reviewed_by: Cristina Tudose
 review_date: '2026-10-30'
 build:
@@ -27,10 +27,9 @@ screenshots:
 - /images/guides/bonuses.svg
 screenshots_note: 'Illustrative redaktionelle Grafik, kein echter Screenshot einer Betreiberoberfläche.'
 ---
+Der beworbene Bonusbetrag ist nur ein Teil des Angebots. Vor der Teilnahme sollte klar sein, auf welcher Summe der Umsatz berechnet wird, welche Spiele angerechnet werden, welche Fristen gelten und ob Einsatz- oder Auszahlungsgrenzen greifen. Die Beispiele in diesem Leitfaden erklären typische Formulierungen und bestätigen keine aktuell verfügbare Nomini-Aktion.
 
-Ein Bonus von 500 Euro klingt zunächst attraktiver als 50 Freispiele. Entscheidend ist aber, welche Bedingungen daran geknüpft sind: Wie hoch ist der erforderliche Umsatz? Welche Spiele zählen? Wann läuft die Aktion ab? Und was passiert, wenn du vorzeitig eine Auszahlung beantragst?
-
-Die wichtigsten Regeln stehen nicht immer direkt neben der beworbenen Summe. Lies deshalb die vollständigen Aktionsbedingungen vor der Aktivierung. Dieser Leitfaden erklärt typische Begriffe und Prüfpunkte. Er beschreibt kein aktuelles Instant-Casino-Angebot; maßgeblich sind immer die Bedingungen der konkreten Aktion und die Regeln des jeweiligen Landes.
+Maßgeblich sind die vollständigen Bedingungen der konkreten Promotion und des jeweiligen Landes. Prüfe sie unmittelbar vor der Aktivierung erneut, da Teilnahmevoraussetzungen, Zahlungsarten und Angebotsregeln geändert werden können.
 
 ## Die wichtigsten Angaben auf einen Blick
 

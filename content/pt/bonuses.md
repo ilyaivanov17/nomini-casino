@@ -5,7 +5,7 @@ type: page
 author: cristina-tudose
 seo_title: Condições dos bónus de casino explicadas | Nomini Casino Guide
 lastmod: '2026-10-30'
-article_review_status: editorial-approved
+article_review_status: editorial-review-pending
 reviewed_by: Cristina Tudose
 review_date: '2026-10-30'
 build:
@@ -27,10 +27,9 @@ screenshots:
 - /images/guides/bonuses.svg
 screenshots_note: 'Ilustração editorial; não é uma captura de uma interface real do operador.'
 ---
+O montante destacado num anúncio não permite, por si só, avaliar uma promoção. Antes de aderir, confirma sobre que valor incide o requisito de aposta, que jogos são elegíveis, quais os prazos e se existem limites de aposta ou de levantamento. Os exemplos deste guia explicam termos frequentes; não confirmam a disponibilidade de uma campanha atual específica da Nomini.
 
-Um bónus de 500 € pode parecer mais atrativo do que 50 rodadas grátis. Mas o valor anunciado não explica o que tens de fazer para utilizar o bónus ou levantar os ganhos. Confirma o requisito de aposta, os jogos elegíveis, o prazo de validade e as regras de levantamento antes de aceitar a promoção.
-
-Os detalhes importantes nem sempre aparecem junto ao valor anunciado. Lê as condições completas antes de aderir ou depositar. Este guia explica termos comuns; não descreve uma oferta atual da Nomini. Aplicam-se sempre as condições da promoção concreta e as regras do país em causa.
+O que prevalece são as condições integrais da oferta e as regras do país aplicável. Consulta-as novamente imediatamente antes da ativação, pois os critérios de elegibilidade, os métodos de pagamento e as regras promocionais podem ser alterados.
 
 ## O que deves verificar primeiro
 
