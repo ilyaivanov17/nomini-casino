@@ -19,9 +19,7 @@ screenshots_note: 'Esta ilustração foi criada para o artigo. Não representa a
 
 ## Um prémio recorde — e uma distinção importante
 
-A 11 de outubro de 2018, a NetEnt anunciou um jackpot de 3,5 milhões de euros no Mega Fortune. O vencedor era um jogador da Baixa Saxónia que jogava no PokerStars Casino. Segundo o comunicado, era jornalista, tinha chegado a casa ao fim do dia e iniciou uma sessão enquanto uma pizza estava no forno. A NetEnt também indicou que, antes do prémio, o jogador tinha feito um depósito de pouco mais de 2 euros. A empresa descreveu o pagamento como o maior prémio online da história do PokerStars Casino até então. Referiu ainda que o Mega Fortune tinha pago oito jackpots superiores a um milhão de euros durante 2018.
-
-A história é marcante, mas há um pormenor essencial para explicar a mecânica: **a NetEnt referiu um depósito de pouco mais de 2 euros, não uma aposta de 2 euros na jogada vencedora.** O comunicado não indica o valor apostado nessa jogada nem quantas jogadas a precederam. Descrever o caso como «uma aposta de 2 euros transformou-se em 3,5 milhões» ultrapassaria o que a fonte confirma.
+O caso Mega Fortune ajuda a separar a notícia de um jackpot elevado da mecânica do jogo e dos factos efetivamente confirmados pelas fontes. Este artigo distingue o prémio anunciado em 2018 das informações públicas sobre fundos progressivos, ativação do bónus, RTP e volatilidade. Identifica também os pontos que os materiais disponíveis não permitem esclarecer.
 
 ## O que torna um jackpot progressivo
 
