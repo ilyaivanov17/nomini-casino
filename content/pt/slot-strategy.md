@@ -2,7 +2,7 @@
 title: 'Guia de slots: funcionalidades e mecânicas'
 description: 'Compreenda RTP, volatilidade e mecânicas sem os tratar como previsões de resultados.'
 type: page
-seo_title: 'Guia de slots: funcionalidades e mecânicas | Instant Casino'
+seo_title: 'Guia de slots: funcionalidades e mecânicas | Nomini Casino Guide'
 lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
