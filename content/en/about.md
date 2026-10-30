@@ -41,7 +41,7 @@ The material is editorial information. RTP figures, bonus terms, payment details
 
 
 
-No verified public email or postal address has been supplied for this independent guide. For account, bonus, deposit or withdrawal matters, contact Nomini through its official website. Do not send passwords or full payment details to this guide.
+For editorial corrections, source questions, accessibility matters and general enquiries, email [info@nomini.com](mailto:info@nomini.com). For account, bonus, deposit or withdrawal matters, contact Nomini through its official website. Do not send passwords or full payment details to this guide.
 
 This is an information and comparison website, not a gambling operator. For casino account, deposit, withdrawal or bonus issues, contact the operator through its official support channel.
 
