@@ -2,8 +2,8 @@
 title: Informacje prawne i prywatność
 description: 'Informacje prawne, prywatność, pliki cookie i ważne dane dotyczące serwisu informacyjnego.'
 type: page
-seo_title: Informacje prawne i prywatność | Instant Casino
-lastmod: '2026-10-28'
+seo_title: 'Informacje prawne i prywatność | Nomini Casino Guide'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -25,9 +25,9 @@ Ten przewodnik porządkuje istniejące informacje według tematów, aby łatwiej
 
 ## 1. Zakres i kontakt
 
-Instant Casino to serwis informacyjny i porównawczy poświęcony tematyce kasyn internetowych. Niniejsza informacja opisuje rodzaje przetwarzania, które mogą wystąpić podczas odwiedzania strony lub kontaktu z redakcją. Szczegóły techniczne zależą również od faktycznie wykorzystywanego hostingu i poczty elektronicznej.
+Nomini Casino Guide to niezależny serwis informacyjny i porównawczy poświęcony Nomini. Nie jest oficjalną stroną Nomini ani nie jest prowadzony przez kasyno. Niniejsza informacja opisuje rodzaje przetwarzania danych, które mogą wystąpić podczas odwiedzania tego przewodnika. Szczegóły techniczne zależą od faktycznie wykorzystywanego hostingu i poczty elektronicznej.
 
-W sprawach prywatności skontaktuj się z redakcją Instant Casino: [info@instant.com](mailto:info@instant.com) lub telefonicznie pod numerem [+49 10 111 0253](tel:+49101110253). Przekazuj tylko dane potrzebne do rozpatrzenia zgłoszenia.
+
 
 ## 2. Techniczne dane dostępu
 
@@ -59,7 +59,7 @@ Dane należy przechowywać tylko tak długo, jak wymaga tego cel lub prawo. Okre
 
 ## 9. Prawa dotyczące danych
 
-Zależnie od właściwych przepisów możesz mieć prawo dostępu do danych, ich sprostowania lub usunięcia, ograniczenia albo sprzeciwu wobec przetwarzania oraz przenoszenia danych. Zgodę można wycofać na przyszłość, jeśli stanowi podstawę przetwarzania. Wnioski wysyłaj na dane kontaktowe podane powyżej. Możesz też złożyć skargę do właściwego organu ochrony danych.
+Zależnie od właściwych przepisów możesz mieć prawo dostępu do danych, ich sprostowania lub usunięcia, ograniczenia albo sprzeciwu wobec przetwarzania oraz przenoszenia danych. Zgodę można wycofać na przyszłość, jeśli stanowi podstawę przetwarzania. Ponieważ nie podano zweryfikowanych danych kontaktowych wydawcy tego przewodnika, w odpowiednich przypadkach skontaktuj się z właściwym dostawcą hostingu lub organem ochrony danych.
 
 ## 10. Aktualizacje
 
@@ -115,16 +115,16 @@ Korzystaj z ustawień zgody dostępnych na stronie. Usunięcie danych przegląda
 
 ## Witryna i kontakt z redakcją
 
-**Redakcja Instant Casino**
+**Redakcja Nomini Casino Guide**
 
-- E-mail: [info@instant.com](mailto:info@instant.com)
-- Telefon: [+49 10 111 0253](tel:+49101110253)
+
+
 
 Ta strona dotyczy portalu informacyjnego i porównawczego o tematyce kasyn online. Podane kontakty służą sprawom redakcyjnym, korektom, uwagom o źródłach i ogólnym zapytaniom.
 
 ## Charakter serwisu
 
-Instant Casino publikuje informacje redakcyjne i porównania dotyczące gier, bonusów, metod płatności i powiązanych tematów. Serwis nie przyjmuje stawek od graczy, nie prowadzi kont graczy i nie obsługuje wpłat ani wypłat jako operator hazardowy. Sprawy konta i płatności należy kierować do właściwego operatora.
+Nomini Casino Guide publikuje informacje redakcyjne i porównania dotyczące gier, bonusów, metod płatności i powiązanych tematów. Serwis nie przyjmuje stawek od graczy, nie prowadzi kont graczy i nie obsługuje wpłat ani wypłat jako operator hazardowy. Sprawy konta i płatności należy kierować do właściwego operatora.
 
 ## Treści redakcyjne i aktualizacje
 
@@ -142,19 +142,12 @@ Linki do zewnętrznych stron służą jako dodatkowe źródła lub oferty. Za ic
 
 Teksty, obrazy i inne materiały podlegają właściwym przepisom o prawach własności intelektualnej. Wykorzystanie wykraczające poza dozwolone prawem wyjątki wymaga zgody właściwego uprawnionego.
 
-## Dane wydawcy i spółki
+## Dane wydawcy i informacje o Nomini
 
-Wydawca przekazał następujące dane spółki dotyczące tej witryny:
+Tożsamość prawna i adres rejestrowy wydawcy tego niezależnego przewodnika nie zostały jeszcze zweryfikowane, dlatego nie są tutaj podawane. Ta witryna jest niezależnym źródłem informacji, a nie oficjalną stroną Nomini ani operatorem kasyna.
 
-- **Zarejestrowana nazwa prawna:** Instant Gaming plc
-- **Numer rejestracyjny spółki:** C59314
-- **Podany adres siedziby:** Level 7, The Plaza Business Centre, Bisazza Street, Sliema, SLM 1640, Malta
-- **Organ regulacyjny wskazany przez wydawcę:** [Malta Gaming Authority (MGA)](https://www.mga.org.mt/licensee-hub/licensee-register/)
-- **Podany numer licencji:** MGA/CRP/237/2013
-- **Podany typ licencji i pierwotna data wydania:** B2C Gaming Service Licence; 1 sierpnia 2018 r.
+[Oficjalny Regulamin Nomini](https://nomini.com/en/rules), wersja 1.12, wskazuje datę ostatniej aktualizacji 19 sierpnia 2026 r. W sprawdzonym tekście termin „Firma” opisano ogólnie jako podmiot prowadzący witrynę, ale strona nie podaje jego zarejestrowanej nazwy ani numeru spółki. Ten przewodnik nie publikuje więc niezweryfikowanej nazwy podmiotu ani numeru licencji. Należy sprawdzić aktualny regulamin i informacje właściwego organu nadzoru dla danego kraju.
 
-[Oficjalny rejestr licencjobiorców MGA](https://www.mga.org.mt/licensee-hub/licensee-register/) jest podstawowym źródłem do sprawdzenia aktualnego posiadacza licencji, dozwolonych działań i statusu. Dane spółki można sprawdzić w [Malta Business Registry](https://www.mbr.mt/). Linki umożliwiają niezależną weryfikację; ta strona nie jest bieżącym odpisem z rejestru, a sam podany numer nie potwierdza, że licencja jest obecnie aktywna ani że obejmuje tę witrynę lub wszystkie rynki.
+W sprawach konta, wpłat, wypłat lub bonusów skontaktuj się z Nomini przez oficjalną stronę. Ten serwis informacyjny nie przyjmuje stawek, nie prowadzi sald graczy i nie przetwarza transakcji.
 
-Instant Casino publikuje treści informacyjne i porównawcze. Witryna nie przyjmuje stawek, nie prowadzi kont graczy ani nie przetwarza wpłat i wypłat. Informacje o spółce lub licencji nie dowodzą, że wszystkie omawiane tu kasyna zewnętrzne mają zezwolenie w Twojej jurysdykcji.
-
-**Ostatnia aktualizacja: 29 października 2026 r.**
+**Ostatnia aktualizacja: 30 października 2026 r.**
