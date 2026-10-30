@@ -1,18 +1,18 @@
 ---
-title: 'Instant Casino: wyjaśniamy gry, bonusy i płatności'
+title: 'Nomini Casino: wyjaśniamy gry, bonusy i płatności'
 description: 'Przejrzyste informacje o mechanice gier, warunkach bonusów, płatnościach i bezpieczeństwie konta.'
 type: page
-seo_title: Instant Casino — niezależny przewodnik informacyjny | Instant Casino
-lastmod: '2026-10-28'
+seo_title: Nomini Casino — niezależny przewodnik informacyjny
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
   list: always
 ---
 
-## Jak Instant Casino opracowuje informacje o kasynach
+## Jak opracowujemy informacje o Nomini Casino
 
-Instant Casino to niezależny serwis informacyjny poświęcony grom kasynowym online, mechanice slotów, promocjom, metodom płatności i bezpieczeństwu kont. Wyjaśniamy istotne warunki — nie obiecujemy wygranych, nie nakłaniamy do wpłat i nie przedstawiamy hazardu jako źródła dochodu. Nie prowadzimy kasyna, nie przyjmujemy zakładów, nie przechowujemy sald graczy ani nie obsługujemy wpłat i wypłat.
+Ten niezależny przewodnik informacyjny opisuje gry online, mechanikę slotów, promocje, metody płatności i bezpieczeństwo kont w Nomini Casino. Nie jest oficjalną stroną Nomini ani nie jest prowadzony przez kasyno. Wyjaśniamy warunki, nie obiecujemy wygranych, nie nakłaniamy do wpłat i nie przedstawiamy hazardu jako źródła dochodu.
 
 ### Doświadczenie, wiedza i odpowiedzialność redakcyjna
 
