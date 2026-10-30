@@ -2,8 +2,8 @@
 title: 'Guia de slots: fundamentos e perfis de jogos'
 description: 'Perfis de jogos com regras, funcionalidades e dados essenciais de slots online selecionadas.'
 type: page
-seo_title: 'Guia de slots: fundamentos e perfis de jogos | Instant Casino'
-lastmod: '2026-10-28'
+seo_title: 'Guia de slots: fundamentos e perfis de jogos | Nomini Casino Guide'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
