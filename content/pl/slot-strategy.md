@@ -2,7 +2,7 @@
 title: 'Przewodnik po slotach: funkcje i mechanika'
 description: 'Poznaj RTP, zmienność i mechanikę bez traktowania ich jako prognozy wyników.'
 type: page
-seo_title: 'Przewodnik po slotach: funkcje i mechanika | Instant Casino'
+seo_title: 'Przewodnik po slotach: funkcje i mechanika | Nomini Casino Guide'
 lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
