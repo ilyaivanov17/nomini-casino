@@ -2,7 +2,7 @@
 title: Account, registration, login and common questions
 description: 'Guidance on registration, login, identity checks, privacy and keeping an account secure.'
 type: page
-seo_title: Account, registration, login and common questions | Instant Casino
+seo_title: Account, registration, login and common questions | Nomini
 lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
@@ -103,7 +103,7 @@ Age and identity checks may be required. Use the official account area and follo
 
 Bonus wagering and withdrawal processing are governed by the terms for the particular offer and payment method. Check those terms before depositing or requesting a payout.
 
-The official [Instant Casino FAQ](https://www.instantcasino.com/faq) currently lists a minimum deposit of €20. The applicable limit may vary by payment method and account, so confirm the amount shown in the cashier before depositing.
+No single minimum deposit is stated in this guide. The amount shown by Nomini may depend on the payment method, currency and account. Check the current value in the official cashier before making a deposit.
 
 ## Find the detailed answer
 
@@ -111,22 +111,22 @@ Common topics include account registration, verification, bonus terms, payments,
 
 | Question | Short answer | Details |
 | --- | --- | --- |
-| [How do I register with Instant Casino?]({{< relref "account-help" >}}) | Open the official website, select “Register” and complete the requested details accurately. Confirm your email or other required contact details and complete identity verification if requested. Use only information… | [Open answer]({{< relref "account-help" >}}) |
+| [How do I register with Nomini?]({{< relref "account-help" >}}) | Open the official website, select “Register” and complete the requested details accurately. Confirm your email or other required contact details and complete identity verification if requested. Use only information… | [Open answer]({{< relref "account-help" >}}) |
 | [Is a current welcome bonus verified?]({{< relref "account-help" >}}) | We have not verified current official terms confirming a specific welcome offer. Older FAQ or catalogue entries do not establish that a promotion is still available. Check the full terms in the official account or offer page before opting in. | [Open answer]({{< relref "account-help" >}}) |
 | [How do I withdraw winnings?]({{< relref "account-help" >}}) | Open the cashier and select a withdrawal option available to your account. Enter the amount and required details, then review the summary before confirming. The catalogue lists processing times from instant to up to… | [Open answer]({{< relref "account-help" >}}) |
 | [Is there a mobile app?]({{< relref "account-help" >}}) | The project record does not contain a confirmed app download URL. The responsive website can be opened in a smartphone browser. Do not download a purported app from a third-party page without checking its publisher… | [Open answer]({{< relref "account-help" >}}) |
 | [How is slot fairness assessed?]({{< relref "account-help" >}}) | For regulated games, random number generators and game parameters are commonly checked through relevant testing and certification processes. This does not mean a particular game or session must produce a specific… | [Open answer]({{< relref "account-help" >}}) |
 | [What should I do if a game freezes?]({{< relref "account-help" >}}) | If a game stops responding, note the time and any error message. Avoid repeated refreshes while a round or transaction may still be running. Afterwards, check the game history and account balance. | [Open answer]({{< relref "account-help" >}}) |
-| [Is this project itself a casino?]({{< relref "account-help" >}}) | No. This website publishes editorial information about Instant Casino; it is an information and comparison portal and does not itself operate casino games or player accounts. Account, deposit, withdrawal and bonus… | [Open answer]({{< relref "account-help" >}}) |
+| [Is this project itself a casino?]({{< relref "account-help" >}}) | No. This website publishes editorial information about Nomini; it is an information and comparison portal and does not itself operate casino games or player accounts. Account, deposit, withdrawal and bonus… | [Open answer]({{< relref "account-help" >}}) |
 | [How does the affiliate model work?]({{< relref "account-help" >}}) | If you use a disclosed partner link, the portal may receive a commission. The disclosure helps readers understand the commercial relationship. | [Open answer]({{< relref "account-help" >}}) |
 
 ### Operator and licence
 
-The operator’s official privacy page identifies GALAKTIKA N.V., Scharlooweg 39, Willemstad, Curaçao, registration number 140803. It states that the Curaçao Gaming Authority licence is OGL/2024/169/0146, issued on 28 October 2024. These details refer to the casino operator; this project itself is an editorial information and comparison website.
+Nomini’s [official General Terms and Conditions](https://nomini.com/en/rules), version 1.12 (last updated 19 August 2026), describe “Company” generically as the company operating the website; the reviewed terms page does not identify the registered legal entity or a licence reference. We do not publish an operator name, address or licence number without a matching current primary source.
 
-Source: [official Instant Casino privacy policy]({{< relref "legal" >}}).
+Source: [Nomini official General Terms and Conditions](https://nomini.com/en/rules).
 
-### For account access, withdrawals or bonus activation, contact the official operator support team. For an editorial correction, send the URL and the exact passage. Never share a password, one-time code or complete card details.
+### For account access, withdrawals or bonus activation, contact Nomini through its official Help Centre or Live Chat; its published support email is support@nomini.com. For an editorial correction, send the URL and the exact passage. Never share a password, one-time code or complete card details.
 
 ---
 
@@ -212,7 +212,7 @@ Only gamble where it is legal for you, and set a firm budget. Never stake money 
 
 ## Is a current welcome bonus verified?
 
-We have not verified current official promotion terms confirming a specific Instant Casino welcome offer. Older FAQ or catalogue records are not evidence that a promotion is currently available. For that reason, we do not list a confirmed bonus amount, number of free spins, promo code or wagering requirement here. Check any promotion shown in the official account against its full terms. For general guidance, see our [guide to casino bonus terms]({{< relref "bonuses" >}}).
+We have not verified current official promotion terms confirming a specific Nomini welcome offer. Older FAQ or catalogue records are not evidence that a promotion is currently available. For that reason, we do not list a confirmed bonus amount, number of free spins, promo code or wagering requirement here. Check any promotion shown in the official account against its full terms. For general guidance, see our [guide to casino bonus terms]({{< relref "bonuses" >}}).
 
 ### Answer and next steps
 
@@ -238,21 +238,21 @@ Only gamble where it is legal for you, and set a firm budget. Never stake money 
 
 ## Is this project itself a casino?
 
-This project is an editorial information and comparison website; it does not itself operate casino games or player accounts. The operator is identified on the official privacy page as GALAKTIKA N.V.
+Nomini’s [official General Terms and Conditions](https://nomini.com/en/rules), version 1.12 (last updated 19 August 2026), describe “Company” generically as the company operating the website; the reviewed terms page does not identify the registered legal entity or a licence reference. We do not publish an operator name, address or licence number without a matching current primary source.
 
 ### Operator details
 
-The operator’s official privacy page identifies GALAKTIKA N.V., Scharlooweg 39, Willemstad, Curaçao, registration number 140803. It states that the Curaçao Gaming Authority licence is OGL/2024/169/0146, issued on 28 October 2024. These details refer to the casino operator; this project itself is an editorial information and comparison website.
+Nomini’s [official General Terms and Conditions](https://nomini.com/en/rules), version 1.12 (last updated 19 August 2026), describe “Company” generically as the company operating the website; the reviewed terms page does not identify the registered legal entity or a licence reference. We do not publish an operator name, address or licence number without a matching current primary source.
 
-Source: [official Instant Casino privacy policy]({{< relref "legal" >}}).
+Source: [Nomini official General Terms and Conditions](https://nomini.com/en/rules).
 
 For account-specific matters, contact the official operator support. This editorial website is separate from the operator and does not process deposits, withdrawals or player verification.
 
 ---
 
-## How do I register with Instant Casino?
+## How do I register with Nomini?
 
-## How do I register with Instant Casino?
+## How do I register with Nomini?
 
 Open the official website, select “Register” and complete the requested details accurately. Confirm your email or other required contact details and complete identity verification if requested. Use only information that belongs to you.
 
