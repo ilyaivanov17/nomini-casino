@@ -1,9 +1,9 @@
 ---
-title: 'Über Instant Casino: Redaktion, Autoren und Methodik'
+title: 'Über Nomini: Redaktion und Methodik'
 description: 'Redaktionelle Methode, Quellenprüfung und Verantwortlichkeiten des Instant-Casino-Informationsportals.'
 type: page
-seo_title: 'Über Instant Casino: Redaktion, Autoren und Methodik | Instant Casino'
-lastmod: '2026-10-28'
+seo_title: 'Über Nomini | Redaktion und Methodik'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -25,7 +25,7 @@ screenshots:
 - /images/guides/casino-editorial.webp
 screenshots_note: 'Illustrative redaktionelle Grafik, kein echter Screenshot einer Betreiberoberfläche.'
 ---
-## Über Instant Casino: Redaktion, Autoren und Methodik
+## Über Nomini Casino Guide: Redaktion, Autoren und Methodik
 
 Dieser Leitfaden bündelt vorhandene Informationen nach Themen, damit wichtige Regeln und Einschränkungen leichter vergleichbar sind. Spielregeln, RTP-Werte, Bonusbedingungen, Zahlungsoptionen und rechtliche Verfügbarkeit können sich je nach Version, Betreiber und Land ändern. Prüfe die Angaben direkt in der aktuell angebotenen Version.
 
@@ -33,16 +33,15 @@ Dieser Leitfaden bündelt vorhandene Informationen nach Themen, damit wichtige R
 
 Die Inhalte sind redaktionelle Informationen. Angaben zu RTP, Bonusbedingungen, Zahlungen und rechtlicher Verfügbarkeit müssen vor Veröffentlichung anhand aktueller Primärquellen geprüft werden. Autorenprofile dokumentieren die im Projekt hinterlegten Angaben und bedeuten nicht automatisch, dass die betreffende Person einen zusammengeführten Text geprüft oder freigegeben hat.
 
-## Kontakt — Instant Casino
+## Kontakt — Nomini Casino Guide
 
 ## Redaktioneller Kontakt
 
-**Instant Casino Redaktion**
+**Nomini Casino Guide Redaktion**
 
-- E-Mail: [info@instant.com](mailto:info@instant.com)
-- Telefon: [+49 10 111 0253](tel:+49101110253)
 
-Nutze diese Kontaktwege für redaktionelle Korrekturen, Fragen zu Quellen, Hinweise auf fehlerhafte Links, Barrierefreiheit und geschäftliche Anfragen. Nenne möglichst die betroffene URL und die konkrete Textstelle.
+
+Für dieses unabhängige Informationsportal wurde keine verifizierte öffentliche E-Mail- oder Postadresse angegeben. Bei Fragen zu Konto, Bonus, Ein- oder Auszahlungen wende dich direkt an Nomini über dessen offizielle Website. Sende diesem Portal keine Passwörter oder vollständigen Zahlungsdaten.
 
 Dieses Informations- und Vergleichsportal ist kein Glücksspielanbieter. Bei Fragen zu einem Spielerkonto, einer Einzahlung, einer Auszahlung oder einem Bonus wende dich an den offiziellen Support des jeweiligen Betreibers.
 
@@ -64,11 +63,11 @@ Sende niemals Passwörter, Wiederherstellungscodes, vollständige Zahlungskarten
 
 ---
 
-## Redaktionelle Richtlinien und Vergleichsmethodik | Instant Casino
+## Redaktionelle Richtlinien und Vergleichsmethodik | Nomini Casino Guide
 
 # Redaktionelle Richtlinien und Vergleichsmethodik
 
-Diese Seite erklärt, nach welchen Grundsätzen Instant Casino Informationen über Spiele, Bonusangebote, Zahlungsmethoden und häufige Fragen strukturiert. Ziel ist ein nachvollziehbarer Vergleich: Ein Werbeversprechen steht nicht allein, sondern wird neben die Bedingungen gestellt, die für die Entscheidung tatsächlich wichtig sind.
+Diese Seite erklärt, nach welchen Grundsätzen Nomini Casino Guide Informationen über Spiele, Bonusangebote, Zahlungsmethoden und häufige Fragen strukturiert. Ziel ist ein nachvollziehbarer Vergleich: Ein Werbeversprechen steht nicht allein, sondern wird neben die Bedingungen gestellt, die für die Entscheidung tatsächlich wichtig sind.
 
 ## Was wir vergleichen
 
@@ -111,9 +110,9 @@ Arthur Mustoe ist ein freiberuflicher Content-Autor aus Großbritannien, der sic
 
 Casino- und Slot-Tests, Spielregeln, Anbieterinformationen und Compliance-orientierte Inhalte
 
-### Redaktioneller Beitrag bei Instant Casino
+### Redaktioneller Beitrag bei Nomini Casino Guide
 
-Bei Instant Casino arbeitet das Profil im thematischen Umfeld von Casino-Informationen, Spielbeschreibungen und dem Vergleich von Angebotsbedingungen. Die Einordnung der Inhalte folgt dem jeweiligen Fachgebiet: Spielmechaniken werden anhand der verfügbaren Spieldaten erklärt, Bonusangaben nach Bedingungen strukturiert und Zahlungsmethoden anhand der hinterlegten Limits und Zeitangaben verglichen.
+Bei Nomini Casino Guide arbeitet das Profil im thematischen Umfeld von Casino-Informationen, Spielbeschreibungen und dem Vergleich von Angebotsbedingungen. Die Einordnung der Inhalte folgt dem jeweiligen Fachgebiet: Spielmechaniken werden anhand der verfügbaren Spieldaten erklärt, Bonusangaben nach Bedingungen strukturiert und Zahlungsmethoden anhand der hinterlegten Limits und Zeitangaben verglichen.
 
 ### So ist das Profil einzuordnen
 
@@ -139,9 +138,9 @@ Corey Levitan berichtet über Unterhaltung, Gastronomie und Glücksspiel in Las 
 
 Las Vegas, Glücksspielnachrichten, Unterhaltung und Casino-Berichterstattung
 
-### Redaktioneller Beitrag bei Instant Casino
+### Redaktioneller Beitrag bei Nomini Casino Guide
 
-Bei Instant Casino arbeitet das Profil im thematischen Umfeld von Casino-Informationen, Spielbeschreibungen und dem Vergleich von Angebotsbedingungen. Die Einordnung der Inhalte folgt dem jeweiligen Fachgebiet: Spielmechaniken werden anhand der verfügbaren Spieldaten erklärt, Bonusangaben nach Bedingungen strukturiert und Zahlungsmethoden anhand der hinterlegten Limits und Zeitangaben verglichen.
+Bei Nomini Casino Guide arbeitet das Profil im thematischen Umfeld von Casino-Informationen, Spielbeschreibungen und dem Vergleich von Angebotsbedingungen. Die Einordnung der Inhalte folgt dem jeweiligen Fachgebiet: Spielmechaniken werden anhand der verfügbaren Spieldaten erklärt, Bonusangaben nach Bedingungen strukturiert und Zahlungsmethoden anhand der hinterlegten Limits und Zeitangaben verglichen.
 
 ### So ist das Profil einzuordnen
 
@@ -167,9 +166,9 @@ Cristina Tudose ist eine englisch- und rumänischsprachige Content-Autorin und C
 
 Mehrsprachige iGaming-Inhalte, Casino-Tests, Boni, Spielbeschreibungen und SEO
 
-### Redaktioneller Beitrag bei Instant Casino
+### Redaktioneller Beitrag bei Nomini Casino Guide
 
-Bei Instant Casino arbeitet das Profil im thematischen Umfeld von Casino-Informationen, Spielbeschreibungen und dem Vergleich von Angebotsbedingungen. Die Einordnung der Inhalte folgt dem jeweiligen Fachgebiet: Spielmechaniken werden anhand der verfügbaren Spieldaten erklärt, Bonusangaben nach Bedingungen strukturiert und Zahlungsmethoden anhand der hinterlegten Limits und Zeitangaben verglichen.
+Bei Nomini Casino Guide arbeitet das Profil im thematischen Umfeld von Casino-Informationen, Spielbeschreibungen und dem Vergleich von Angebotsbedingungen. Die Einordnung der Inhalte folgt dem jeweiligen Fachgebiet: Spielmechaniken werden anhand der verfügbaren Spieldaten erklärt, Bonusangaben nach Bedingungen strukturiert und Zahlungsmethoden anhand der hinterlegten Limits und Zeitangaben verglichen.
 
 ### So ist das Profil einzuordnen
 
@@ -195,9 +194,9 @@ Dan Michalski ist ein langjähriger Journalist und Redakteur mit Schwerpunkten G
 
 Glücksspielbranche, Casino-Medien, redaktionelle Einordnung und Technologie
 
-### Redaktioneller Beitrag bei Instant Casino
+### Redaktioneller Beitrag bei Nomini Casino Guide
 
-Bei Instant Casino arbeitet das Profil im thematischen Umfeld von Casino-Informationen, Spielbeschreibungen und dem Vergleich von Angebotsbedingungen. Die Einordnung der Inhalte folgt dem jeweiligen Fachgebiet: Spielmechaniken werden anhand der verfügbaren Spieldaten erklärt, Bonusangaben nach Bedingungen strukturiert und Zahlungsmethoden anhand der hinterlegten Limits und Zeitangaben verglichen.
+Bei Nomini Casino Guide arbeitet das Profil im thematischen Umfeld von Casino-Informationen, Spielbeschreibungen und dem Vergleich von Angebotsbedingungen. Die Einordnung der Inhalte folgt dem jeweiligen Fachgebiet: Spielmechaniken werden anhand der verfügbaren Spieldaten erklärt, Bonusangaben nach Bedingungen strukturiert und Zahlungsmethoden anhand der hinterlegten Limits und Zeitangaben verglichen.
 
 ### So ist das Profil einzuordnen
 
@@ -223,9 +222,9 @@ Dominic Field ist ein freiberuflicher Autor im iGaming-Bereich mit langjähriger
 
 Online-Casinos, Slots, Poker, Sportwetten und iGaming-Branche
 
-### Redaktioneller Beitrag bei Instant Casino
+### Redaktioneller Beitrag bei Nomini Casino Guide
 
-Bei Instant Casino arbeitet das Profil im thematischen Umfeld von Casino-Informationen, Spielbeschreibungen und dem Vergleich von Angebotsbedingungen. Die Einordnung der Inhalte folgt dem jeweiligen Fachgebiet: Spielmechaniken werden anhand der verfügbaren Spieldaten erklärt, Bonusangaben nach Bedingungen strukturiert und Zahlungsmethoden anhand der hinterlegten Limits und Zeitangaben verglichen.
+Bei Nomini Casino Guide arbeitet das Profil im thematischen Umfeld von Casino-Informationen, Spielbeschreibungen und dem Vergleich von Angebotsbedingungen. Die Einordnung der Inhalte folgt dem jeweiligen Fachgebiet: Spielmechaniken werden anhand der verfügbaren Spieldaten erklärt, Bonusangaben nach Bedingungen strukturiert und Zahlungsmethoden anhand der hinterlegten Limits und Zeitangaben verglichen.
 
 ### So ist das Profil einzuordnen
 
@@ -251,9 +250,9 @@ Jon Pill arbeitet seit 2015 als freiberuflicher Autor und Glücksspieljournalist
 
 Spielstrategien, Pokerregeln, Casinospiele und Analyse von Spielmechaniken
 
-### Redaktioneller Beitrag bei Instant Casino
+### Redaktioneller Beitrag bei Nomini Casino Guide
 
-Bei Instant Casino arbeitet das Profil im thematischen Umfeld von Casino-Informationen, Spielbeschreibungen und dem Vergleich von Angebotsbedingungen. Die Einordnung der Inhalte folgt dem jeweiligen Fachgebiet: Spielmechaniken werden anhand der verfügbaren Spieldaten erklärt, Bonusangaben nach Bedingungen strukturiert und Zahlungsmethoden anhand der hinterlegten Limits und Zeitangaben verglichen.
+Bei Nomini Casino Guide arbeitet das Profil im thematischen Umfeld von Casino-Informationen, Spielbeschreibungen und dem Vergleich von Angebotsbedingungen. Die Einordnung der Inhalte folgt dem jeweiligen Fachgebiet: Spielmechaniken werden anhand der verfügbaren Spieldaten erklärt, Bonusangaben nach Bedingungen strukturiert und Zahlungsmethoden anhand der hinterlegten Limits und Zeitangaben verglichen.
 
 ### So ist das Profil einzuordnen
 
@@ -279,9 +278,9 @@ Marco Ibarra ist ein zweisprachiger iGaming-Autor, Redakteur und Manager. Seine 
 
 Online-Casinos, Slot-Bewertungen, Bonusanalysen und SEO-orientierte Redaktion
 
-### Redaktioneller Beitrag bei Instant Casino
+### Redaktioneller Beitrag bei Nomini Casino Guide
 
-Bei Instant Casino arbeitet das Profil im thematischen Umfeld von Casino-Informationen, Spielbeschreibungen und dem Vergleich von Angebotsbedingungen. Die Einordnung der Inhalte folgt dem jeweiligen Fachgebiet: Spielmechaniken werden anhand der verfügbaren Spieldaten erklärt, Bonusangaben nach Bedingungen strukturiert und Zahlungsmethoden anhand der hinterlegten Limits und Zeitangaben verglichen.
+Bei Nomini Casino Guide arbeitet das Profil im thematischen Umfeld von Casino-Informationen, Spielbeschreibungen und dem Vergleich von Angebotsbedingungen. Die Einordnung der Inhalte folgt dem jeweiligen Fachgebiet: Spielmechaniken werden anhand der verfügbaren Spieldaten erklärt, Bonusangaben nach Bedingungen strukturiert und Zahlungsmethoden anhand der hinterlegten Limits und Zeitangaben verglichen.
 
 ### So ist das Profil einzuordnen
 
