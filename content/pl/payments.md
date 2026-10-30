@@ -26,7 +26,7 @@ screenshots_note: 'Ilustracja redakcyjna, nie zrzut ekranu rzeczywistego interfe
 ---
 ## Wpłaty, wypłaty i metody płatności
 
-Ten przewodnik porządkuje istniejące informacje według tematów, aby łatwiej porównywać zasady i ograniczenia. Zasady gier, RTP, warunki bonusów, metody płatności i dostępność prawna mogą różnić się w zależności od wersji, operatora i kraju. Sprawdź je bezpośrednio w aktualnie oferowanej wersji.
+Wybór sposobu płatności wymaga sprawdzenia czegoś więcej niż samego logo dostawcy. Zweryfikuj, które metody są faktycznie dostępne na Twoim koncie, jaka obowiązuje waluta i limity, czy występują opłaty, jaki czas realizacji podano oraz czy tą samą drogą można wypłacać środki. Dostępność i termin mogą zależeć od kraju, weryfikacji i operatora płatności; aktualne informacje znajdują się w kasjerze po zalogowaniu.
 
 ### Jak znaleźć sekcję wpłat
 

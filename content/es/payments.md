@@ -26,7 +26,7 @@ screenshots_note: 'Ilustración editorial, no es una captura de una interfaz rea
 ---
 ## Depósitos, retiradas y métodos de pago
 
-Esta guía reúne la información por temas para facilitar la comparación de reglas y limitaciones. Las reglas del juego, el RTP, las condiciones de los bonos, los métodos de pago y la disponibilidad legal pueden variar según la versión, el operador y el país. Comprueba los datos en la versión ofrecida actualmente.
+Para elegir cómo pagar no basta con reconocer el logotipo de un proveedor. Comprueba qué métodos aparecen realmente en tu cuenta, la divisa y los límites, los posibles costes, el plazo estimado y si esa misma vía sirve también para retirar. La disponibilidad y los tiempos pueden depender del país, la verificación y el proveedor; la información vigente es la que muestra el cajero al iniciar sesión.
 
 ### Cómo encontrar el apartado de depósitos
 
