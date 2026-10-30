@@ -2,8 +2,8 @@
 title: Deposits, withdrawals and payment methods
 description: 'Compare deposits and withdrawals, including possible fees, processing times and verification.'
 type: page
-seo_title: Deposits, withdrawals and payment methods | Instant Casino
-lastmod: '2026-10-28'
+seo_title: Deposits, withdrawals and payment methods | Nomini Casino Guide
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -30,7 +30,7 @@ This guide groups existing information by topic so rules and limitations are eas
 
 ### How to find the deposit area
 
-1. Open Instant Casino using the official address you already trust and sign in. Never enter account credentials on an independent information site.
+1. Open Nomini using the official address you already trust and sign in. Never enter account credentials on an independent information site.
 2. In your account, look for **Cashier**, **Deposit**, or a similarly named payment section. The exact label may vary.
 3. Choose a method that is actually shown to your account. Check its minimum amount, currency, fees and processing estimate in the cashier.
 4. Enter the amount and review the summary. If you want a bonus, read its terms before paying and confirm that your chosen method qualifies.
@@ -50,9 +50,11 @@ Check whether the payment method qualifies for the promotion you want. Read the 
 
 Save the confirmation and transaction reference. Never send full card details or account credentials to an editorial website or an unofficial support contact.
 
-## Instant Casino deposits: what to check first
+## Nomini deposits: what to check first
 
-A useful **Instant Casino deposit** guide needs to explain more than payment logos. Before choosing a method, check the minimum and maximum shown for your account, the currency, any provider fees and whether the same method can be used for withdrawals. The figures in the table below are the values currently stored in this project; they do not guarantee that every method is available in every country or for every account.
+A useful **Nomini deposit** guide needs to explain more than payment logos. Check the minimum and maximum shown for your account, the currency, any provider fees and whether the same method can be used for withdrawals.
+
+**Data verification note:** The table values below are legacy catalogue data from an earlier project draft and have not been checked against Nomini’s current cashier. They do not confirm Nomini’s current payment methods, limits, fees or processing times. Verify every detail in the official cashier for your country and account.
 
 ### A careful deposit checklist
 
