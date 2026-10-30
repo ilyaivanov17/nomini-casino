@@ -3,13 +3,13 @@ medium: https://medium.com/@Michalski_Dan
 title: Dan Michalski
 description: Dan Michalski jest doświadczonym dziennikarzem i redaktorem zajmującym się hazardem, kasynami, mediami i technologią.
   Publiczne profile dziennikarskie…
-seo_title: Dan Michalski – Redaktor naczelny i dziennikarz | Instant Casino
+seo_title: Dan Michalski – Redaktor naczelny i dziennikarz | Nomini Casino Guide
 type: author
 slug: dan-michalski
 aliases:
 - /pl/authors/author-2/
 date: '2026-09-27'
-lastmod: '2026-10-17'
+lastmod: '2026-10-30'
 author_id: author-2
 role: Redaktor naczelny i dziennikarz
 photo: images/Dan_Michalski.jpg
@@ -39,9 +39,9 @@ Dan Michalski jest doświadczonym dziennikarzem i redaktorem zajmującym się ha
 
 Branża hazardowa, media kasynowe, analiza redakcyjna i technologia
 
-### Wkład redakcyjny w Instant Casino
+### Wkład redakcyjny w Nomini Casino Guide
 
-W Instant Casino profil należy do pracy redakcyjnej dotyczącej informacji o kasynach, objaśnień gier i porównywania warunków ofert. Specjalizacja wyznacza sposób prezentacji: mechanika gier jest opisywana na podstawie dostępnych danych, bonusy porządkuje się według warunków, a metody płatności zestawia według limitów i podanego czasu realizacji.
+W Nomini Casino Guide profil należy do pracy redakcyjnej dotyczącej informacji o kasynach, objaśnień gier i porównywania warunków ofert. Specjalizacja wyznacza sposób prezentacji: mechanika gier jest opisywana na podstawie dostępnych danych, bonusy porządkuje się według warunków, a metody płatności zestawia według limitów i podanego czasu realizacji.
 
 ### Jak korzystać z tego profilu
 
