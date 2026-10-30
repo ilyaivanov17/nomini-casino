@@ -2,7 +2,7 @@
 title: スロットガイド：機能とゲームの仕組み
 description: 'RTP、ボラティリティ、ゲームの仕組みを結果予測と混同せずに理解します。'
 type: page
-seo_title: スロットガイド：機能とゲームの仕組み | Instant Casino
+seo_title: スロットガイド：機能とゲームの仕組み | Nomini Casino Guide
 lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
