@@ -2,8 +2,8 @@
 title: 'Guía de tragamonedas: fundamentos y perfiles'
 description: 'Perfiles de juegos con reglas, funciones y datos clave de slots online seleccionadas.'
 type: page
-seo_title: 'Guía de tragamonedas: fundamentos y perfiles | Instant Casino'
-lastmod: '2026-10-28'
+seo_title: 'Guía de tragamonedas: fundamentos y perfiles | Nomini Casino Guide'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
