@@ -11,6 +11,8 @@ locale: en-US
 market_label: Online casino
 currency: EUR
 operator_name: Nomini Casino
+email: 'info@nomini.com'
+address: 'Level 7, The Plaza Business Centre, Bisazza Street, Sliema, SLM 1640, Malta'
 affiliate_link: /go/bonus
 affiliate_cta: View bonus
 affiliate_cta_bonus: Check bonus terms
