@@ -3,7 +3,7 @@ title: Casino-Bonusbedingungen richtig verstehen
 description: Umsatzbedingungen, Fristen, Spielgewichtung, Höchsteinsätze und Auszahlungsregeln verständlich erklärt.
 type: page
 author: cristina-tudose
-seo_title: Casino-Bonusbedingungen verstehen | Instant Casino
+seo_title: Casino-Bonusbedingungen verstehen | Nomini Casino Guide
 lastmod: '2026-10-30'
 article_review_status: editorial-approved
 reviewed_by: Cristina Tudose
@@ -167,4 +167,4 @@ Das BIÖG bietet telefonische Beratung; OASIS ermöglicht eine Selbstsperre im d
 
 *Offizielle Quellen zuletzt am 30.10.2026 geprüft. Vor Freigabe erneut Links, Telefonnummern, Zeiten und Rechtsangaben kontrollieren.*
 
-*Hinweis: Instant Casino kann über gekennzeichnete Affiliate-Links eine Provision erhalten.*
+*Hinweis: Nomini kann über gekennzeichnete Affiliate-Links eine Provision erhalten.*
