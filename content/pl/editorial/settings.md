@@ -4,26 +4,22 @@ type: site_settings
 build:
   render: never
   list: always
-brand: Instant Casino
-description: 'Niezależne informacje o Instant Casino: dane gier, warunki bonusów, płatności i odpowiedzialna
-  gra.'
-author: Zespół redakcyjny Instant Casino
+brand: Nomini
+description: 'Niezależne informacje o Nomini Casino: poradniki gier, warunki bonusów, płatności i odpowiedzialna gra.'
+author: Niezależny zespół redakcyjny
 locale: pl-PL
 market_label: Kasyno online
 currency: EUR
-operator_name: Instant Casino
+operator_name: Nomini Casino
 affiliate_link: /go/bonus
 affiliate_cta: Zobacz bonus
 affiliate_cta_bonus: Sprawdź warunki bonusu
 affiliate_cta_register: Poznaj ofertę
-email: 'info@instant.com'
-phone: '+49 10 111 0253'
-address: 'Level 7, The Plaza Business Centre, Bisazza Street, Sliema, SLM 1640, Malta'
 year: 2026
 og_image: /images/hero-casino-neon.webp
 layout_variant: proof-first
 verification_status: pending
-contact_verification_required: false
+contact_verification_required: true
 menu:
 - name: Strona główna
   pageRef: /
@@ -196,7 +192,7 @@ ui:
   editorial_by: Redakcja
   last_updated: Ostatnia aktualizacja
   public_profile: Profil publiczny
-  author_profiles_pending: Poznaj osoby współtworzące Instant Casino i sprawdź ich publiczne profile zawodowe.
+  author_profiles_pending: Poznaj niezależnych autorów opisujących Nomini Casino.
   related_content: Powiązane treści
   related_content_title: Powiązane strony
   related_bonuses: Bonusy i warunki
@@ -268,7 +264,7 @@ ui:
   flexible_text: Układ dostosowuje się do komputera, tabletu i telefonu.
   responsibility: Odpowiedzialna gra
   responsibility_text: Tylko dla dorosłych. Ustal budżet i przeczytaj warunki przed udziałem.
-  final_label: Przewodnik Instant Casino
+  final_label: Przewodnik Nomini Casino
   final_title: Sprawdź aktualne warunki
   final_text: Otwórz aktualną ofertę i sprawdź obowiązujące warunki przed kontynuowaniem.
   to_offer: Zobacz ofertę
@@ -281,10 +277,10 @@ ui:
   favorite: Ulubione
   hero_slide: Baner główny
   comparison: Porównanie
-seo_title: Polityka redakcyjna i metoda weryfikacji | Instant Casino
+seo_title: 'Nomini Casino — niezależny przewodnik i informacje'
 verification_note: Oferty, dostępność, metody płatności i limity mogą zależeć od kraju, konta i aktualnych
   informacji operatora. Przed transakcją sprawdź warunki dotyczące Ciebie.
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
 ---
 
 ## Polityka redakcyjna i metoda weryfikacji
