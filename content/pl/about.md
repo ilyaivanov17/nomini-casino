@@ -1,9 +1,9 @@
 ---
-title: 'O Instant Casino: redakcja i metodologia'
+title: 'O przewodniku Nomini: redakcja i metodologia'
 description: 'Poznaj zasady pracy redakcji, sposób weryfikacji źródeł i odpowiedzialność za treści.'
 type: page
-seo_title: 'O Instant Casino: redakcja i metodologia | Instant Casino'
-lastmod: '2026-10-28'
+seo_title: 'O Nomini | Metodologia redakcyjna'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -25,7 +25,7 @@ screenshots:
 - /images/guides/casino-editorial.webp
 screenshots_note: 'Ilustracja redakcyjna, nie zrzut ekranu rzeczywistego interfejsu operatora.'
 ---
-## O Instant Casino: redakcja i metodologia
+## O Nomini Casino Guide: redakcja i metodologia
 
 Ten przewodnik porządkuje istniejące informacje według tematów, aby łatwiej porównywać zasady i ograniczenia. Zasady gier, RTP, warunki bonusów, metody płatności i dostępność prawna mogą różnić się w zależności od wersji, operatora i kraju. Sprawdź je bezpośrednio w aktualnie oferowanej wersji.
 
@@ -33,14 +33,13 @@ Ten przewodnik porządkuje istniejące informacje według tematów, aby łatwiej
 
 Treści mają charakter redakcyjny. Dane dotyczące RTP, bonusów, płatności i dostępności prawnej należy przed publikacją sprawdzić w aktualnych źródłach pierwotnych. Profile zachowują informacje zapisane w projekcie i nie oznaczają, że autor sprawdził lub zatwierdził każdy połączony tekst.
 
-## Kontakt z redakcją Instant Casino
+## Kontakt z redakcją Nomini Casino Guide
 
 ## Kontakt z redakcją
 
-**Redakcja Instant Casino**
+**Redakcja Nomini Casino Guide**
 
-- E-mail: [info@instant.com](mailto:info@instant.com)
-- Telefon: [+49 10 111 0253](tel:+49101110253)
+
 
 Skorzystaj z tych danych, aby zgłosić korektę, zapytać o źródła, poinformować o niedziałającym linku, problemie z dostępnością lub zaproponować współpracę. W miarę możliwości podaj adres strony i dokładny fragment tekstu.
 
@@ -64,11 +63,11 @@ Nie wysyłaj haseł, kodów odzyskiwania, pełnych danych karty płatniczej ani 
 
 ---
 
-## Polityka redakcyjna i metoda porównywania | Instant Casino
+## Polityka redakcyjna i metoda porównywania | Nomini Casino Guide
 
 # Polityka redakcyjna i metoda porównywania
 
-Ta strona wyjaśnia, jak Instant Casino porządkuje informacje o grach, bonusach, metodach płatności i częstych pytaniach. Celem jest przejrzyste porównanie: hasło reklamowe zestawiamy z warunkami, które faktycznie wpływają na decyzję.
+Ta strona wyjaśnia, jak Nomini Casino Guide porządkuje informacje o grach, bonusach, metodach płatności i częstych pytaniach. Celem jest przejrzyste porównanie: hasło reklamowe zestawiamy z warunkami, które faktycznie wpływają na decyzję.
 
 ## Co porównujemy
 
@@ -111,9 +110,9 @@ Arthur Mustoe jest niezależnym autorem treści z Wielkiej Brytanii, specjalizuj
 
 Recenzje kasyn i slotów, zasady gier, informacje o dostawcach i treści uwzględniające zgodność
 
-### Wkład redakcyjny w Instant Casino
+### Wkład redakcyjny w Nomini Casino Guide
 
-W Instant Casino profil należy do pracy redakcyjnej dotyczącej informacji o kasynach, objaśnień gier i porównywania warunków ofert. Specjalizacja wyznacza sposób prezentacji: mechanika gier jest opisywana na podstawie dostępnych danych, bonusy porządkuje się według warunków, a metody płatności zestawia według limitów i podanego czasu realizacji.
+W Nomini Casino Guide profil należy do pracy redakcyjnej dotyczącej informacji o kasynach, objaśnień gier i porównywania warunków ofert. Specjalizacja wyznacza sposób prezentacji: mechanika gier jest opisywana na podstawie dostępnych danych, bonusy porządkuje się według warunków, a metody płatności zestawia według limitów i podanego czasu realizacji.
 
 ### Jak korzystać z tego profilu
 
@@ -139,9 +138,9 @@ Corey Levitan opisuje rozrywkę, gastronomię i hazard w Las Vegas. Jego kariera
 
 Las Vegas, wiadomości o hazardzie, rozrywka i dziennikarstwo kasynowe
 
-### Wkład redakcyjny w Instant Casino
+### Wkład redakcyjny w Nomini Casino Guide
 
-W Instant Casino profil należy do pracy redakcyjnej dotyczącej informacji o kasynach, objaśnień gier i porównywania warunków ofert. Specjalizacja wyznacza sposób prezentacji: mechanika gier jest opisywana na podstawie dostępnych danych, bonusy porządkuje się według warunków, a metody płatności zestawia według limitów i podanego czasu realizacji.
+W Nomini Casino Guide profil należy do pracy redakcyjnej dotyczącej informacji o kasynach, objaśnień gier i porównywania warunków ofert. Specjalizacja wyznacza sposób prezentacji: mechanika gier jest opisywana na podstawie dostępnych danych, bonusy porządkuje się według warunków, a metody płatności zestawia według limitów i podanego czasu realizacji.
 
 ### Jak korzystać z tego profilu
 
@@ -167,9 +166,9 @@ Cristina Tudose tworzy treści i teksty marketingowe w języku angielskim i rumu
 
 Wielojęzyczne treści iGaming, recenzje kasyn, bonusy, opisy gier i SEO
 
-### Wkład redakcyjny w Instant Casino
+### Wkład redakcyjny w Nomini Casino Guide
 
-W Instant Casino profil należy do pracy redakcyjnej dotyczącej informacji o kasynach, objaśnień gier i porównywania warunków ofert. Specjalizacja wyznacza sposób prezentacji: mechanika gier jest opisywana na podstawie dostępnych danych, bonusy porządkuje się według warunków, a metody płatności zestawia według limitów i podanego czasu realizacji.
+W Nomini Casino Guide profil należy do pracy redakcyjnej dotyczącej informacji o kasynach, objaśnień gier i porównywania warunków ofert. Specjalizacja wyznacza sposób prezentacji: mechanika gier jest opisywana na podstawie dostępnych danych, bonusy porządkuje się według warunków, a metody płatności zestawia według limitów i podanego czasu realizacji.
 
 ### Jak korzystać z tego profilu
 
@@ -195,9 +194,9 @@ Dan Michalski jest doświadczonym dziennikarzem i redaktorem zajmującym się ha
 
 Branża hazardowa, media kasynowe, analiza redakcyjna i technologia
 
-### Wkład redakcyjny w Instant Casino
+### Wkład redakcyjny w Nomini Casino Guide
 
-W Instant Casino profil należy do pracy redakcyjnej dotyczącej informacji o kasynach, objaśnień gier i porównywania warunków ofert. Specjalizacja wyznacza sposób prezentacji: mechanika gier jest opisywana na podstawie dostępnych danych, bonusy porządkuje się według warunków, a metody płatności zestawia według limitów i podanego czasu realizacji.
+W Nomini Casino Guide profil należy do pracy redakcyjnej dotyczącej informacji o kasynach, objaśnień gier i porównywania warunków ofert. Specjalizacja wyznacza sposób prezentacji: mechanika gier jest opisywana na podstawie dostępnych danych, bonusy porządkuje się według warunków, a metody płatności zestawia według limitów i podanego czasu realizacji.
 
 ### Jak korzystać z tego profilu
 
@@ -223,9 +222,9 @@ Dominic Field jest niezależnym autorem treści z wieloletnim doświadczeniem w 
 
 Kasyna online, sloty, poker, zakłady sportowe i branża iGaming
 
-### Wkład redakcyjny w Instant Casino
+### Wkład redakcyjny w Nomini Casino Guide
 
-W Instant Casino profil należy do pracy redakcyjnej dotyczącej informacji o kasynach, objaśnień gier i porównywania warunków ofert. Specjalizacja wyznacza sposób prezentacji: mechanika gier jest opisywana na podstawie dostępnych danych, bonusy porządkuje się według warunków, a metody płatności zestawia według limitów i podanego czasu realizacji.
+W Nomini Casino Guide profil należy do pracy redakcyjnej dotyczącej informacji o kasynach, objaśnień gier i porównywania warunków ofert. Specjalizacja wyznacza sposób prezentacji: mechanika gier jest opisywana na podstawie dostępnych danych, bonusy porządkuje się według warunków, a metody płatności zestawia według limitów i podanego czasu realizacji.
 
 ### Jak korzystać z tego profilu
 
@@ -251,9 +250,9 @@ Jon Pill pracuje jako niezależny autor i dziennikarz zajmujący się hazardem o
 
 Strategie gry, zasady pokera, gry kasynowe i analiza mechaniki
 
-### Wkład redakcyjny w Instant Casino
+### Wkład redakcyjny w Nomini Casino Guide
 
-W Instant Casino profil należy do pracy redakcyjnej dotyczącej informacji o kasynach, objaśnień gier i porównywania warunków ofert. Specjalizacja wyznacza sposób prezentacji: mechanika gier jest opisywana na podstawie dostępnych danych, bonusy porządkuje się według warunków, a metody płatności zestawia według limitów i podanego czasu realizacji.
+W Nomini Casino Guide profil należy do pracy redakcyjnej dotyczącej informacji o kasynach, objaśnień gier i porównywania warunków ofert. Specjalizacja wyznacza sposób prezentacji: mechanika gier jest opisywana na podstawie dostępnych danych, bonusy porządkuje się według warunków, a metody płatności zestawia według limitów i podanego czasu realizacji.
 
 ### Jak korzystać z tego profilu
 
@@ -279,9 +278,9 @@ Marco Ibarra jest dwujęzycznym autorem, redaktorem i menedżerem w branży iGam
 
 Kasyna online, recenzje slotów, analiza bonusów i redakcja SEO
 
-### Wkład redakcyjny w Instant Casino
+### Wkład redakcyjny w Nomini Casino Guide
 
-W Instant Casino profil należy do pracy redakcyjnej dotyczącej informacji o kasynach, objaśnień gier i porównywania warunków ofert. Specjalizacja wyznacza sposób prezentacji: mechanika gier jest opisywana na podstawie dostępnych danych, bonusy porządkuje się według warunków, a metody płatności zestawia według limitów i podanego czasu realizacji.
+W Nomini Casino Guide profil należy do pracy redakcyjnej dotyczącej informacji o kasynach, objaśnień gier i porównywania warunków ofert. Specjalizacja wyznacza sposób prezentacji: mechanika gier jest opisywana na podstawie dostępnych danych, bonusy porządkuje się według warunków, a metody płatności zestawia według limitów i podanego czasu realizacji.
 
 ### Jak korzystać z tego profilu
 
