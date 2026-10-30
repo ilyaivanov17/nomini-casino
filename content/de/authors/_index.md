@@ -1,16 +1,16 @@
 ---
-title: Autoren von Instant Casino
-description: 'Autorenprofile von Instant Casino: sieben Mitwirkende, ihre Fachgebiete und Links zu öffentlichen Berufsprofilen.'
-seo_title: Öffentliche Autorenprofile | Instant Casino
+title: Autoren von Nomini Casino Guide
+description: 'Autorenprofile von Nomini Casino Guide: sieben Mitwirkende, ihre Fachgebiete und Links zu öffentlichen Berufsprofilen.'
+seo_title: Öffentliche Autorenprofile | Nomini Casino Guide
 type: authors
 date: 2026-09-27
-lastmod: '2026-10-17'
+lastmod: '2026-10-30'
 build:
   render: always
   list: always
 ---
 
-## Redaktionsteam von Instant Casino
+## Redaktionsteam von Nomini Casino Guide
 
 Diese Seite stellt die sieben Autoren vor, die an diesem Projekt mitarbeiten. Die Profile nennen ihre Fachgebiete, ordnen ihren beruflichen Hintergrund ein und verlinken auf öffentliche Profile. Dadurch können Leser nachvollziehen, welche Erfahrung die jeweilige Person in den Themen iGaming, Casino-Journalismus, Spielanalysen, Boni oder redaktioneller Arbeit mitbringt.
 
