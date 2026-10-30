@@ -1,104 +1,96 @@
 {{- $lang := .Site.Language.Lang -}}
-{{- $verifiedBonuses := where site.Data.bonuses "status" "verified" -}}
-{{- $title := "Verified Nomini promotions" -}}
-{{- $intro := "Offers shown here have been checked against available official information. Terms, availability and eligibility can vary by country and account; read the full terms before opting in." -}}
-{{- $emptyTitle := "No verified Nomini promo codes are listed yet" -}}
-{{- $emptyIntro := "Codes and amounts carried over from an earlier draft have not been confirmed by current Nomini terms, so they are not displayed. Check the official Nomini website for current promotions and their conditions." -}}
-{{- $label := "VERIFIED OFFER" -}}
+{{- $displayBonuses := slice -}}
+{{- range site.Data.bonuses -}}
+  {{- if or (eq .status "verified") (eq .status "owner_supplied_unverified") -}}
+    {{- $displayBonuses = $displayBonuses | append . -}}
+  {{- end -}}
+{{- end -}}
+{{- $title := "Nomini promo codes" -}}
+{{- $intro := "The following codes were supplied for this guide. Their current validity, offer value and eligibility have not been independently confirmed. Check the terms and try the code on Nomini's official website before making a deposit." -}}
+{{- $verifiedLabel := "VERIFIED OFFER" -}}
+{{- $ownerLabel := "SUPPLIED CODE — NOT VERIFIED" -}}
 {{- $copy := "Copy code" -}}
 {{- $copied := "Copied" -}}
 {{- $copyFail := "Copy manually" -}}
-{{- $note := "This is an independent information guide. It does not issue promo codes, accept deposits or guarantee that an offer is available to your account." -}}
+{{- $note := "This is an independent information guide. It does not issue promo codes, accept deposits or guarantee that a code is active for your account." -}}
 {{- $guide := "Read the bonus guide" -}}
 {{- if eq $lang "de" -}}
-  {{- $title = "Geprüfte Nomini-Angebote" -}}
-  {{- $intro = "Die hier angezeigten Angebote wurden anhand verfügbarer offizieller Informationen geprüft. Bedingungen, Verfügbarkeit und Teilnahmeberechtigung können je nach Land und Konto abweichen. Lies vor der Aktivierung die vollständigen Bedingungen." -}}
-  {{- $emptyTitle = "Noch keine geprüften Nomini-Promocodes gelistet" -}}
-  {{- $emptyIntro = "Codes und Beträge aus einem früheren Entwurf wurden nicht durch aktuelle Nomini-Bedingungen bestätigt und werden deshalb nicht angezeigt. Prüfe aktuelle Aktionen und ihre Bedingungen auf der offiziellen Nomini-Website." -}}
-  {{- $label = "GEPRÜFTES ANGEBOT" -}}
+  {{- $title = "Nomini-Promocodes" -}}
+  {{- $intro = "Die folgenden Codes wurden für diesen Leitfaden bereitgestellt. Ihre aktuelle Gültigkeit, der Angebotswert und die Teilnahmeberechtigung wurden nicht unabhängig bestätigt. Prüfe die Bedingungen und den Code auf der offiziellen Nomini-Website, bevor du eine Einzahlung tätigst." -}}
+  {{- $verifiedLabel = "GEPRÜFTES ANGEBOT" -}}
+  {{- $ownerLabel = "BEREITGESTELLTER CODE — NICHT GEPRÜFT" -}}
   {{- $copy = "Code kopieren" -}}
   {{- $copied = "Kopiert" -}}
   {{- $copyFail = "Manuell kopieren" -}}
-  {{- $note = "Dies ist ein unabhängiger Informationsleitfaden. Er gibt keine Promocodes aus, nimmt keine Einzahlungen an und garantiert nicht, dass ein Angebot für dein Konto verfügbar ist." -}}
+  {{- $note = "Dies ist ein unabhängiger Informationsleitfaden. Er gibt keine Promocodes aus, nimmt keine Einzahlungen an und garantiert nicht, dass ein Code für dein Konto aktiv ist." -}}
   {{- $guide = "Bonus-Leitfaden lesen" -}}
 {{- else if eq $lang "pl" -}}
-  {{- $title = "Zweryfikowane promocje Nomini" -}}
-  {{- $intro = "Widoczne tutaj oferty sprawdzono na podstawie dostępnych informacji z oficjalnych źródeł. Warunki, dostępność i uprawnienia mogą zależeć od kraju i konta. Przed aktywacją przeczytaj pełny regulamin." -}}
-  {{- $emptyTitle = "Nie ma jeszcze zweryfikowanych kodów promocyjnych Nomini" -}}
-  {{- $emptyIntro = "Kody i kwoty przeniesione ze starszego projektu nie zostały potwierdzone w aktualnych warunkach Nomini, dlatego nie są wyświetlane. Sprawdź aktualne promocje i ich regulaminy na oficjalnej stronie Nomini." -}}
-  {{- $label = "ZWERYFIKOWANA OFERTA" -}}
+  {{- $title = "Kody promocyjne Nomini" -}}
+  {{- $intro = "Poniższe kody zostały przekazane na potrzeby tego przewodnika. Ich aktualna ważność, wartość oferty i uprawnienia nie zostały niezależnie potwierdzone. Przed wpłatą sprawdź warunki i kod na oficjalnej stronie Nomini." -}}
+  {{- $verifiedLabel = "ZWERYFIKOWANA OFERTA" -}}
+  {{- $ownerLabel = "PRZEKAZANY KOD — NIEZWERYFIKOWANY" -}}
   {{- $copy = "Kopiuj kod" -}}
   {{- $copied = "Skopiowano" -}}
   {{- $copyFail = "Skopiuj ręcznie" -}}
-  {{- $note = "To niezależny przewodnik informacyjny. Nie wydaje kodów, nie przyjmuje depozytów i nie gwarantuje dostępności oferty na Twoim koncie." -}}
+  {{- $note = "To niezależny przewodnik informacyjny. Nie wydaje kodów, nie przyjmuje depozytów i nie gwarantuje, że kod jest aktywny na Twoim koncie." -}}
   {{- $guide = "Przeczytaj poradnik bonusów" -}}
 {{- else if eq $lang "es" -}}
-  {{- $title = "Promociones de Nomini verificadas" -}}
-  {{- $intro = "Las ofertas que aparecen aquí se han contrastado con la información oficial disponible. Las condiciones, la disponibilidad y los requisitos pueden variar según el país y la cuenta. Lee las condiciones completas antes de activarlas." -}}
-  {{- $emptyTitle = "Todavía no hay códigos promocionales de Nomini verificados" -}}
-  {{- $emptyIntro = "Los códigos e importes heredados de un borrador anterior no se han confirmado en las condiciones actuales de Nomini y, por eso, no se muestran. Consulta las promociones actuales y sus condiciones en el sitio oficial de Nomini." -}}
-  {{- $label = "OFERTA VERIFICADA" -}}
+  {{- $title = "Códigos promocionales de Nomini" -}}
+  {{- $intro = "Los siguientes códigos se han facilitado para esta guía. Su validez actual, el valor de la oferta y los requisitos no se han confirmado de forma independiente. Antes de depositar, comprueba las condiciones y el código en el sitio oficial de Nomini." -}}
+  {{- $verifiedLabel = "OFERTA VERIFICADA" -}}
+  {{- $ownerLabel = "CÓDIGO FACILITADO — NO VERIFICADO" -}}
   {{- $copy = "Copiar código" -}}
   {{- $copied = "Copiado" -}}
   {{- $copyFail = "Copiar manualmente" -}}
-  {{- $note = "Esta es una guía informativa independiente. No emite códigos, no acepta depósitos ni garantiza que una oferta esté disponible para tu cuenta." -}}
+  {{- $note = "Esta es una guía informativa independiente. No emite códigos, no acepta depósitos ni garantiza que un código esté activo para tu cuenta." -}}
   {{- $guide = "Leer la guía de bonos" -}}
 {{- else if eq $lang "pt" -}}
-  {{- $title = "Promoções da Nomini verificadas" -}}
-  {{- $intro = "As ofertas aqui apresentadas foram verificadas com base nas informações oficiais disponíveis. As condições, a disponibilidade e os requisitos podem variar consoante o país e a conta. Leia as condições completas antes de ativar." -}}
-  {{- $emptyTitle = "Ainda não existem códigos promocionais da Nomini verificados" -}}
-  {{- $emptyIntro = "Os códigos e valores herdados de uma versão anterior não foram confirmados nas condições atuais da Nomini e, por isso, não são apresentados. Consulte as promoções atuais e as respetivas condições no site oficial da Nomini." -}}
-  {{- $label = "OFERTA VERIFICADA" -}}
+  {{- $title = "Códigos promocionais da Nomini" -}}
+  {{- $intro = "Os códigos seguintes foram fornecidos para este guia. A validade atual, o valor da oferta e os requisitos não foram confirmados de forma independente. Antes de depositar, verifique as condições e o código no site oficial da Nomini." -}}
+  {{- $verifiedLabel = "OFERTA VERIFICADA" -}}
+  {{- $ownerLabel = "CÓDIGO FORNECIDO — NÃO VERIFICADO" -}}
   {{- $copy = "Copiar código" -}}
   {{- $copied = "Copiado" -}}
   {{- $copyFail = "Copiar manualmente" -}}
-  {{- $note = "Este é um guia informativo independente. Não emite códigos, não aceita depósitos nem garante que uma oferta esteja disponível para a sua conta." -}}
+  {{- $note = "Este é um guia informativo independente. Não emite códigos, não aceita depósitos nem garante que um código esteja ativo para a sua conta." -}}
   {{- $guide = "Ler o guia de bónus" -}}
 {{- else if eq $lang "ja" -}}
-  {{- $title = "Nominiの確認済みプロモーション" -}}
-  {{- $intro = "ここに表示されるオファーは、入手可能な公式情報に基づいて確認されています。条件、利用可否、対象資格は国やアカウントによって異なります。利用前に規約全文を確認してください。" -}}
-  {{- $emptyTitle = "確認済みのNominiプロモーションコードはまだありません" -}}
-  {{- $emptyIntro = "以前の草案から引き継いだコードや金額は、Nominiの最新規約で確認できていないため表示していません。最新のキャンペーンと条件はNomini公式サイトで確認してください。" -}}
-  {{- $label = "確認済みオファー" -}}
+  {{- $title = "Nominiプロモーションコード" -}}
+  {{- $intro = "以下のコードは、このガイド向けに提供されたものです。現在の有効性、特典内容、利用条件は独立して確認されていません。入金前にNomini公式サイトで条件とコードの利用可否を確認してください。" -}}
+  {{- $verifiedLabel = "確認済みオファー" -}}
+  {{- $ownerLabel = "提供されたコード — 未確認" -}}
   {{- $copy = "コードをコピー" -}}
   {{- $copied = "コピーしました" -}}
   {{- $copyFail = "手動でコピー" -}}
   {{- $note = "このサイトは独立した情報ガイドです。コードの発行、入金の受付、アカウントでの利用可否の保証は行っていません。" -}}
   {{- $guide = "ボーナスガイドを読む" -}}
 {{- end -}}
-{{- if gt (len $verifiedBonuses) 0 -}}
+{{- if gt (len $displayBonuses) 0 -}}
 <section class="promo-codes-section" aria-labelledby="promo-codes-title">
   <div class="container mx-auto px-4">
     <div class="promo-codes-panel">
       <div class="promo-codes-heading">
-        <span class="promo-codes-eyebrow">{{ $label }}</span>
+        <span class="promo-codes-eyebrow">{{ $title }}</span>
         <h2 id="promo-codes-title">{{ $title }}</h2>
         <p>{{ $intro }}</p>
       </div>
       <div class="promo-codes-grid">
-        {{ range $verifiedBonuses }}
+        {{ range $displayBonuses }}
           <article class="promo-code-card">
-            <div class="promo-code-card-top"><span class="promo-code-tag">{{ $label }}</span><span class="promo-code-spark" aria-hidden="true">✦</span></div>
-            <div class="promo-code-offer">{{ .amount }}</div>
+            <div class="promo-code-card-top">
+              {{ if eq .status "verified" }}
+                <span class="promo-code-tag">{{ $verifiedLabel }}</span>
+              {{ else }}
+                <span class="promo-code-tag">{{ $ownerLabel }}</span>
+              {{ end }}
+              <span class="promo-code-spark" aria-hidden="true">✦</span>
+            </div>
+            {{ with .amount }}<div class="promo-code-offer">{{ . }}</div>{{ end }}
             <code class="promo-code-value">{{ .code }}</code>
             <button class="promo-code-copy" type="button" data-copy-code="{{ .code }}" data-copy-label="{{ $copy }}" data-copied-label="{{ $copied }}" data-copy-fail-label="{{ $copyFail }}">{{ $copy }}</button>
             <span class="promo-code-status" role="status" aria-live="polite"></span>
           </article>
         {{ end }}
-      </div>
-      <p class="promo-codes-note">{{ $note }}</p>
-      <a class="promo-codes-guide" href="{{ "bonuses/" | relLangURL }}">{{ $guide }} <span aria-hidden="true">→</span></a>
-    </div>
-  </div>
-</section>
-{{- else -}}
-<section class="promo-codes-section" aria-labelledby="promo-codes-title">
-  <div class="container mx-auto px-4">
-    <div class="promo-codes-panel">
-      <div class="promo-codes-heading">
-        <span class="promo-codes-eyebrow">{{ $label }}</span>
-        <h2 id="promo-codes-title">{{ $emptyTitle }}</h2>
-        <p>{{ $emptyIntro }}</p>
       </div>
       <p class="promo-codes-note">{{ $note }}</p>
       <a class="promo-codes-guide" href="{{ "bonuses/" | relLangURL }}">{{ $guide }} <span aria-hidden="true">→</span></a>
