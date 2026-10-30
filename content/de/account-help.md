@@ -2,7 +2,7 @@
 title: Konto, Registrierung, Login und häufige Fragen
 description: 'Hinweise zu Kontoerstellung, Anmeldung, Verifizierung, Datenschutz und sicherem Kontozugriff.'
 type: page
-seo_title: Konto, Registrierung, Login und häufige Fragen | Instant Casino
+seo_title: Konto, Registrierung, Login und häufige Fragen | Nomini
 lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
@@ -30,11 +30,11 @@ screenshots_note: 'Illustrative redaktionelle Grafik, kein echter Screenshot ein
 
 Dieser Leitfaden bündelt vorhandene Informationen nach Themen, damit wichtige Regeln und Einschränkungen leichter vergleichbar sind. Spielregeln, RTP-Werte, Bonusbedingungen, Zahlungsoptionen und rechtliche Verfügbarkeit können sich je nach Version, Betreiber und Land ändern. Prüfe die Angaben direkt in der aktuell angebotenen Version.
 
-## Instant Casino Registrierung — Anleitung & KYC
+## Nomini Registrierung — Anleitung & KYC
 
-## Instant Casino Registrierung — vom ersten Klick zum eigenen Konto
+## Nomini Registrierung — vom ersten Klick zum eigenen Konto
 
-Neu bei Instant Casino? Gut. Die Registrierung ist in wenigen Minuten erledigt, und diese Anleitung führt Sie durch jeden Schritt — von der Anmeldung bis zur Verifizierung, die vor der ersten Auszahlung fällig wird.
+Neu bei Nomini? Gut. Die Registrierung ist in wenigen Minuten erledigt, und diese Anleitung führt Sie durch jeden Schritt — von der Anmeldung bis zur Verifizierung, die vor der ersten Auszahlung fällig wird.
 
 ## Schritt für Schritt: So erstellen Sie Ihr Konto
 
@@ -68,7 +68,7 @@ Halten Sie die Dokumente also bereit, wenn Sie einzahlen. Dann verzögert sich d
 
 ## Mit Bonus starten?
 
-Derzeit haben wir keine aktuellen offiziellen Aktionsbedingungen verifiziert, die ein konkretes Willkommensangebot von Instant Casino bestätigen. Deshalb nennen wir hier keine Bonusbeträge, Freispiele oder Aktionscodes als verfügbar. Falls dir im offiziellen Konto eine Aktion angezeigt wird, prüfe vor der Aktivierung die vollständigen Bedingungen. Unser [Leitfaden zu Bonusbedingungen]({{< relref "bonuses" >}}) erklärt, worauf du dabei achten solltest.
+Derzeit haben wir keine aktuellen offiziellen Aktionsbedingungen verifiziert, die ein konkretes Willkommensangebot von Nomini bestätigen. Deshalb nennen wir hier keine Bonusbeträge, Freispiele oder Aktionscodes als verfügbar. Falls dir im offiziellen Konto eine Aktion angezeigt wird, prüfe vor der Aktivierung die vollständigen Bedingungen. Unser [Leitfaden zu Bonusbedingungen]({{< relref "bonuses" >}}) erklärt, worauf du dabei achten solltest.
 
 ## Nach der Registrierung: der erste Login
 
@@ -83,7 +83,7 @@ Sobald die E-Mail bestätigt ist, melden Sie sich jederzeit mit E-Mail und Passw
 
 ## Fazit
 
-Registrieren, bestätigen, verifizieren: Drei Schritte trennen Sie vom Spielen bei Instant Casino. Planen Sie für die KYC-Prüfung kurz Zeit ein und halten Sie Ihre Dokumente bereit — dann steht der ersten Auszahlung später nichts im Weg.
+Registrieren, bestätigen, verifizieren: Drei Schritte trennen Sie vom Spielen bei Nomini. Planen Sie für die KYC-Prüfung kurz Zeit ein und halten Sie Ihre Dokumente bereit — dann steht der ersten Auszahlung später nichts im Weg.
 
 ---
 
@@ -130,15 +130,15 @@ Erstelle keine zusätzlichen Konten, um Beschränkungen zu umgehen. Wenn eine Pr
 
 ---
 
-## Instant Casino Login — Sichere Anmeldung Schritt für Schritt
+## Nomini Login — Sichere Anmeldung Schritt für Schritt
 
-## Instant Casino Login — sicher und in unter einer Minute erledigt
+## Nomini Login — sicher und in unter einer Minute erledigt
 
 Eigentlich ist nichts einfacher als der Login: E-Mail, Passwort, fertig. Aber gerade beim Zugang zum Spielerkonto lohnt es sich, zwei Dinge ernst zu nehmen — die eigene Sicherheit und die Signale, die ein Konto verrät. Beides erklären wir hier.
 
 ## So melden Sie sich an
 
-1. Die offizielle Website von Instant Casino öffnen — am besten mit einem gespeicherten Lesezeichen
+1. Die offizielle Website von Nomini öffnen — am besten mit einem gespeicherten Lesezeichen
 2. Oben rechts auf **Einloggen** klicken
 3. E-Mail-Adresse und Passwort eingeben
 4. Bei aktivierter Zwei-Faktor-Authentifizierung den Code aus Ihrer App eingeben
@@ -167,7 +167,7 @@ Ein Casino-Konto enthält echtes Geld und persönliche Daten. Diese fünf Maßna
 
 ## Fazit
 
-Der Instant Casino Login ist bewusst schlank gehalten — der eigentliche Schutz entsteht durch Ihre Einstellungen: starkes Passwort, Zwei-Faktor-Authentifizierung und ein wachsames Auge auf Login-Benachrichtigungen. Damit bleibt der Zugang Ihrer, und nur Ihrer.
+Der Nomini Login ist bewusst schlank gehalten — der eigentliche Schutz entsteht durch Ihre Einstellungen: starkes Passwort, Zwei-Faktor-Authentifizierung und ein wachsames Auge auf Login-Benachrichtigungen. Damit bleibt der Zugang Ihrer, und nur Ihrer.
 
 ---
 
@@ -215,7 +215,7 @@ Teile weder Passwort noch Bestätigungscode mit dem Support oder anderen Persone
 
 ---
 
-## FAQ — Häufige Fragen zu Instant Casino
+## FAQ — Häufige Fragen zu Nomini
 
 ## Fragen, die häufig auftauchen
 
@@ -252,7 +252,7 @@ Kreditkarten (Visa, Mastercard), E-Wallets (Skrill, Neteller), Paysafecard, Kryp
 Das hängt von der Methode ab: E-Wallets meist am selben Tag, Karten und Überweisung ein bis drei Werktage. Vor der ersten Auszahlung ist die Verifizierung nötig.
 
 **Was ist die Mindesteinzahlung?**
-Die [offizielle FAQ von Instant Casino](https://www.instantcasino.com/de/faq) nennt derzeit 20 €. Der tatsächlich geltende Mindestbetrag kann je nach Zahlungsmethode und Konto abweichen. Maßgeblich ist deshalb der Betrag, der im Kassenbereich für die gewählte Methode angezeigt wird.
+Dieser Leitfaden nennt keinen pauschalen Mindestbetrag. Der im offiziellen Kassenbereich angezeigte Betrag ist vor der Einzahlung für die jeweilige Zahlungsmethode und das Konto zu prüfen.
 
 ### Login & Technik
 
@@ -264,8 +264,8 @@ Eine separate App ist nicht nötig: Die Website ist für Smartphone und Tablet o
 
 ### Sicherheit & Fairness
 
-**Ist Instant Casino lizenziert?**
-Eine Lizenz sollte erst dann als bestätigt gelten, wenn Betreibername, Lizenznummer, zuständige Behörde und der Eintrag in einem offiziellen Register zur konkreten Marke passen. Die früheren Angaben zu Instant Casino belegen keine Lizenz von Instant Casino. Solange eine passende Primärquelle nicht geprüft wurde, können wir den Lizenzstatus hier nicht verlässlich bestätigen. Prüfe die Angaben direkt bei der zuständigen Aufsichtsbehörde und in den aktuellen rechtlichen Informationen des Betreibers.
+**Ist Nomini lizenziert?**
+Eine Lizenz sollte erst dann als bestätigt gelten, wenn Betreibername, Lizenznummer, zuständige Behörde und der Eintrag in einem offiziellen Register zur konkreten Marke passen. Die früheren Angaben zu Nomini belegen keine Lizenz von Nomini. Solange eine passende Primärquelle nicht geprüft wurde, können wir den Lizenzstatus hier nicht verlässlich bestätigen. Prüfe die Angaben direkt bei der zuständigen Aufsichtsbehörde und in den aktuellen rechtlichen Informationen des Betreibers.
 
 **Woran erkenne ich faire Bonusbedingungen?**
 An klaren Angaben zu Umsatzfaktor, Laufzeit und Spielbeiträgen — am besten schwarz auf weiß in den Bonusbedingungen, nicht nur im Werbetext.
@@ -327,20 +327,20 @@ Die häufigsten Themen sind Kontoregistrierung, Verifizierung, Bonusbedingungen,
 
 | Frage | Kurzantwort | Detail |
 | --- | --- | --- |
-| [Wie registriere ich mich bei Instant Casino?]({{< relref "account-help" >}}) | Öffne die offizielle Website, wähle „Registrieren“ und fülle die geforderten Angaben wahrheitsgemäß aus. Bestätige deine E-Mail oder andere verlangte Kontaktangaben und schließe eine Identitätsprüfung ab, falls sie… | [Details]({{< relref "account-help" >}}) |
+| [Wie registriere ich mich bei Nomini?]({{< relref "account-help" >}}) | Öffne die offizielle Website, wähle „Registrieren“ und fülle die geforderten Angaben wahrheitsgemäß aus. Bestätige deine E-Mail oder andere verlangte Kontaktangaben und schließe eine Identitätsprüfung ab, falls sie… | [Details]({{< relref "account-help" >}}) |
 | [Ist aktuell ein Willkommensbonus bestätigt?]({{< relref "account-help" >}}) | Derzeit haben wir kein konkretes Willkommensangebot anhand aktueller offizieller Aktionsbedingungen verifiziert. Frühere FAQ- oder Katalogangaben belegen nicht, dass ein Angebot noch verfügbar ist. Prüfe die vollständigen Bedingungen direkt im offiziellen Konto oder auf der Angebotsseite. | [Details]({{< relref "account-help" >}}) |
 | [Wie lasse ich mir Gewinne auszahlen?]({{< relref "account-help" >}}) | Öffne den Kassenbereich und wähle die dort für dein Konto verfügbaren Auszahlungsoptionen. Gib Betrag und erforderliche Angaben ein und kontrolliere die Zusammenfassung, bevor du bestätigst. Die im Katalog genannten… | [Details]({{< relref "account-help" >}}) |
 | [Gibt es eine mobile App?]({{< relref "account-help" >}}) | Der in diesem Projekt gespeicherte Datensatz enthält keine bestätigte App-Download-URL. Die responsive Website kann auf einem Smartphone im Browser geöffnet werden. Lade keine vermeintliche App von einer Drittseite… | [Details]({{< relref "account-help" >}}) |
 | [Wie wird die Fairness von Slots geprüft?]({{< relref "account-help" >}}) | Bei regulierten Spielen werden Zufallszahlengeneratoren und Spielparameter üblicherweise anhand einschlägiger Prüf- und Zertifizierungsverfahren kontrolliert. Daraus folgt nicht, dass ein einzelnes Spiel oder eine… | [Details]({{< relref "account-help" >}}) |
 | [Was tun, wenn ein Spiel einfriert?]({{< relref "account-help" >}}) | Wenn ein Spiel nicht reagiert, notiere zunächst Uhrzeit und Fehlermeldung. Aktualisiere die Seite nicht mehrfach hintereinander, solange eine Runde oder Transaktion offenbar läuft. Prüfe danach den Spielverlauf und… | [Details]({{< relref "account-help" >}}) |
-| [Ist dieses Projekt selbst ein Casino?]({{< relref "account-help" >}}) | Nein. Instant Casino wird auf dieser Website redaktionell beschrieben; diese Website ist ein Informations- und Vergleichsportal und führt selbst keine Casinospiele oder Spielerkonten. Für Konten, Einzahlungen,… | [Details]({{< relref "account-help" >}}) |
+| [Ist dieses Projekt selbst ein Casino?]({{< relref "account-help" >}}) | Nein. Nomini wird auf dieser Website redaktionell beschrieben; diese Website ist ein Informations- und Vergleichsportal und führt selbst keine Casinospiele oder Spielerkonten. Für Konten, Einzahlungen,… | [Details]({{< relref "account-help" >}}) |
 | [Wie funktioniert das Affiliate-Modell?]({{< relref "account-help" >}}) | Wenn du über einen gekennzeichneten Partnerlink eine Aktion durchführst, kann das Portal eine Provision erhalten. Die Kennzeichnung soll Lesern helfen, den kommerziellen Zusammenhang zu erkennen. | [Details]({{< relref "account-help" >}}) |
 
 ### Betreiber und Lizenz
 
-Laut der offiziellen Datenschutzseite ist der Betreiber GALAKTIKA N.V., Scharlooweg 39, Willemstad, Curaçao, Registernummer 140803. Dort wird die Lizenz der Curaçao Gaming Authority mit der Nummer OGL/2024/169/0146 und Ausstellungsdatum 28. Oktober 2024 genannt. Die offiziellen Betreiberangaben stehen auf der Website des Anbieters; dieses Projekt selbst ist ein Informations- und Vergleichsangebot.
+Die [offiziellen Allgemeinen Geschäftsbedingungen von Nomini](https://nomini.com/en/rules), Version 1.12 (zuletzt aktualisiert am 19. August 2026), definieren „Unternehmen“ allgemein als das Unternehmen, das die Website betreibt. Der geprüfte Regeltext nennt jedoch weder den eingetragenen Firmennamen noch eine Lizenzreferenz. Ohne passende aktuelle Primärquelle veröffentlichen wir keinen Betreibernamen, keine Anschrift und keine Lizenznummer.
 
-Quelle: [offizielle Datenschutzseite von Instant Casino]({{< relref "legal" >}}).
+Quelle: [Offizielle Allgemeine Geschäftsbedingungen von Nomini](https://nomini.com/en/rules).
 
 Bei Fragen zum eigenen Konto, zu Auszahlungen oder zur Bonusaktivierung ist der offizielle Betreiber-Support zuständig. Bei einer redaktionellen Korrektur nenne die URL und die konkrete Textstelle. Teile niemals Passwort, Einmalcode oder vollständige Kartenangaben.
 
@@ -428,7 +428,7 @@ Spiele nur mit einem festen Budget und nur, wenn Glücksspiel für dich legal is
 
 ## Ist aktuell ein Willkommensbonus bestätigt?
 
-Derzeit haben wir keine aktuellen offiziellen Aktionsbedingungen verifiziert, die ein konkretes Willkommensangebot von Instant Casino bestätigen. Ältere FAQ- oder Katalogeinträge sind kein Nachweis dafür, dass ein Angebot heute verfügbar ist. Deshalb nennen wir hier keine bestätigten Bonusbeträge, Freispielzahlen, Aktionscodes oder Umsatzanforderungen. Prüfe eine im offiziellen Konto angezeigte Aktion anhand der vollständigen Bedingungen. Allgemeine Hinweise findest du in unserem [Leitfaden zu Bonusbedingungen]({{< relref "bonuses" >}}).
+Derzeit haben wir keine aktuellen offiziellen Aktionsbedingungen verifiziert, die ein konkretes Willkommensangebot von Nomini bestätigen. Ältere FAQ- oder Katalogeinträge sind kein Nachweis dafür, dass ein Angebot heute verfügbar ist. Deshalb nennen wir hier keine bestätigten Bonusbeträge, Freispielzahlen, Aktionscodes oder Umsatzanforderungen. Prüfe eine im offiziellen Konto angezeigte Aktion anhand der vollständigen Bedingungen. Allgemeine Hinweise findest du in unserem [Leitfaden zu Bonusbedingungen]({{< relref "bonuses" >}}).
 
 ### Antwort und nächste Schritte
 
@@ -454,21 +454,21 @@ Spiele nur mit einem festen Budget und nur, wenn Glücksspiel für dich legal is
 
 ## Ist dieses Projekt selbst ein Casino?
 
-Dieses Projekt ist ein redaktionelles Informations- und Vergleichsangebot und betreibt selbst keine Glücksspiele oder Spielerkonten. Der Casino-Betreiber wird in der offiziellen Datenschutzseite als GALAKTIKA N.V. bezeichnet.
+Die [offiziellen Allgemeinen Geschäftsbedingungen von Nomini](https://nomini.com/en/rules), Version 1.12 (zuletzt aktualisiert am 19. August 2026), definieren „Unternehmen“ allgemein als das Unternehmen, das die Website betreibt. Der geprüfte Regeltext nennt jedoch weder den eingetragenen Firmennamen noch eine Lizenzreferenz. Ohne passende aktuelle Primärquelle veröffentlichen wir keinen Betreibernamen, keine Anschrift und keine Lizenznummer.
 
 ### Operator details
 
-Laut der offiziellen Datenschutzseite ist der Betreiber GALAKTIKA N.V., Scharlooweg 39, Willemstad, Curaçao, Registernummer 140803. Dort wird die Lizenz der Curaçao Gaming Authority mit der Nummer OGL/2024/169/0146 und Ausstellungsdatum 28. Oktober 2024 genannt. Die offiziellen Betreiberangaben stehen auf der Website des Anbieters; dieses Projekt selbst ist ein Informations- und Vergleichsangebot.
+Die [offiziellen Allgemeinen Geschäftsbedingungen von Nomini](https://nomini.com/en/rules), Version 1.12 (zuletzt aktualisiert am 19. August 2026), definieren „Unternehmen“ allgemein als das Unternehmen, das die Website betreibt. Der geprüfte Regeltext nennt jedoch weder den eingetragenen Firmennamen noch eine Lizenzreferenz. Ohne passende aktuelle Primärquelle veröffentlichen wir keinen Betreibernamen, keine Anschrift und keine Lizenznummer.
 
-Source: [official Instant Casino privacy policy]({{< relref "legal" >}}).
+Quelle: [Offizielle Allgemeine Geschäftsbedingungen von Nomini](https://nomini.com/en/rules).
 
 For account-specific matters, contact the official operator support. This editorial website is separate from the operator and does not process deposits, withdrawals or player verification.
 
 ---
 
-## Wie registriere ich mich bei Instant Casino?
+## Wie registriere ich mich bei Nomini?
 
-## Wie registriere ich mich bei Instant Casino?
+## Wie registriere ich mich bei Nomini?
 
 Öffne die offizielle Website, wähle „Registrieren“ und fülle die geforderten Angaben wahrheitsgemäß aus. Bestätige deine E-Mail oder andere verlangte Kontaktangaben und schließe eine Identitätsprüfung ab, falls sie verlangt wird. Verwende nur Daten, die zu dir gehören.
 
