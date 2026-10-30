@@ -2,8 +2,8 @@
 title: 'Slot guide: themes, volatility and comparison'
 description: 'Learn how free spins, wilds, scatters, bonus rounds and other slot features work.'
 type: page
-seo_title: 'Slot guide: themes, volatility and comparison | Instant Casino'
-lastmod: '2026-10-28'
+seo_title: 'Slot guide: themes, volatility and comparison | Nomini Casino Guide'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
