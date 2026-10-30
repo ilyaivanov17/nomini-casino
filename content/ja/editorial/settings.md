@@ -4,25 +4,22 @@ type: site_settings
 build:
   render: never
   list: always
-brand: Instant Casino
-description: Instant Casinoに関する独立した情報：ゲームデータ、ボーナス条件、決済方法、責任ある利用の案内。
-author: Instant Casino編集チーム
+brand: Nomini
+description: 'Nomini Casinoに関する独立した情報：ゲームガイド、ボーナス条件、決済方法、責任あるギャンブル。'
+author: 独立編集チーム
 locale: ja-JP
 market_label: オンラインカジノ
 currency: EUR
-operator_name: Instant Casino カジノ
+operator_name: Nomini Casino
 affiliate_link: /go/bonus
 affiliate_cta: ボーナスを見る
 affiliate_cta_bonus: ボーナス条件を確認
 affiliate_cta_register: オファーを見る
-email: 'info@instant.com'
-phone: '+49 10 111 0253'
-address: 'Level 7, The Plaza Business Centre, Bisazza Street, Sliema, SLM 1640, Malta'
 year: 2026
 og_image: /images/hero-casino-neon.webp
 layout_variant: proof-first
 verification_status: pending
-contact_verification_required: false
+contact_verification_required: true
 menu:
 - name: ホーム
   pageRef: /
@@ -191,7 +188,7 @@ ui:
   editorial_by: 編集チーム
   last_updated: 最終更新
   public_profile: 公開プロフィール
-  author_profiles_pending: Instant Casinoの執筆者と公開されている職業プロフィールを紹介します。
+  author_profiles_pending: Nomini Casinoを取り上げる独立した執筆者をご紹介します。
   related_content: 関連記事
   related_content_title: 関連ページ
   related_bonuses: ボーナスと条件
@@ -260,7 +257,7 @@ ui:
   flexible_text: PC、タブレット、スマートフォンに合わせて表示を調整します。
   responsibility: 責任ある利用
   responsibility_text: 成人のみ。予算を決め、参加前に条件を確認してください。
-  final_label: Instant Casinoガイド
+  final_label: Nomini Casinoガイド
   final_title: 最新条件を確認しませんか？
   final_text: 現在のオファーページを開き、続行する前に適用条件を確認してください。
   to_offer: オファーを見る
@@ -273,9 +270,9 @@ ui:
   favorite: お気に入り
   hero_slide: メインバナー
   comparison: 比較
-seo_title: 編集方針と確認方法 | Instant Casino
+seo_title: 'Nomini Casino：独立した情報ガイド'
 verification_note: オファー、利用可否、決済方法、限度額は国・アカウント・提供元の最新表示によって異なる場合があります。取引前に適用条件を確認してください。
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
 ---
 
 ## 編集方針と確認方法
