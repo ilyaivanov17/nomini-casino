@@ -5,7 +5,13 @@ records:
   source_url: https://nomini.com/en/rules
   source_type: primary
   last_verified: '2026-10-30'
-  verification_note: 'Nomini official Terms and Conditions version 1.12 show a last update of 19 August 2026. Section 1.4 defines Company only as the company operating the Website; the terms page reviewed does not state a registered legal entity or licence reference. Do not reuse prior Instant Casino or Fiery Play legal details. Keep operator identity and licence status pending until current official disclosures and the relevant regulator register are independently checked.'
+  verification_note: 'Nomini official Terms and Conditions version 1.12 show a last update of 19 August 2026. Section 1.4 defines Company only as the company operating the Website; the terms page reviewed does not state a registered legal entity or licence reference. Publisher details restored from the previous website version (Instant Gaming plc, C59314, Level 7, The Plaza Business Centre, Sliema, and MGA/CRP/237/2013) are shown only as publisher-supplied details for this independent guide. They do not identify the Nomini casino operator and do not establish that the MGA licence applies to Nomini or this domain. Keep Nomini operator identity and licence status pending until current official disclosures and the relevant regulator register are independently checked.'
+- key: independent_guide_publisher
+  description: Publisher details and contact for the independent Nomini Casino Guide
+  source_url: ''
+  source_type: owner_supplied_legacy
+  last_verified: ''
+  verification_note: 'Publisher legal details restored from the prior version of this website at the site owner request. They are publisher details, not Nomini operator details. The contact email info@nomini.com was supplied by the site owner and is distinct from the customer-support email shown on Nomini official pages.'
 - key: welcome_offer
   description: Current Nomini welcome offer, wagering, minimum deposit and expiry
   source_url: https://nomini.com/en/promotions
