@@ -3,7 +3,7 @@ title: Jak rozumieć warunki bonusów kasynowych
 description: Praktyczny przewodnik po wymaganiach obrotu, terminach, udziale gier, limitach wypłat i zasadach wypłacania środków.
 type: page
 author: cristina-tudose
-seo_title: Warunki bonusów kasynowych – wyjaśnienie | Instant Casino
+seo_title: Warunki bonusów kasynowych – wyjaśnienie | Nomini Casino Guide
 lastmod: '2026-10-30'
 article_review_status: editorial-approved
 reviewed_by: Cristina Tudose
@@ -30,7 +30,7 @@ screenshots_note: 'Ilustracja redakcyjna, nie zrzut ekranu rzeczywistego interfe
 
 Bonus w wysokości 500 € może wyglądać atrakcyjniej niż 50 darmowych spinów. Sama reklamowana kwota nie wyjaśnia jednak, co trzeba zrobić, aby skorzystać z bonusu lub wypłacić wygraną. Sprawdź wymagania obrotu, gry uwzględniane w obrocie, termin ważności oraz zasady wypłat, zanim zaakceptujesz promocję.
 
-Najważniejsze szczegóły nie zawsze są widoczne obok reklamowanej kwoty. Przed przystąpieniem do promocji lub wpłatą przeczytaj pełny regulamin. Ten poradnik wyjaśnia typowe pojęcia; nie opisuje aktualnej oferty Instant Casino. Zawsze decydują warunki konkretnej promocji i przepisy właściwe dla danego kraju.
+Najważniejsze szczegóły nie zawsze są widoczne obok reklamowanej kwoty. Przed przystąpieniem do promocji lub wpłatą przeczytaj pełny regulamin. Ten poradnik wyjaśnia typowe pojęcia; nie opisuje aktualnej oferty Nomini. Zawsze decydują warunki konkretnej promocji i przepisy właściwe dla danego kraju.
 
 ## Co sprawdzić w pierwszej kolejności
 
@@ -167,4 +167,4 @@ BIÖG udostępnia informacje i poradnictwo, a OASIS umożliwia samowykluczenie n
 
 *Oficjalne źródła sprawdzono 30.10.2026. Przed zatwierdzeniem ponownie sprawdź linki, dane kontaktowe, godziny i informacje prawne.*
 
-*Informacja: Instant Casino może otrzymywać prowizję z odpowiednio oznaczonych linków afiliacyjnych.*
+*Informacja: ten niezależny przewodnik Nomini Casino może otrzymywać prowizję z odpowiednio oznaczonych linków afiliacyjnych.*
