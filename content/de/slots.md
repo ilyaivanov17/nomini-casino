@@ -2,8 +2,8 @@
 title: 'Slot-Leitfaden: Grundlagen und Spielprofile'
 description: 'Spielprofile mit Regeln, Funktionen und Kennzahlen ausgewählter Online-Slots.'
 type: page
-seo_title: 'Slot-Leitfaden: Grundlagen und Spielprofile | Instant Casino'
-lastmod: '2026-10-28'
+seo_title: 'Slot-Leitfaden: Grundlagen und Spielprofile | Nomini Casino Guide'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
