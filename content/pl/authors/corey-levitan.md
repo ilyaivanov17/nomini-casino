@@ -1,4 +1,5 @@
 ---
+
 title: Corey Levitan
 description: Corey Levitan opisuje rozrywkę, gastronomię i hazard w Las Vegas. Jego kariera obejmuje sześć lat pracy reporterskiej
   dla Las Vegas Review-Journal; w…
@@ -31,26 +32,26 @@ build:
 medium: https://corey-levitan-merklin.medium.com/
 ---
 
-## O Corey Levitan
+## Profil: Corey Levitan
 
 Corey Levitan opisuje rozrywkę, gastronomię i hazard w Las Vegas. Jego kariera obejmuje sześć lat pracy reporterskiej dla Las Vegas Review-Journal; w 2022 roku dołączył do Casino.org.
 
-### Specjalizacja
+### Obszar zawodowy
 
 Las Vegas, wiadomości o hazardzie, rozrywka i dziennikarstwo kasynowe
 
-### Wkład redakcyjny w Nomini Casino Guide
+### Jak odczytywać informacje o autorze
 
-W Nomini Casino Guide profil należy do pracy redakcyjnej dotyczącej informacji o kasynach, objaśnień gier i porównywania warunków ofert. Specjalizacja wyznacza sposób prezentacji: mechanika gier jest opisywana na podstawie dostępnych danych, bonusy porządkuje się według warunków, a metody płatności zestawia według limitów i podanego czasu realizacji.
+W projekcie Corey Levitan jest wymieniony jako **Dziennikarz i autor tekstów o kasynach**. Profil przedstawia deklarowany zakres działalności i pozwala lepiej zrozumieć tematykę materiałów. Nie potwierdza jednak, że autor osobiście testował każdą opisywaną grę, osiągnął określony wynik ani zatwierdził wszystkie publikowane teksty.
 
-### Jak korzystać z tego profilu
+### Kontekst redakcyjny
 
-Przy porównywaniu gier i ofert kasynowych znaczenie mają pełny regulamin, konkretna wersja gry oraz zasady widoczne na danym koncie. Porównania redakcyjne powinny oddzielać zapisane parametry od interpretacji i prowadzić do odpowiednich stron szczegółowych oraz źródeł pierwotnych. Profil opisuje obszar zawodowy, ale nie zastępuje sprawdzenia warunków konkretnej oferty.
+Zasady, funkcje i wartości RTP należy sprawdzać dla konkretnej wersji gry. Promocje wymagają analizy pełnych warunków, a dostępność płatności, limity i czas realizacji mogą różnić się zależnie od kraju oraz konta. Przy informacjach zmiennych pierwszeństwo mają aktualne źródła pierwotne.
 
 ### Publiczne profile zawodowe
 
-[LinkedIn](https://www.linkedin.com/in/coreylevitan) · [Medium](https://corey-levitan-merklin.medium.com/)
+[LinkedIn](https://www.linkedin.com/in/coreylevitan) · [Strona](https://corey-levitan-merklin.medium.com/)
 
-| Rola | Zakres | Profil publiczny | Specjalizacja |
-| --- | --- | --- | --- |
-| Dziennikarz i autor tekstów o kasynach | Las Vegas, wiadomości o hazardzie, rozrywka i dziennikarstwo kasynowe | [LinkedIn](https://www.linkedin.com/in/coreylevitan) · [Medium](https://corey-levitan-merklin.medium.com/) | Las Vegas, wiadomości o hazardzie, rozrywka i dziennikarstwo kasynowe |
+| Rola | Tematyka | Profil publiczny | Główna specjalizacja |
+|---|---|---|---|
+| Dziennikarz i autor tekstów o kasynach | Las Vegas, wiadomości o hazardzie, rozrywka i dziennikarstwo kasynowe | [LinkedIn](https://www.linkedin.com/in/coreylevitan) · [Strona](https://corey-levitan-merklin.medium.com/) | Las Vegas, wiadomości o hazardzie, rozrywka i dziennikarstwo kasynowe |
