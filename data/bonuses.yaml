@@ -1,6 +1,7 @@
-# Single source of truth for the three offers shown in promo-codes.html.
-# Values follow the order supplied by the site owner; confirm each code/offer pair
-# and add official source + expiry before marking any offer independently verified.
+# Legacy offer records retained from the previous project draft.
+# These codes and amounts are not verified for Nomini and must not be displayed publicly.
+# Set status: verified only after the exact code, market, amount, terms, source URL and expiry
+# have been checked against a current official Nomini promotion.
 - code: WELCOME
   amount: "€1,000 + €350"
   status: "owner_supplied_unverified"
