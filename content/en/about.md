@@ -1,9 +1,9 @@
 ---
-title: 'About Instant Casino: editorial team and methodology'
+title: 'About the Nomini Casino Guide: editorial method'
 description: 'Learn how our editorial process works, how sources are checked and who is responsible for the content.'
 type: page
-seo_title: 'About Instant Casino: editorial team and methodology | Instant Casino'
-lastmod: '2026-10-28'
+seo_title: 'About Nomini | Editorial method and team'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -25,7 +25,7 @@ screenshots:
 - /images/guides/casino-editorial.webp
 screenshots_note: 'Illustrative editorial artwork, not a screenshot of a real operator interface.'
 ---
-## About Instant Casino: editorial team and methodology
+## About Nomini Casino Guide: editorial team and methodology
 
 This guide groups existing information by topic so rules and limitations are easier to compare. Game rules, RTP figures, bonus terms, payment options and legal availability can vary by version, operator and country. Check details directly in the version currently offered.
 
@@ -33,16 +33,15 @@ This guide groups existing information by topic so rules and limitations are eas
 
 The material is editorial information. RTP figures, bonus terms, payment details and legal availability must be checked against current primary sources before publication. Author profiles preserve the project’s recorded details and do not imply that a contributor has reviewed or approved every merged text.
 
-## Contact the Instant Casino editorial team
+## Contact the Nomini Casino Guide editorial team
 
 ## Contact the editorial team
 
-**Instant Casino Editorial Team**
+**Nomini Casino Guide Editorial Team**
 
-- Email: [info@instant.com](mailto:info@instant.com)
-- Phone: [+49 10 111 0253](tel:+49101110253)
 
-Use these contact details for editorial corrections, source questions, broken links, accessibility issues and business enquiries. Include the page URL and the exact passage whenever possible.
+
+No verified public email or postal address has been supplied for this independent guide. For account, bonus, deposit or withdrawal matters, contact Nomini through its official website. Do not send passwords or full payment details to this guide.
 
 This is an information and comparison website, not a gambling operator. For casino account, deposit, withdrawal or bonus issues, contact the operator through its official support channel.
 
@@ -64,11 +63,11 @@ Never send passwords, recovery codes, full payment-card data or another person's
 
 ---
 
-## Editorial policy and comparison method | Instant Casino
+## Editorial policy and comparison method | Nomini Casino Guide
 
 # Editorial policy and comparison method
 
-This page explains how Instant Casino organises information about games, bonus offers, payment methods and common questions. The aim is a transparent comparison: promotional headlines are considered alongside the terms that actually affect a decision.
+This page explains how Nomini Casino Guide organises information about games, bonus offers, payment methods and common questions. The aim is a transparent comparison: promotional headlines are considered alongside the terms that actually affect a decision.
 
 ## What we compare
 
@@ -111,9 +110,9 @@ Arthur Mustoe is a UK-based freelance content writer specialising in iGaming and
 
 Casino and slot reviews, game rules, provider information and compliance-aware content
 
-### Editorial contribution at Instant Casino
+### Editorial contribution at Nomini Casino Guide
 
-At Instant Casino, this profile belongs to the editorial work covering casino information, game explainers and comparisons of offer terms. The subject area shapes the approach: game mechanics are explained through available game data, bonus details are structured by their conditions, and payment methods are compared using the listed limits and processing times.
+At Nomini Casino Guide, this profile belongs to the editorial work covering casino information, game explainers and comparisons of offer terms. The subject area shapes the approach: game mechanics are explained through available game data, bonus details are structured by their conditions, and payment methods are compared using the listed limits and processing times.
 
 ### How to use this profile
 
@@ -139,9 +138,9 @@ Corey Levitan covers entertainment, dining and gambling in Las Vegas. His career
 
 Las Vegas, gambling news, entertainment and casino journalism
 
-### Editorial contribution at Instant Casino
+### Editorial contribution at Nomini Casino Guide
 
-At Instant Casino, this profile belongs to the editorial work covering casino information, game explainers and comparisons of offer terms. The subject area shapes the approach: game mechanics are explained through available game data, bonus details are structured by their conditions, and payment methods are compared using the listed limits and processing times.
+At Nomini Casino Guide, this profile belongs to the editorial work covering casino information, game explainers and comparisons of offer terms. The subject area shapes the approach: game mechanics are explained through available game data, bonus details are structured by their conditions, and payment methods are compared using the listed limits and processing times.
 
 ### How to use this profile
 
@@ -167,9 +166,9 @@ Cristina Tudose is an English- and Romanian-speaking content writer and copywrit
 
 Multilingual iGaming content, casino reviews, bonuses, game descriptions and SEO
 
-### Editorial contribution at Instant Casino
+### Editorial contribution at Nomini Casino Guide
 
-At Instant Casino, this profile belongs to the editorial work covering casino information, game explainers and comparisons of offer terms. The subject area shapes the approach: game mechanics are explained through available game data, bonus details are structured by their conditions, and payment methods are compared using the listed limits and processing times.
+At Nomini Casino Guide, this profile belongs to the editorial work covering casino information, game explainers and comparisons of offer terms. The subject area shapes the approach: game mechanics are explained through available game data, bonus details are structured by their conditions, and payment methods are compared using the listed limits and processing times.
 
 ### How to use this profile
 
@@ -195,9 +194,9 @@ Dan Michalski is a long-time journalist and editor whose areas include gambling,
 
 Gambling industry, casino media, editorial analysis and technology
 
-### Editorial contribution at Instant Casino
+### Editorial contribution at Nomini Casino Guide
 
-At Instant Casino, this profile belongs to the editorial work covering casino information, game explainers and comparisons of offer terms. The subject area shapes the approach: game mechanics are explained through available game data, bonus details are structured by their conditions, and payment methods are compared using the listed limits and processing times.
+At Nomini Casino Guide, this profile belongs to the editorial work covering casino information, game explainers and comparisons of offer terms. The subject area shapes the approach: game mechanics are explained through available game data, bonus details are structured by their conditions, and payment methods are compared using the listed limits and processing times.
 
 ### How to use this profile
 
@@ -223,9 +222,9 @@ Dominic Field is a freelance iGaming writer with long-standing experience in gam
 
 Online casinos, slots, poker, sports betting and the iGaming industry
 
-### Editorial contribution at Instant Casino
+### Editorial contribution at Nomini Casino Guide
 
-At Instant Casino, this profile belongs to the editorial work covering casino information, game explainers and comparisons of offer terms. The subject area shapes the approach: game mechanics are explained through available game data, bonus details are structured by their conditions, and payment methods are compared using the listed limits and processing times.
+At Nomini Casino Guide, this profile belongs to the editorial work covering casino information, game explainers and comparisons of offer terms. The subject area shapes the approach: game mechanics are explained through available game data, bonus details are structured by their conditions, and payment methods are compared using the listed limits and processing times.
 
 ### How to use this profile
 
@@ -251,9 +250,9 @@ Jon Pill has worked as a freelance writer and gambling journalist since 2015. Hi
 
 Game strategy, poker rules, casino games and analysis of game mechanics
 
-### Editorial contribution at Instant Casino
+### Editorial contribution at Nomini Casino Guide
 
-At Instant Casino, this profile belongs to the editorial work covering casino information, game explainers and comparisons of offer terms. The subject area shapes the approach: game mechanics are explained through available game data, bonus details are structured by their conditions, and payment methods are compared using the listed limits and processing times.
+At Nomini Casino Guide, this profile belongs to the editorial work covering casino information, game explainers and comparisons of offer terms. The subject area shapes the approach: game mechanics are explained through available game data, bonus details are structured by their conditions, and payment methods are compared using the listed limits and processing times.
 
 ### How to use this profile
 
@@ -279,9 +278,9 @@ Marco Ibarra is a bilingual iGaming writer, editor and manager. His areas of foc
 
 Online casinos, slot reviews, bonus analysis and SEO-focused editing
 
-### Editorial contribution at Instant Casino
+### Editorial contribution at Nomini Casino Guide
 
-At Instant Casino, this profile belongs to the editorial work covering casino information, game explainers and comparisons of offer terms. The subject area shapes the approach: game mechanics are explained through available game data, bonus details are structured by their conditions, and payment methods are compared using the listed limits and processing times.
+At Nomini Casino Guide, this profile belongs to the editorial work covering casino information, game explainers and comparisons of offer terms. The subject area shapes the approach: game mechanics are explained through available game data, bonus details are structured by their conditions, and payment methods are compared using the listed limits and processing times.
 
 ### How to use this profile
 
