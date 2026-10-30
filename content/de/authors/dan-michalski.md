@@ -3,13 +3,13 @@ medium: https://medium.com/@Michalski_Dan
 title: Dan Michalski
 description: Dan Michalski ist ein langjähriger Journalist und Redakteur mit Schwerpunkten Glücksspiel, Casinos, Medien und
   Technologie. In öffentlichen…
-seo_title: Dan Michalski – Leitender Redakteur und Journalist | Instant Casino
+seo_title: Dan Michalski – Leitender Redakteur und Journalist | Nomini Casino Guide
 type: author
 slug: dan-michalski
 aliases:
 - /authors/author-2/
 date: '2026-09-27'
-lastmod: '2026-10-17'
+lastmod: '2026-10-30'
 author_id: author-2
 role: Leitender Redakteur und Journalist
 photo: images/Dan_Michalski.jpg
@@ -39,9 +39,9 @@ Dan Michalski ist ein langjähriger Journalist und Redakteur mit Schwerpunkten G
 
 Glücksspielbranche, Casino-Medien, redaktionelle Einordnung und Technologie
 
-### Redaktioneller Beitrag bei Instant Casino
+### Redaktioneller Beitrag bei Nomini Casino Guide
 
-Bei Instant Casino arbeitet das Profil im thematischen Umfeld von Casino-Informationen, Spielbeschreibungen und dem Vergleich von Angebotsbedingungen. Die Einordnung der Inhalte folgt dem jeweiligen Fachgebiet: Spielmechaniken werden anhand der verfügbaren Spieldaten erklärt, Bonusangaben nach Bedingungen strukturiert und Zahlungsmethoden anhand der hinterlegten Limits und Zeitangaben verglichen.
+Bei Nomini Casino Guide arbeitet das Profil im thematischen Umfeld von Casino-Informationen, Spielbeschreibungen und dem Vergleich von Angebotsbedingungen. Die Einordnung der Inhalte folgt dem jeweiligen Fachgebiet: Spielmechaniken werden anhand der verfügbaren Spieldaten erklärt, Bonusangaben nach Bedingungen strukturiert und Zahlungsmethoden anhand der hinterlegten Limits und Zeitangaben verglichen.
 
 ### So ist das Profil einzuordnen
 
