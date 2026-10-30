@@ -27,6 +27,8 @@ Dieser Leitfaden bündelt vorhandene Informationen nach Themen, damit wichtige R
 
 Der Nomini Casino Guide ist ein unabhängiges Informations- und Vergleichsangebot über Nomini. Er ist weder die offizielle Nomini-Website noch wird er vom Casino betrieben. Diese Datenschutzhinweise beschreiben mögliche Datenverarbeitungen beim Besuch dieses Informationsangebots. Die tatsächlichen technischen Abläufe hängen von der eingesetzten Hosting- und E-Mail-Infrastruktur ab.
 
+Für Datenschutz- und redaktionelle Anfragen zu diesem Guide erreichst du uns unter [info@nomini.com](mailto:info@nomini.com).
+
 
 
 ## 2. Technische Zugriffsdaten
@@ -137,12 +139,24 @@ Links zu externen Websites werden als weiterführende Quellen oder Angebote bere
 
 Texte, Bilder und sonstige Inhalte unterliegen den jeweils anwendbaren Schutzrechten. Eine Nutzung außerhalb der gesetzlich erlaubten Grenzen bedarf der Zustimmung der zuständigen Rechteinhaber.
 
-## Angaben zum Herausgeber und zu Nomini
+## Vom Herausgeber bereitgestellte Angaben
 
-Die rechtliche Identität und die eingetragene Anschrift des Herausgebers dieses unabhängigen Informationsangebots wurden noch nicht verifiziert und werden deshalb hier nicht angegeben. Diese Website ist ein unabhängiges Informationsangebot, nicht die offizielle Nomini-Website und nicht der Casino-Betreiber.
+Der Herausgeber hat für dieses unabhängige Informationsangebot die folgenden Unternehmensangaben bereitgestellt:
 
-Die [offiziellen Allgemeinen Geschäftsbedingungen von Nomini](https://nomini.com/en/rules), Version 1.12, nennen als letztes Aktualisierungsdatum den 19. August 2026. Im geprüften Text wird „Unternehmen“ allgemein als das Unternehmen definiert, das die Website betreibt; ein eingetragener Firmenname oder eine Unternehmensnummer wird auf dieser Seite nicht genannt. Deshalb veröffentlicht dieser Guide keine ungeprüfte Unternehmensidentität und keine ungeprüfte Lizenzreferenz. Maßgeblich sind die aktuellen offiziellen Bedingungen und die für den jeweiligen Markt zuständigen Aufsichtsbehörden.
+- **Eingetragener Firmenname:** Instant Gaming plc
+- **Handelsregisternummer:** C59314
+- **Eingetragene Anschrift:** Level 7, The Plaza Business Centre, Bisazza Street, Sliema, SLM 1640, Malta
+- **In den vom Herausgeber bereitgestellten Angaben genannte Glücksspielaufsicht:** [Malta Gaming Authority (MGA)](https://www.mga.org.mt/licensee-hub/licensee-register/)
+- **Angegebene Lizenzreferenz:** MGA/CRP/237/2013
+- **Angegebener Lizenztyp und ursprüngliches Ausstellungsdatum:** B2C Gaming Service Licence; 1. August 2018
+- **Angegebener Website- und Redaktionskontakt:** [info@nomini.com](mailto:info@nomini.com)
 
-Bei Fragen zu Konto, Einzahlung, Auszahlung oder Bonus wende dich über die offizielle Website an Nomini. Dieses Informationsangebot nimmt keine Einsätze an, führt keine Spielerkonten und verarbeitet keine Transaktionen.
+Diese Angaben wurden aus den zuvor für die Website bereitgestellten Herausgeberinformationen wieder aufgenommen. Sie bezeichnen den Herausgeber dieses Informationsangebots; sie **bezeichnen nicht** den Betreiber von Nomini Casino und belegen nicht, dass die genannte MGA-Lizenz für Nomini oder diese Domain gilt.
+
+Das [offizielle Lizenzregister der MGA](https://www.mga.org.mt/licensee-hub/licensee-register/) ist die maßgebliche Stelle, um den aktuellen Lizenzinhaber, genehmigte Tätigkeiten und den Status zu prüfen. Unternehmensangaben lassen sich über das [Malta Business Registry](https://www.mbr.mt/) überprüfen. Diese Seite ist kein Live-Auszug aus einem Register; die angegebene Lizenzreferenz allein bestätigt weder eine derzeit aktive Lizenz noch deren Geltung für diese Website oder alle Märkte.
+
+Die [offiziellen Allgemeinen Geschäftsbedingungen von Nomini](https://nomini.com/en/rules), Version 1.12, wurden zuletzt am 19. August 2026 aktualisiert. Im geprüften Text wird der Betreiber allgemein als das Unternehmen beschrieben, das die Website betreibt; eine eingetragene juristische Person oder Unternehmensnummer wird nicht genannt. Die obigen Herausgeberangaben dürfen daher nicht als Angaben zum Betreiber von Nomini verstanden werden.
+
+Bei Fragen zu Nomini-Konto, Einzahlungen, Auszahlungen oder Boni nutze die Kontaktmöglichkeiten auf der [offiziellen Nomini-Website](https://nomini.com/en/about). Auf der offiziellen About-Seite wird support@nomini.com als Kundenservice-Adresse genannt. Dieses Informationsangebot nimmt keine Einsätze an, führt keine Spielerkonten und verarbeitet keine Transaktionen.
 
 **Stand: 30. Oktober 2026**
