@@ -41,7 +41,7 @@ El contenido es información editorial. Antes de publicar, los datos de RTP, bon
 
 
 
-Utiliza estos datos para enviar correcciones, preguntar por las fuentes, informar de enlaces rotos o problemas de accesibilidad y proponer colaboraciones. Siempre que puedas, incluye la URL y el fragmento exacto.
+Para correcciones editoriales, preguntas sobre fuentes, accesibilidad y consultas generales, escribe a [info@nomini.com](mailto:info@nomini.com). Para asuntos de cuenta, bonos, depósitos o retiradas, contacta con Nomini a través de su sitio oficial. No envíes contraseñas ni datos completos de pago a esta guía.
 
 Este sitio es un portal informativo y comparativo, no un operador de juego. Para asuntos de cuenta, depósitos, retiradas o bonos, contacta con el servicio oficial del operador correspondiente.
 
