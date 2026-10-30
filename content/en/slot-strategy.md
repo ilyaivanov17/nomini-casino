@@ -39,17 +39,16 @@ Gates of Olympus draws on Greek mythology and puts multipliers and bonus feature
 
 ### What the figures do — and do not — tell you
 
-RTP is a theoretical figure calculated over a very large number of rounds. It does not predict the result of a single spin or a short session. The listed volatility is not a forecast of whether you will win.
+For Gates of Olympus, the published RTP is a theoretical average across a large number of rounds, not a return forecast for a short session. Volatility describes variation in results; it cannot predict the next spin.
 
 ### What to check before playing
 
-Open the paytable before playing. It explains symbol values, feature triggers and any rules for free spins or jackpots. Set a firm budget and only play where it is legal for you.
-
----
+Before launching Gates of Olympus, read its in-game help and paytable. Confirm symbol values, feature triggers and any rules for free spins or jackpots. Set a spending limit first and follow local age and legal requirements.
 
 ## Gates of Olympus: In-depth editorial review
 
-This article is an editorial guide to Gates of Olympus. It distinguishes game information from interpretation and does not predict outcomes.
+This profile looks at the published information for Gates of Olympus and explains how to read its listed mechanics. It is editorial guidance, not a claim of hands-on testing or a prediction; confirm the exact rules in the game version available to you.
+
 
 Gates of Olympus is listed with Pragmatic Play. The page profile lists Scatter symbols, Multipliers, Bonus feature, within a theme built around a Greek-mythology setting. These details describe the site record; they do not replace checking the exact version that loads for a player. Before publication, verify the in-game help, paytable and stake limits directly.
 
@@ -87,17 +86,16 @@ Gonzo’s Quest is built around a treasure-hunt theme and uses falling symbols r
 
 ### What the figures do — and do not — tell you
 
-RTP is a theoretical figure calculated over a very large number of rounds. It does not predict the result of a single spin or a short session. The listed volatility is not a forecast of whether you will win.
+Treat the figures for Gonzo's Quest as reference data rather than a personal forecast. RTP is calculated over many plays, while volatility describes how outcomes can swing. Neither tells you what will happen in one session.
 
 ### What to check before playing
 
-Open the paytable before playing. It explains symbol values, feature triggers and any rules for free spins or jackpots. Set a firm budget and only play where it is legal for you.
-
----
+Check the version of Gonzo's Quest that is actually offered: its paytable explains the symbols, special features and bonus-round conditions. Review the available stakes and decide on a budget before you begin.
 
 ## Gonzo's Quest: In-depth editorial review
 
-This article is an editorial guide to Gonzo's Quest. It distinguishes game information from interpretation and does not predict outcomes.
+The notes on Gonzo's Quest separate recorded game details from editorial interpretation. Use them as a guide to what to check, then confirm the symbols, features and stake options in the live paytable.
+
 
 Gonzo's Quest is listed with NetEnt. The page profile lists Avalanche mechanic, Multipliers, Free Falls, within a theme built around an exploration theme. These details describe the site record; they do not replace checking the exact version that loads for a player. Before publication, verify the in-game help, paytable and stake limits directly.
 
@@ -135,17 +133,16 @@ Legacy of Dead stays with an ancient-Egypt theme and features an expanding symbo
 
 ### What the figures do — and do not — tell you
 
-RTP is a theoretical figure calculated over a very large number of rounds. It does not predict the result of a single spin or a short session. The listed volatility is not a forecast of whether you will win.
+For Legacy of Dead, the published RTP is a theoretical average across a large number of rounds, not a return forecast for a short session. Volatility describes variation in results; it cannot predict the next spin.
 
 ### What to check before playing
 
-Open the paytable before playing. It explains symbol values, feature triggers and any rules for free spins or jackpots. Set a firm budget and only play where it is legal for you.
-
----
+Before launching Legacy of Dead, read its in-game help and paytable. Confirm symbol values, feature triggers and any rules for free spins or jackpots. Set a spending limit first and follow local age and legal requirements.
 
 ## Legacy of Dead: In-depth editorial review
 
-This article is an editorial guide to Legacy of Dead. It distinguishes game information from interpretation and does not predict outcomes.
+This profile looks at the published information for Legacy of Dead and explains how to read its listed mechanics. It is editorial guidance, not a claim of hands-on testing or a prediction; confirm the exact rules in the game version available to you.
+
 
 Legacy of Dead is listed with Play'n GO. The page profile lists Expanding symbol, Free spins, Bonus game, within a theme built around an ancient-world adventure theme. These details describe the site record; they do not replace checking the exact version that loads for a player. Before publication, verify the in-game help, paytable and stake limits directly.
 
@@ -183,17 +180,16 @@ Mega Moolah is best known for its progressive-jackpot format. The stored details
 
 ### What the figures do — and do not — tell you
 
-RTP is a theoretical figure calculated over a very large number of rounds. It does not predict the result of a single spin or a short session. The listed volatility is not a forecast of whether you will win.
+Treat the figures for Mega Moolah as reference data rather than a personal forecast. RTP is calculated over many plays, while volatility describes how outcomes can swing. Neither tells you what will happen in one session.
 
 ### What to check before playing
 
-Open the paytable before playing. It explains symbol values, feature triggers and any rules for free spins or jackpots. Set a firm budget and only play where it is legal for you.
-
----
+Check the version of Mega Moolah that is actually offered: its paytable explains the symbols, special features and bonus-round conditions. Review the available stakes and decide on a budget before you begin.
 
 ## Mega Moolah: In-depth editorial review
 
-This article is an editorial guide to Mega Moolah. It distinguishes game information from interpretation and does not predict outcomes.
+The notes on Mega Moolah separate recorded game details from editorial interpretation. Use them as a guide to what to check, then confirm the symbols, features and stake options in the live paytable.
+
 
 Mega Moolah is listed with Microgaming. The page profile lists Progressive jackpot, Wild symbols, Free spins, within a theme built around a jackpot-centred presentation. These details describe the site record; they do not replace checking the exact version that loads for a player. Before publication, verify the in-game help, paytable and stake limits directly.
 
@@ -231,17 +227,16 @@ This Rich Wilde title returns to the Book of Dead adventure theme. The stored de
 
 ### What the figures do — and do not — tell you
 
-RTP is a theoretical figure calculated over a very large number of rounds. It does not predict the result of a single spin or a short session. The listed volatility is not a forecast of whether you will win.
+For Rich Wilde and the Book of Dead, the published RTP is a theoretical average across a large number of rounds, not a return forecast for a short session. Volatility describes variation in results; it cannot predict the next spin.
 
 ### What to check before playing
 
-Open the paytable before playing. It explains symbol values, feature triggers and any rules for free spins or jackpots. Set a firm budget and only play where it is legal for you.
-
----
+Before launching Rich Wilde and the Book of Dead, read its in-game help and paytable. Confirm symbol values, feature triggers and any rules for free spins or jackpots. Set a spending limit first and follow local age and legal requirements.
 
 ## Rich Wilde and the Book of Dead: In-depth editorial review
 
-This article is an editorial guide to Rich Wilde and the Book of Dead. It distinguishes game information from interpretation and does not predict outcomes.
+This profile looks at the published information for Rich Wilde and the Book of Dead and explains how to read its listed mechanics. It is editorial guidance, not a claim of hands-on testing or a prediction; confirm the exact rules in the game version available to you.
+
 
 Rich Wilde and the Book of Dead is listed with Play'n GO. The page profile lists Wild symbols, Free spins, Expanding symbol, within a theme built around a book-and-adventure theme. These details describe the site record; they do not replace checking the exact version that loads for a player. Before publication, verify the in-game help, paytable and stake limits directly.
 
