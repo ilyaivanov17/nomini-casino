@@ -1,16 +1,16 @@
 ---
-title: Instant Casino の著者
-description: Instant Casino の7名の執筆協力者、専門分野、公開されている職業プロフィールへのリンクを紹介します。
-seo_title: 著者・編集チーム | Instant Casino
+title: Nomini Casino Guide の著者
+description: Nomini Casino Guide の7名の執筆協力者、専門分野、公開されている職業プロフィールへのリンクを紹介します。
+seo_title: 著者・編集チーム | Nomini Casino Guide
 type: authors
 date: 2026-09-27
-lastmod: '2026-10-17'
+lastmod: '2026-10-30'
 build:
   render: always
   list: always
 ---
 
-## Instant Casino 編集チーム
+## Nomini Casino Guide 編集チーム
 
 このページでは、プロジェクトに参加している7名を紹介します。各プロフィールには専門分野と公開情報へのリンクを掲載し、iGaming、カジノ・ジャーナリズム、ゲーム分析、ボーナス、編集業務に関する経歴を確認できるようにしています。
 
