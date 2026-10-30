@@ -2,13 +2,13 @@
 title: Dominic Field
 description: Dominic Field is a freelance iGaming writer with long-standing experience in gambling content.
   His subject areas include online casinos, slots, poker,…
-seo_title: Dominic Field – Freelance iGaming writer | Instant Casino
+seo_title: Dominic Field – Freelance iGaming writer | Nomini Casino Guide
 type: author
 slug: dominic-field
 aliases:
 - /en/authors/author-6/
 date: '2026-09-27'
-lastmod: '2026-10-17'
+lastmod: '2026-10-30'
 author_id: author-6
 role: Freelance iGaming writer
 photo: images/Dominic_Field.jpg
@@ -38,9 +38,9 @@ Dominic Field is a freelance iGaming writer with long-standing experience in gam
 
 Online casinos, slots, poker, sports betting and the iGaming industry
 
-### Editorial contribution at Instant Casino
+### Editorial contribution at Nomini Casino Guide
 
-At Instant Casino, this profile belongs to the editorial work covering casino information, game explainers and comparisons of offer terms. The subject area shapes the approach: game mechanics are explained through available game data, bonus details are structured by their conditions, and payment methods are compared using the listed limits and processing times.
+At Nomini Casino Guide, this profile belongs to the editorial work covering casino information, game explainers and comparisons of offer terms. The subject area shapes the approach: game mechanics are explained through available game data, bonus details are structured by their conditions, and payment methods are compared using the listed limits and processing times.
 
 ### How to use this profile
 
