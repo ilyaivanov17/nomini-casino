@@ -21,9 +21,9 @@ screenshots_note: 'Illustrative editorial artwork, not a screenshot of a real op
 ---
 ## Slot guide: features and mechanics
 
-This guide groups existing information by topic so rules and limitations are easier to compare. Game rules, RTP figures, bonus terms, payment options and legal availability can vary by version, operator and country. Check details directly in the version currently offered.
+A slot's theme is only the surface. To understand how a title behaves, look at its rules, paytable, feature triggers and the way its RTP and volatility are presented. The figures in a catalogue are useful starting points, not a promise about an individual session; the version available in-game remains the reference.
 
-A practical case study explains how a progressive jackpot works: our [Mega Fortune feature on the €3.5 million win]({{< relref "mega-fortune-progressive-jackpot" >}}) separates the verified 2018 facts from the game's published rules, RTP and the limits of the available volatility data.
+For a worked example of a progressive prize, see the [Mega Fortune case study on the €3.5 million jackpot]({{< relref "mega-fortune-progressive-jackpot" >}}). It distinguishes the reported 2018 facts from the game's published mechanics and from information that is not established by the public material.
 
 ## Gates of Olympus
 

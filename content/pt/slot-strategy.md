@@ -21,9 +21,9 @@ screenshots_note: 'Ilustração editorial; não é uma captura de uma interface 
 ---
 ## Guia de slots: funcionalidades e mecânicas
 
-Este guia reúne informações por tema para facilitar a comparação de regras e limitações. As regras dos jogos, o RTP, as condições dos bónus, os métodos de pagamento e a disponibilidade legal podem variar consoante a versão, o operador e o país. Confirme os dados na versão atualmente disponibilizada.
+O tema visual de um slot é apenas o início da análise. Para perceber como o jogo funciona, consulte as regras, a tabela de pagamentos, os critérios de ativação das funcionalidades e a forma como são apresentados o RTP e a volatilidade. Os dados de catálogo servem de orientação, mas não antecipam o resultado de uma sessão; a referência é a versão efetivamente disponível no jogo.
 
-Um caso prático ajuda a explicar como funciona um jackpot progressivo: o nosso [artigo sobre o Mega Fortune e o prémio de 3,5 milhões de euros]({{< relref "mega-fortune-progressive-jackpot" >}}) separa os factos confirmados de 2018 das regras publicadas do jogo, do RTP e dos limites dos dados de volatilidade disponíveis.
+Para ver um exemplo de prémio progressivo, consulte o [estudo de caso do Mega Fortune e do jackpot de 3,5 milhões de euros]({{< relref "mega-fortune-progressive-jackpot" >}}). O texto separa os factos divulgados em 2018, as regras publicadas do jogo e os aspetos que os materiais públicos não permitem confirmar.
 
 ## Gates of Olympus
 

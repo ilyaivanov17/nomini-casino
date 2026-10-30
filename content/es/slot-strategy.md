@@ -21,9 +21,9 @@ screenshots_note: 'Ilustración editorial, no es una captura de una interfaz rea
 ---
 ## Guía de tragamonedas: funciones y mecánicas
 
-Esta guía reúne la información por temas para facilitar la comparación de reglas y limitaciones. Las reglas del juego, el RTP, las condiciones de los bonos, los métodos de pago y la disponibilidad legal pueden variar según la versión, el operador y el país. Comprueba los datos en la versión ofrecida actualmente.
+La temática de una tragamonedas es solo el punto de partida. Para comprender su funcionamiento hay que revisar las reglas, la tabla de pagos, los activadores de funciones y la forma en que se presentan el RTP y la volatilidad. Los datos de una ficha orientan, pero no prometen un resultado en una sesión; la referencia válida es la versión disponible dentro del juego.
 
-Un caso práctico ayuda a entender cómo funciona un jackpot progresivo: nuestro [análisis de Mega Fortune y el premio de 3,5 millones de euros]({{< relref "mega-fortune-progressive-jackpot" >}}) distingue los hechos confirmados de 2018 de las reglas publicadas del juego, el RTP y los límites de los datos de volatilidad disponibles.
+Como ejemplo de premio progresivo, consulta el [caso de Mega Fortune y el jackpot de 3,5 millones de euros]({{< relref "mega-fortune-progressive-jackpot" >}}). El análisis separa los hechos comunicados en 2018, las mecánicas publicadas y los aspectos que la información pública no permite confirmar.
 
 ## Gates of Olympus
 

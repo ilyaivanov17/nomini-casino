@@ -21,9 +21,9 @@ screenshots_note: 'Illustrative redaktionelle Grafik, kein echter Screenshot ein
 ---
 ## Slot-Leitfaden: Funktionen und Spielmechanik
 
-Dieser Leitfaden bündelt vorhandene Informationen nach Themen, damit wichtige Regeln und Einschränkungen leichter vergleichbar sind. Spielregeln, RTP-Werte, Bonusbedingungen, Zahlungsoptionen und rechtliche Verfügbarkeit können sich je nach Version, Betreiber und Land ändern. Prüfe die Angaben direkt in der aktuell angebotenen Version.
+Das Thema eines Slots zeigt nur einen Teil des Spiels. Für die tatsächliche Einordnung sind Spielregeln, Auszahlungstabelle, Auslöser von Sonderfunktionen sowie die Darstellung von RTP und Volatilität entscheidend. Katalogwerte bieten eine erste Orientierung, versprechen aber keinen bestimmten Verlauf einer Sitzung; maßgeblich bleibt die konkret verfügbare Spielversion.
 
-Ein konkretes Beispiel erklärt, was hinter einem progressiven Jackpot steckt: Unsere [Fallstudie zu Mega Fortune und dem Jackpot von 3,5 Millionen Euro]({{< relref "mega-fortune-progressive-jackpot" >}}) trennt die belegten Fakten aus dem Jahr 2018 von den Spielregeln, RTP-Angaben und offenen Fragen zur Volatilität.
+Ein Fallbeispiel zu progressiven Gewinnen bietet die [Mega-Fortune-Analyse zum Jackpot von 3,5 Millionen Euro]({{< relref "mega-fortune-progressive-jackpot" >}}). Sie trennt die gemeldeten Fakten aus 2018 von den veröffentlichten Spielregeln und von Punkten, die öffentlich nicht belegt sind.
 
 ## Gates of Olympus
 
