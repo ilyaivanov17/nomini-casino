@@ -27,11 +27,11 @@ screenshots_note: 'Ilustracja redakcyjna, nie zrzut ekranu rzeczywistego interfe
 ---
 ## O Nomini Casino Guide: redakcja i metodologia
 
-Ten przewodnik porządkuje istniejące informacje według tematów, aby łatwiej porównywać zasady i ograniczenia. Zasady gier, RTP, warunki bonusów, metody płatności i dostępność prawna mogą różnić się w zależności od wersji, operatora i kraju. Sprawdź je bezpośrednio w aktualnie oferowanej wersji.
+Ten niezależny przewodnik porządkuje informacje o grach kasynowych, promocjach, płatnościach i powiązanych z nimi zasadach. Ma ułatwiać porównywanie warunków, które rzeczywiście wpływają na decyzję, zamiast opierać się wyłącznie na reklamowym haśle. Reguły gier, RTP, warunki bonusów, metody płatności i dostępność prawna mogą zależeć od wersji gry, operatora oraz kraju. Dlatego zawsze należy sprawdzić aktualne źródło właściwe dla konkretnej sytuacji.
 
 ## Metodologia redakcyjna
 
-Treści mają charakter redakcyjny. Dane dotyczące RTP, bonusów, płatności i dostępności prawnej należy przed publikacją sprawdzić w aktualnych źródłach pierwotnych. Profile zachowują informacje zapisane w projekcie i nie oznaczają, że autor sprawdził lub zatwierdził każdy połączony tekst.
+Strony mają charakter informacyjny i redakcyjny; nie są instrukcjami operatora ani obietnicą wyniku. Twierdzenia dotyczące RTP, promocji, płatności i dostępności prawnej powinny mieć oparcie w aktualnych źródłach pierwotnych. Profile autorów przedstawiają dane zawodowe zapisane w projekcie, ale nie potwierdzają, że dana osoba sprawdziła lub zatwierdziła każdy opublikowany fragment.
 
 ## Kontakt z redakcją Nomini Casino Guide
 

@@ -27,11 +27,11 @@ screenshots_note: 'Illustrative redaktionelle Grafik, kein echter Screenshot ein
 ---
 ## Über Nomini Casino Guide: Redaktion, Autoren und Methodik
 
-Dieser Leitfaden bündelt vorhandene Informationen nach Themen, damit wichtige Regeln und Einschränkungen leichter vergleichbar sind. Spielregeln, RTP-Werte, Bonusbedingungen, Zahlungsoptionen und rechtliche Verfügbarkeit können sich je nach Version, Betreiber und Land ändern. Prüfe die Angaben direkt in der aktuell angebotenen Version.
+Dieser unabhängige Leitfaden ordnet Informationen zu Casinospielen, Aktionen, Zahlungen und den dazugehörigen Regeln. Er soll helfen, die Bedingungen hinter einzelnen Angeboten einzuordnen, statt nur auf Werbeaussagen zu schauen. Spielregeln, RTP, Bonusvorgaben, Zahlungswege und rechtliche Verfügbarkeit können sich je nach Spielversion, Anbieter und Land unterscheiden. Maßgeblich sind deshalb die aktuell geltenden Angaben für den jeweiligen Fall.
 
 ## Redaktionelle Methodik
 
-Die Inhalte sind redaktionelle Informationen. Angaben zu RTP, Bonusbedingungen, Zahlungen und rechtlicher Verfügbarkeit müssen vor Veröffentlichung anhand aktueller Primärquellen geprüft werden. Autorenprofile dokumentieren die im Projekt hinterlegten Angaben und bedeuten nicht automatisch, dass die betreffende Person einen zusammengeführten Text geprüft oder freigegeben hat.
+Unsere Seiten dienen der redaktionellen Orientierung und sind weder Betreiberanweisungen noch Gewinnversprechen. Aussagen zu RTP, Aktionen, Zahlungen und rechtlicher Verfügbarkeit benötigen aktuelle Primärquellen. Die Autorenprofile geben die im Projekt hinterlegten beruflichen Angaben wieder; sie sind kein Beleg dafür, dass ein Autor jeden Abschnitt geprüft oder freigegeben hat.
 
 ## Kontakt — Nomini Casino Guide
 

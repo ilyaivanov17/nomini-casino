@@ -27,11 +27,11 @@ screenshots_note: 'Ilustração editorial; não é uma captura de uma interface 
 ---
 ## Sobre o Nomini Casino Guide: equipa editorial e metodologia
 
-Este guia reúne informações por tema para facilitar a comparação de regras e limitações. As regras dos jogos, o RTP, as condições dos bónus, os métodos de pagamento e a disponibilidade legal podem variar consoante a versão, o operador e o país. Confirme os dados na versão atualmente disponibilizada.
+Este guia independente organiza informação sobre jogos de casino, campanhas, pagamentos e regras relacionadas. A intenção é facilitar a comparação das condições que realmente contam, em vez de dar destaque apenas à mensagem publicitária. As regras dos jogos, o RTP, os requisitos dos bónus, os métodos de pagamento e a disponibilidade legal podem variar consoante a versão, o operador e o país. Confirme sempre a fonte atual que se aplica à sua situação.
 
 ## Metodologia editorial
 
-O conteúdo é informação editorial. Antes da publicação, os dados de RTP, bónus, pagamentos e disponibilidade legal devem ser confirmados em fontes primárias atuais. Os perfis preservam os dados registados no projeto e não significam que cada autor tenha revisto ou aprovado todos os textos reunidos.
+As páginas são recursos informativos e editoriais, não instruções do operador nem garantias de resultados. As afirmações sobre RTP, promoções, pagamentos e disponibilidade legal devem ser sustentadas por fontes primárias atualizadas. Os perfis dos autores reproduzem a informação profissional registada no projeto e não demonstram que cada colaborador tenha revisto ou aprovado todos os excertos publicados.
 
 ## Contacto com a redação da Nomini Casino Guide
 

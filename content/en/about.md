@@ -27,11 +27,11 @@ screenshots_note: 'Illustrative editorial artwork, not a screenshot of a real op
 ---
 ## About Nomini Casino Guide: editorial team and methodology
 
-This guide groups existing information by topic so rules and limitations are easier to compare. Game rules, RTP figures, bonus terms, payment options and legal availability can vary by version, operator and country. Check details directly in the version currently offered.
+This independent guide brings together practical information on casino games, offers, payments and related rules. Its purpose is to help readers compare the conditions attached to different topics rather than treat a headline claim as the whole story. Rules, RTP, bonus terms, payment options and legal access can change with the game version, operator or jurisdiction, so always check the current source that applies to your situation.
 
 ## Editorial methodology
 
-The material is editorial information. RTP figures, bonus terms, payment details and legal availability must be checked against current primary sources before publication. Author profiles preserve the project’s recorded details and do not imply that a contributor has reviewed or approved every merged text.
+Our pages are editorial reference material, not operator instructions or guarantees. Claims about RTP, promotions, payments and legal availability need support from up-to-date primary sources. Contributor profiles show the background recorded for each person; they should not be read as confirmation that an author reviewed or approved every passage on the site.
 
 ## Contact the Nomini Casino Guide editorial team
 
