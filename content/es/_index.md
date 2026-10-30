@@ -1,18 +1,18 @@
 ---
-title: 'Instant Casino: juegos, bonos y pagos explicados'
+title: 'Nomini Casino: juegos, bonos y pagos explicados'
 description: 'Información clara sobre mecánicas de juego, condiciones de bonos, pagos y seguridad de la cuenta.'
 type: page
-seo_title: 'Instant Casino: guía informativa independiente | Instant Casino'
-lastmod: '2026-10-28'
+seo_title: 'Nomini Casino: guía informativa independiente'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
   list: always
 ---
 
-## Cómo investiga y explica Instant Casino la información sobre casinos
+## Cómo investigamos y explicamos la información sobre Nomini Casino
 
-Instant Casino es un sitio informativo independiente sobre juegos de casino en línea, mecánicas de tragamonedas, promociones, métodos de pago y seguridad de las cuentas. Nuestro objetivo es explicar los detalles que importan, no prometer ganancias, presionar para depositar ni presentar el juego como una forma de obtener ingresos. No operamos un casino, aceptamos apuestas, custodiamos saldos ni procesamos depósitos o retiradas.
+Esta guía informativa independiente trata sobre los juegos, las mecánicas de las tragamonedas, las promociones, los métodos de pago y la seguridad de las cuentas de Nomini Casino. No es el sitio oficial de Nomini ni está gestionada por el casino. Nuestro objetivo es explicar las condiciones, no prometer ganancias ni presentar el juego como una fuente de ingresos.
 
 ### Experiencia, conocimientos y responsabilidad editorial
 
