@@ -2,8 +2,8 @@
 title: スロットガイド：テーマ・変動性・比較
 description: 'フリースピン、ワイルド、スキャッター、ボーナスラウンドなどの機能を解説します。'
 type: page
-seo_title: スロットガイド：テーマ・変動性・比較 | Instant Casino
-lastmod: '2026-10-28'
+seo_title: スロットガイド：テーマ・変動性・比較 | Nomini Casino Guide
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
