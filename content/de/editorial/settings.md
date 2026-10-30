@@ -4,25 +4,22 @@ type: site_settings
 build:
   render: never
   list: always
-brand: Instant Casino
-description: Instant Casino — moderne Lobby für Spiele, Boni, Aktionen und kompakte Hinweise.
-author: Instant Casino Redaktion
+brand: Nomini
+description: 'Unabhängige Informationen zu Nomini Casino: Spielanleitungen, Bonusbedingungen, Zahlungsmethoden und verantwortungsvolles Spielen.'
+author: Unabhängiges Redaktionsteam
 locale: de_DE
 market_label: Online-Casino
 currency: EUR
-operator_name: Instant Casino
+operator_name: Nomini Casino
 affiliate_link: /go/bonus
 affiliate_cta: Bonus öffnen
 affiliate_cta_bonus: Boni prüfen
 affiliate_cta_register: Angebot entdecken
-email: 'info@instant.com'
-phone: '+49 10 111 0253'
-address: 'Level 7, The Plaza Business Centre, Bisazza Street, Sliema, SLM 1640, Malta'
 year: 2026
 og_image: /images/hero-casino-neon.webp
 layout_variant: proof-first
 verification_status: pending
-contact_verification_required: false
+contact_verification_required: true
 menu:
 - name: Startseite
   pageRef: /
@@ -198,7 +195,7 @@ ui:
   editorial_by: Redaktion
   last_updated: Aktualisiert
   public_profile: Öffentliches Profil
-  author_profiles_pending: Lerne die Mitwirkenden von Instant Casino und ihre öffentlichen beruflichen Profile
+  author_profiles_pending: Lerne die unabhängigen Autoren kennen, die über Nomini Casino berichten.
     kennen.
   related_content: Weiterführende Inhalte
   related_content_title: Passende Seiten
@@ -273,7 +270,7 @@ ui:
   flexible_text: 'Desktop, Tablet oder Smartphone: Die Lobby passt sich an.'
   responsibility: Verantwortung
   responsibility_text: 18+, Budget setzen und Bedingungen vor einer Teilnahme prüfen.
-  final_label: Instant Casino Bonusbereich
+  final_label: Nomini Casino Bonusbereich
   final_title: Bereit für die nächste Runde?
   final_text: Öffne die aktuelle Angebotsseite und prüfe dort die geltenden Bedingungen, bevor du fortfährst.
   to_offer: Zum Angebot
@@ -287,8 +284,8 @@ ui:
   favorite: Favorit
   hero_slide: Hauptbanner
   comparison: Vergleich
-seo_title: Site settings | Instant Casino
+seo_title: 'Nomini Casino – unabhängiger Leitfaden und Informationen'
 verification_note: Angebote, Verfügbarkeit, Zahlungswege und Limits können je nach Land, Konto und aktueller
   Anbieteranzeige variieren. Prüfe die für dich geltenden Bedingungen vor einer Transaktion.
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
 ---
