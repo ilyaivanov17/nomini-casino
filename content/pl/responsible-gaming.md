@@ -2,8 +2,8 @@
 title: 'Odpowiedzialna gra: ryzyko, limity i ochrona'
 description: 'Poznaj ryzyko, ustal limity i znajdź pomoc dotyczącą bezpieczniejszej gry.'
 type: page
-seo_title: 'Odpowiedzialna gra: ryzyko, limity i ochrona | Instant Casino'
-lastmod: '2026-10-28'
+seo_title: 'Odpowiedzialna gra: ryzyko, limity i ochrona | Nomini Casino Guide'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
