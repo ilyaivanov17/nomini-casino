@@ -2,13 +2,13 @@
 title: Cristina Tudose
 description: Cristina Tudose é redatora e copywriter em inglês e romeno, especializada em iGaming. O trabalho
   descrito publicamente inclui análises de casinos,…
-seo_title: 'Cristina Tudose — Copywriter iGaming | Instant Casino'
+seo_title: 'Cristina Tudose — Copywriter iGaming | Nomini Casino Guide'
 type: author
 slug: cristina-tudose
 aliases:
 - /pt/authors/author-5/
 date: '2026-09-27'
-lastmod: '2026-10-17'
+lastmod: '2026-10-30'
 author_id: author-5
 role: Redatora de conteúdos / copywriter • iGaming
 photo: images/Cristina_Tudose.jpg
@@ -38,9 +38,9 @@ Cristina Tudose é redatora e copywriter em inglês e romeno, especializada em i
 
 Conteúdos multilingues de iGaming, análises de casinos, bónus, descrições de jogos e SEO
 
-### Contributo editorial na Instant Casino
+### Contributo editorial na Nomini Casino Guide
 
-Na Instant Casino, este perfil integra o trabalho editorial sobre informação de casinos, explicações de jogos e comparação das condições das ofertas. A área de especialidade orienta a abordagem: as mecânicas são explicadas com base nos dados disponíveis, os bónus são organizados pelas respetivas condições e os métodos de pagamento são comparados por limites e tempos indicados.
+Na Nomini Casino Guide, este perfil integra o trabalho editorial sobre informação de casinos, explicações de jogos e comparação das condições das ofertas. A área de especialidade orienta a abordagem: as mecânicas são explicadas com base nos dados disponíveis, os bónus são organizados pelas respetivas condições e os métodos de pagamento são comparados por limites e tempos indicados.
 
 ### Como interpretar este perfil
 
