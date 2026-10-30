@@ -1,4 +1,5 @@
 ---
+
 title: Dominic Field
 description: Dominic Field ist ein freiberuflicher Autor im iGaming-Bereich mit langjähriger Erfahrung in Glücksspielinhalten.
   Seine Themen umfassen Online-Casinos,…
@@ -30,26 +31,26 @@ build:
   list: always
 ---
 
-## Über Dominic Field
+## Profil: Dominic Field
 
 Dominic Field ist ein freiberuflicher Autor im iGaming-Bereich mit langjähriger Erfahrung in Glücksspielinhalten. Seine Themen umfassen Online-Casinos, Slots, Poker, Sportwetten und Entwicklungen der iGaming-Branche.
 
-### Fachliche Schwerpunkte
+### Beruflicher Schwerpunkt
 
 Online-Casinos, Slots, Poker, Sportwetten und iGaming-Branche
 
-### Redaktioneller Beitrag bei Nomini Casino Guide
+### Einordnung des Profils
 
-Bei Nomini Casino Guide arbeitet das Profil im thematischen Umfeld von Casino-Informationen, Spielbeschreibungen und dem Vergleich von Angebotsbedingungen. Die Einordnung der Inhalte folgt dem jeweiligen Fachgebiet: Spielmechaniken werden anhand der verfügbaren Spieldaten erklärt, Bonusangaben nach Bedingungen strukturiert und Zahlungsmethoden anhand der hinterlegten Limits und Zeitangaben verglichen.
+Dominic Field wird in diesem Projekt als **Freiberuflicher iGaming-Autor** geführt. Das Profil fasst den öffentlich beschriebenen fachlichen Hintergrund zusammen. Es ist kein Nachweis dafür, dass jede erwähnte Spielversion praktisch getestet wurde, dass ein bestimmtes Spielergebnis erzielt wurde oder dass alle Texte persönlich freigegeben sind.
 
-### So ist das Profil einzuordnen
+### Fachlicher Kontext der Beiträge
 
-Bei Casino- und Bonusinformationen zählen die vollständigen Bedingungen, die konkrete Spielversion und die für das jeweilige Konto angezeigten Regeln. Redaktionelle Vergleiche sollten Kennzahlen getrennt von Einschätzungen ausweisen und auf die entsprechenden Detailseiten und Primärinformationen verlinken. Dieses Profil beschreibt den beruflichen Schwerpunkt und ersetzt keine Prüfung einzelner Angebotsbedingungen.
+Für Aussagen zu Spielregeln, RTP und Funktionen ist die konkrete Spielversion maßgeblich. Bonusaktionen müssen anhand ihrer vollständigen Bedingungen bewertet werden; Zahlungsarten, Limits und Bearbeitungszeiten können je nach Land und Konto variieren. Aktuelle Primärinformationen haben Vorrang vor allgemeinen Beschreibungen.
 
 ### Öffentliche Berufsprofile
 
 [LinkedIn](https://ph.linkedin.com/in/dominic-field-5aa70a1b) · [Website](https://www.dominicfield.com/)
 
-| Rolle | Schwerpunkt | Öffentliches Profil | Fachgebiet |
-| --- | --- | --- | --- |
+| Rolle | Themenbereich | Öffentliches Profil | Fachgebiet |
+|---|---|---|---|
 | Freiberuflicher iGaming-Autor | Online-Casinos, Slots, Poker, Sportwetten und iGaming-Branche | [LinkedIn](https://ph.linkedin.com/in/dominic-field-5aa70a1b) · [Website](https://www.dominicfield.com/) | Online-Casinos, Slots, Poker, Sportwetten und iGaming-Branche |
