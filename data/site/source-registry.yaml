@@ -1,28 +1,28 @@
 status: pending
 records:
-- key: operator_identity
-  description: Operator identity, licence/jurisdiction and official domain
-  source_url: https://Instant Casino.com/
+- key: nomini_operator_identity
+  description: Nomini operator identity, licence/jurisdiction and official domain
+  source_url: https://nomini.com/en/rules
   source_type: primary
-  last_verified: '2026-10-17'
-  verification_note: 'The supplied clb.kngpulse.com URL redirects to Instant Casino.com. Keep the operator/licence status pending until the live legal/terms page and regulator register are checked together; do not reuse the former Starda/Fiery Play licence details as Instant Casino credentials.'
+  last_verified: '2026-10-30'
+  verification_note: 'Nomini official Terms and Conditions version 1.12 show a last update of 19 August 2026. Section 1.4 defines Company only as the company operating the Website; the terms page reviewed does not state a registered legal entity or licence reference. Do not reuse prior Instant Casino or Fiery Play legal details. Keep operator identity and licence status pending until current official disclosures and the relevant regulator register are independently checked.'
 - key: welcome_offer
-  description: Current welcome offer, wagering, minimum deposit and expiry
-  source_url: ''
+  description: Current Nomini welcome offer, wagering, minimum deposit and expiry
+  source_url: https://nomini.com/en/promotions
   source_type: primary
   last_verified: ''
 - key: recurring_promotions
-  description: Current reload, cashback, tournament and other recurring promotions
-  source_url: ''
+  description: Current Nomini reload, cashback, tournament and other recurring promotions
+  source_url: https://nomini.com/en/promotions
   source_type: primary
   last_verified: ''
 - key: payment_methods
-  description: Current payment methods, limits, fees and processing times
-  source_url: ''
+  description: Current Nomini payment methods, limits, fees and processing times
+  source_url: https://nomini.com/en/payments
   source_type: primary
   last_verified: ''
 - key: responsible_gaming
-  description: Current responsible-gaming, self-exclusion and support information
-  source_url: ''
+  description: Current Nomini responsible-gaming, self-exclusion and support information
+  source_url: https://nomini.com/en/responsible-gaming
   source_type: primary
   last_verified: ''
