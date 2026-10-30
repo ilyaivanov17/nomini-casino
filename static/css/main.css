@@ -1851,12 +1851,12 @@ pre, code { white-space:pre-wrap; overflow-wrap:anywhere; }
 .footer-author-avatar.author-avatar-initials span { font-weight: 900; line-height: 1; }
 
 
-/* === Instant Casino PHASE 1 BRAND OVERRIDES === */
+/* === Nomini legacy brand overrides === */
 :root {
   --lobby-gold: #ffd34f;
-  --Instant Casino-violet: #741cff;
-  --Instant Casino-magenta: #d52cff;
-  --Instant Casino-deep: #09031d;
+  --nomini-violet: #9e4bd2;
+  --nomini-berry: #ff5b87;
+  --nomini-violet-deep: #10091f;
 }
 body { background-color:#08031a; background-image:radial-gradient(ellipse at 75% 0%,rgba(112,25,255,.13),transparent 38%); }
 .lobby-header { background:rgba(13,4,36,.92); border-bottom-color:rgba(153,55,255,.36); }
@@ -1883,14 +1883,14 @@ body { background-color:#08031a; background-image:radial-gradient(ellipse at 75%
 @media (prefers-reduced-motion: reduce) { .hero-art-shine,.lobby-hero-bg:after { animation:none!important; } }
 
 
-/* === Instant Casino BRAND SYSTEM / STAGE 2 === */
+/* === Nomini legacy brand system === */
 :root {
-  --Instant Casino-violet: #6d28d9;
-  --Instant Casino-violet-deep: #17062f;
-  --Instant Casino-magenta: #d946ef;
-  --Instant Casino-gold: #ffca3a;
-  --Instant Casino-gold-light: #fff0a6;
-  --Instant Casino-ink: #090318;
+  --nomini-violet: #9e4bd2;
+  --nomini-violet-deep: #10091f;
+  --nomini-berry: #ff5b87;
+  --nomini-citrus: #ffc45c;
+  --nomini-citrus-light: #ffe5ad;
+  --nomini-ink: #24102c;
 }
 body {
   background:
@@ -1904,19 +1904,19 @@ body {
 }
 .lobby-logo { gap: .65rem; }
 .lobby-logo-mark {
-  color: var(--Instant Casino-gold);
+  color: var(--nomini-citrus);
   filter: drop-shadow(0 0 9px rgba(255,202,58,.26));
 }
 .lobby-logo-mark svg { width: 2rem; height: 2rem; }
 .lobby-logo-type {
-  color: var(--Instant Casino-gold-light);
+  color: var(--nomini-citrus-light);
   letter-spacing: .025em;
   text-shadow: 0 0 18px rgba(255,202,58,.12);
 }
-.lobby-logo-type b { color: var(--Instant Casino-gold); }
+.lobby-logo-type b { color: var(--nomini-citrus); }
 .lobby-nav-link.is-active,
-.lobby-nav-link:hover { color: var(--Instant Casino-gold); }
-.lobby-nav-link .nav-dot { background: var(--Instant Casino-magenta); }
+.lobby-nav-link:hover { color: var(--nomini-citrus); }
+.lobby-nav-link .nav-dot { background: var(--nomini-berry); }
 .lobby-gold-cta {
   background: linear-gradient(115deg, #ffe77c 0%, #ffca3a 48%, #f59e0b 100%);
   color: #211033;
@@ -1948,10 +1948,10 @@ body {
 .lobby-hero-copy h1,
 .casino-hero h1 { text-wrap: balance; }
 .lobby-hero-copy strong,
-.lobby-hero-copy em { color: var(--Instant Casino-gold); }
+.lobby-hero-copy em { color: var(--nomini-citrus); }
 .lobby-hero-actions .lobby-gold-cta { min-height: 3rem; }
 a:focus-visible, button:focus-visible, select:focus-visible {
-  outline: 3px solid var(--Instant Casino-gold);
+  outline: 3px solid var(--nomini-citrus);
   outline-offset: 3px;
 }
 ::selection { background: rgba(217,70,239,.45); color: #fff; }
@@ -2097,7 +2097,7 @@ h1,h2,h3,h4{overflow-wrap:normal;word-break:normal}
 @media(prefers-reduced-motion:reduce){*,*:before,*:after{scroll-behavior:auto!important;animation:none!important;transition:none!important}}
 
 
-/* === Instant Casino: compact editorial design system === */
+/* === Nomini compact editorial design system === */
 body{background:var(--brand-bg,#050b18);color:var(--brand-text,#f5f7fb);}
 .container{width:min(100% - 2.5rem,var(--content-width,1240px));}
 .lobby-header{background:rgba(5,11,24,.94);border-bottom:1px solid var(--brand-border);backdrop-filter:blur(16px)}
