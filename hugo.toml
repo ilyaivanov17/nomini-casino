@@ -1,6 +1,6 @@
-# Production canonical domain supplied for this project.
-baseURL = 'https://instant.slot-reviews.com/'
-title = "Instant Casino"
+# Canonical production domain for the independent Nomini Casino guide.
+baseURL = 'https://nomini.slot-reviews.com/'
+title = "Nomini Casino Guide"
 defaultContentLanguage = 'de'
 defaultContentLanguageInSubdir = false
 # Each language's Markdown lives in its own folder. German remains the root URL language.
@@ -46,10 +46,9 @@ disableKinds = ['taxonomy', 'term']
     locale = 'ja-JP'
     weight = 6
 [params]
-  # Production build flag enabled. Legal/operator/source verification status remains explicitly recorded in editorial settings and source registry.
-  # Keep false until operator identity, affiliate destinations and official offer sources are verified.
-  productionReady = true
-  indexingEnabled = true  # All public content pages are indexable; /go/ tracking routes are excluded.
+  # Keep productionReady false until the publisher identity/contact details and Nomini source records are independently verified.
+  productionReady = false
+  indexingEnabled = true  # Public editorial pages are indexable; /go/ referral routes are excluded.
   authorProfilesIndexable = true  # Keep the author index and existing author profiles visible; do not delete or replace author records.
   showExternalRatings = false
 
@@ -73,8 +72,8 @@ disableKinds = ['taxonomy', 'term']
   section_spacing = '1.7rem'
 
 [params.images]
-  hero = '/images/instant-casino-hero.webp'
-  social = '/images/instant-casino-social.webp'
+  hero = '/images/hero-premium.webp'
+  social = '/images/og-default.webp'
 
 [params.images.guides]
   slots = '/images/slots/book-of-dead.jpg'
