@@ -39,16 +39,16 @@ Gates of Olympus se inspira en la mitología griega y da protagonismo a los mult
 
 ### Qué significan los datos
 
-El RTP es un valor teórico calculado a lo largo de muchísimas rondas. No predice el resultado de un giro ni de una sesión breve. La volatilidad indicada tampoco permite saber si ganarás.
+El RTP publicado para Gates of Olympus es un promedio teórico calculado a lo largo de muchas rondas, no una previsión para una sesión breve. La volatilidad describe la variación de los resultados, pero no anticipa el siguiente giro.
 
 ### Qué conviene comprobar antes de jugar
 
-Abre la tabla de pagos antes de jugar. Allí se explican los valores de los símbolos, la activación de funciones y las condiciones de giros gratis o jackpots. Fija un presupuesto y juega solo donde sea legal.
-
----
+Antes de abrir Gates of Olympus, consulta la ayuda y la tabla de pagos. Comprueba los valores de los símbolos, cómo se activan las funciones y las reglas de giros gratis o jackpots. Fija un presupuesto y respeta la edad mínima y la normativa local.
 
 ## Gates of Olympus: Análisis editorial en profundidad
-Gates of Olympus figura asociado a Pragmatic Play. La ficha enumera símbolos Scatter, multiplicadores, función de bonificación y un tema centrado en a Greek-mythology setting. Estos datos describen el registro del sitio, pero no sustituyen la comprobación de la versión que se carga. Antes de publicar, verifica la ayuda, la tabla de pagos y los límites de apuesta.
+
+Esta ficha presenta la información publicada sobre Gates of Olympus y explica cómo interpretar las mecánicas indicadas. Es una guía editorial, no una afirmación de prueba práctica ni una predicción; confirma las reglas exactas en la versión disponible.
+
 
 ### Tema y primera impresión
 
@@ -88,16 +88,16 @@ Gonzo’s Quest propone una búsqueda del tesoro y utiliza símbolos que caen en
 
 ### Qué significan los datos
 
-El RTP es un valor teórico calculado a lo largo de muchísimas rondas. No predice el resultado de un giro ni de una sesión breve. La volatilidad indicada tampoco permite saber si ganarás.
+Los datos de Gonzo's Quest deben leerse como referencias estadísticas, no como una predicción personal. El RTP se calcula a largo plazo y la volatilidad describe las oscilaciones posibles; ninguno indica qué ocurrirá en una sesión concreta.
 
 ### Qué conviene comprobar antes de jugar
 
-Abre la tabla de pagos antes de jugar. Allí se explican los valores de los símbolos, la activación de funciones y las condiciones de giros gratis o jackpots. Fija un presupuesto y juega solo donde sea legal.
-
----
+Revisa la versión de Gonzo's Quest que está disponible: la tabla de pagos explica los símbolos, las funciones especiales y las condiciones de las rondas de bonificación. Comprueba también las apuestas y establece un límite antes de empezar.
 
 ## Gonzo's Quest: Análisis editorial en profundidad
-Gonzo's Quest figura asociado a NetEnt. La ficha enumera mecánica Avalanche, multiplicadores, Free Falls y un tema centrado en an exploration theme. Estos datos describen el registro del sitio, pero no sustituyen la comprobación de la versión que se carga. Antes de publicar, verifica la ayuda, la tabla de pagos y los límites de apuesta.
+
+Las notas sobre Gonzo's Quest distinguen los datos registrados del juego de su explicación editorial. Úsalas para saber qué revisar y confirma después los símbolos, las funciones y las apuestas en la ayuda de la versión que se ofrece.
+
 
 ### Tema y primera impresión
 
@@ -139,16 +139,16 @@ Legacy of Dead tiene una temática y unas funciones propias que conviene conocer
 
 ### Qué significan los datos
 
-El RTP es un valor teórico calculado a lo largo de muchísimas rondas. No predice el resultado de un giro ni de una sesión breve. La volatilidad indicada tampoco permite saber si ganarás.
+El RTP publicado para Legacy of Dead es un promedio teórico calculado a lo largo de muchas rondas, no una previsión para una sesión breve. La volatilidad describe la variación de los resultados, pero no anticipa el siguiente giro.
 
 ### Qué conviene comprobar antes de jugar
 
-Abre la tabla de pagos antes de jugar. Allí se explican los valores de los símbolos, la activación de funciones y las condiciones de giros gratis o jackpots. Fija un presupuesto y juega solo donde sea legal.
-
----
+Antes de abrir Legacy of Dead, consulta la ayuda y la tabla de pagos. Comprueba los valores de los símbolos, cómo se activan las funciones y las reglas de giros gratis o jackpots. Fija un presupuesto y respeta la edad mínima y la normativa local.
 
 ## Legacy of Dead: Análisis editorial en profundidad
-Legacy of Dead figura asociado a Play'n GO. La ficha enumera símbolo expansivo, giros gratis, juego de bonificación y un tema centrado en an ancient-world adventure theme. Estos datos describen el registro del sitio, pero no sustituyen la comprobación de la versión que se carga. Antes de publicar, verifica la ayuda, la tabla de pagos y los límites de apuesta.
+
+Esta ficha presenta la información publicada sobre Legacy of Dead y explica cómo interpretar las mecánicas indicadas. Es una guía editorial, no una afirmación de prueba práctica ni una predicción; confirma las reglas exactas en la versión disponible.
+
 
 ### Tema y primera impresión
 
@@ -188,16 +188,16 @@ Mega Moolah tiene una temática y unas funciones propias que conviene conocer an
 
 ### Qué significan los datos
 
-El RTP es un valor teórico calculado a lo largo de muchísimas rondas. No predice el resultado de un giro ni de una sesión breve. La volatilidad indicada tampoco permite saber si ganarás.
+Los datos de Mega Moolah deben leerse como referencias estadísticas, no como una predicción personal. El RTP se calcula a largo plazo y la volatilidad describe las oscilaciones posibles; ninguno indica qué ocurrirá en una sesión concreta.
 
 ### Qué conviene comprobar antes de jugar
 
-Abre la tabla de pagos antes de jugar. Allí se explican los valores de los símbolos, la activación de funciones y las condiciones de giros gratis o jackpots. Fija un presupuesto y juega solo donde sea legal.
-
----
+Revisa la versión de Mega Moolah que está disponible: la tabla de pagos explica los símbolos, las funciones especiales y las condiciones de las rondas de bonificación. Comprueba también las apuestas y establece un límite antes de empezar.
 
 ## Mega Moolah: Análisis editorial en profundidad
-Mega Moolah figura asociado a Microgaming. La ficha enumera bote progresivo, símbolos Wild, giros gratis y un tema centrado en a jackpot-centred presentation. Estos datos describen el registro del sitio, pero no sustituyen la comprobación de la versión que se carga. Antes de publicar, verifica la ayuda, la tabla de pagos y los límites de apuesta.
+
+Las notas sobre Mega Moolah distinguen los datos registrados del juego de su explicación editorial. Úsalas para saber qué revisar y confirma después los símbolos, las funciones y las apuestas en la ayuda de la versión que se ofrece.
+
 
 ### Tema y primera impresión
 
@@ -239,16 +239,16 @@ Rich Wilde and the Book of Dead tiene una temática y unas funciones propias que
 
 ### Qué significan los datos
 
-El RTP es un valor teórico calculado a lo largo de muchísimas rondas. No predice el resultado de un giro ni de una sesión breve. La volatilidad indicada tampoco permite saber si ganarás.
+El RTP publicado para Rich Wilde and the Book of Dead es un promedio teórico calculado a lo largo de muchas rondas, no una previsión para una sesión breve. La volatilidad describe la variación de los resultados, pero no anticipa el siguiente giro.
 
 ### Qué conviene comprobar antes de jugar
 
-Abre la tabla de pagos antes de jugar. Allí se explican los valores de los símbolos, la activación de funciones y las condiciones de giros gratis o jackpots. Fija un presupuesto y juega solo donde sea legal.
-
----
+Antes de abrir Rich Wilde and the Book of Dead, consulta la ayuda y la tabla de pagos. Comprueba los valores de los símbolos, cómo se activan las funciones y las reglas de giros gratis o jackpots. Fija un presupuesto y respeta la edad mínima y la normativa local.
 
 ## Rich Wilde and the Book of Dead: Análisis editorial en profundidad
-Rich Wilde and the Book of Dead figura asociado a Play'n GO. La ficha enumera símbolos Wild, giros gratis, símbolo expansivo y un tema centrado en a book-and-adventure theme. Estos datos describen el registro del sitio, pero no sustituyen la comprobación de la versión que se carga. Antes de publicar, verifica la ayuda, la tabla de pagos y los límites de apuesta.
+
+Esta ficha presenta la información publicada sobre Rich Wilde and the Book of Dead y explica cómo interpretar las mecánicas indicadas. Es una guía editorial, no una afirmación de prueba práctica ni una predicción; confirma las reglas exactas en la versión disponible.
+
 
 ### Tema y primera impresión
 
