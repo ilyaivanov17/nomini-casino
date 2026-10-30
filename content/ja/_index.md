@@ -1,18 +1,18 @@
 ---
-title: 'Instant Casino：ゲーム・ボーナス・決済ガイド'
+title: 'Nomini Casino：ゲーム・ボーナス・決済ガイド'
 description: 'ゲームの仕組み、ボーナス条件、決済、アカウントの安全性についてわかりやすく解説します。'
 type: page
-seo_title: Instant Casino：独立した情報ガイド | Instant Casino
-lastmod: '2026-10-28'
+seo_title: Nomini Casino：独立した情報ガイド
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
   list: always
 ---
 
-## Instant Casinoの情報調査と編集方針
+## Nomini Casinoに関する情報の調査と編集方針
 
-Instant Casinoは、オンラインカジノゲーム、スロットの仕組み、プロモーション、決済方法、アカウントの安全性について解説する独立系の情報サイトです。目的は条件を理解する手助けをすることであり、勝利を約束したり、入金を促したり、ギャンブルを収入源として紹介したりすることではありません。当サイトはカジノ運営、賭けの受付、プレイヤー残高の管理、入出金処理を行いません。
+この独立した情報ガイドでは、Nomini Casinoのオンラインゲーム、スロットの仕組み、プロモーション、決済方法、アカウントの安全性を取り上げます。Nominiの公式サイトではなく、カジノの運営者によって管理されているものでもありません。条件を理解するための情報を提供し、勝利を約束したり、入金を促したり、ギャンブルを収入源として紹介したりしません。
 
 ### 執筆者の経験・専門性と編集責任
 
