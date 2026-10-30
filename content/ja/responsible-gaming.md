@@ -2,8 +2,8 @@
 title: 責任あるプレイ：リスク・上限・保護
 description: 'ギャンブルのリスクを理解し、限度を設定し、相談先を確認しましょう。'
 type: page
-seo_title: 責任あるプレイ：リスク・上限・保護 | Instant Casino
-lastmod: '2026-10-28'
+seo_title: 責任あるプレイ：リスク・上限・保護 | Nomini Casino Guide
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
