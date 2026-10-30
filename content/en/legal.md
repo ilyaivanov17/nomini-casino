@@ -27,6 +27,8 @@ This guide groups existing information by topic so rules and limitations are eas
 
 Nomini Casino Guide is an independent information and comparison website about Nomini. It is not the official Nomini website and is not operated by the casino. This notice describes types of data processing that may occur when you visit this guide. The precise technical details depend on the hosting and email services actually used.
 
+For privacy and editorial enquiries about this guide, contact [info@nomini.com](mailto:info@nomini.com).
+
 
 
 ## 2. Technical access data
@@ -129,12 +131,24 @@ External websites are linked as additional sources or offers. Their operators ar
 
 Texts, images and other materials are protected by applicable intellectual-property laws. Reuse beyond legally permitted exceptions requires permission from the relevant rights holder.
 
-## Publisher identity and Nomini operator information
+## Publisher details supplied for this guide
 
-The legal identity and registered address of the publisher of this independent guide have not yet been verified and are therefore not stated here. This website is an independent information resource, not the official Nomini website and not the casino operator.
+The publisher has supplied the following company details for this independent information website:
 
-Nomini's [official General Terms and Conditions](https://nomini.com/en/rules), version 1.12, state that the terms were last updated on 19 August 2026. In the reviewed text, “Company” is described as the company operating the website, but the page does not identify that legal entity by registered name or company number. This guide therefore does not publish an unverified company identity or licence reference. Readers should consult the current official terms and applicable regulator information for their jurisdiction.
+- **Registered legal name:** Instant Gaming plc
+- **Company registration number:** C59314
+- **Registered address:** Level 7, The Plaza Business Centre, Bisazza Street, Sliema, SLM 1640, Malta
+- **Gaming regulator named in the publisher-supplied information:** [Malta Gaming Authority (MGA)](https://www.mga.org.mt/licensee-hub/licensee-register/)
+- **Licence reference supplied:** MGA/CRP/237/2013
+- **Licence type and original issue date supplied:** B2C Gaming Service Licence; 1 August 2018
+- **Website and editorial contact supplied:** [info@nomini.com](mailto:info@nomini.com)
 
-For account, deposit, withdrawal or bonus matters, contact Nomini through its official website. This guide does not accept wagers, hold player balances or process transactions.
+These details are restored from the publisher information previously supplied for the website. They identify the publisher of this guide; they do **not** identify the operator of Nomini Casino and do not establish that the stated MGA licence applies to Nomini or to this domain.
+
+The MGA's [official Licensee Register](https://www.mga.org.mt/licensee-hub/licensee-register/) is the primary place to check the current licence holder, authorised activities and status. Company details can be checked through the [Malta Business Registry](https://www.mbr.mt/). This page is not a live registry extract, and the supplied licence reference alone should not be taken as confirmation that a licence is currently active or covers this website or every market.
+
+Nomini's [official General Terms and Conditions](https://nomini.com/en/rules), version 1.12, were last updated on 19 August 2026. The reviewed terms describe the operator generically as the company operating the website, without naming its registered legal entity or company number. Do not treat the publisher details above as Nomini's operator details.
+
+For Nomini account, deposit, withdrawal or bonus matters, use the contact options on the [official Nomini website](https://nomini.com/en/about). Nomini's official About page lists support@nomini.com for customer support. This guide does not accept wagers, hold player balances or process transactions.
 
 **Last updated: 30 October 2026**
