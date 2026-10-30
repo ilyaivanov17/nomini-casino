@@ -19,7 +19,7 @@ screenshots_note: 'Illustrative redaktionelle Grafik, kein echter Screenshot ein
 ---
 ## Rechtliche Hinweise und Datenschutz
 
-Dieser Leitfaden bündelt vorhandene Informationen nach Themen, damit wichtige Regeln und Einschränkungen leichter vergleichbar sind. Spielregeln, RTP-Werte, Bonusbedingungen, Zahlungsoptionen und rechtliche Verfügbarkeit können sich je nach Version, Betreiber und Land ändern. Prüfe die Angaben direkt in der aktuell angebotenen Version.
+Auf dieser Seite stehen rechtliche Hinweise sowie Datenschutz- und Cookie-Informationen zu diesem unabhängigen redaktionellen Guide. Sie ersetzt nicht die Bedingungen des Casino-Betreibers und verwaltet keine Spielerkonten. Angaben zu technischen Daten, Kontaktwegen und Herausgeber beziehen sich auf diese Website. Fragen zu einem Nomini-Konto oder einer Transaktion gehören an den Betreiber über dessen offizielle Kontaktwege.
 
 ## Datenschutzerklärung
 

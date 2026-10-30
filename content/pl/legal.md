@@ -19,7 +19,7 @@ screenshots_note: 'Ilustracja redakcyjna, nie zrzut ekranu rzeczywistego interfe
 ---
 ## Informacje prawne i prywatność
 
-Ten przewodnik porządkuje istniejące informacje według tematów, aby łatwiej porównywać zasady i ograniczenia. Zasady gier, RTP, warunki bonusów, metody płatności i dostępność prawna mogą różnić się w zależności od wersji, operatora i kraju. Sprawdź je bezpośrednio w aktualnie oferowanej wersji.
+Ta strona zawiera informacje prawne, zasady prywatności i opis plików cookie dotyczące tego niezależnego serwisu redakcyjnego. Nie zastępuje regulaminu operatora kasyna i nie obsługuje kont graczy. Informacje o danych technicznych, kontakcie i wydawcy odnoszą się do tej witryny. Sprawy konta lub transakcji w Nomini należy kierować do operatora za pośrednictwem jego oficjalnych kanałów.
 
 ## Polityka prywatności
 
