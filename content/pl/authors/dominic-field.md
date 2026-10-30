@@ -2,13 +2,13 @@
 title: Dominic Field
 description: Dominic Field jest niezależnym autorem treści z wieloletnim doświadczeniem w tematyce hazardowej.
   Pisze o kasynach online, slotach, pokerze, zakładach…
-seo_title: Dominic Field – Niezależny autor treści iGaming | Instant Casino
+seo_title: Dominic Field – Niezależny autor treści iGaming | Nomini Casino Guide
 type: author
 slug: dominic-field
 aliases:
 - /pl/authors/author-6/
 date: '2026-09-27'
-lastmod: '2026-10-17'
+lastmod: '2026-10-30'
 author_id: author-6
 role: Niezależny autor treści iGaming
 photo: images/Dominic_Field.jpg
@@ -38,9 +38,9 @@ Dominic Field jest niezależnym autorem treści z wieloletnim doświadczeniem w 
 
 Kasyna online, sloty, poker, zakłady sportowe i branża iGaming
 
-### Wkład redakcyjny w Instant Casino
+### Wkład redakcyjny w Nomini Casino Guide
 
-W Instant Casino profil należy do pracy redakcyjnej dotyczącej informacji o kasynach, objaśnień gier i porównywania warunków ofert. Specjalizacja wyznacza sposób prezentacji: mechanika gier jest opisywana na podstawie dostępnych danych, bonusy porządkuje się według warunków, a metody płatności zestawia według limitów i podanego czasu realizacji.
+W Nomini Casino Guide profil należy do pracy redakcyjnej dotyczącej informacji o kasynach, objaśnień gier i porównywania warunków ofert. Specjalizacja wyznacza sposób prezentacji: mechanika gier jest opisywana na podstawie dostępnych danych, bonusy porządkuje się według warunków, a metody płatności zestawia według limitów i podanego czasu realizacji.
 
 ### Jak korzystać z tego profilu
 
