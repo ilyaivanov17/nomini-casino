@@ -42,6 +42,9 @@ jobs:
       - name: Build production site
         run: hugo --cleanDestinationDir --minify --environment production --printPathWarnings
 
+      - name: Check public text for Cyrillic
+        run: python scripts/check-public-cyrillic.py public
+
       - name: Validate generated sitemap
         run: python scripts/check-sitemap.py
 
