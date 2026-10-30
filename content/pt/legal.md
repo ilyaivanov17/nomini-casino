@@ -2,8 +2,8 @@
 title: Informações legais e privacidade
 description: 'Informação legal, privacidade, cookies e detalhes importantes deste site informativo.'
 type: page
-seo_title: Informações legais e privacidade | Instant Casino
-lastmod: '2026-10-28'
+seo_title: 'Informações legais e privacidade | Nomini Casino Guide'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -25,9 +25,9 @@ Este guia reúne informações por tema para facilitar a comparação de regras 
 
 ## 1. Âmbito e contacto
 
-A Instant Casino é um site informativo e comparativo sobre casinos online. Este aviso descreve os tipos de tratamento que podem ocorrer quando visita o site ou contacta a redação. Os detalhes técnicos também dependem dos serviços de alojamento e correio eletrónico efetivamente utilizados.
+O Nomini Casino Guide é um site informativo e comparativo independente sobre a Nomini. Não é o site oficial da Nomini nem é operado pelo casino. Este aviso descreve os tipos de tratamento de dados que podem ocorrer quando visita este guia. Os detalhes técnicos dependem dos serviços de alojamento e correio eletrónico efetivamente utilizados.
 
-Para questões de privacidade, contacte a equipa editorial da Instant Casino através de [info@instant.com](mailto:info@instant.com) ou pelo telefone [+49 10 111 0253](tel:+49101110253). Forneça apenas os dados necessários para tratar do pedido.
+
 
 ## 2. Dados técnicos de acesso
 
@@ -59,7 +59,7 @@ Os dados devem ser conservados apenas durante o tempo necessário para a finalid
 
 ## 9. Direitos de privacidade
 
-Consoante a legislação aplicável, pode ter direito de acesso, retificação ou eliminação, limitação ou oposição ao tratamento e portabilidade dos dados. Quando o consentimento for a base, pode retirá-lo para o futuro. Utilize os contactos acima para apresentar um pedido de privacidade. Também pode reclamar junto de uma autoridade competente de proteção de dados.
+Consoante a legislação aplicável, poderá ter direitos de acesso, retificação ou apagamento de dados pessoais, limitação ou oposição ao tratamento e portabilidade dos dados. Quando o tratamento se basear no consentimento, este pode ser retirado para o futuro. Como não foram fornecidos contactos verificados do editor deste guia, quando aplicável contacte o fornecedor de alojamento relevante ou a autoridade de proteção de dados competente.
 
 ## 10. Atualizações
 
@@ -115,16 +115,16 @@ Utilize os controlos de consentimento disponibilizados no site. Limpar o armazen
 
 ## Site e contacto editorial
 
-**Equipa editorial da Instant Casino**
+**Equipa editorial da Nomini Casino Guide**
 
-- E-mail: [info@instant.com](mailto:info@instant.com)
-- Telefone: [+49 10 111 0253](tel:+49101110253)
+
+
 
 Esta página diz respeito a um site informativo e comparativo sobre casinos online. Os contactos acima destinam-se a assuntos editoriais, correções, referências a fontes e questões gerais.
 
 ## Natureza do site
 
-A Instant Casino publica informação editorial e comparações sobre jogos, bónus, métodos de pagamento e temas relacionados. O site não aceita apostas, não gere contas de jogadores nem processa depósitos ou levantamentos enquanto operador de jogo. Questões de conta e pagamentos devem ser dirigidas ao operador correspondente.
+A Nomini Casino Guide publica informação editorial e comparações sobre jogos, bónus, métodos de pagamento e temas relacionados. O site não aceita apostas, não gere contas de jogadores nem processa depósitos ou levantamentos enquanto operador de jogo. Questões de conta e pagamentos devem ser dirigidas ao operador correspondente.
 
 ## Conteúdo editorial e atualizações
 
@@ -142,19 +142,12 @@ As ligações para sites de terceiros são disponibilizadas como fontes ou recur
 
 Textos, imagens e outros materiais estão protegidos pelas normas aplicáveis de propriedade intelectual. A reutilização fora das exceções legais requer autorização do titular dos direitos.
 
-## Dados do editor e da empresa
+## Identidade do editor e informações sobre a Nomini
 
-O editor forneceu os seguintes dados societários para este site:
+A identidade jurídica e a morada registada do editor deste guia independente ainda não foram verificadas e, por isso, não são indicadas aqui. Este site é um recurso informativo independente; não é o site oficial da Nomini nem o operador do casino.
 
-- **Nome legal registado:** Instant Gaming plc
-- **Número de registo da empresa:** C59314
-- **Sede registada indicada:** Level 7, The Plaza Business Centre, Bisazza Street, Sliema, SLM 1640, Malta
-- **Regulador de jogo indicado pelo editor:** [Malta Gaming Authority (MGA)](https://www.mga.org.mt/licensee-hub/licensee-register/)
-- **Referência de licença fornecida:** MGA/CRP/237/2013
-- **Tipo de licença e data de emissão inicial fornecidos:** B2C Gaming Service Licence; 1 de agosto de 2018
+Os [Termos e Condições oficiais da Nomini](https://nomini.com/en/rules), versão 1.12, indicam como última atualização a data de 19 de agosto de 2026. No texto consultado, «Empresa» é definida genericamente como a empresa que opera o site, mas a página não identifica a sua denominação legal registada nem o número de registo. Por isso, este guia não publica uma identidade empresarial ou referência de licença que não tenha sido verificada. Consulte os termos oficiais atuais e as informações do regulador competente na sua jurisdição.
 
-O [registo oficial de titulares de licença da MGA](https://www.mga.org.mt/licensee-hub/licensee-register/) é a fonte principal para verificar o titular atual, as atividades autorizadas e o estado da licença. Os dados da empresa podem ser consultados no [Malta Business Registry](https://www.mbr.mt/). Estes links permitem verificação independente; esta página não é uma consulta em tempo real ao registo e a referência indicada, por si só, não confirma que a licença esteja atualmente ativa nem que abranja este site ou todos os mercados.
+Para questões de conta, depósitos, levantamentos ou bónus, contacte a Nomini através do seu site oficial. Este guia não aceita apostas, não mantém saldos de jogadores nem processa transações.
 
-A Instant Casino publica conteúdo informativo e comparativo. Este site não aceita apostas, não gere contas de jogadores nem processa depósitos ou levantamentos. A informação sobre uma empresa ou licença não prova que todos os casinos de terceiros aqui analisados estejam licenciados na tua jurisdição.
-
-**Última atualização: 29 de outubro de 2026**
+**Última atualização: 30 de outubro de 2026**
