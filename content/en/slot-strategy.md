@@ -2,7 +2,7 @@
 title: 'Slot guide: features and mechanics'
 description: 'Understand RTP, volatility and game mechanics without treating them as predictions of results.'
 type: page
-seo_title: 'Slot guide: features and mechanics | Instant Casino'
+seo_title: 'Slot guide: features and mechanics | Nomini Casino Guide'
 lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
