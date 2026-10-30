@@ -175,11 +175,9 @@ Prowizja nie oznacza, że oferta jest odpowiednia lub lepsza. Porównuj warunki 
 
 ### Powiązane tematy
 
-Skorzystaj ze stron o płatnościach, bonusach i grach, aby zestawić informacje. Ogólne wskazówki nie zastępują warunków konkretnego konta.
+[Poradnik bonusowy]({{< relref "bonuses" >}}) wyjaśnia, jak czytać warunki promocji. Link partnerski może przynieść serwisowi prowizję; ujawnienie tej informacji opisuje relację handlową, a nie rekomenduje operatora.
 
-Graj tylko tam, gdzie jest to legalne, i ustal stały budżet. Nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
-
----
+Graj tylko tam, gdzie jest to legalne, ustal budżet i nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
 
 ## Co zrobić, gdy gra się zawiesi?
 
@@ -200,11 +198,9 @@ Skontaktuj się z oficjalną pomocą, podając nazwę gry, czas, urządzenie i n
 
 ### Powiązane tematy
 
-Skorzystaj ze stron o płatnościach, bonusach i grach, aby zestawić informacje. Ogólne wskazówki nie zastępują warunków konkretnego konta.
+W sprawach konta i płatności przydatne będą [poradnik płatności]({{< relref "payments" >}}) oraz informacje o koncie. Zapisz nazwę gry, godzinę i numer sprawy, aby operator mógł odnaleźć odpowiednią sesję.
 
-Graj tylko tam, gdzie jest to legalne, i ustal stały budżet. Nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
-
----
+Graj tylko tam, gdzie jest to legalne, ustal budżet i nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
 
 ## Czy dostępna jest aplikacja mobilna?
 
@@ -225,11 +221,9 @@ Jeśli operator udostępnia aplikację, używaj wyłącznie linku z jego zweryfi
 
 ### Powiązane tematy
 
-Skorzystaj ze stron o płatnościach, bonusach i grach, aby zestawić informacje. Ogólne wskazówki nie zastępują warunków konkretnego konta.
+[Katalog gier]({{< relref "slots" >}}) i pozostałe poradniki są dostępne przez stronę responsywną. Dopóki nie ma potwierdzonej oficjalnej aplikacji, unikaj plików instalacyjnych z zewnętrznych stron i sprawdzaj wydawcę.
 
-Graj tylko tam, gdzie jest to legalne, i ustal stały budżet. Nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
-
----
+Graj tylko tam, gdzie jest to legalne, ustal budżet i nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
 
 ## Czy obecnie potwierdzono bonus powitalny?
 
@@ -250,11 +244,9 @@ Porównaj minimalną wpłatę, mnożnik obrotu, termin ważności, maksymalną s
 
 ### Powiązane tematy
 
-Skorzystaj ze stron o płatnościach, bonusach i grach, aby zestawić informacje. Ogólne wskazówki nie zastępują warunków konkretnego konta.
+[Poradnik warunków bonusów]({{< relref "bonuses" >}}) opisuje wymagania obrotu i terminy. Kody widoczne na stronie pochodzą od właściciela witryny i są oznaczone jako niezweryfikowane; ich aktualną ważność i dostępność potwierdź u operatora.
 
-Graj tylko tam, gdzie jest to legalne, i ustal stały budżet. Nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
-
----
+Graj tylko tam, gdzie jest to legalne, ustal budżet i nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
 
 ## Czy ten projekt sam jest kasynem?
 
@@ -291,11 +283,9 @@ Przed wysłaniem formularza przeczytaj zasady wieku i dostępności kraju, infor
 
 ### Powiązane tematy
 
-Skorzystaj ze stron o płatnościach, bonusach i grach, aby zestawić informacje. Ogólne wskazówki nie zastępują warunków konkretnego konta.
+[Poradnik odpowiedzialnej gry]({{< relref "responsible-gaming" >}}) omawia limity i sygnały ostrzegawcze. Rejestruj się wyłącznie tam, gdzie jest to zgodne z prawem, używając własnych, prawdziwych danych.
 
-Graj tylko tam, gdzie jest to legalne, i ustal stały budżet. Nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
-
----
+Graj tylko tam, gdzie jest to legalne, ustal budżet i nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
 
 ## Jak ocenia się uczciwość automatów?
 
@@ -316,11 +306,9 @@ Sprawdź dostawcę podanego w informacji o grze, wartość RTP i ewentualne opub
 
 ### Powiązane tematy
 
-Skorzystaj ze stron o płatnościach, bonusach i grach, aby zestawić informacje. Ogólne wskazówki nie zastępują warunków konkretnego konta.
+[Przewodnik po funkcjach slotów]({{< relref "slot-features" >}}) wyjaśnia mechanikę i wartości teoretyczne. RTP oraz informacje o testach opisują określone parametry, ale nie przewidują wyniku pojedynczej sesji.
 
-Graj tylko tam, gdzie jest to legalne, i ustal stały budżet. Nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
-
----
+Graj tylko tam, gdzie jest to legalne, ustal budżet i nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
 
 ## Jak wypłacić wygrane?
 
@@ -341,6 +329,6 @@ Najpierw sprawdź, czy zakończono weryfikację tożsamości, czy metoda płatno
 
 ### Powiązane tematy
 
-Skorzystaj ze stron o płatnościach, bonusach i grach, aby zestawić informacje. Ogólne wskazówki nie zastępują warunków konkretnego konta.
+[Poradnik płatności]({{< relref "payments" >}}) przedstawia metody i orientacyjne terminy realizacji. Faktyczny czas zależy od operatora, dostawcy płatności, weryfikacji i warunków konta.
 
-Graj tylko tam, gdzie jest to legalne, i ustal stały budżet. Nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.
+Graj tylko tam, gdzie jest to legalne, ustal budżet i nie stawiaj pieniędzy, których utraty nie możesz zaakceptować.

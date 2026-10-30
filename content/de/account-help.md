@@ -365,11 +365,9 @@ Die Vergütung darf nicht als Nachweis für die Qualität eines Angebots verstan
 
 ### Verwandte Themen
 
-Nutze die Zahlungs-, Bonus- und Spielseiten dieses Portals, um die relevanten Angaben nebeneinander zu vergleichen. Allgemeine Informationen ersetzen keine individuellen Bedingungen.
+Der [Bonusleitfaden]({{< relref "bonuses" >}}) erklärt, wie Aktionsbedingungen zu lesen sind. Partnerlinks können eine Provision auslösen; der Hinweis beschreibt die geschäftliche Beziehung dieser Website und ist keine Qualitätsbewertung des Anbieters.
 
-Spiele nur mit einem festen Budget und nur, wenn Glücksspiel für dich legal ist. Setze kein Geld ein, dessen Verlust du nicht tragen kannst.
-
----
+Spiele nur, wenn Glücksspiel an deinem Aufenthaltsort legal ist, halte ein festes Budget ein und setze kein Geld ein, dessen Verlust du nicht tragen kannst.
 
 ## Was tun, wenn ein Spiel einfriert?
 
@@ -390,11 +388,9 @@ Nutze den offiziellen Support und nenne Spielname, Zeitpunkt, Gerät und Referen
 
 ### Verwandte Themen
 
-Nutze die Zahlungs-, Bonus- und Spielseiten dieses Portals, um die relevanten Angaben nebeneinander zu vergleichen. Allgemeine Informationen ersetzen keine individuellen Bedingungen.
+Bei Zahlungs- oder Kontofragen helfen der [Zahlungsleitfaden]({{< relref "payments" >}}) und die Kontoinformationen weiter. Halte Spielname, Zeitpunkt und Support-Referenz bereit, damit der Betreiber die Sitzung zuordnen kann.
 
-Spiele nur mit einem festen Budget und nur, wenn Glücksspiel für dich legal ist. Setze kein Geld ein, dessen Verlust du nicht tragen kannst.
-
----
+Spiele nur, wenn Glücksspiel an deinem Aufenthaltsort legal ist, halte ein festes Budget ein und setze kein Geld ein, dessen Verlust du nicht tragen kannst.
 
 ## Gibt es eine mobile App?
 
@@ -415,11 +411,9 @@ Wenn der Anbieter eine App anbietet, nutze ausschließlich den Link auf seiner v
 
 ### Verwandte Themen
 
-Nutze die Zahlungs-, Bonus- und Spielseiten dieses Portals, um die relevanten Angaben nebeneinander zu vergleichen. Allgemeine Informationen ersetzen keine individuellen Bedingungen.
+Der [Spielekatalog]({{< relref "slots" >}}) und die übrigen Guides sind über die responsive Website erreichbar. Solange kein offizieller App-Eintrag bestätigt ist, solltest du keine Installationsdateien von Drittseiten verwenden und den Herausgeber prüfen.
 
-Spiele nur mit einem festen Budget und nur, wenn Glücksspiel für dich legal ist. Setze kein Geld ein, dessen Verlust du nicht tragen kannst.
-
----
+Spiele nur, wenn Glücksspiel an deinem Aufenthaltsort legal ist, halte ein festes Budget ein und setze kein Geld ein, dessen Verlust du nicht tragen kannst.
 
 ## Ist aktuell ein Willkommensbonus bestätigt?
 
@@ -440,11 +434,9 @@ Vergleiche Mindesteinzahlung, Umsatzmultiplikator, Ablaufdatum, Höchsteinsatz, 
 
 ### Verwandte Themen
 
-Nutze die Zahlungs-, Bonus- und Spielseiten dieses Portals, um die relevanten Angaben nebeneinander zu vergleichen. Allgemeine Informationen ersetzen keine individuellen Bedingungen.
+Im [Bonusleitfaden]({{< relref "bonuses" >}}) werden Umsatz- und Laufzeitregeln erläutert. Die auf dieser Website genannten Codes stammen vom Seiteninhaber und sind als ungeprüft markiert; ihre aktuelle Gültigkeit und Teilnahmebedingungen musst du beim Anbieter bestätigen.
 
-Spiele nur mit einem festen Budget und nur, wenn Glücksspiel für dich legal ist. Setze kein Geld ein, dessen Verlust du nicht tragen kannst.
-
----
+Spiele nur, wenn Glücksspiel an deinem Aufenthaltsort legal ist, halte ein festes Budget ein und setze kein Geld ein, dessen Verlust du nicht tragen kannst.
 
 ## Ist dieses Projekt selbst ein Casino?
 
@@ -481,11 +473,9 @@ Vor dem Absenden solltest du Alters- und Länderanforderungen, Datenschutzangabe
 
 ### Verwandte Themen
 
-Nutze die Zahlungs-, Bonus- und Spielseiten dieses Portals, um die relevanten Angaben nebeneinander zu vergleichen. Allgemeine Informationen ersetzen keine individuellen Bedingungen.
+Der [Leitfaden zum verantwortungsvollen Spielen]({{< relref "responsible-gaming" >}}) behandelt Limits und Warnzeichen. Registriere dich nur, wenn dies an deinem Aufenthaltsort legal ist, und verwende korrekte persönliche Angaben.
 
-Spiele nur mit einem festen Budget und nur, wenn Glücksspiel für dich legal ist. Setze kein Geld ein, dessen Verlust du nicht tragen kannst.
-
----
+Spiele nur, wenn Glücksspiel an deinem Aufenthaltsort legal ist, halte ein festes Budget ein und setze kein Geld ein, dessen Verlust du nicht tragen kannst.
 
 ## Wie wird die Fairness von Slots geprüft?
 
@@ -506,11 +496,9 @@ Prüfe den in der Spielinformation genannten Anbieter, die RTP-Angabe und gegebe
 
 ### Verwandte Themen
 
-Nutze die Zahlungs-, Bonus- und Spielseiten dieses Portals, um die relevanten Angaben nebeneinander zu vergleichen. Allgemeine Informationen ersetzen keine individuellen Bedingungen.
+Der [Leitfaden zu Slot-Funktionen]({{< relref "slot-features" >}}) erklärt Mechaniken und theoretische Kennzahlen. RTP- und Prüfhinweise beschreiben bestimmte Parameter, sagen aber nicht voraus, wie eine einzelne Sitzung endet.
 
-Spiele nur mit einem festen Budget und nur, wenn Glücksspiel für dich legal ist. Setze kein Geld ein, dessen Verlust du nicht tragen kannst.
-
----
+Spiele nur, wenn Glücksspiel an deinem Aufenthaltsort legal ist, halte ein festes Budget ein und setze kein Geld ein, dessen Verlust du nicht tragen kannst.
 
 ## Wie lasse ich mir Gewinne auszahlen?
 
@@ -531,6 +519,6 @@ Prüfe zuerst, ob die Identitätsprüfung abgeschlossen ist, ob die Zahlungsmeth
 
 ### Verwandte Themen
 
-Nutze die Zahlungs-, Bonus- und Spielseiten dieses Portals, um die relevanten Angaben nebeneinander zu vergleichen. Allgemeine Informationen ersetzen keine individuellen Bedingungen.
+Der [Zahlungsleitfaden]({{< relref "payments" >}}) erläutert Zahlungsmethoden und Bearbeitungsprognosen. Die tatsächliche Dauer hängt vom Betreiber, Zahlungsdienst, Identitätsprüfung und den für das Konto geltenden Bedingungen ab.
 
-Spiele nur mit einem festen Budget und nur, wenn Glücksspiel für dich legal ist. Setze kein Geld ein, dessen Verlust du nicht tragen kannst.
+Spiele nur, wenn Glücksspiel an deinem Aufenthaltsort legal ist, halte ein festes Budget ein und setze kein Geld ein, dessen Verlust du nicht tragen kannst.

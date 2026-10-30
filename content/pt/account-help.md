@@ -175,11 +175,9 @@ A comissão não prova que uma oferta seja adequada ou melhor. Compare as condi�
 
 ### Temas relacionados
 
-Utilize as páginas de pagamentos, bónus e jogos para comparar a informação. A orientação geral não substitui as condições específicas da conta.
+O [guia de bónus]({{< relref "bonuses" >}}) explica como interpretar as condições promocionais. Os links de parceiros podem gerar uma comissão; a divulgação descreve a relação comercial do site e não representa uma recomendação do operador.
 
-Jogue apenas onde o jogo é legal para si e defina um orçamento fixo. Nunca aposte dinheiro que não pode perder.
-
----
+Jogue apenas onde seja legal, defina um orçamento e nunca aposte dinheiro que não pode perder.
 
 ## O que fazer se um jogo bloquear?
 
@@ -200,11 +198,9 @@ Contacte o suporte oficial e indique o jogo, a hora, o dispositivo e a referênc
 
 ### Temas relacionados
 
-Utilize as páginas de pagamentos, bónus e jogos para comparar a informação. A orientação geral não substitui as condições específicas da conta.
+Para questões de conta ou pagamentos, consulte o [guia de pagamentos]({{< relref "payments" >}}) e a informação sobre a conta. Guarde o nome do jogo, a hora e a referência do suporte para facilitar a identificação da sessão.
 
-Jogue apenas onde o jogo é legal para si e defina um orçamento fixo. Nunca aposte dinheiro que não pode perder.
-
----
+Jogue apenas onde seja legal, defina um orçamento e nunca aposte dinheiro que não pode perder.
 
 ## Existe uma aplicação móvel?
 
@@ -225,11 +221,9 @@ Se o operador disponibilizar uma aplicação, utilize apenas o link do site ofic
 
 ### Temas relacionados
 
-Utilize as páginas de pagamentos, bónus e jogos para comparar a informação. A orientação geral não substitui as condições específicas da conta.
+O [catálogo de jogos]({{< relref "slots" >}}) e os restantes guias podem ser consultados no site adaptável. Enquanto não existir uma aplicação oficial confirmada, evite ficheiros de instalação de terceiros e verifique o editor.
 
-Jogue apenas onde o jogo é legal para si e defina um orçamento fixo. Nunca aposte dinheiro que não pode perder.
-
----
+Jogue apenas onde seja legal, defina um orçamento e nunca aposte dinheiro que não pode perder.
 
 ## Está confirmado algum bónus de boas-vindas atualmente?
 
@@ -250,11 +244,9 @@ Compare o depósito mínimo, o multiplicador de aposta, a validade, a aposta má
 
 ### Temas relacionados
 
-Utilize as páginas de pagamentos, bónus e jogos para comparar a informação. A orientação geral não substitui as condições específicas da conta.
+O [guia das condições dos bónus]({{< relref "bonuses" >}}) explica os requisitos de aposta e os prazos. Os códigos apresentados neste site foram fornecidos pelo proprietário e estão assinalados como não verificados; confirme a validade e elegibilidade atuais junto do operador.
 
-Jogue apenas onde o jogo é legal para si e defina um orçamento fixo. Nunca aposte dinheiro que não pode perder.
-
----
+Jogue apenas onde seja legal, defina um orçamento e nunca aposte dinheiro que não pode perder.
 
 ## Este projeto é um casino?
 
@@ -291,11 +283,9 @@ Antes de enviar o formulário, leia os requisitos de idade e país, a informaç�
 
 ### Temas relacionados
 
-Utilize as páginas de pagamentos, bónus e jogos para comparar a informação. A orientação geral não substitui as condições específicas da conta.
+O [guia de jogo responsável]({{< relref "responsible-gaming" >}}) aborda limites e sinais de alerta. Registe-se apenas onde for legal e utilize dados pessoais corretos que lhe pertençam.
 
-Jogue apenas onde o jogo é legal para si e defina um orçamento fixo. Nunca aposte dinheiro que não pode perder.
-
----
+Jogue apenas onde seja legal, defina um orçamento e nunca aposte dinheiro que não pode perder.
 
 ## Como é avaliada a imparcialidade das slots?
 
@@ -316,11 +306,9 @@ Verifique o fornecedor indicado na informação do jogo, o RTP e eventuais dados
 
 ### Temas relacionados
 
-Utilize as páginas de pagamentos, bónus e jogos para comparar a informação. A orientação geral não substitui as condições específicas da conta.
+O [guia das funcionalidades dos slots]({{< relref "slot-features" >}}) explica mecânicas e valores teóricos. O RTP e os dados de testes descrevem parâmetros, mas não asseguram o resultado de uma sessão individual.
 
-Jogue apenas onde o jogo é legal para si e defina um orçamento fixo. Nunca aposte dinheiro que não pode perder.
-
----
+Jogue apenas onde seja legal, defina um orçamento e nunca aposte dinheiro que não pode perder.
 
 ## Como levantar os ganhos?
 
@@ -341,6 +329,6 @@ Verifique primeiro se a validação de identidade está concluída, se o meio de
 
 ### Temas relacionados
 
-Utilize as páginas de pagamentos, bónus e jogos para comparar a informação. A orientação geral não substitui as condições específicas da conta.
+O [guia de pagamentos]({{< relref "payments" >}}) explica métodos e prazos estimados. O tempo efetivo depende do operador, do prestador de pagamentos, da verificação e das condições da conta.
 
-Jogue apenas onde o jogo é legal para si e defina um orçamento fixo. Nunca aposte dinheiro que não pode perder.
+Jogue apenas onde seja legal, defina um orçamento e nunca aposte dinheiro que não pode perder.
