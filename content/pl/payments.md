@@ -2,8 +2,8 @@
 title: Wpłaty, wypłaty i metody płatności
 description: 'Porównanie wpłat i wypłat, możliwych opłat, czasu realizacji i weryfikacji.'
 type: page
-seo_title: Wpłaty, wypłaty i metody płatności | Instant Casino
-lastmod: '2026-10-28'
+seo_title: Wpłaty, wypłaty i metody płatności | Nomini Casino Guide
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -30,7 +30,7 @@ Ten przewodnik porządkuje istniejące informacje według tematów, aby łatwiej
 
 ### Jak znaleźć sekcję wpłat
 
-1. Otwórz Instant Casino pod znanym Ci oficjalnym adresem i zaloguj się. Nie wpisuj danych logowania na niezależnej stronie informacyjnej.
+1. Otwórz Nomini pod znanym Ci oficjalnym adresem i zaloguj się. Nie wpisuj danych logowania na niezależnej stronie informacyjnej.
 2. Na koncie znajdź sekcję **Kasa**, **Wpłata** lub podobnie nazwaną funkcję płatności. Dokładna nazwa może się różnić.
 3. Wybierz metodę, która rzeczywiście jest widoczna na Twoim koncie. Sprawdź w kasie minimalną kwotę, walutę, opłaty i szacowany czas realizacji.
 4. Wpisz kwotę i sprawdź podsumowanie. Jeśli chcesz skorzystać z bonusu, przed płatnością przeczytaj jego warunki i sprawdź, czy wybrana metoda się kwalifikuje.
@@ -50,9 +50,11 @@ Sprawdź, czy dana metoda kwalifikuje się do wybranej promocji. Przeczytaj regu
 
 Zapisz potwierdzenie i numer transakcji. Nie przesyłaj pełnych danych karty ani danych logowania do serwisu redakcyjnego lub nieoficjalnego kontaktu.
 
-## Wpłaty w Instant Casino: co sprawdzić przed płatnością
+## Wpłaty w Nomini: co sprawdzić przed płatnością
 
-Przydatny poradnik o **wpłatach w Instant Casino** powinien wyjaśniać więcej niż same logotypy płatności. Przed wyborem sprawdź minimalną i maksymalną kwotę widoczną na swoim koncie, walutę, możliwe opłaty operatora oraz to, czy tą samą metodą można później wypłacić środki. Kwoty w tabeli pochodzą z danych zapisanych w projekcie i nie gwarantują dostępności każdej metody w każdym kraju ani na każdym koncie.
+Przy porównywaniu **wpłat w Nomini** nie wystarczy sprawdzić samych logo płatności. Zwróć uwagę na minimalną i maksymalną kwotę widoczną na koncie, walutę, możliwe opłaty oraz możliwość późniejszej wypłaty tą samą metodą.
+
+**Uwaga dotycząca weryfikacji danych:** Wartości w poniższych tabelach pochodzą ze starszych danych katalogowych projektu i nie zostały sprawdzone w aktualnej kasie Nomini. Nie potwierdzają obecnie dostępnych metod płatności, limitów, opłat ani czasu realizacji w Nomini. Wszystkie szczegóły sprawdź w oficjalnej kasie dla swojego kraju i konta.
 
 ### Lista kontrolna przed wpłatą
 
