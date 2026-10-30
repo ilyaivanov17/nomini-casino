@@ -27,6 +27,8 @@ Ten przewodnik porządkuje istniejące informacje według tematów, aby łatwiej
 
 Nomini Casino Guide to niezależny serwis informacyjny i porównawczy poświęcony Nomini. Nie jest oficjalną stroną Nomini ani nie jest prowadzony przez kasyno. Niniejsza informacja opisuje rodzaje przetwarzania danych, które mogą wystąpić podczas odwiedzania tego przewodnika. Szczegóły techniczne zależą od faktycznie wykorzystywanego hostingu i poczty elektronicznej.
 
+W sprawach prywatności i redakcyjnych dotyczących tego przewodnika napisz na [info@nomini.com](mailto:info@nomini.com).
+
 
 
 ## 2. Techniczne dane dostępu
@@ -142,12 +144,24 @@ Linki do zewnętrznych stron służą jako dodatkowe źródła lub oferty. Za ic
 
 Teksty, obrazy i inne materiały podlegają właściwym przepisom o prawach własności intelektualnej. Wykorzystanie wykraczające poza dozwolone prawem wyjątki wymaga zgody właściwego uprawnionego.
 
-## Dane wydawcy i informacje o Nomini
+## Dane wydawcy przekazane dla tego przewodnika
 
-Tożsamość prawna i adres rejestrowy wydawcy tego niezależnego przewodnika nie zostały jeszcze zweryfikowane, dlatego nie są tutaj podawane. Ta witryna jest niezależnym źródłem informacji, a nie oficjalną stroną Nomini ani operatorem kasyna.
+Wydawca przekazał następujące dane spółki dla tego niezależnego serwisu informacyjnego:
 
-[Oficjalny Regulamin Nomini](https://nomini.com/en/rules), wersja 1.12, wskazuje datę ostatniej aktualizacji 19 sierpnia 2026 r. W sprawdzonym tekście termin „Firma” opisano ogólnie jako podmiot prowadzący witrynę, ale strona nie podaje jego zarejestrowanej nazwy ani numeru spółki. Ten przewodnik nie publikuje więc niezweryfikowanej nazwy podmiotu ani numeru licencji. Należy sprawdzić aktualny regulamin i informacje właściwego organu nadzoru dla danego kraju.
+- **Zarejestrowana nazwa prawna:** Instant Gaming plc
+- **Numer rejestracyjny spółki:** C59314
+- **Zarejestrowany adres:** Level 7, The Plaza Business Centre, Bisazza Street, Sliema, SLM 1640, Malta
+- **Organ regulacyjny wskazany w informacjach przekazanych przez wydawcę:** [Malta Gaming Authority (MGA)](https://www.mga.org.mt/licensee-hub/licensee-register/)
+- **Podany numer licencji:** MGA/CRP/237/2013
+- **Podany typ licencji i pierwotna data wydania:** B2C Gaming Service Licence; 1 sierpnia 2018 r.
+- **Podany kontakt do witryny i redakcji:** [info@nomini.com](mailto:info@nomini.com)
 
-W sprawach konta, wpłat, wypłat lub bonusów skontaktuj się z Nomini przez oficjalną stronę. Ten serwis informacyjny nie przyjmuje stawek, nie prowadzi sald graczy i nie przetwarza transakcji.
+Przywrócono tu dane z informacji o wydawcy przekazanych wcześniej dla tej witryny. Identyfikują one wydawcę tego przewodnika; **nie identyfikują** operatora Nomini Casino i nie potwierdzają, że wskazana licencja MGA dotyczy Nomini lub tej domeny.
+
+[Oficjalny rejestr licencjobiorców MGA](https://www.mga.org.mt/licensee-hub/licensee-register/) jest podstawowym źródłem do sprawdzenia aktualnego posiadacza licencji, dozwolonych działań i jej statusu. Dane spółki można sprawdzić w [Malta Business Registry](https://www.mbr.mt/). Ta strona nie jest bieżącym odpisem z rejestru, a sam podany numer nie potwierdza, że licencja jest obecnie aktywna ani że obejmuje tę witrynę lub wszystkie rynki.
+
+[Oficjalny Regulamin Nomini](https://nomini.com/en/rules), wersja 1.12, został ostatnio zaktualizowany 19 sierpnia 2026 r. W sprawdzonym tekście operator został opisany ogólnie jako firma prowadząca witrynę, bez podania zarejestrowanej nazwy prawnej ani numeru spółki. Powyższych danych wydawcy nie należy traktować jako danych operatora Nomini.
+
+W sprawach konta Nomini, wpłat, wypłat lub bonusów skorzystaj z opcji kontaktu na [oficjalnej stronie Nomini](https://nomini.com/en/about). Oficjalna strona About podaje support@nomini.com jako adres obsługi klienta. Ten serwis informacyjny nie przyjmuje stawek, nie prowadzi sald graczy i nie przetwarza transakcji.
 
 **Ostatnia aktualizacja: 30 października 2026 r.**
