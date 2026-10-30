@@ -2,8 +2,8 @@
 title: Einzahlungen, Auszahlungen und Zahlungsmethoden
 description: 'Einzahlungen und Auszahlungen vergleichen: mögliche Gebühren, Bearbeitungszeiten und Verifizierung.'
 type: page
-seo_title: Einzahlungen, Auszahlungen und Zahlungsmethoden | Instant Casino
-lastmod: '2026-10-28'
+seo_title: Einzahlungen, Auszahlungen und Zahlungsmethoden | Nomini Casino Guide
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -28,21 +28,23 @@ screenshots_note: 'Illustrative redaktionelle Grafik, kein echter Screenshot ein
 
 Dieser Leitfaden bündelt vorhandene Informationen nach Themen, damit wichtige Regeln und Einschränkungen leichter vergleichbar sind. Spielregeln, RTP-Werte, Bonusbedingungen, Zahlungsoptionen und rechtliche Verfügbarkeit können sich je nach Version, Betreiber und Land ändern. Prüfe die Angaben direkt in der aktuell angebotenen Version.
 
-## Geld einzahlen bei Instant Casino
+## Geld einzahlen bei Nomini
 
 ### So findest du den Einzahlungsbereich
 
-1. Öffne die Instant Casino-Seite über die dir bekannte offizielle Adresse und melde dich an. Gib deine Zugangsdaten niemals auf einer fremden Informationsseite ein.
+1. Öffne die Nomini-Seite über die dir bekannte offizielle Adresse und melde dich an. Gib deine Zugangsdaten niemals auf einer fremden Informationsseite ein.
 2. Öffne im Konto den Bereich **„Kasse“**, **„Einzahlen“** oder eine ähnlich bezeichnete Zahlungsfunktion. Die genaue Beschriftung kann sich unterscheiden.
 3. Wähle eine Methode, die dir tatsächlich angezeigt wird. Vergleiche Mindestbetrag, Währung, Gebühren und Bearbeitungszeit direkt in der Kasse.
 4. Gib den Betrag ein und kontrolliere die Zusammenfassung. Falls du einen Bonus nutzen willst, lies dessen Bedingungen vor der Zahlung und prüfe, ob die gewählte Methode qualifiziert.
 5. Bestätige die Zahlung erst, wenn Methode, Betrag und Gebühren stimmen. Speichere die Bestätigung oder Transaktionsnummer.
 
-**Wichtig:** Diese Anleitung erklärt den allgemeinen Ablauf. Sie bestätigt weder die Verfügbarkeit einer Zahlungsmethode noch feste Limits oder Bearbeitungszeiten. Maßgeblich sind die Angaben, die Instant Casino dir nach dem Login anzeigt.
+**Wichtig:** Diese Anleitung erklärt den allgemeinen Ablauf. Sie bestätigt weder die Verfügbarkeit einer Zahlungsmethode noch feste Limits oder Bearbeitungszeiten. Maßgeblich sind die Angaben, die Nomini dir nach dem Login anzeigt.
 
-## Einzahlungen bei Instant Casino: Was vorab wichtig ist
+## Einzahlungen bei Nomini: Was vorab wichtig ist
 
-Wer nach **Instant Casino Einzahlungen**, Zahlungsmethoden oder Einzahlungslimits sucht, braucht mehr als eine Liste mit Logos. Entscheidend sind der tatsächlich angezeigte Mindestbetrag, mögliche Gebühren, die Kontowährung und die Frage, ob dieselbe Methode später für Auszahlungen verwendet werden kann. Die nachstehenden Beträge entsprechen den im Projekt gespeicherten Angaben; sie sind keine Garantie dafür, dass jede Methode für jedes Land oder jedes Konto verfügbar ist.
+Wer nach **Nomini Einzahlungen** und Zahlungsmethoden sucht, sollte nicht allein auf Zahlungslogos achten. Prüfe die im Konto angezeigten Mindest- und Höchstbeträge, Währung, mögliche Gebühren und die Verfügbarkeit derselben Methode für Auszahlungen.
+
+**Hinweis zur Datenprüfung:** Die Tabellenwerte unten stammen aus älteren Projektkatalogdaten und wurden nicht mit der aktuellen Nomini-Kasse abgeglichen. Sie bestätigen keine derzeit verfügbaren Zahlungsmethoden, Limits, Gebühren oder Bearbeitungszeiten bei Nomini. Prüfe alle Angaben direkt in der offiziellen Kasse für dein Land und Konto.
 
 ### Schritt für Schritt einzahlen
 
