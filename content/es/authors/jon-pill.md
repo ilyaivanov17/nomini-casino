@@ -2,13 +2,13 @@
 title: Jon Pill
 description: Jon Pill trabaja como redactor freelance y periodista de juego desde 2015. Sus temas incluyen estrategia, póquer
   y juegos de casino; Casino Guru lo…
-seo_title: Jon Pill – Analista de juegos y periodista de juego | Instant Casino
+seo_title: Jon Pill – Analista de juegos y periodista de juego | Nomini Casino Guide
 type: author
 slug: jon-pill
 aliases:
 - /es/authors/author-7/
 date: '2026-09-27'
-lastmod: '2026-10-17'
+lastmod: '2026-10-30'
 author_id: author-7
 role: Analista de juegos y periodista de juego
 photo: images/Jon_Pill.webp
@@ -39,9 +39,9 @@ Jon Pill trabaja como redactor freelance y periodista de juego desde 2015. Sus t
 
 Estrategia de juego, reglas de póquer, juegos de casino y análisis de mecánicas
 
-### Contribución editorial en Instant Casino
+### Contribución editorial en Nomini Casino Guide
 
-En Instant Casino, este perfil forma parte del trabajo editorial sobre información de casinos, explicaciones de juegos y comparación de condiciones. El área de especialidad determina el enfoque: las mecánicas se explican a partir de los datos disponibles, los bonos se organizan por sus condiciones y los métodos de pago se comparan según límites y tiempos indicados.
+En Nomini Casino Guide, este perfil forma parte del trabajo editorial sobre información de casinos, explicaciones de juegos y comparación de condiciones. El área de especialidad determina el enfoque: las mecánicas se explican a partir de los datos disponibles, los bonos se organizan por sus condiciones y los métodos de pago se comparan según límites y tiempos indicados.
 
 ### Cómo interpretar este perfil
 
