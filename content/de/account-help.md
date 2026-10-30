@@ -28,7 +28,7 @@ screenshots_note: 'Illustrative redaktionelle Grafik, kein echter Screenshot ein
 ---
 ## Konto, Registrierung, Login und häufige Fragen
 
-Dieser Leitfaden bündelt vorhandene Informationen nach Themen, damit wichtige Regeln und Einschränkungen leichter vergleichbar sind. Spielregeln, RTP-Werte, Bonusbedingungen, Zahlungsoptionen und rechtliche Verfügbarkeit können sich je nach Version, Betreiber und Land ändern. Prüfe die Angaben direkt in der aktuell angebotenen Version.
+Diese Seite führt durch Registrierung, Kontozugang, Identitätsprüfungen und häufige Fragen. Die tatsächlich geltenden Schritte und Funktionen legt der offizielle Betreiber fest; sie können je nach Land, Zahlungsweg und Kontostatus abweichen. Dieses unabhängige Informationsangebot kann kein Spielerkonto eröffnen, prüfen oder wiederherstellen.
 
 ## Nomini Registrierung — Anleitung & KYC
 

@@ -28,7 +28,7 @@ screenshots_note: 'Ilustracja redakcyjna, nie zrzut ekranu rzeczywistego interfe
 ---
 ## Konto, rejestracja, logowanie i częste pytania
 
-Ten przewodnik porządkuje istniejące informacje według tematów, aby łatwiej porównywać zasady i ograniczenia. Zasady gier, RTP, warunki bonusów, metody płatności i dostępność prawna mogą różnić się w zależności od wersji, operatora i kraju. Sprawdź je bezpośrednio w aktualnie oferowanej wersji.
+Ta strona porządkuje informacje o rejestracji, dostępie do konta, weryfikacji tożsamości i częstych pytaniach. Obowiązujące procedury oraz dostępne funkcje określa oficjalny operator; mogą się one różnić zależnie od kraju, metody płatności i statusu konta. Ten niezależny poradnik nie zakłada, nie weryfikuje ani nie odzyskuje kont graczy.
 
 ## Rejestracja konta
 

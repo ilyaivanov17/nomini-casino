@@ -28,7 +28,7 @@ screenshots_note: 'Ilustração editorial; não é uma captura de uma interface 
 ---
 ## Conta, registo, início de sessão e perguntas frequentes
 
-Este guia reúne informações por tema para facilitar a comparação de regras e limitações. As regras dos jogos, o RTP, as condições dos bónus, os métodos de pagamento e a disponibilidade legal podem variar consoante a versão, o operador e o país. Confirme os dados na versão atualmente disponibilizada.
+Esta página organiza orientações sobre registo, acesso à conta, verificações de identidade e perguntas frequentes. Os procedimentos e as funcionalidades disponíveis são definidos pelo operador oficial e podem variar consoante o país, o método de pagamento ou o estado da conta. Este guia independente não cria, verifica nem recupera contas de jogadores.
 
 ## Guia de registo
 

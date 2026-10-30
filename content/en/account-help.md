@@ -28,7 +28,7 @@ screenshots_note: 'Illustrative editorial artwork, not a screenshot of a real op
 ---
 ## Account, registration, login and common questions
 
-This guide groups existing information by topic so rules and limitations are easier to compare. Game rules, RTP figures, bonus terms, payment options and legal availability can vary by version, operator and country. Check details directly in the version currently offered.
+Use this page as a navigation guide to registration, account access, identity checks and common questions. The exact steps and available functions are set by the official operator and may differ by country, payment method or account status. This independent guide cannot open, verify or recover a player account.
 
 ## Registration guide
 

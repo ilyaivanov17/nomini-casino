@@ -28,7 +28,7 @@ screenshots_note: 'Ilustración editorial, no es una captura de una interfaz rea
 ---
 ## Cuenta, registro, acceso y preguntas frecuentes
 
-Esta guía reúne la información por temas para facilitar la comparación de reglas y limitaciones. Las reglas del juego, el RTP, las condiciones de los bonos, los métodos de pago y la disponibilidad legal pueden variar según la versión, el operador y el país. Comprueba los datos en la versión ofrecida actualmente.
+Esta página orienta sobre el registro, el acceso a la cuenta, las comprobaciones de identidad y las dudas habituales. Los pasos y funciones disponibles los determina el operador oficial y pueden variar por país, método de pago o situación de la cuenta. Esta guía independiente no puede abrir, verificar ni recuperar cuentas de jugadores.
 
 ## Guía de registro
 
