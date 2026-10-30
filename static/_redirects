@@ -1,3 +1,5 @@
+/go/bonus https://promo-fieryplay.com/l/6a6213c8f509eb4b47024ea2 302
+
 # Defense in depth: never serve common source/config/backup paths if mistakenly copied.
 /.git /404.html 404
 /.git/* /404.html 404
