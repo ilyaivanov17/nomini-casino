@@ -22,7 +22,7 @@ screenshots_note: 'Illustrative editorial artwork, not a screenshot of a real op
 ---
 ## Slot guide: fundamentals and game profiles
 
-This guide groups existing information by topic so rules and limitations are easier to compare. Game rules, RTP figures, bonus terms, payment options and legal availability can vary by version, operator and country. Check details directly in the version currently offered.
+This directory brings together profiles of selected slot titles so their mechanics and published figures can be reviewed in one place. A profile is a starting point for reading the paytable and game help, not a recommendation or a prediction. RTP, volatility, stakes and features may differ between configurations, regions and releases; confirm the details shown by the actual game.
 
 ## Bigger Bass Bonanza
 

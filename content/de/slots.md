@@ -22,7 +22,7 @@ screenshots_note: 'Illustrative redaktionelle Grafik, kein echter Screenshot ein
 ---
 ## Slot-Leitfaden: Grundlagen und Spielprofile
 
-Dieser Leitfaden bündelt vorhandene Informationen nach Themen, damit wichtige Regeln und Einschränkungen leichter vergleichbar sind. Spielregeln, RTP-Werte, Bonusbedingungen, Zahlungsoptionen und rechtliche Verfügbarkeit können sich je nach Version, Betreiber und Land ändern. Prüfe die Angaben direkt in der aktuell angebotenen Version.
+Dieses Verzeichnis fasst Profile ausgewählter Slots zusammen, damit sich Spielmechanik und veröffentlichte Kennzahlen an einer Stelle nachlesen lassen. Ein Profil ist ein Einstieg in Auszahlungstabelle und Spielhilfe, keine Empfehlung und keine Ergebnisprognose. RTP, Volatilität, Einsätze und Funktionen können je nach Konfiguration, Region und Version abweichen; prüfe die Angaben des tatsächlich gestarteten Spiels.
 
 ## Bigger Bass Bonanza
 

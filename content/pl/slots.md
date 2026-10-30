@@ -22,7 +22,7 @@ screenshots_note: 'Ilustracja redakcyjna, nie zrzut ekranu rzeczywistego interfe
 ---
 ## Przewodnik po slotach: podstawy i profile gier
 
-Ten przewodnik porządkuje istniejące informacje według tematów, aby łatwiej porównywać zasady i ograniczenia. Zasady gier, RTP, warunki bonusów, metody płatności i dostępność prawna mogą różnić się w zależności od wersji, operatora i kraju. Sprawdź je bezpośrednio w aktualnie oferowanej wersji.
+Ten katalog zbiera profile wybranych slotów, aby w jednym miejscu można było zapoznać się z ich mechaniką i opublikowanymi parametrami. Każdy profil jest punktem wyjścia do sprawdzenia tabeli wypłat i instrukcji gry, a nie rekomendacją ani prognozą wyniku. RTP, zmienność, stawki i funkcje mogą różnić się w zależności od wersji, regionu i konfiguracji; potwierdź dane w faktycznie uruchomionej grze.
 
 ## Bigger Bass Bonanza
 

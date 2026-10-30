@@ -22,7 +22,7 @@ screenshots_note: 'Ilustración editorial, no es una captura de una interfaz rea
 ---
 ## Guía de tragamonedas: fundamentos y perfiles
 
-Esta guía reúne la información por temas para facilitar la comparación de reglas y limitaciones. Las reglas del juego, el RTP, las condiciones de los bonos, los métodos de pago y la disponibilidad legal pueden variar según la versión, el operador y el país. Comprueba los datos en la versión ofrecida actualmente.
+Este directorio reúne fichas de tragamonedas seleccionadas para consultar sus mecánicas y datos publicados en un mismo lugar. Cada ficha sirve como punto de partida para revisar la tabla de pagos y la ayuda del juego, no como recomendación ni pronóstico. El RTP, la volatilidad, las apuestas y las funciones pueden variar entre versiones, regiones y configuraciones; confirma siempre los datos del título disponible.
 
 ## Bigger Bass Bonanza
 

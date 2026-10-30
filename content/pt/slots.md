@@ -22,7 +22,7 @@ screenshots_note: 'Ilustração editorial; não é uma captura de uma interface 
 ---
 ## Guia de slots: fundamentos e perfis de jogos
 
-Este guia reúne informações por tema para facilitar a comparação de regras e limitações. As regras dos jogos, o RTP, as condições dos bónus, os métodos de pagamento e a disponibilidade legal podem variar consoante a versão, o operador e o país. Confirme os dados na versão atualmente disponibilizada.
+Este diretório reúne perfis de slots selecionados para permitir a consulta das respetivas mecânicas e dos dados publicados. Cada perfil é um ponto de partida para ler a tabela de pagamentos e a ajuda do jogo, não uma recomendação nem uma previsão. O RTP, a volatilidade, os valores de aposta e as funcionalidades podem variar entre versões, regiões e configurações; confirme os dados no jogo efetivamente disponível.
 
 ## Bigger Bass Bonanza
 
