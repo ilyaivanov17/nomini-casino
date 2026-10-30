@@ -41,7 +41,7 @@ O conteúdo é informação editorial. Antes da publicação, os dados de RTP, b
 
 
 
-Não foi fornecido um endereço público de e-mail ou postal verificado para este guia independente. Para questões de conta, bónus, depósitos ou levantamentos, contacte a Nomini através do seu site oficial. Não envie palavras-passe nem dados completos de pagamento para este guia.
+Para correções editoriais, questões sobre fontes, acessibilidade e pedidos gerais, escreva para [info@nomini.com](mailto:info@nomini.com). Para assuntos de conta, bónus, depósitos ou levantamentos, contacte a Nomini através do seu site oficial. Não envie palavras-passe nem dados completos de pagamento para este guia.
 
 Este site é um portal informativo e comparativo, não é um operador de jogo. Para questões de conta, depósitos, levantamentos ou bónus, contacte o apoio oficial do operador correspondente.
 
