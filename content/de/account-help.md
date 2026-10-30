@@ -358,11 +358,10 @@ Die Vergütung darf nicht als Nachweis für die Qualität eines Angebots verstan
 
 ### Vergleich: Was ist im Einzelfall entscheidend?
 
-| Situation / Punkt | Empfehlung |
-|---|---|
-| Vor dem Handeln | Lies die vollständigen Bedingungen und prüfe, ob sie zu deinem Land und Konto passen. |
-| Bei einer Abweichung | Speichere den konkreten Wortlaut, das Datum und gegebenenfalls die Referenznummer. |
-| Bei offenen Fragen | Nutze den offiziellen Support des Anbieters und teile niemals Passwort oder Einmalcode. |
+| Prüfpunkt | Worauf du achten solltest |
+| Partnerlink | Achte auf einen klaren Hinweis auf die Affiliate-Beziehung. |
+| Angebotsbewertung | Vergleiche Bedingungen unabhängig; eine Provision ist kein Qualitätsurteil. |
+| Rückfragen | Für kontospezifische Angaben gelten die offiziellen Betreiberinformationen. |
 
 ### Verwandte Themen
 
@@ -384,11 +383,10 @@ Nutze den offiziellen Support und nenne Spielname, Zeitpunkt, Gerät und Referen
 
 ### Vergleich: Was ist im Einzelfall entscheidend?
 
-| Situation / Punkt | Empfehlung |
-|---|---|
-| Vor dem Handeln | Lies die vollständigen Bedingungen und prüfe, ob sie zu deinem Land und Konto passen. |
-| Bei einer Abweichung | Speichere den konkreten Wortlaut, das Datum und gegebenenfalls die Referenznummer. |
-| Bei offenen Fragen | Nutze den offiziellen Support des Anbieters und teile niemals Passwort oder Einmalcode. |
+| Zu dokumentieren | Warum es hilft |
+| Zeitpunkt und Spielname | Damit lässt sich die betreffende Sitzung eher zuordnen. |
+| Fehlermeldung oder Referenz | Gibt dem Support einen konkreten Ansatzpunkt. |
+| Kontostand und Spielverlauf | Prüfe, ob die Runde verbucht wurde, bevor du es erneut versuchst. |
 
 ### Verwandte Themen
 
@@ -410,11 +408,10 @@ Wenn der Anbieter eine App anbietet, nutze ausschließlich den Link auf seiner v
 
 ### Vergleich: Was ist im Einzelfall entscheidend?
 
-| Situation / Punkt | Empfehlung |
-|---|---|
-| Vor dem Handeln | Lies die vollständigen Bedingungen und prüfe, ob sie zu deinem Land und Konto passen. |
-| Bei einer Abweichung | Speichere den konkreten Wortlaut, das Datum und gegebenenfalls die Referenznummer. |
-| Bei offenen Fragen | Nutze den offiziellen Support des Anbieters und teile niemals Passwort oder Einmalcode. |
+| App-Prüfung | Sicherer Umgang |
+| Downloadquelle | Nutze nur eine verifizierte Betreiberseite oder einen offiziellen Store-Eintrag. |
+| Herausgeber und Berechtigungen | Prüfe Entwicklername und angeforderte Zugriffe. |
+| Kein bestätigter App-Link | Nutze statt eines unbekannten Downloads die responsive Website. |
 
 ### Verwandte Themen
 
@@ -436,11 +433,10 @@ Vergleiche Mindesteinzahlung, Umsatzmultiplikator, Ablaufdatum, Höchsteinsatz, 
 
 ### Vergleich: Was ist im Einzelfall entscheidend?
 
-| Situation / Punkt | Empfehlung |
-|---|---|
-| Vor dem Handeln | Lies die vollständigen Bedingungen und prüfe, ob sie zu deinem Land und Konto passen. |
-| Bei einer Abweichung | Speichere den konkreten Wortlaut, das Datum und gegebenenfalls die Referenznummer. |
-| Bei offenen Fragen | Nutze den offiziellen Support des Anbieters und teile niemals Passwort oder Einmalcode. |
+| Angebotsdetail | Was zu prüfen ist |
+| Verfügbarkeit | Bestätige, dass die Aktion für Land und Konto aktiv ist. |
+| Code und Teilnahme | Prüfe Code, Aktivierungszeitpunkt und qualifizierende Einzahlung. |
+| Vollständige Bedingungen | Lies Umsatz, Frist, Einsatzlimits, ausgeschlossene Spiele und Auszahlungshöchstgrenzen. |
 
 ### Verwandte Themen
 
@@ -478,11 +474,10 @@ Vor dem Absenden solltest du Alters- und Länderanforderungen, Datenschutzangabe
 
 ### Vergleich: Was ist im Einzelfall entscheidend?
 
-| Situation / Punkt | Empfehlung |
-|---|---|
-| Vor dem Handeln | Lies die vollständigen Bedingungen und prüfe, ob sie zu deinem Land und Konto passen. |
-| Bei einer Abweichung | Speichere den konkreten Wortlaut, das Datum und gegebenenfalls die Referenznummer. |
-| Bei offenen Fragen | Nutze den offiziellen Support des Anbieters und teile niemals Passwort oder Einmalcode. |
+| Prüfung vor der Anmeldung | Warum sie wichtig ist |
+| Alter und Aufenthaltsort | Kläre die rechtliche Verfügbarkeit vor der Registrierung. |
+| Persönliche Angaben | Verwende Daten, die mit deinen eigenen Dokumenten übereinstimmen. |
+| Kontosicherheit | Nutze ein einzigartiges Passwort und umgehe Beschränkungen nicht durch weitere Konten. |
 
 ### Verwandte Themen
 
@@ -504,11 +499,10 @@ Prüfe den in der Spielinformation genannten Anbieter, die RTP-Angabe und gegebe
 
 ### Vergleich: Was ist im Einzelfall entscheidend?
 
-| Situation / Punkt | Empfehlung |
-|---|---|
-| Vor dem Handeln | Lies die vollständigen Bedingungen und prüfe, ob sie zu deinem Land und Konto passen. |
-| Bei einer Abweichung | Speichere den konkreten Wortlaut, das Datum und gegebenenfalls die Referenznummer. |
-| Bei offenen Fragen | Nutze den offiziellen Support des Anbieters und teile niemals Passwort oder Einmalcode. |
+| Möglicher Nachweis | Was er aussagen kann |
+| Spielehersteller und Version | Zeigt, auf welche Regeln und Einstellungen sich Angaben beziehen. |
+| RTP und Auszahlungstabelle | Beschreibt theoretische Kennzahlen und veröffentlichte Spielregeln. |
+| Test oder Zertifizierung | Prüfe Prüfstelle und Geltungsbereich; daraus folgt keine Vorhersage für eine Sitzung. |
 
 ### Verwandte Themen
 
@@ -530,11 +524,10 @@ Prüfe zuerst, ob die Identitätsprüfung abgeschlossen ist, ob die Zahlungsmeth
 
 ### Vergleich: Was ist im Einzelfall entscheidend?
 
-| Situation / Punkt | Empfehlung |
-|---|---|
-| Vor dem Handeln | Lies die vollständigen Bedingungen und prüfe, ob sie zu deinem Land und Konto passen. |
-| Bei einer Abweichung | Speichere den konkreten Wortlaut, das Datum und gegebenenfalls die Referenznummer. |
-| Bei offenen Fragen | Nutze den offiziellen Support des Anbieters und teile niemals Passwort oder Einmalcode. |
+| Auszahlungspunkt | Vor der Bestätigung prüfen |
+| Verifizierung | Kläre, ob erforderliche Identitätsprüfungen abgeschlossen sind. |
+| Zahlungsweg | Prüfe Kontoinhaber, Verfügbarkeit, Gebühren und Limits. |
+| Bestätigung | Bewahre Referenz und Status auf; bei Verzögerung den offiziellen Support nutzen. |
 
 ### Verwandte Themen
 

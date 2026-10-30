@@ -168,11 +168,10 @@ La comisión no demuestra que una oferta sea adecuada o mejor. Compara las condi
 
 ### Comparación: ¿qué importa en cada caso?
 
-| Situación / punto | Paso recomendado |
-|---|---|
-| Antes de actuar | Lee las condiciones completas y comprueba que se aplican a tu país y cuenta. |
-| Si hay diferencias | Guarda el texto exacto, la fecha y la referencia si existe. |
-| Si quedan dudas | Contacta con el soporte oficial y nunca compartas contraseñas ni códigos de un solo uso. |
+| Aspecto | Qué conviene comprobar |
+| Enlace de socio | Busca una indicación clara de que se trata de un enlace de afiliado. |
+| Valor de la oferta | Compara las condiciones por separado; una comisión no es una valoración de calidad. |
+| Dudas sobre tu cuenta | Para detalles individuales, consulta la información oficial del operador. |
 
 ### Temas relacionados
 
@@ -194,11 +193,10 @@ Contacta con el soporte oficial e indica el juego, la hora, el dispositivo y la 
 
 ### Comparación: ¿qué importa en cada caso?
 
-| Situación / punto | Paso recomendado |
-|---|---|
-| Antes de actuar | Lee las condiciones completas y comprueba que se aplican a tu país y cuenta. |
-| Si hay diferencias | Guarda el texto exacto, la fecha y la referencia si existe. |
-| Si quedan dudas | Contacta con el soporte oficial y nunca compartas contraseñas ni códigos de un solo uso. |
+| Dato que conviene guardar | Para qué sirve |
+| Hora y nombre del juego | Ayudan a localizar la sesión correspondiente. |
+| Mensaje de error o referencia | Facilitan que soporte identifique el problema. |
+| Saldo e historial | Comprueba si la ronda se ha liquidado antes de volver a intentarlo. |
 
 ### Temas relacionados
 
@@ -220,11 +218,10 @@ Si el operador ofrece una aplicación, utiliza el enlace de su web oficial verif
 
 ### Comparación: ¿qué importa en cada caso?
 
-| Situación / punto | Paso recomendado |
-|---|---|
-| Antes de actuar | Lee las condiciones completas y comprueba que se aplican a tu país y cuenta. |
-| Si hay diferencias | Guarda el texto exacto, la fecha y la referencia si existe. |
-| Si quedan dudas | Contacta con el soporte oficial y nunca compartas contraseñas ni códigos de un solo uso. |
+| Comprobación de la app | Opción más segura |
+| Origen de la descarga | Utiliza solo la web oficial verificada o una tienda de aplicaciones oficial. |
+| Editor y permisos | Comprueba quién publica la app y qué accesos solicita. |
+| Sin enlace confirmado | Es preferible usar la web adaptable a descargar un archivo desconocido. |
 
 ### Temas relacionados
 
@@ -246,11 +243,10 @@ Compara el depósito mínimo, el multiplicador de apuesta, la caducidad, la apue
 
 ### Comparación: ¿qué importa en cada caso?
 
-| Situación / punto | Paso recomendado |
-|---|---|
-| Antes de actuar | Lee las condiciones completas y comprueba que se aplican a tu país y cuenta. |
-| Si hay diferencias | Guarda el texto exacto, la fecha y la referencia si existe. |
-| Si quedan dudas | Contacta con el soporte oficial y nunca compartas contraseñas ni códigos de un solo uso. |
+| Dato de la promoción | Qué verificar |
+| Disponibilidad | Confirma que esté activa para tu país y cuenta. |
+| Código y requisitos | Comprueba el código exacto, cuándo activarlo y el depósito válido. |
+| Condiciones completas | Revisa apuesta, caducidad, límites de apuesta, juegos excluidos y topes de retirada. |
 
 ### Temas relacionados
 
@@ -288,11 +284,10 @@ Antes de enviar el formulario, lee los requisitos de edad y país, la informaci�
 
 ### Comparación: ¿qué importa en cada caso?
 
-| Situación / punto | Paso recomendado |
-|---|---|
-| Antes de actuar | Lee las condiciones completas y comprueba que se aplican a tu país y cuenta. |
-| Si hay diferencias | Guarda el texto exacto, la fecha y la referencia si existe. |
-| Si quedan dudas | Contacta con el soporte oficial y nunca compartas contraseñas ni códigos de un solo uso. |
+| Comprobación previa | Por qué importa |
+| Edad y ubicación | Confirma que el servicio sea legal antes de registrarte. |
+| Datos personales | Usa información propia y coherente con tus documentos. |
+| Seguridad | Elige una contraseña única y no abras cuentas adicionales para eludir restricciones. |
 
 ### Temas relacionados
 
@@ -314,11 +309,10 @@ Comprueba el proveedor indicado en la información del juego, el RTP y los datos
 
 ### Comparación: ¿qué importa en cada caso?
 
-| Situación / punto | Paso recomendado |
-|---|---|
-| Antes de actuar | Lee las condiciones completas y comprueba que se aplican a tu país y cuenta. |
-| Si hay diferencias | Guarda el texto exacto, la fecha y la referencia si existe. |
-| Si quedan dudas | Contacta con el soporte oficial y nunca compartas contraseñas ni códigos de un solo uso. |
+| Información disponible | Qué permite comprobar |
+| Proveedor y versión | Identifica las reglas y ajustes aplicables. |
+| RTP y tabla de pagos | Describen el dato teórico y las reglas publicadas. |
+| Pruebas o certificación | Comprueba quién las realizó y su alcance; no predicen una sesión. |
 
 ### Temas relacionados
 
@@ -340,11 +334,10 @@ Comprueba primero si la verificación de identidad está completa, si el método
 
 ### Comparación: ¿qué importa en cada caso?
 
-| Situación / punto | Paso recomendado |
-|---|---|
-| Antes de actuar | Lee las condiciones completas y comprueba que se aplican a tu país y cuenta. |
-| Si hay diferencias | Guarda el texto exacto, la fecha y la referencia si existe. |
-| Si quedan dudas | Contacta con el soporte oficial y nunca compartas contraseñas ni códigos de un solo uso. |
+| Punto de control | Qué revisar antes de confirmar |
+| Verificación | Comprueba si has completado las comprobaciones de identidad requeridas. |
+| Método de pago | Revisa titularidad, disponibilidad, comisiones y límites. |
+| Confirmación | Guarda la referencia y el estado; ante una demora, contacta con soporte oficial. |
 
 ### Temas relacionados
 

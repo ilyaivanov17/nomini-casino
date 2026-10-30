@@ -168,11 +168,10 @@ Prowizja nie oznacza, że oferta jest odpowiednia lub lepsza. Porównuj warunki 
 
 ### Porównanie: co ma znaczenie w konkretnej sytuacji?
 
-| Sytuacja / punkt | Zalecane działanie |
-|---|---|
-| Przed działaniem | Przeczytaj pełne warunki i sprawdź, czy dotyczą Twojego kraju i konta. |
-| Gdy dane się różnią | Zapisz dokładne brzmienie, datę i ewentualny numer referencyjny. |
-| Gdy pozostają pytania | Skontaktuj się z oficjalną pomocą i nigdy nie podawaj hasła ani kodu jednorazowego. |
+| Obszar | Co sprawdzić |
+| Link partnerski | Zwróć uwagę, czy relacja afiliacyjna została jasno ujawniona. |
+| Ocena oferty | Porównuj warunki według tych samych kryteriów; prowizja nie oznacza jakości. |
+| Pytania o konto | Szczegóły dotyczące konkretnego konta potwierdza oficjalny operator. |
 
 ### Powiązane tematy
 
@@ -194,11 +193,10 @@ Skontaktuj się z oficjalną pomocą, podając nazwę gry, czas, urządzenie i n
 
 ### Porównanie: co ma znaczenie w konkretnej sytuacji?
 
-| Sytuacja / punkt | Zalecane działanie |
-|---|---|
-| Przed działaniem | Przeczytaj pełne warunki i sprawdź, czy dotyczą Twojego kraju i konta. |
-| Gdy dane się różnią | Zapisz dokładne brzmienie, datę i ewentualny numer referencyjny. |
-| Gdy pozostają pytania | Skontaktuj się z oficjalną pomocą i nigdy nie podawaj hasła ani kodu jednorazowego. |
+| Informacja do zapisania | Dlaczego jest przydatna |
+| Godzina i nazwa gry | Ułatwiają odnalezienie właściwej sesji. |
+| Komunikat błędu lub numer sprawy | Pozwala pomocy technicznej ustalić, czego dotyczy problem. |
+| Saldo i historia gry | Sprawdź, czy runda została rozliczona, zanim spróbujesz ponownie. |
 
 ### Powiązane tematy
 
@@ -220,11 +218,10 @@ Jeśli operator udostępnia aplikację, używaj wyłącznie linku z jego zweryfi
 
 ### Porównanie: co ma znaczenie w konkretnej sytuacji?
 
-| Sytuacja / punkt | Zalecane działanie |
-|---|---|
-| Przed działaniem | Przeczytaj pełne warunki i sprawdź, czy dotyczą Twojego kraju i konta. |
-| Gdy dane się różnią | Zapisz dokładne brzmienie, datę i ewentualny numer referencyjny. |
-| Gdy pozostają pytania | Skontaktuj się z oficjalną pomocą i nigdy nie podawaj hasła ani kodu jednorazowego. |
+| Co sprawdzić przy aplikacji | Bezpieczniejsze rozwiązanie |
+| Źródło pobrania | Korzystaj tylko z oficjalnej strony lub sklepu z potwierdzonym wydawcą. |
+| Wydawca i uprawnienia | Sprawdź nazwę twórcy i zakres wymaganych dostępów. |
+| Brak potwierdzonego linku | Zamiast nieznanego pliku użyj responsywnej strony. |
 
 ### Powiązane tematy
 
@@ -246,11 +243,10 @@ Porównaj minimalną wpłatę, mnożnik obrotu, termin ważności, maksymalną s
 
 ### Porównanie: co ma znaczenie w konkretnej sytuacji?
 
-| Sytuacja / punkt | Zalecane działanie |
-|---|---|
-| Przed działaniem | Przeczytaj pełne warunki i sprawdź, czy dotyczą Twojego kraju i konta. |
-| Gdy dane się różnią | Zapisz dokładne brzmienie, datę i ewentualny numer referencyjny. |
-| Gdy pozostają pytania | Skontaktuj się z oficjalną pomocą i nigdy nie podawaj hasła ani kodu jednorazowego. |
+| Element promocji | Co zweryfikować |
+| Dostępność | Potwierdź, że oferta obowiązuje w Twoim kraju i na Twoim koncie. |
+| Kod i uprawnienia | Sprawdź dokładny kod, moment aktywacji i kwalifikującą wpłatę. |
+| Pełny regulamin | Przeczytaj obrót, termin, limit stawki, wykluczone gry i limit wypłaty. |
 
 ### Powiązane tematy
 
@@ -288,11 +284,10 @@ Przed wysłaniem formularza przeczytaj zasady wieku i dostępności kraju, infor
 
 ### Porównanie: co ma znaczenie w konkretnej sytuacji?
 
-| Sytuacja / punkt | Zalecane działanie |
-|---|---|
-| Przed działaniem | Przeczytaj pełne warunki i sprawdź, czy dotyczą Twojego kraju i konta. |
-| Gdy dane się różnią | Zapisz dokładne brzmienie, datę i ewentualny numer referencyjny. |
-| Gdy pozostają pytania | Skontaktuj się z oficjalną pomocą i nigdy nie podawaj hasła ani kodu jednorazowego. |
+| Kontrola przed rejestracją | Dlaczego jest ważna |
+| Wiek i lokalizacja | Najpierw sprawdź, czy dostęp jest legalny w Twoim miejscu pobytu. |
+| Dane osobowe | Podaj własne informacje zgodne z dokumentami. |
+| Bezpieczeństwo konta | Użyj unikalnego hasła i nie zakładaj kolejnych kont, aby ominąć ograniczenia. |
 
 ### Powiązane tematy
 
@@ -314,11 +309,10 @@ Sprawdź dostawcę podanego w informacji o grze, wartość RTP i ewentualne opub
 
 ### Porównanie: co ma znaczenie w konkretnej sytuacji?
 
-| Sytuacja / punkt | Zalecane działanie |
-|---|---|
-| Przed działaniem | Przeczytaj pełne warunki i sprawdź, czy dotyczą Twojego kraju i konta. |
-| Gdy dane się różnią | Zapisz dokładne brzmienie, datę i ewentualny numer referencyjny. |
-| Gdy pozostają pytania | Skontaktuj się z oficjalną pomocą i nigdy nie podawaj hasła ani kodu jednorazowego. |
+| Dostępny dowód | Co może potwierdzić |
+| Dostawca i wersja gry | Pozwalają ustalić, których zasad i ustawień dotyczy opis. |
+| RTP i tabela wypłat | Przedstawiają wartość teoretyczną i opublikowane reguły gry. |
+| Testy lub certyfikat | Sprawdź jednostkę i zakres badania; nie przewiduje ono wyniku sesji. |
 
 ### Powiązane tematy
 
@@ -340,11 +334,10 @@ Najpierw sprawdź, czy zakończono weryfikację tożsamości, czy metoda płatno
 
 ### Porównanie: co ma znaczenie w konkretnej sytuacji?
 
-| Sytuacja / punkt | Zalecane działanie |
-|---|---|
-| Przed działaniem | Przeczytaj pełne warunki i sprawdź, czy dotyczą Twojego kraju i konta. |
-| Gdy dane się różnią | Zapisz dokładne brzmienie, datę i ewentualny numer referencyjny. |
-| Gdy pozostają pytania | Skontaktuj się z oficjalną pomocą i nigdy nie podawaj hasła ani kodu jednorazowego. |
+| Kontrola wypłaty | Co sprawdzić przed zatwierdzeniem |
+| Weryfikacja | Upewnij się, że wymagane kontrole tożsamości zostały zakończone. |
+| Metoda płatności | Sprawdź właściciela, dostępność, opłaty i limity. |
+| Potwierdzenie | Zapisz numer i status transakcji; przy opóźnieniu skorzystaj z oficjalnej pomocy. |
 
 ### Powiązane tematy
 

@@ -168,11 +168,10 @@ A comissão não prova que uma oferta seja adequada ou melhor. Compare as condi�
 
 ### Comparação: o que importa em cada situação?
 
-| Situação / ponto | Passo recomendado |
-|---|---|
-| Antes de agir | Leia os termos completos e confirme que se aplicam ao seu país e conta. |
-| Se houver diferenças | Guarde o texto exato, a data e a referência, se existir. |
-| Se persistirem dúvidas | Contacte o apoio oficial e nunca partilhe palavras-passe ou códigos temporários. |
+| Aspeto | O que confirmar |
+| Link de parceiro | Verifique se a relação de afiliado está claramente identificada. |
+| Avaliação da oferta | Compare as condições com critérios iguais; uma comissão não é uma avaliação de qualidade. |
+| Dúvidas sobre a conta | Para detalhes individuais, consulte a informação oficial do operador. |
 
 ### Temas relacionados
 
@@ -194,11 +193,10 @@ Contacte o suporte oficial e indique o jogo, a hora, o dispositivo e a referênc
 
 ### Comparação: o que importa em cada situação?
 
-| Situação / ponto | Passo recomendado |
-|---|---|
-| Antes de agir | Leia os termos completos e confirme que se aplicam ao seu país e conta. |
-| Se houver diferenças | Guarde o texto exato, a data e a referência, se existir. |
-| Se persistirem dúvidas | Contacte o apoio oficial e nunca partilhe palavras-passe ou códigos temporários. |
+| Informação a registar | Porque ajuda |
+| Hora e nome do jogo | Facilitam a localização da sessão em causa. |
+| Mensagem de erro ou referência | Dão ao suporte um ponto concreto para investigar. |
+| Saldo e histórico | Confirme se a ronda foi concluída antes de tentar novamente. |
 
 ### Temas relacionados
 
@@ -220,11 +218,10 @@ Se o operador disponibilizar uma aplicação, utilize apenas o link do site ofic
 
 ### Comparação: o que importa em cada situação?
 
-| Situação / ponto | Passo recomendado |
-|---|---|
-| Antes de agir | Leia os termos completos e confirme que se aplicam ao seu país e conta. |
-| Se houver diferenças | Guarde o texto exato, a data e a referência, se existir. |
-| Se persistirem dúvidas | Contacte o apoio oficial e nunca partilhe palavras-passe ou códigos temporários. |
+| Verificação da aplicação | Opção mais segura |
+| Origem da descarga | Utilize apenas o site oficial verificado ou uma loja oficial. |
+| Editor e permissões | Confirme quem publica a aplicação e os acessos pedidos. |
+| Sem link confirmado | Prefira o site adaptável a um ficheiro desconhecido. |
 
 ### Temas relacionados
 
@@ -246,11 +243,10 @@ Compare o depósito mínimo, o multiplicador de aposta, a validade, a aposta má
 
 ### Comparação: o que importa em cada situação?
 
-| Situação / ponto | Passo recomendado |
-|---|---|
-| Antes de agir | Leia os termos completos e confirme que se aplicam ao seu país e conta. |
-| Se houver diferenças | Guarde o texto exato, a data e a referência, se existir. |
-| Se persistirem dúvidas | Contacte o apoio oficial e nunca partilhe palavras-passe ou códigos temporários. |
+| Elemento da oferta | O que confirmar |
+| Disponibilidade | Verifique se a campanha está ativa no seu país e conta. |
+| Código e elegibilidade | Confirme o código exato, o momento de ativação e o depósito elegível. |
+| Condições integrais | Leia os requisitos de aposta, validade, limites, jogos excluídos e limites de levantamento. |
 
 ### Temas relacionados
 
@@ -288,11 +284,10 @@ Antes de enviar o formulário, leia os requisitos de idade e país, a informaç�
 
 ### Comparação: o que importa em cada situação?
 
-| Situação / ponto | Passo recomendado |
-|---|---|
-| Antes de agir | Leia os termos completos e confirme que se aplicam ao seu país e conta. |
-| Se houver diferenças | Guarde o texto exato, a data e a referência, se existir. |
-| Se persistirem dúvidas | Contacte o apoio oficial e nunca partilhe palavras-passe ou códigos temporários. |
+| Verificação antes do registo | Porque conta |
+| Idade e localização | Confirme a legalidade do acesso antes de criar uma conta. |
+| Dados pessoais | Utilize dados próprios e coerentes com os seus documentos. |
+| Segurança | Defina uma palavra-passe única e não crie contas adicionais para contornar restrições. |
 
 ### Temas relacionados
 
@@ -314,11 +309,10 @@ Verifique o fornecedor indicado na informação do jogo, o RTP e eventuais dados
 
 ### Comparação: o que importa em cada situação?
 
-| Situação / ponto | Passo recomendado |
-|---|---|
-| Antes de agir | Leia os termos completos e confirme que se aplicam ao seu país e conta. |
-| Se houver diferenças | Guarde o texto exato, a data e a referência, se existir. |
-| Se persistirem dúvidas | Contacte o apoio oficial e nunca partilhe palavras-passe ou códigos temporários. |
+| Informação disponível | O que permite confirmar |
+| Fornecedor e versão | Identificam as regras e configurações aplicáveis. |
+| RTP e tabela de pagamentos | Descrevem o valor teórico e as regras publicadas. |
+| Testes ou certificação | Confirme a entidade e o âmbito; não permitem prever uma sessão. |
 
 ### Temas relacionados
 
@@ -340,11 +334,10 @@ Verifique primeiro se a validação de identidade está concluída, se o meio de
 
 ### Comparação: o que importa em cada situação?
 
-| Situação / ponto | Passo recomendado |
-|---|---|
-| Antes de agir | Leia os termos completos e confirme que se aplicam ao seu país e conta. |
-| Se houver diferenças | Guarde o texto exato, a data e a referência, se existir. |
-| Se persistirem dúvidas | Contacte o apoio oficial e nunca partilhe palavras-passe ou códigos temporários. |
+| Verificação do levantamento | O que confirmar antes de avançar |
+| Identidade | Confirme se as verificações exigidas estão concluídas. |
+| Método de pagamento | Verifique titularidade, disponibilidade, taxas e limites. |
+| Confirmação | Guarde a referência e o estado; em caso de atraso, contacte o suporte oficial. |
 
 ### Temas relacionados
 
