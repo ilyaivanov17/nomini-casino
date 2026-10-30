@@ -2,8 +2,8 @@
 title: 'Guía de tragamonedas: temas, volatilidad y comparación'
 description: 'Explicación de giros gratis, comodines, scatters, rondas de bonificación y otras funciones.'
 type: page
-seo_title: 'Guía de tragamonedas: temas, volatilidad y comparación | Instant Casino'
-lastmod: '2026-10-28'
+seo_title: 'Guía de tragamonedas: temas, volatilidad y comparación | Nomini Casino Guide'
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
