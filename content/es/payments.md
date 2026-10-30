@@ -2,8 +2,8 @@
 title: Depósitos, retiradas y métodos de pago
 description: 'Compara depósitos y retiradas, posibles comisiones, tiempos de procesamiento y verificaciones.'
 type: page
-seo_title: Depósitos, retiradas y métodos de pago | Instant Casino
-lastmod: '2026-10-28'
+seo_title: Depósitos, retiradas y métodos de pago | Nomini Casino Guide
+lastmod: '2026-10-30'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -30,7 +30,7 @@ Esta guía reúne la información por temas para facilitar la comparación de re
 
 ### Cómo encontrar el apartado de depósitos
 
-1. Abre Instant Casino desde la dirección oficial que ya conozcas y accede a tu cuenta. No introduzcas tus credenciales en una web informativa independiente.
+1. Abre Nomini desde la dirección oficial que ya conozcas y accede a tu cuenta. No introduzcas tus credenciales en una web informativa independiente.
 2. Dentro de la cuenta, busca **Caja**, **Depositar** o una sección de pagos con un nombre similar. La etiqueta exacta puede variar.
 3. Elige un método que aparezca realmente en tu cuenta. Comprueba en la caja el importe mínimo, la moneda, las comisiones y el plazo estimado.
 4. Introduce el importe y revisa el resumen. Si quieres usar un bono, lee sus condiciones antes de pagar y confirma que el método elegido es válido.
@@ -50,9 +50,11 @@ Comprueba si el método es válido para la promoción elegida. Lee las condicion
 
 Conserva la confirmación y la referencia de la transacción. No envíes datos completos de tarjeta ni credenciales a una web editorial o contacto no oficial.
 
-## Depósitos en Instant Casino: qué revisar antes de pagar
+## Depósitos en Nomini: qué revisar antes de pagar
 
-Una guía útil sobre los **depósitos en Instant Casino** debe explicar algo más que los logotipos de pago. Antes de elegir un método, comprueba el mínimo y el máximo que aparecen en tu cuenta, la moneda, las posibles comisiones del proveedor y si podrás utilizar el mismo método para retirar fondos. Los importes de la tabla son los datos guardados en este proyecto; no garantizan que todos los métodos estén disponibles en todos los países o para todas las cuentas.
+Una guía sobre los **depósitos en Nomini** debe explicar algo más que los logotipos de pago. Comprueba los importes mínimo y máximo que aparecen en tu cuenta, la moneda, las posibles comisiones y si el mismo método permite retirar fondos.
+
+**Nota de verificación:** Los valores de las tablas siguientes proceden de datos de catálogo de una versión anterior del proyecto y no se han contrastado con la caja actual de Nomini. No confirman los métodos de pago, límites, comisiones ni plazos que Nomini ofrece actualmente. Comprueba todos los detalles en la caja oficial para tu país y cuenta.
 
 ### Lista de comprobación para ingresar dinero
 
