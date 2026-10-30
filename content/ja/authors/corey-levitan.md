@@ -1,4 +1,5 @@
 ---
+
 title: Corey Levitan
 description: Corey Levitanは、ラスベガスのエンターテインメント、飲食、ギャンブルについて報道しています。Las Vegas Review-Journalで6年間取材し、2022年にCasino.orgに加わりました。
 seo_title: Corey Levitan – ジャーナリスト・カジノライター | Nomini Casino Guide
@@ -29,7 +30,7 @@ build:
 medium: https://corey-levitan-merklin.medium.com/
 ---
 
-## プロフィール Corey Levitan
+## Corey Levitan のプロフィール
 
 Corey Levitanは、ラスベガスのエンターテインメント、飲食、ギャンブルについて報道しています。Las Vegas Review-Journalで6年間取材し、2022年にCasino.orgに加わりました。
 
@@ -37,18 +38,18 @@ Corey Levitanは、ラスベガスのエンターテインメント、飲食、�
 
 ラスベガス、ギャンブルニュース、エンターテインメント、カジノ報道
 
-### Nomini Casino Guideでの編集上の役割
+### プロフィールの位置づけ
 
-Nomini Casino Guideでは、このプロフィールはカジノ情報、ゲームの解説、キャンペーン条件の比較を扱う編集業務に関連しています。専門分野に応じて、利用可能なゲームデータをもとに仕組みを説明し、ボーナスを条件別に整理し、決済方法を登録済みの上限額や処理時間で比較します。
+本プロジェクトでは、Corey Levitanを **ジャーナリスト・カジノライター** として紹介しています。ここに記載した内容は公開されている職業上の専門分野をまとめたものです。紹介されたすべてのゲームを本人が実際にテストしたこと、特定の勝利を得たこと、またはサイト内の各記事を個別に承認したことを示すものではありません。
 
-### このプロフィールの見方
+### 記事を読む際の確認事項
 
-カジノゲームやキャンペーンを比較する際には、規約全文、ゲームのバージョン、アカウントに表示される条件が重要です。編集上の比較では、記録された数値と解釈を分け、詳細ページや一次情報へのリンクを示します。このプロフィールは職業上の専門分野を説明するもので、個々のキャンペーン条件の確認に代わるものではありません。
+ゲームのルール、機能、RTPは、実際に提供されているバージョンの情報と照合してください。プロモーションは全条件を確認し、決済方法、上限、処理時間については国やアカウントによる違いに注意が必要です。変更される情報は最新の一次資料を優先してください。
 
 ### 公開されている職業プロフィール
 
-[LinkedIn](https://www.linkedin.com/in/coreylevitan) · [Medium](https://corey-levitan-merklin.medium.com/)
+[LinkedIn](https://www.linkedin.com/in/coreylevitan) · [公式サイト](https://corey-levitan-merklin.medium.com/)
 
-| 役割 | 専門分野 | 公開プロフィール | 担当領域 |
-| --- | --- | --- | --- |
-| ジャーナリスト・カジノライター | ラスベガス、ギャンブルニュース、エンターテインメント、カジノ報道 | [LinkedIn](https://www.linkedin.com/in/coreylevitan) · [Medium](https://corey-levitan-merklin.medium.com/) | ラスベガス、ギャンブルニュース、エンターテインメント、カジノ報道 |
+| 役割 | 取り扱うテーマ | 公開プロフィール | 主な専門分野 |
+|---|---|---|---|
+| ジャーナリスト・カジノライター | ラスベガス、ギャンブルニュース、エンターテインメント、カジノ報道 | [LinkedIn](https://www.linkedin.com/in/coreylevitan) · [公式サイト](https://corey-levitan-merklin.medium.com/) | ラスベガス、ギャンブルニュース、エンターテインメント、カジノ報道 |
