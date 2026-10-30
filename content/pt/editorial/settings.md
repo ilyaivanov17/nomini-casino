@@ -4,26 +4,22 @@ type: site_settings
 build:
   render: never
   list: always
-brand: Instant Casino
-description: 'Informação independente sobre Instant Casino: dados dos jogos, condições de bónus, pagamentos
-  e jogo responsável.'
-author: Equipa editorial Instant Casino
+brand: Nomini
+description: 'Informação independente sobre a Nomini Casino: guias de jogos, condições de bónus, pagamentos e jogo responsável.'
+author: Equipa editorial independente
 locale: pt-PT
 market_label: Casino online
 currency: EUR
-operator_name: Instant Casino
+operator_name: Nomini Casino
 affiliate_link: /go/bonus
 affiliate_cta: Ver bônus
 affiliate_cta_bonus: Consultar condições do bónus
 affiliate_cta_register: Conhecer oferta
-email: 'info@instant.com'
-phone: '+49 10 111 0253'
-address: 'Level 7, The Plaza Business Centre, Bisazza Street, Sliema, SLM 1640, Malta'
 year: 2026
 og_image: /images/hero-casino-neon.webp
 layout_variant: proof-first
 verification_status: pending
-contact_verification_required: false
+contact_verification_required: true
 menu:
 - name: Início
   pageRef: /
@@ -198,7 +194,7 @@ ui:
   editorial_by: Equipa editorial
   last_updated: Última atualização
   public_profile: Perfil público
-  author_profiles_pending: Conheça os colaboradores da Instant Casino e consulte os seus perfis profissionais
+  author_profiles_pending: Conheça os colaboradores independentes que abordam a Nomini Casino.
     públicos.
   related_content: Conteúdo relacionado
   related_content_title: Páginas relacionadas
@@ -272,7 +268,7 @@ ui:
   flexible_text: O layout adapta-se a computador, tablet e telemóvel.
   responsibility: Jogo responsável
   responsibility_text: Apenas adultos. Defina um orçamento e leia as condições antes de participar.
-  final_label: Guia Instant Casino
+  final_label: Guia Nomini Casino
   final_title: Pronto para consultar as condições atuais?
   final_text: Abra a oferta atual e confirme as condições aplicáveis antes de continuar.
   to_offer: Ver oferta
@@ -285,10 +281,10 @@ ui:
   favorite: Favorito
   hero_slide: Banner principal
   comparison: Comparação
-seo_title: Política editorial e método de revisão | Instant Casino
+seo_title: 'Nomini Casino: guia e análise independente'
 verification_note: Ofertas, disponibilidade, métodos de pagamento e limites podem variar conforme o país, a
   conta e a informação atual do fornecedor. Confirme as condições aplicáveis antes de uma transação.
-lastmod: '2026-10-28'
+lastmod: '2026-10-30'
 ---
 
 ## Política editorial e método de revisão
