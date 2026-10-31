@@ -1,9 +1,9 @@
 ---
-title: 'Slot guide: features and mechanics'
-description: 'Understand RTP, volatility and game mechanics without treating them as predictions of results.'
+title: 'Slot mechanics and game design: a practical guide'
+description: 'Understand RTP, volatility, paylines, bonus mechanics and progressive jackpots without treating them as predictions.'
 type: page
-seo_title: 'Slot guide: features and mechanics | Nomini Casino Guide'
-lastmod: '2026-10-30'
+seo_title: 'Slot Game Mechanics | RTP, Volatility and Bonus Features'
+lastmod: '2026-10-31'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -19,9 +19,9 @@ screenshots:
 - /images/guides/slot-strategy.svg
 screenshots_note: 'Illustrative editorial artwork, not a screenshot of a real operator interface.'
 ---
-## Slot guide: features and mechanics
+## Reading the mechanics behind a slot
 
-This guide groups existing information by topic so rules and limitations are easier to compare. Game rules, RTP figures, bonus terms, payment options and legal availability can vary by version, operator and country. Check details directly in the version currently offered.
+A useful slot guide explains how a game calculates wins and activates features, rather than treating its theme or headline RTP as a prediction. This section introduces the terms used in game information—RTP, volatility, payline or ways-to-win systems, multipliers and bonus triggers—and points out where the exact rules must be checked in the game help. Published statistics describe the design over many rounds; they do not forecast an individual result.
 
 A practical case study explains how a progressive jackpot works: our [Mega Fortune feature on the €3.5 million win]({{< relref "mega-fortune-progressive-jackpot" >}}) separates the verified 2018 facts from the game's published rules, RTP and the limits of the available volatility data.
 
@@ -29,7 +29,7 @@ A practical case study explains how a progressive jackpot works: our [Mega Fortu
 
 ## Gates of Olympus: a quick guide
 
-Gates of Olympus draws on Greek mythology and puts multipliers and bonus features front and centre. Rather than assuming it works like a traditional paylines slot, check the rules panel: it explains how wins are counted and what conditions apply to free spins or other features.
+Gates of Olympus draws on Greek mythology and places multipliers and bonus functions at the centre of its presentation. It should not automatically be read as a conventional paylines game. The in-game rules explain how winning combinations are calculated and which conditions activate free spins or other features.
 
 ### Game overview
 
