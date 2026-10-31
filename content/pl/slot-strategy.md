@@ -1,9 +1,9 @@
 ---
-title: 'Przewodnik po slotach: funkcje i mechanika'
-description: 'Poznaj RTP, zmienność i mechanikę bez traktowania ich jako prognozy wyników.'
+title: 'Mechanika slotów: RTP, zmienność i funkcje bonusowe'
+description: 'Poznaj RTP, zmienność, systemy wygranych i funkcje bonusowe bez traktowania ich jako prognozy.'
 type: page
-seo_title: 'Przewodnik po slotach: funkcje i mechanika | Nomini Casino Guide'
-lastmod: '2026-10-30'
+seo_title: 'Mechanika slotów | RTP, zmienność i bonusy'
+lastmod: '2026-10-31'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -19,9 +19,9 @@ screenshots:
 - /images/guides/slot-strategy.svg
 screenshots_note: 'Ilustracja redakcyjna, nie zrzut ekranu rzeczywistego interfejsu operatora.'
 ---
-## Przewodnik po slotach: funkcje i mechanika
+## Jak czytać zasady działania automatu
 
-Ten przewodnik porządkuje istniejące informacje według tematów, aby łatwiej porównywać zasady i ograniczenia. Zasady gier, RTP, warunki bonusów, metody płatności i dostępność prawna mogą różnić się w zależności od wersji, operatora i kraju. Sprawdź je bezpośrednio w aktualnie oferowanej wersji.
+Dobry opis slotu wyjaśnia sposób naliczania wygranych i uruchamiania funkcji specjalnych. Nie wystarczy sam motyw graficzny ani wartość RTP z nagłówka. W tej części porządkujemy pojęcia takie jak RTP, zmienność, linie lub sposoby wygrywania, mnożniki i aktywacja bonusów. Szczegółowe zasady należy sprawdzić w instrukcji konkretnej wersji. Opublikowane statystyki opisują działanie w długim okresie, a nie wynik pojedynczej sesji.
 
 Praktyczne studium przypadku wyjaśnia działanie progresywnego jackpota: nasz [materiał o Mega Fortune i wygranej 3,5 mln euro]({{< relref "mega-fortune-progressive-jackpot" >}}) oddziela potwierdzone fakty z 2018 roku od opublikowanych zasad gry, RTP i ograniczeń dostępnych danych o zmienności.
 
@@ -29,7 +29,7 @@ Praktyczne studium przypadku wyjaśnia działanie progresywnego jackpota: nasz [
 
 ## Gates of Olympus: najważniejsze informacje
 
-Gates of Olympus czerpie z mitologii greckiej, a ważną rolę odgrywają w nim mnożniki i funkcje bonusowe. Nie warto zakładać, że działa jak klasyczny automat z liniami wypłat. Instrukcja wyjaśnia sposób naliczania wygranych oraz warunki uruchamiania funkcji.
+Gates of Olympus nawiązuje do mitologii greckiej i eksponuje mnożniki oraz funkcje bonusowe. Nie należy zakładać, że działa jak typowy automat z klasycznymi liniami wypłat. Instrukcja gry wyjaśnia sposób obliczania kombinacji oraz warunki uruchamiania darmowych spinów i innych funkcji.
 
 ### Informacje o grze
 
