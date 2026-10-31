@@ -8,7 +8,7 @@ slug: marco-ibarra
 aliases:
 - /es/authors/author-3/
 date: '2026-09-27'
-lastmod: '2026-10-30'
+lastmod: '2026-10-31'
 author_id: author-3
 role: Redactor y editor de iGaming
 photo: images/Marco_Ibarra.jpg
@@ -40,7 +40,7 @@ Casinos online, reseñas de slots, análisis de bonos y edición orientada al SE
 
 ### Contribución editorial en Nomini Casino Guide
 
-En Nomini Casino Guide, este perfil forma parte del trabajo editorial sobre información de casinos, explicaciones de juegos y comparación de condiciones. El área de especialidad determina el enfoque: las mecánicas se explican a partir de los datos disponibles, los bonos se organizan por sus condiciones y los métodos de pago se comparan según límites y tiempos indicados.
+Su actividad declarada en redacción iGaming, edición, reseñas de slots, análisis de bonos y SEO es relevante para presentar el contenido en varios idiomas. La visibilidad en buscadores queda supeditada a explicaciones claras y fuentes rastreables.
 
 ### Cómo interpretar este perfil
 
