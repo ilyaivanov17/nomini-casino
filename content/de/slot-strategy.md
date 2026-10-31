@@ -1,9 +1,9 @@
 ---
-title: 'Slot-Leitfaden: Funktionen und Spielmechanik'
-description: 'RTP, Volatilität und Spielmechanik verstehen, ohne Ergebnisse einzelner Runden vorherzusagen.'
+title: 'Spielmechanik von Slots: RTP, Volatilität und Bonusfunktionen'
+description: 'RTP, Volatilität, Gewinnsysteme und Bonusfunktionen verstehen, ohne daraus Ergebnisse abzuleiten.'
 type: page
-seo_title: 'Slot-Leitfaden: Funktionen und Spielmechanik | Nomini Casino Guide'
-lastmod: '2026-10-30'
+seo_title: 'Slot-Spielmechanik | RTP, Volatilität und Bonusfunktionen'
+lastmod: '2026-10-31'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -19,9 +19,9 @@ screenshots:
 - /images/guides/slot-strategy.svg
 screenshots_note: 'Illustrative redaktionelle Grafik, kein echter Screenshot einer Betreiberoberfläche.'
 ---
-## Slot-Leitfaden: Funktionen und Spielmechanik
+## Die Regeln hinter den Slot-Funktionen verstehen
 
-Dieser Leitfaden bündelt vorhandene Informationen nach Themen, damit wichtige Regeln und Einschränkungen leichter vergleichbar sind. Spielregeln, RTP-Werte, Bonusbedingungen, Zahlungsoptionen und rechtliche Verfügbarkeit können sich je nach Version, Betreiber und Land ändern. Prüfe die Angaben direkt in der aktuell angebotenen Version.
+Ein hilfreiches Slot-Profil erklärt, wie Gewinne berechnet und Zusatzfunktionen ausgelöst werden. Thema oder beworbener RTP allein reichen dafür nicht aus. Dieser Leitfaden ordnet Begriffe wie RTP, Volatilität, Gewinnlinien beziehungsweise Gewinnwege, Multiplikatoren und Bonus-Auslöser ein und zeigt, welche Details in der Spielhilfe der konkreten Version geprüft werden müssen. Veröffentlichte Kennzahlen beschreiben das Spiel über viele Runden, nicht das Ergebnis einer einzelnen Sitzung.
 
 Ein konkretes Beispiel erklärt, was hinter einem progressiven Jackpot steckt: Unsere [Fallstudie zu Mega Fortune und dem Jackpot von 3,5 Millionen Euro]({{< relref "mega-fortune-progressive-jackpot" >}}) trennt die belegten Fakten aus dem Jahr 2018 von den Spielregeln, RTP-Angaben und offenen Fragen zur Volatilität.
 
@@ -29,7 +29,7 @@ Ein konkretes Beispiel erklärt, was hinter einem progressiven Jackpot steckt: U
 
 ## Gates of Olympus: kurz erklärt
 
-Gates of Olympus greift die griechische Mythologie auf und setzt sichtbar auf Multiplikatoren sowie eine Bonusfunktion. Anders als bei klassischen Gewinnlinien lohnt es sich, die Spielhilfe genau zu lesen: Dort steht, wie Kombinationen gewertet werden und welche Bedingungen für Freispiele oder zusätzliche Funktionen gelten.
+Gates of Olympus greift die griechische Mythologie auf und stellt Multiplikatoren sowie Bonusfunktionen in den Mittelpunkt. Das Spiel sollte nicht automatisch wie ein klassischer Slot mit festen Gewinnlinien verstanden werden. Die Spielregeln erklären, wie Gewinnkombinationen berechnet werden und welche Bedingungen Freispiele oder weitere Funktionen auslösen.
 
 ### Spielprofil
 
