@@ -1,13 +1,11 @@
 ---
-title: Como compreender as condições dos bónus de casino
-description: Guia prático sobre requisitos de aposta, prazos, contribuição dos jogos, limites de levantamento e pagamentos.
+title: 'Condições dos bónus: requisitos, elegibilidade e levantamentos'
+description: 'Como interpretar requisitos de aposta, jogos elegíveis, prazos, limites de aposta e limites de levantamento.'
 type: page
 author: cristina-tudose
-seo_title: Condições dos bónus de casino explicadas | Nomini Casino Guide
-lastmod: '2026-10-30'
-article_review_status: editorial-approved
-reviewed_by: Cristina Tudose
-review_date: '2026-10-30'
+seo_title: 'Condições dos bónus explicadas | Requisitos, elegibilidade e levantamentos'
+lastmod: '2026-10-31'
+article_review_status: editorial-review-pending
 build:
   render: always
   list: always
@@ -27,10 +25,9 @@ screenshots:
 - /images/guides/bonuses.svg
 screenshots_note: 'Ilustração editorial; não é uma captura de uma interface real do operador.'
 ---
+O valor em destaque num anúncio é apenas uma parte de uma promoção. Antes de aderir, confirme como é calculado o requisito de aposta, que jogos contribuem, quanto tempo existe para cumprir as condições e se há um limite para os ganhos levantados. São estas regras que mostram o que a oferta exige na prática.
 
-Um bónus de 500 € pode parecer mais atrativo do que 50 rodadas grátis. Mas o valor anunciado não explica o que tens de fazer para utilizar o bónus ou levantar os ganhos. Confirma o requisito de aposta, os jogos elegíveis, o prazo de validade e as regras de levantamento antes de aceitar a promoção.
-
-Os detalhes importantes nem sempre aparecem junto ao valor anunciado. Lê as condições completas antes de aderir ou depositar. Este guia explica termos comuns; não descreve uma oferta atual da Nomini. Aplicam-se sempre as condições da promoção concreta e as regras do país em causa.
+Este guia explica termos frequentes e apresenta cálculos hipotéticos para ilustrar como diferentes bases de cálculo alteram o volume de apostas necessário. Não confirma que a Nomini disponibilize atualmente um pacote de boas-vindas, rodadas grátis ou um código promocional específico. Para uma campanha em vigor, prevalecem os termos atuais do operador e as regras do país do jogador.
 
 ## O que deves verificar primeiro
 
