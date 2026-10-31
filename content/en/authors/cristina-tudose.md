@@ -2,7 +2,7 @@
 title: Cristina Tudose
 description: Cristina Tudose is an English- and Romanian-speaking content writer and copywriter focused on
   iGaming. Her publicly described work includes casino…
-seo_title: Cristina Tudose – Content writer / copywriter • iGaming | Nomini Casino Guide
+seo_title: 'Cristina Tudose – iGaming content writer | Nomini Casino Guide'
 type: author
 slug: cristina-tudose
 aliases:
