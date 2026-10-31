@@ -1,9 +1,9 @@
 ---
-title: 'Slot guide: fundamentals and game profiles'
-description: 'Game profiles covering rules, features and key information about selected online slots.'
+title: 'Online slot profiles: rules, features and game data'
+description: 'A reference to selected slot games, covering published specifications, bonus features and what the figures mean.'
 type: page
-seo_title: 'Slot guide: fundamentals and game profiles | Nomini Casino Guide'
-lastmod: '2026-10-30'
+seo_title: 'Online Slot Profiles | Features, RTP and Game Rules'
+lastmod: '2026-10-31'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -20,16 +20,15 @@ screenshots:
 - /images/slots/wolf-gold.webp
 screenshots_note: 'Illustrative editorial artwork, not a screenshot of a real operator interface.'
 ---
-## Slot guide: fundamentals and game profiles
+## How to read these slot profiles
 
-This guide groups existing information by topic so rules and limitations are easier to compare. Game rules, RTP figures, bonus terms, payment options and legal availability can vary by version, operator and country. Check details directly in the version currently offered.
+A slot name alone tells you little about how a game works. The profiles below bring together selected specifications—provider, published RTP, volatility label, stake range and listed features—then explain what those details can and cannot establish. Treat catalogue figures as a starting point, not a guarantee that the same configuration is available to every account. Before playing, compare them with the help screen and paytable of the exact version offered to you.
 
 ## Bigger Bass Bonanza
 
 ## Bigger Bass Bonanza: a quick guide
 
-Bigger Bass Bonanza uses a fishing theme and a bonus round as its main identity. The stored feature list includes free spins and multipliers. Check the paytable for the symbols that trigger the bonus and the rules that govern it.
-
+Bigger Bass Bonanza is built around a fishing theme and a feature round. The project record lists Scatter symbols, free spins and multipliers. Those labels are only a summary: the paytable and in-game help are needed to confirm what triggers a feature, how it runs and whether the current version uses the same rules.
 ### Game overview
 
 | Provider | RTP (theoretical) | Volatility | Stake range | Features |
