@@ -1,9 +1,9 @@
 ---
-title: Conta, registo, início de sessão e perguntas frequentes
-description: 'Orientações sobre registo, início de sessão, verificação, privacidade e segurança da conta.'
+title: 'Ajuda da conta Nomini: registo, acesso e segurança'
+description: 'Orientações práticas para criar uma conta, proteger os dados de acesso e resolver dificuldades de início de sessão.'
 type: page
-seo_title: Conta, registo, início de sessão e perguntas frequentes | Nomini
-lastmod: '2026-10-30'
+seo_title: 'Ajuda da conta Nomini | Registo, início de sessão e segurança'
+lastmod: '2026-10-31'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -28,7 +28,7 @@ screenshots_note: 'Ilustração editorial; não é uma captura de uma interface 
 ---
 ## Conta, registo, início de sessão e perguntas frequentes
 
-Este guia reúne informações por tema para facilitar a comparação de regras e limitações. As regras dos jogos, o RTP, as condições dos bónus, os métodos de pagamento e a disponibilidade legal podem variar consoante a versão, o operador e o país. Confirme os dados na versão atualmente disponibilizada.
+Esta página reúne orientações para as várias etapas da utilização de uma conta: dados a confirmar antes do registo, proteção das credenciais e opções quando o acesso falha. A aprovação de contas, a verificação de identidade, os pagamentos e o apoio são da responsabilidade do operador. Este guia independente não pode criar, consultar ou alterar contas de jogadores. Os requisitos podem variar consoante o país, o estado da conta e a versão do serviço; confirme sempre a informação apresentada na área oficial.
 
 ## Guia de registo
 
