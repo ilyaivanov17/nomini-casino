@@ -1,9 +1,9 @@
 ---
-title: 'Guía de tragamonedas: temas, volatilidad y comparación'
-description: 'Explicación de giros gratis, comodines, scatters, rondas de bonificación y otras funciones.'
+title: 'Mecánicas de slots: temas, volatilidad y funciones'
+description: 'Guía práctica de giros gratis, comodines, scatters, rondas de bonificación y especificaciones de tragamonedas.'
 type: page
-seo_title: 'Guía de tragamonedas: temas, volatilidad y comparación | Nomini Casino Guide'
-lastmod: '2026-10-30'
+seo_title: 'Mecánicas de slots explicadas | Funciones, volatilidad y RTP'
+lastmod: '2026-10-31'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -20,15 +20,15 @@ screenshots:
 - /images/guides/slot-features.svg
 screenshots_note: 'Ilustración editorial, no es una captura de una interfaz real del operador.'
 ---
-## Guía de tragamonedas: temas, volatilidad y comparación
+## Cómo interpretar las funciones de una tragamonedas
 
-Esta guía reúne la información por temas para facilitar la comparación de reglas y limitaciones. Las reglas del juego, el RTP, las condiciones de los bonos, los métodos de pago y la disponibilidad legal pueden variar según la versión, el operador y el país. Comprueba los datos en la versión ofrecida actualmente.
+Las funciones de una tragamonedas se comparan mejor cuando se distinguen las reglas del juego de su aspecto visual. Esta guía aborda elementos habituales —comodines, scatters, respins y giros gratis— junto con las cifras publicadas de RTP y volatilidad. Son descripciones del diseño, no predicciones sobre una sesión ni indicaciones de cuándo aparecerá una función. Para conocer activadores, límites y exclusiones, consulta la ayuda de la versión concreta.
 
 ## Starburst
 
 ## Starburst: guía rápida
 
-Starburst apuesta por una pantalla clara, gemas brillantes y un ritmo de juego ágil. La ficha de este título incluye símbolos Wild y respins. Su presentación es sencilla de seguir, aunque conviene consultar la ayuda del juego para confirmar cómo funcionan esas características en la versión disponible.
+Starburst utiliza una estética de gemas brillantes y una pantalla despejada. La ficha del catálogo registra símbolos Wild y respins. Esas etiquetas resumen las funciones, pero no sustituyen la consulta de las reglas de sustitución, las condiciones de los respins y las posibles diferencias entre versiones.
 
 ### Ficha del juego
 
