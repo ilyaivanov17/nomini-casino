@@ -1,9 +1,9 @@
 ---
-title: 'Przewodnik po slotach: podstawy i profile gier'
-description: 'Profile wybranych automatów online: zasady, funkcje i najważniejsze informacje.'
+title: 'Profile automatów online: zasady, funkcje i dane'
+description: 'Opisy wybranych slotów z opublikowanymi parametrami, funkcjami bonusowymi i wyjaśnieniem statystyk.'
 type: page
-seo_title: 'Przewodnik po slotach: podstawy i profile gier | Nomini Casino Guide'
-lastmod: '2026-10-30'
+seo_title: 'Profile slotów online | RTP, funkcje i zasady gry'
+lastmod: '2026-10-31'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -20,16 +20,15 @@ screenshots:
 - /images/slots/wolf-gold.webp
 screenshots_note: 'Ilustracja redakcyjna, nie zrzut ekranu rzeczywistego interfejsu operatora.'
 ---
-## Przewodnik po slotach: podstawy i profile gier
+## Jak czytać profile automatów
 
-Ten przewodnik porządkuje istniejące informacje według tematów, aby łatwiej porównywać zasady i ograniczenia. Zasady gier, RTP, warunki bonusów, metody płatności i dostępność prawna mogą różnić się w zależności od wersji, operatora i kraju. Sprawdź je bezpośrednio w aktualnie oferowanej wersji.
+Sama nazwa slotu nie wyjaśnia jeszcze przebiegu rozgrywki. Poniższe profile zestawiają wybrane informacje — dostawcę, opublikowany RTP, oznaczenie zmienności, zakres stawek i zapisane funkcje — oraz wyjaśniają, czego te dane nie przesądzają. Wartości katalogowe są punktem wyjścia, a nie gwarancją, że identyczna konfiguracja będzie dostępna na każdym koncie. Przed grą porównaj je z pomocą i tabelą wypłat dokładnej wersji.
 
 ## Bigger Bass Bonanza
 
 ## Bigger Bass Bonanza: najważniejsze informacje
 
-Bigger Bass Bonanza ma własny motyw i zestaw funkcji, które warto poznać przed grą. W zapisanej specyfikacji wymieniono: symbole Scatter, darmowe spiny, mnożniki. Sprawdź instrukcję i tabelę wypłat, aby poznać warunki aktywacji oraz ograniczenia dostępnej wersji.
-
+Bigger Bass Bonanza wykorzystuje motyw wędkarski i rundę specjalnych funkcji. W rekordzie projektu wymieniono symbole Scatter, darmowe spiny oraz mnożniki. To jedynie skrót informacji: warunki uruchomienia funkcji i jej przebieg należy sprawdzić w instrukcji oraz tabeli wypłat faktycznie udostępnionej wersji.
 ### Informacje o grze
 
 | Dostawca | RTP (teoretyczne) | Zmienność | Zakres stawek | Funkcje |
