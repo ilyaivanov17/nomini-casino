@@ -8,7 +8,7 @@ slug: jon-pill
 aliases:
 - /authors/author-7/
 date: '2026-09-27'
-lastmod: '2026-10-30'
+lastmod: '2026-10-31'
 author_id: author-7
 role: Game Analyst und Glücksspieljournalist
 photo: images/Jon_Pill.webp
@@ -41,7 +41,7 @@ Spielstrategien, Pokerregeln, Casinospiele und Analyse von Spielmechaniken
 
 ### Redaktioneller Beitrag bei Nomini Casino Guide
 
-Bei Nomini Casino Guide arbeitet das Profil im thematischen Umfeld von Casino-Informationen, Spielbeschreibungen und dem Vergleich von Angebotsbedingungen. Die Einordnung der Inhalte folgt dem jeweiligen Fachgebiet: Spielmechaniken werden anhand der verfügbaren Spieldaten erklärt, Bonusangaben nach Bedingungen strukturiert und Zahlungsmethoden anhand der hinterlegten Limits und Zeitangaben verglichen.
+Seine Schwerpunkte Spielstrategie, Pokerregeln und Casinomechanik passen zu erklärenden Artikeln über Spielabläufe. Spielbeschreibungen erläutern veröffentlichte Regeln, versprechen aber weder Gewinne noch sagen sie künftige Ergebnisse voraus.
 
 ### So ist das Profil einzuordnen
 
