@@ -1,13 +1,11 @@
 ---
-title: Casino-Bonusbedingungen richtig verstehen
-description: Umsatzbedingungen, Fristen, Spielgewichtung, Höchsteinsätze und Auszahlungsregeln verständlich erklärt.
+title: 'Casino-Boni verstehen: Umsatz, Teilnahme und Auszahlung'
+description: 'So lassen sich Bonusbedingungen lesen: Umsatzberechnung, zugelassene Spiele, Fristen, Einsatzgrenzen und Auszahlungen.'
 type: page
 author: cristina-tudose
-seo_title: Casino-Bonusbedingungen verstehen | Nomini Casino Guide
-lastmod: '2026-10-30'
-article_review_status: editorial-approved
-reviewed_by: Cristina Tudose
-review_date: '2026-10-30'
+seo_title: 'Casino-Bonusbedingungen | Umsatz, Teilnahme und Auszahlung'
+lastmod: '2026-10-31'
+article_review_status: editorial-review-pending
 build:
   render: always
   list: always
@@ -27,10 +25,9 @@ screenshots:
 - /images/guides/bonuses.svg
 screenshots_note: 'Illustrative redaktionelle Grafik, kein echter Screenshot einer Betreiberoberfläche.'
 ---
+Der beworbene Bonusbetrag ist nur ein Teil einer Promotion. Vor der Aktivierung sollte klar sein, wie der Umsatz berechnet wird, welche Spiele angerechnet werden, bis wann die Bedingungen erfüllt sein müssen und ob eine Auszahlungsgrenze gilt. Erst diese Punkte zeigen, welche Anforderungen tatsächlich mit der Aktion verbunden sind.
 
-Ein Bonus von 500 Euro klingt zunächst attraktiver als 50 Freispiele. Entscheidend ist aber, welche Bedingungen daran geknüpft sind: Wie hoch ist der erforderliche Umsatz? Welche Spiele zählen? Wann läuft die Aktion ab? Und was passiert, wenn du vorzeitig eine Auszahlung beantragst?
-
-Die wichtigsten Regeln stehen nicht immer direkt neben der beworbenen Summe. Lies deshalb die vollständigen Aktionsbedingungen vor der Aktivierung. Dieser Leitfaden erklärt typische Begriffe und Prüfpunkte. Er beschreibt kein aktuelles Instant-Casino-Angebot; maßgeblich sind immer die Bedingungen der konkreten Aktion und die Regeln des jeweiligen Landes.
+Dieser Leitfaden erläutert gängige Bonusbegriffe und verwendet Beispielrechnungen, um unterschiedliche Umsatzmodelle zu veranschaulichen. Er bestätigt kein aktuell verfügbares Willkommenspaket, keine Freispiele und keinen bestimmten Bonuscode von Nomini. Für eine konkrete Aktion gelten immer die aktuellen Bedingungen des Anbieters und die Vorschriften des jeweiligen Landes.
 
 ## Die wichtigsten Angaben auf einen Blick
 
