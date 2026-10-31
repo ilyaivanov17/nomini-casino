@@ -8,7 +8,7 @@ slug: cristina-tudose
 aliases:
 - /pt/authors/author-5/
 date: '2026-09-27'
-lastmod: '2026-10-30'
+lastmod: '2026-10-31'
 author_id: author-5
 role: Redatora de conteúdos / copywriter • iGaming
 photo: images/Cristina_Tudose.jpg
@@ -40,7 +40,7 @@ Conteúdos multilingues de iGaming, análises de casinos, bónus, descrições d
 
 ### Contributo editorial na Nomini Casino Guide
 
-Na Nomini Casino Guide, este perfil integra o trabalho editorial sobre informação de casinos, explicações de jogos e comparação das condições das ofertas. A área de especialidade orienta a abordagem: as mecânicas são explicadas com base nos dados disponíveis, os bónus são organizados pelas respetivas condições e os métodos de pagamento são comparados por limites e tempos indicados.
+A experiência pública em conteúdos iGaming multilingues, análises de casinos, textos sobre bónus e SEO relaciona-se com a organização dos nossos guias e explicações promocionais. Cada oferta em vigor continua a exigir uma verificação independente das respetivas condições.
 
 ### Como interpretar este perfil
 
