@@ -8,7 +8,7 @@ slug: arthur-mustoe
 aliases:
 - /en/authors/author-4/
 date: '2026-09-27'
-lastmod: '2026-10-30'
+lastmod: '2026-10-31'
 author_id: author-4
 role: Senior Content Writer • iGaming and casino
 photo: images/arthur_mustoe.jpg
@@ -40,7 +40,7 @@ Casino and slot reviews, game rules, provider information and compliance-aware c
 
 ### Editorial contribution at Nomini Casino Guide
 
-At Nomini Casino Guide, this profile belongs to the editorial work covering casino information, game explainers and comparisons of offer terms. The subject area shapes the approach: game mechanics are explained through available game data, bonus details are structured by their conditions, and payment methods are compared using the listed limits and processing times.
+This stated focus on casino and slot reviews, game rules and provider information is relevant to the guide's game profiles. Our treatment separates published specifications from editorial explanation and directs readers to the rules for the exact version being offered.
 
 ### How to use this profile
 
