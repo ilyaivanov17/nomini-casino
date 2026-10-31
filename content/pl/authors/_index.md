@@ -1,20 +1,19 @@
 ---
-title: Autorzy Nomini Casino Guide
+title: 'Osoby współtworzące Nomini Casino Guide'
 description: Poznaj siedmiu współtwórców Nomini Casino Guide, ich specjalizacje oraz linki do publicznych profili zawodowych.
-seo_title: Autorzy i redakcja | Nomini Casino Guide
+seo_title: 'Autorzy i współpracownicy | Nomini Casino Guide'
 type: authors
 date: 2026-09-27
-lastmod: '2026-10-30'
+lastmod: '2026-10-31'
 build:
   render: always
   list: always
 ---
+## Zespół współtworzący przewodnik
 
-## Zespół redakcyjny Nomini Casino Guide
+Katalog przedstawia siedem osób, których publicznie opisane doświadczenie obejmuje treści iGaming, dziennikarstwo kasynowe, analizę gier i pracę redakcyjną. Przy każdym nazwisku znajdują się odnośniki do dostępnych profili zawodowych, aby można było sprawdzić informacje u źródła.
 
-Ta strona przedstawia siedem osób współpracujących przy projekcie. Każdy profil opisuje specjalizację i odsyła do publicznych źródeł, aby czytelnicy mogli zapoznać się z doświadczeniem w iGamingu, dziennikarstwie kasynowym, analizie gier, bonusach i pracy redakcyjnej.
-
-Katalog autorów pomaga również dotrzeć do treści redakcyjnych. Deklarowane obszary pracy wyjaśniają kontekst artykułów o grach, promocjach i płatnościach. Biografia zawodowa nie jest dowodem na konkretny wynik gry ani osobiste wygrane.
+Profile pomagają zrozumieć, jakimi tematami zajmuje się dana osoba. Opisują deklarowane doświadczenie zawodowe, ale nie potwierdzają osobistych wygranych ani nie dowodzą, że autor przetestował każdą wymienioną grę lub sprawdził wszystkie strony serwisu.
 
 | Autor | Specjalizacja | Profil publiczny |
 |---|---|---|
@@ -26,4 +25,4 @@ Katalog autorów pomaga również dotrzeć do treści redakcyjnych. Deklarowane 
 | Jon Pill | Strategia gier, poker i gry kasynowe | [Medium](https://medium.com/@zuza76hgtf) |
 | Marco Ibarra | iGaming, recenzje slotów, bonusy i redakcyjne SEO | [LinkedIn](https://cl.linkedin.com/in/ibarram94/en) · [Strona](https://marco-ibarra.com/) |
 
-Otwórz profil, aby sprawdzić informacje zawodowe u źródła.
+Więcej informacji o doświadczeniu znajdziesz w podanych profilach; szczegóły najlepiej weryfikować bezpośrednio w publicznym źródle.
