@@ -8,7 +8,7 @@ slug: arthur-mustoe
 aliases:
 - /pl/authors/author-4/
 date: '2026-09-27'
-lastmod: '2026-10-30'
+lastmod: '2026-10-31'
 author_id: author-4
 role: Starszy autor treści • iGaming i kasyna
 photo: images/arthur_mustoe.jpg
@@ -41,7 +41,7 @@ Recenzje kasyn i slotów, zasady gier, informacje o dostawcach i treści uwzglę
 
 ### Wkład redakcyjny w Nomini Casino Guide
 
-W Nomini Casino Guide profil należy do pracy redakcyjnej dotyczącej informacji o kasynach, objaśnień gier i porównywania warunków ofert. Specjalizacja wyznacza sposób prezentacji: mechanika gier jest opisywana na podstawie dostępnych danych, bonusy porządkuje się według warunków, a metody płatności zestawia według limitów i podanego czasu realizacji.
+Deklarowana specjalizacja w recenzjach kasyn i slotów, zasadach gier oraz informacjach o dostawcach jest powiązana z profilami automatów w tym przewodniku. Oddzielamy opublikowane parametry od objaśnień redakcyjnych i odsyłamy do zasad konkretnej dostępnej wersji.
 
 ### Jak korzystać z tego profilu
 
