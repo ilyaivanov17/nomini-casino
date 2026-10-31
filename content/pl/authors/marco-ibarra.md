@@ -8,7 +8,7 @@ slug: marco-ibarra
 aliases:
 - /pl/authors/author-3/
 date: '2026-09-27'
-lastmod: '2026-10-30'
+lastmod: '2026-10-31'
 author_id: author-3
 role: Autor i redaktor iGaming
 photo: images/Marco_Ibarra.jpg
@@ -40,7 +40,7 @@ Kasyna online, recenzje slotów, analiza bonusów i redakcja SEO
 
 ### Wkład redakcyjny w Nomini Casino Guide
 
-W Nomini Casino Guide profil należy do pracy redakcyjnej dotyczącej informacji o kasynach, objaśnień gier i porównywania warunków ofert. Specjalizacja wyznacza sposób prezentacji: mechanika gier jest opisywana na podstawie dostępnych danych, bonusy porządkuje się według warunków, a metody płatności zestawia według limitów i podanego czasu realizacji.
+Deklarowana działalność w pisaniu o iGamingu, redakcji, recenzjach slotów, analizie bonusów i SEO ma związek z wielojęzyczną prezentacją treści. Widoczność w wyszukiwarce pozostaje podporządkowana przejrzystym objaśnieniom i możliwym do sprawdzenia źródłom.
 
 ### Jak korzystać z tego profilu
 
