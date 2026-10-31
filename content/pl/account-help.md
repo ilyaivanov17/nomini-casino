@@ -1,9 +1,9 @@
 ---
-title: Konto, rejestracja, logowanie i częste pytania
-description: 'Informacje o rejestracji, logowaniu, weryfikacji tożsamości, prywatności i ochronie konta.'
+title: 'Pomoc dotycząca konta Nomini: rejestracja, logowanie i bezpieczeństwo'
+description: 'Praktyczne wskazówki dotyczące zakładania konta, ochrony danych logowania i rozwiązywania problemów z dostępem.'
 type: page
-seo_title: Konto, rejestracja, logowanie i częste pytania | Nomini
-lastmod: '2026-10-30'
+seo_title: 'Pomoc dotycząca konta Nomini | Rejestracja, logowanie i bezpieczeństwo'
+lastmod: '2026-10-31'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -28,7 +28,7 @@ screenshots_note: 'Ilustracja redakcyjna, nie zrzut ekranu rzeczywistego interfe
 ---
 ## Konto, rejestracja, logowanie i częste pytania
 
-Ten przewodnik porządkuje istniejące informacje według tematów, aby łatwiej porównywać zasady i ograniczenia. Zasady gier, RTP, warunki bonusów, metody płatności i dostępność prawna mogą różnić się w zależności od wersji, operatora i kraju. Sprawdź je bezpośrednio w aktualnie oferowanej wersji.
+Ta strona zbiera wskazówki dotyczące kolejnych etapów korzystania z konta: od danych, które warto sprawdzić przed rejestracją, po bezpieczne odzyskiwanie dostępu. Za zatwierdzanie kont, kontrolę tożsamości, płatności i obsługę odpowiada operator. Ten niezależny poradnik nie może tworzyć, przeglądać ani zmieniać kont graczy. Wymagania zależą między innymi od kraju, statusu konta i dostępnej wersji usługi, dlatego sprawdź je w oficjalnym panelu.
 
 ## Rejestracja konta
 
