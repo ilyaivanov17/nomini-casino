@@ -1,9 +1,9 @@
 ---
-title: 'Guia de slots: temas, volatilidade e comparação'
-description: 'Explicação de rodadas grátis, wilds, scatters, rondas de bónus e outras funcionalidades.'
+title: 'Mecânicas dos slots: temas, volatilidade e funcionalidades'
+description: 'Guia prático sobre rodadas grátis, wilds, scatters, rondas de bónus e indicadores dos slots.'
 type: page
-seo_title: 'Guia de slots: temas, volatilidade e comparação | Nomini Casino Guide'
-lastmod: '2026-10-30'
+seo_title: 'Mecânicas dos slots explicadas | Funcionalidades, volatilidade e RTP'
+lastmod: '2026-10-31'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -20,15 +20,15 @@ screenshots:
 - /images/guides/slot-features.svg
 screenshots_note: 'Ilustração editorial; não é uma captura de uma interface real do operador.'
 ---
-## Guia de slots: temas, volatilidade e comparação
+## Como compreender as funcionalidades dos slots
 
-Este guia reúne informações por tema para facilitar a comparação de regras e limitações. As regras dos jogos, o RTP, as condições dos bónus, os métodos de pagamento e a disponibilidade legal podem variar consoante a versão, o operador e o país. Confirme os dados na versão atualmente disponibilizada.
+As funcionalidades de um slot são mais fáceis de comparar quando se distinguem as regras do jogo do seu tema visual. Este guia aborda elementos comuns — símbolos wild, scatters, respins e rodadas grátis — juntamente com os valores publicados de RTP e volatilidade. Estes termos descrevem aspetos do jogo; não preveem uma sessão nem indicam quando uma funcionalidade será ativada. Para conhecer os gatilhos e as exclusões, consulte a ajuda da versão efetivamente disponibilizada.
 
 ## Starburst
 
 ## Starburst: guia rápido
 
-Starburst aposta num ecrã simples, pedras preciosas brilhantes e um ritmo rápido. A ficha deste título indica símbolos Wild e respins. A apresentação é fácil de acompanhar, mas vale a pena consultar a ajuda do jogo para confirmar as regras da versão disponível.
+Starburst apresenta pedras preciosas brilhantes e um ecrã visualmente simples. O registo do catálogo indica símbolos Wild e respins. Estas designações resumem as funcionalidades, mas é necessário consultar a ajuda do jogo para confirmar as regras de substituição, as condições dos respins e eventuais diferenças entre versões.
 
 ### Dados do jogo
 

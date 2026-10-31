@@ -8,7 +8,7 @@ slug: dominic-field
 aliases:
 - /pt/authors/author-6/
 date: '2026-09-27'
-lastmod: '2026-10-30'
+lastmod: '2026-10-31'
 author_id: author-6
 role: Redator freelancer de iGaming
 photo: images/Dominic_Field.jpg
@@ -40,7 +40,7 @@ Casinos online, slots, póquer, apostas desportivas e setor de iGaming
 
 ### Contributo editorial na Nomini Casino Guide
 
-Na Nomini Casino Guide, este perfil integra o trabalho editorial sobre informação de casinos, explicações de jogos e comparação das condições das ofertas. A área de especialidade orienta a abordagem: as mecânicas são explicadas com base nos dados disponíveis, os bónus são organizados pelas respetivas condições e os métodos de pagamento são comparados por limites e tempos indicados.
+As áreas declaradas incluem casinos online, slots, póquer e apostas desportivas. Esta perspetiva ampla do iGaming ajuda a enquadrar assuntos relacionados, mas as regras e a disponibilidade de cada produto precisam de confirmação atualizada.
 
 ### Como interpretar este perfil
 

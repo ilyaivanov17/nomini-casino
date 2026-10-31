@@ -1,20 +1,19 @@
 ---
-title: Autoren von Nomini Casino Guide
+title: 'Die Mitwirkenden von Nomini Casino Guide'
 description: 'Autorenprofile von Nomini Casino Guide: sieben Mitwirkende, ihre Fachgebiete und Links zu öffentlichen Berufsprofilen.'
-seo_title: Öffentliche Autorenprofile | Nomini Casino Guide
+seo_title: 'Autoren und Mitwirkende | Nomini Casino Guide'
 type: authors
 date: 2026-09-27
-lastmod: '2026-10-30'
+lastmod: '2026-10-31'
 build:
   render: always
   list: always
 ---
+## Wer an diesem Guide mitarbeitet
 
-## Redaktionsteam von Nomini Casino Guide
+Das Verzeichnis umfasst sieben Mitwirkende mit veröffentlichten Arbeitsschwerpunkten in den Bereichen iGaming, Casino-Berichterstattung, Spielanalyse und redaktionelle Inhalte. Zu jedem Eintrag führen Links auf öffentlich zugängliche Berufsprofile, damit Leser die Angaben direkt an der jeweiligen Quelle nachvollziehen können.
 
-Diese Seite stellt die sieben Autoren vor, die an diesem Projekt mitarbeiten. Die Profile nennen ihre Fachgebiete, ordnen ihren beruflichen Hintergrund ein und verlinken auf öffentliche Profile. Dadurch können Leser nachvollziehen, welche Erfahrung die jeweilige Person in den Themen iGaming, Casino-Journalismus, Spielanalysen, Boni oder redaktioneller Arbeit mitbringt.
-
-Die Autorenseite ist zugleich ein Einstieg in die Redaktion: Die jeweiligen beruflichen Schwerpunkte helfen dabei, Casino-Informationen und Fragen rund um Spiele, Aktionen und Zahlungen fachlich einzuordnen. Angaben zu konkreten Spielrunden oder persönlichen Gewinnen werden nicht aus einer Biografie abgeleitet.
+Die Profile helfen dabei, die thematischen Hintergründe der Beiträge einzuordnen. Sie dokumentieren berufliche Schwerpunkte, sind aber weder ein Nachweis persönlicher Glücksspielgewinne noch eine Bestätigung dafür, dass ein Autor jedes erwähnte Spiel getestet oder jede Seite dieses Guides geprüft hat.
 
 | Autor | Schwerpunkt | Öffentliches Profil |
 |---|---|---|
@@ -26,4 +25,4 @@ Die Autorenseite ist zugleich ein Einstieg in die Redaktion: Die jeweiligen beru
 | Jon Pill | Spielstrategie, Poker und Casinospiele | [Medium](https://medium.com/@zuza76hgtf) |
 | Marco Ibarra | iGaming, Slot-Reviews, Boni und redaktionelle SEO-Arbeit | [LinkedIn](https://cl.linkedin.com/in/ibarram94/en) · [Website](https://marco-ibarra.com/) |
 
-Öffne ein Profil, um die beruflichen Angaben direkt bei der jeweiligen Quelle nachzulesen.
+Für weitere berufliche Angaben nutzen Sie bitte die verlinkten öffentlichen Profile und prüfen Sie die Informationen direkt bei der jeweiligen Quelle.

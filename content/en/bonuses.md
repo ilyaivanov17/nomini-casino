@@ -1,13 +1,11 @@
 ---
-title: How to understand casino bonus terms
-description: A practical guide to wagering requirements, expiry dates, game contribution, maximum cashout and withdrawal rules.
+title: 'Casino bonus terms: wagering, eligibility and withdrawals'
+description: 'How to read bonus rules, calculate wagering and check eligible games, deadlines, stake caps and payout limits.'
 type: page
 author: cristina-tudose
-seo_title: Casino bonus terms explained | Nomini Casino Guide
-lastmod: '2026-10-30'
-article_review_status: editorial-approved
-reviewed_by: Cristina Tudose
-review_date: '2026-10-30'
+seo_title: 'Casino Bonus Terms Explained | Wagering, Eligibility and Cashout'
+lastmod: '2026-10-31'
+article_review_status: editorial-review-pending
 build:
   render: always
   list: always
@@ -27,10 +25,9 @@ screenshots:
 - /images/guides/bonuses.svg
 screenshots_note: 'Illustrative editorial artwork, not a screenshot of a real operator interface.'
 ---
+The headline value of a casino promotion is only the starting point. Before activating an offer, find out how the wagering target is calculated, which games contribute, how long you have to complete the conditions and whether winnings are subject to a cashout cap. Those details—not the advertised figure alone—determine what accepting the promotion involves.
 
-A €500 bonus may look more attractive than 50 free spins. The headline figure does not tell you what you must do to receive or withdraw it. Check the wagering requirement, eligible games, expiry date and rules for withdrawing before completing the bonus.
-
-The important details are not always shown beside the advertised amount. Read the full promotion terms before opting in or depositing. This guide explains common terms; it does not describe a current Nomini offer. The rules of the specific promotion and the relevant country always take priority.
+This article explains common bonus terminology and uses hypothetical calculations to show how different rules can change the required wagering. It does not confirm that Nomini currently offers a particular welcome package, free-spin deal or bonus code. For any live campaign, the operator's current terms and the rules for the player's country take precedence.
 
 ## Start with these details
 

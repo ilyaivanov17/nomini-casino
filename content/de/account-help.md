@@ -1,9 +1,9 @@
 ---
-title: Konto, Registrierung, Login und häufige Fragen
-description: 'Hinweise zu Kontoerstellung, Anmeldung, Verifizierung, Datenschutz und sicherem Kontozugriff.'
+title: 'Nomini Konto: Registrierung, Anmeldung und Kontoschutz'
+description: 'Praktische Hinweise zur Kontoerstellung, sicheren Anmeldung und Lösung häufiger Zugangsprobleme.'
 type: page
-seo_title: Konto, Registrierung, Login und häufige Fragen | Nomini
-lastmod: '2026-10-30'
+seo_title: 'Nomini Konto-Hilfe | Registrierung, Login und Sicherheit'
+lastmod: '2026-10-31'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -28,7 +28,7 @@ screenshots_note: 'Illustrative redaktionelle Grafik, kein echter Screenshot ein
 ---
 ## Konto, Registrierung, Login und häufige Fragen
 
-Dieser Leitfaden bündelt vorhandene Informationen nach Themen, damit wichtige Regeln und Einschränkungen leichter vergleichbar sind. Spielregeln, RTP-Werte, Bonusbedingungen, Zahlungsoptionen und rechtliche Verfügbarkeit können sich je nach Version, Betreiber und Land ändern. Prüfe die Angaben direkt in der aktuell angebotenen Version.
+Diese Seite bündelt praktische Hinweise rund um das Spielerkonto – von Angaben, die vor einer Registrierung geprüft werden sollten, bis zur sicheren Wiederherstellung des Zugangs. Über Kontoeröffnung, Identitätsprüfung, Zahlungen und Support entscheidet ausschließlich der Betreiber. Dieser unabhängige Guide kann kein Konto einsehen, eröffnen oder ändern. Anforderungen und Funktionen können je nach Land, Kontostatus und angebotener Version abweichen; maßgeblich sind die Hinweise im offiziellen Konto.
 
 ## Nomini Registrierung — Anleitung & KYC
 

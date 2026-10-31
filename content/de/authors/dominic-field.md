@@ -8,7 +8,7 @@ slug: dominic-field
 aliases:
 - /authors/author-6/
 date: '2026-09-27'
-lastmod: '2026-10-30'
+lastmod: '2026-10-31'
 author_id: author-6
 role: Freiberuflicher iGaming-Autor
 photo: images/Dominic_Field.jpg
@@ -40,7 +40,7 @@ Online-Casinos, Slots, Poker, Sportwetten und iGaming-Branche
 
 ### Redaktioneller Beitrag bei Nomini Casino Guide
 
-Bei Nomini Casino Guide arbeitet das Profil im thematischen Umfeld von Casino-Informationen, Spielbeschreibungen und dem Vergleich von Angebotsbedingungen. Die Einordnung der Inhalte folgt dem jeweiligen Fachgebiet: Spielmechaniken werden anhand der verfügbaren Spieldaten erklärt, Bonusangaben nach Bedingungen strukturiert und Zahlungsmethoden anhand der hinterlegten Limits und Zeitangaben verglichen.
+Seine genannten Fachgebiete reichen von Online-Casinos und Slots bis zu Poker und Sportwetten. Diese breite iGaming-Perspektive ordnet verwandte Themen ein; die konkreten Regeln und die Verfügbarkeit eines Produkts müssen weiterhin anhand aktueller Quellen geprüft werden.
 
 ### So ist das Profil einzuordnen
 

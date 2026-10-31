@@ -8,7 +8,7 @@ slug: marco-ibarra
 aliases:
 - /en/authors/author-3/
 date: '2026-09-27'
-lastmod: '2026-10-30'
+lastmod: '2026-10-31'
 author_id: author-3
 role: iGaming writer and editor
 photo: images/Marco_Ibarra.jpg
@@ -40,7 +40,7 @@ Online casinos, slot reviews, bonus analysis and SEO-focused editing
 
 ### Editorial contribution at Nomini Casino Guide
 
-At Nomini Casino Guide, this profile belongs to the editorial work covering casino information, game explainers and comparisons of offer terms. The subject area shapes the approach: game mechanics are explained through available game data, bonus details are structured by their conditions, and payment methods are compared using the listed limits and processing times.
+His stated work in iGaming writing, editing, slot reviews, bonus analysis and SEO is relevant to the guide's multilingual presentation. Search visibility remains secondary to clear explanations and traceable source information.
 
 ### How to use this profile
 

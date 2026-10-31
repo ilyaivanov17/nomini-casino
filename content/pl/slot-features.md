@@ -1,9 +1,9 @@
 ---
-title: 'Przewodnik po slotach: motywy, zmienność i porównanie'
-description: 'Wyjaśnienie darmowych spinów, symboli wild i scatter, rund bonusowych oraz innych funkcji.'
+title: 'Mechanika slotów: motywy, zmienność i funkcje'
+description: 'Praktyczne omówienie darmowych spinów, symboli wild i scatter, rund bonusowych oraz parametrów automatów.'
 type: page
-seo_title: 'Przewodnik po slotach: motywy, zmienność i porównanie | Nomini Casino Guide'
-lastmod: '2026-10-30'
+seo_title: 'Mechanika slotów | Funkcje, zmienność i RTP'
+lastmod: '2026-10-31'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -20,15 +20,15 @@ screenshots:
 - /images/guides/slot-features.svg
 screenshots_note: 'Ilustracja redakcyjna, nie zrzut ekranu rzeczywistego interfejsu operatora.'
 ---
-## Przewodnik po slotach: motywy, zmienność i porównanie
+## Jak rozumieć funkcje automatów
 
-Ten przewodnik porządkuje istniejące informacje według tematów, aby łatwiej porównywać zasady i ograniczenia. Zasady gier, RTP, warunki bonusów, metody płatności i dostępność prawna mogą różnić się w zależności od wersji, operatora i kraju. Sprawdź je bezpośrednio w aktualnie oferowanej wersji.
+Funkcje slotu łatwiej porównywać, gdy oddzielimy zasady gry od jej motywu graficznego. W tym przewodniku omawiamy popularne elementy: symbole wild, scatter, respiny i darmowe spiny, a także publikowane RTP i oznaczenia zmienności. Są to opisy konstrukcji gry, a nie prognozy wyniku sesji ani wskazówki, kiedy pojawi się dana funkcja. Warunki uruchomienia i wykluczenia należy sprawdzić w instrukcji konkretnej wersji.
 
 ## Starburst
 
 ## Starburst: najważniejsze informacje
 
-Starburst stawia na przejrzysty ekran, błyszczące klejnoty i szybkie tempo. W zapisanej specyfikacji wymieniono symbole Wild oraz respiny. Układ łatwo poznać, ale dokładne zasady działania funkcji warto sprawdzić w pomocy konkretnej wersji gry.
+Starburst wyróżnia się jasną grafiką z klejnotami i prostym układem ekranu. W katalogu zapisano symbole wild oraz respiny. Te informacje opisują zestaw funkcji, ale nie zastępują sprawdzenia zasad zastępowania symboli, warunków respinów i ewentualnych różnic między wersjami.
 
 ### Informacje o grze
 

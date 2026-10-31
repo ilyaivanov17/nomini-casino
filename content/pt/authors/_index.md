@@ -1,21 +1,20 @@
 ---
-title: Autores Nomini Casino Guide
+title: 'Quem participa na Nomini Casino Guide'
 description: Conheça os sete colaboradores da Nomini Casino Guide, as suas especialidades e links para perfis profissionais
   públicos.
-seo_title: Autores e equipa editorial | Nomini Casino Guide
+seo_title: 'Autores e colaboradores | Nomini Casino Guide'
 type: authors
 date: 2026-09-27
-lastmod: '2026-10-30'
+lastmod: '2026-10-31'
 build:
   render: always
   list: always
 ---
+## As pessoas que contribuem para este guia
 
-## Equipa editorial Nomini Casino Guide
+O diretório apresenta sete colaboradores com percursos públicos ligados a conteúdos iGaming, jornalismo sobre casinos, análise de jogos e edição. Cada entrada inclui referências profissionais acessíveis ao público, permitindo consultar a informação na sua origem.
 
-Esta página apresenta as sete pessoas que colaboram no projeto. Cada perfil resume a sua especialidade e liga a fontes públicas para que os leitores possam consultar a experiência em iGaming, jornalismo de casinos, análise de jogos, bónus e trabalho editorial.
-
-O diretório também ajuda a explorar os conteúdos editoriais. As áreas profissionais declaradas contextualizam os materiais sobre jogos, promoções e pagamentos. Uma biografia profissional não é usada como prova de um resultado de jogo específico nem de ganhos pessoais.
+Os perfis ajudam a contextualizar os temas tratados por cada pessoa. Descrevem experiência profissional declarada; não comprovam ganhos pessoais nem significam que o autor tenha testado todos os jogos mencionados ou revisto todas as páginas deste site.
 
 | Autor | Especialidade | Perfil público |
 |---|---|---|
@@ -27,4 +26,4 @@ O diretório também ajuda a explorar os conteúdos editoriais. As áreas profis
 | Jon Pill | Estratégia de jogo, póquer e jogos de casino | [Medium](https://medium.com/@zuza76hgtf) |
 | Marco Ibarra | iGaming, análises de slots, bónus e SEO editorial | [LinkedIn](https://cl.linkedin.com/in/ibarram94/en) · [Site](https://marco-ibarra.com/) |
 
-Abra um perfil para consultar os dados profissionais na fonte pública original.
+Para conhecer melhor o percurso de cada colaborador, abra as referências profissionais indicadas e consulte diretamente as fontes públicas.

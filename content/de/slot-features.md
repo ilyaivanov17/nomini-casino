@@ -1,9 +1,9 @@
 ---
-title: 'Slot-Leitfaden: Themen, Volatilität und Vergleich'
-description: 'Freispiele, Wilds, Scatter, Bonusspiele und weitere typische Slot-Funktionen erklärt.'
+title: 'Slot-Mechaniken erklärt: Themen, Volatilität und Funktionen'
+description: 'Ein verständlicher Überblick zu Freispielen, Wilds, Scatter-Symbolen, Bonusrunden und Slot-Kennzahlen.'
 type: page
-seo_title: 'Slot-Leitfaden: Themen, Volatilität und Vergleich | Nomini Casino Guide'
-lastmod: '2026-10-30'
+seo_title: 'Slot-Funktionen erklärt | Mechanik, Volatilität und RTP'
+lastmod: '2026-10-31'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -20,15 +20,15 @@ screenshots:
 - /images/guides/slot-features.svg
 screenshots_note: 'Illustrative redaktionelle Grafik, kein echter Screenshot einer Betreiberoberfläche.'
 ---
-## Slot-Leitfaden: Themen, Volatilität und Vergleich
+## Slot-Funktionen richtig einordnen
 
-Dieser Leitfaden bündelt vorhandene Informationen nach Themen, damit wichtige Regeln und Einschränkungen leichter vergleichbar sind. Spielregeln, RTP-Werte, Bonusbedingungen, Zahlungsoptionen und rechtliche Verfügbarkeit können sich je nach Version, Betreiber und Land ändern. Prüfe die Angaben direkt in der aktuell angebotenen Version.
+Die Funktionen eines Slots lassen sich besser vergleichen, wenn man Spielthema und konkrete Regeln auseinanderhält. Dieser Leitfaden behandelt typische Elemente wie Wild-Symbole, Scatter, Respins und Freispiele sowie veröffentlichte RTP- und Volatilitätsangaben. Diese Begriffe beschreiben Aspekte des Spieldesigns, sagen aber weder eine einzelne Sitzung voraus noch verraten sie, wann eine Funktion ausgelöst wird. Für Auslösebedingungen und Ausschlüsse ist die Spielhilfe der tatsächlich angebotenen Version maßgeblich.
 
 ## Starburst
 
 ## Starburst: kurz erklärt
 
-Starburst setzt auf eine klare Oberfläche, leuchtende Edelsteine und ein schnelles Spieltempo. In der hinterlegten Spielbeschreibung stehen Wilds und Respins im Mittelpunkt. Wer einen Slot ohne lange Erklärung ausprobieren möchte, findet sich meist schnell zurecht; die genauen Regeln hängen trotzdem von der angebotenen Version ab.
+Starburst setzt auf leuchtende Edelsteine und eine übersichtliche Darstellung. Im Katalog sind Wild-Symbole und Respins vermerkt. Das beschreibt die hinterlegten Funktionen, ersetzt aber nicht die Prüfung der konkreten Ersetzungsregeln, Respins-Bedingungen und möglicher Unterschiede zwischen Spielversionen.
 
 ### Spielprofil
 

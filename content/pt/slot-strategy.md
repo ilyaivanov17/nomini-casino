@@ -1,9 +1,9 @@
 ---
-title: 'Guia de slots: funcionalidades e mecânicas'
-description: 'Compreenda RTP, volatilidade e mecânicas sem os tratar como previsões de resultados.'
+title: 'Mecânica dos slots: RTP, volatilidade e funcionalidades de bónus'
+description: 'Compreenda RTP, volatilidade, sistemas de prémios e funcionalidades sem os confundir com previsões.'
 type: page
-seo_title: 'Guia de slots: funcionalidades e mecânicas | Nomini Casino Guide'
-lastmod: '2026-10-30'
+seo_title: 'Mecânica dos slots | RTP, volatilidade e bónus'
+lastmod: '2026-10-31'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -19,9 +19,9 @@ screenshots:
 - /images/guides/slot-strategy.svg
 screenshots_note: 'Ilustração editorial; não é uma captura de uma interface real do operador.'
 ---
-## Guia de slots: funcionalidades e mecânicas
+## Interpretar as regras por detrás de um slot
 
-Este guia reúne informações por tema para facilitar a comparação de regras e limitações. As regras dos jogos, o RTP, as condições dos bónus, os métodos de pagamento e a disponibilidade legal podem variar consoante a versão, o operador e o país. Confirme os dados na versão atualmente disponibilizada.
+Um guia útil explica como os prémios são calculados e de que forma se ativam as funcionalidades especiais. Não basta olhar para o tema visual ou para o valor de RTP em destaque. Esta página apresenta conceitos como RTP, volatilidade, linhas ou formas de ganhar, multiplicadores e condições de ativação de bónus. As regras exatas devem ser confirmadas na ajuda da versão concreta. As estatísticas publicadas descrevem o funcionamento a longo prazo, não o resultado de uma sessão individual.
 
 Um caso prático ajuda a explicar como funciona um jackpot progressivo: o nosso [artigo sobre o Mega Fortune e o prémio de 3,5 milhões de euros]({{< relref "mega-fortune-progressive-jackpot" >}}) separa os factos confirmados de 2018 das regras publicadas do jogo, do RTP e dos limites dos dados de volatilidade disponíveis.
 
@@ -29,7 +29,7 @@ Um caso prático ajuda a explicar como funciona um jackpot progressivo: o nosso 
 
 ## Gates of Olympus: guia rápido
 
-Gates of Olympus inspira-se na mitologia grega e dá destaque aos multiplicadores e às funcionalidades de bónus. Não presuma que funciona como uma slot tradicional de linhas de pagamento: consulte as regras para perceber como são calculadas as combinações e como se ativam as funções especiais.
+Gates of Olympus inspira-se na mitologia grega e dá destaque aos multiplicadores e às funcionalidades de bónus. Não deve ser automaticamente interpretado como um slot tradicional de linhas de pagamento. As regras do jogo explicam como são calculadas as combinações vencedoras e quais as condições para ativar rodadas grátis ou outras funcionalidades.
 
 ### Dados do jogo
 

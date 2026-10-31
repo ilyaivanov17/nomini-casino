@@ -8,7 +8,7 @@ slug: jon-pill
 aliases:
 - /es/authors/author-7/
 date: '2026-09-27'
-lastmod: '2026-10-30'
+lastmod: '2026-10-31'
 author_id: author-7
 role: Analista de juegos y periodista de juego
 photo: images/Jon_Pill.webp
@@ -41,7 +41,7 @@ Estrategia de juego, reglas de póquer, juegos de casino y análisis de mecánic
 
 ### Contribución editorial en Nomini Casino Guide
 
-En Nomini Casino Guide, este perfil forma parte del trabajo editorial sobre información de casinos, explicaciones de juegos y comparación de condiciones. El área de especialidad determina el enfoque: las mecánicas se explican a partir de los datos disponibles, los bonos se organizan por sus condiciones y los métodos de pago se comparan según límites y tiempos indicados.
+Su especialización en estrategia de juego, reglas de póquer y mecánicas de casino es pertinente para los artículos explicativos. Las descripciones aclaran reglas publicadas; no ofrecen métodos para asegurar victorias ni predicen resultados futuros.
 
 ### Cómo interpretar este perfil
 

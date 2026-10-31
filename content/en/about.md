@@ -1,9 +1,9 @@
 ---
-title: 'About the Nomini Casino Guide: editorial method'
-description: 'Learn how our editorial process works, how sources are checked and who is responsible for the content.'
+title: 'About Nomini Casino Guide: how the editorial work is done'
+description: 'How this independent guide checks claims, distinguishes evidence from commentary and handles editorial corrections.'
 type: page
-seo_title: 'About Nomini | Editorial method and team'
-lastmod: '2026-10-30'
+seo_title: 'About Nomini Casino Guide | Editorial standards and contact'
+lastmod: '2026-10-31'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -25,13 +25,17 @@ screenshots:
 - /images/guides/casino-editorial.webp
 screenshots_note: 'Illustrative editorial artwork, not a screenshot of a real operator interface.'
 ---
-## About Nomini Casino Guide: editorial team and methodology
+## About the Nomini Casino Guide
 
-This guide groups existing information by topic so rules and limitations are easier to compare. Game rules, RTP figures, bonus terms, payment options and legal availability can vary by version, operator and country. Check details directly in the version currently offered.
+Nomini Casino Guide is an independent information project. It is not Nomini's official website and does not operate player accounts, games, deposits or withdrawals. The pages are organised around practical questions readers may have about game rules, promotional conditions, payment routes and account access. The information should help readers identify what is known, what depends on their account or country, and what still needs to be confirmed with the operator.
 
-## Editorial methodology
+## How the editorial process works
 
-The material is editorial information. RTP figures, bonus terms, payment details and legal availability must be checked against current primary sources before publication. Author profiles preserve the project’s recorded details and do not imply that a contributor has reviewed or approved every merged text.
+We treat the wording of an offer and the conditions behind it as separate pieces of information. A headline amount, for example, is not enough to explain wagering, eligible games, time limits or withdrawal restrictions. The same principle applies to games and payments: a published RTP is a theoretical long-run statistic, while processing times are estimates that may not describe an individual transaction.
+
+For claims that can change, the preferred reference is a current primary source such as the operator's terms, the game provider's documentation, a payment provider's conditions or a relevant regulator's publication. We identify information that is not listed or has not been confirmed rather than filling the gap with an assumption. Reader reports and independent commentary may provide context, but they do not replace primary evidence.
+
+Contributor biographies explain each author's stated subject background and link to public professional profiles where available. They should not be read as proof that an author has tested every game or approved every page. We only describe a hands-on test where a record supports that statement.
 
 ## Contact the Nomini Casino Guide editorial team
 

@@ -7,7 +7,7 @@ slug: cristina-tudose
 aliases:
 - /ja/authors/author-5/
 date: '2026-09-27'
-lastmod: '2026-10-30'
+lastmod: '2026-10-31'
 author_id: author-5
 role: コンテンツライター／コピーライター • iGaming
 photo: images/Cristina_Tudose.jpg
@@ -38,7 +38,7 @@ Cristina Tudoseは、英語とルーマニア語で執筆するiGaming分野の�
 
 ### Nomini Casino Guideでの編集上の役割
 
-Nomini Casino Guideでは、このプロフィールはカジノ情報、ゲームの解説、キャンペーン条件の比較を扱う編集業務に関連しています。専門分野に応じて、利用可能なゲームデータをもとに仕組みを説明し、ボーナスを条件別に整理し、決済方法を登録済みの上限額や処理時間で比較します。
+多言語のiGamingコンテンツ、カジノレビュー、ボーナス関連の文章、SEOに関する公開経歴は、解説記事やプロモーション用語の整理と関係しています。現在のオファーはそれぞれ異なる条件を持つため、個別に確認する必要があります。
 
 ### このプロフィールの見方
 

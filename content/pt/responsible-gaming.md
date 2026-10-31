@@ -1,9 +1,9 @@
 ---
-title: 'Jogo responsável: riscos, limites e proteção'
-description: 'Reconheça os riscos, defina limites e encontre apoio para jogar com mais segurança.'
+title: 'Jogo responsável: limites pessoais e sinais de risco'
+description: 'Como definir limites, identificar comportamentos preocupantes e encontrar apoio independente.'
 type: page
-seo_title: 'Jogo responsável: riscos, limites e proteção | Nomini Casino Guide'
-lastmod: '2026-10-30'
+seo_title: 'Jogo responsável | Riscos, limites e apoio'
+lastmod: '2026-10-31'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -14,40 +14,29 @@ screenshots:
 - /images/guides/responsible-gaming.svg
 screenshots_note: 'Ilustração editorial; não é uma captura de uma interface real do operador.'
 ---
-## Jogo responsável
+## Manter o jogo dentro de limites seguros
 
-O jogo online envolve risco financeiro. Defina limites de tempo e despesa, não utilize dinheiro necessário para despesas essenciais e não encare o jogo como fonte de rendimento.
+O jogo online pode causar perdas financeiras. Antes de começar, determine quanto tempo e dinheiro pode gastar sem comprometer as necessidades essenciais. O jogo não deve ser encarado como trabalho, investimento ou solução para dificuldades económicas.
 
-### Sinais de alerta
+### Comportamentos que merecem atenção
 
-Tentar recuperar perdas, esconder a atividade, pedir dinheiro emprestado ou não conseguir parar são sinais para fazer uma pausa e procurar apoio. A autoexclusão e os bloqueios podem ajudar.
+Tentar recuperar perdas, esconder a atividade, pedir dinheiro emprestado para continuar ou não conseguir parar são motivos para se afastar. Uma pausa, ferramentas de bloqueio ou a autoexclusão podem ajudar a criar distância.
 
-### Apenas para adultos
+### Idade legal e regras locais
 
-O jogo destina-se apenas a adultos e pode estar sujeito a restrições locais. Se deixar de ser entretenimento, pare e contacte um serviço especializado.
+O jogo destina-se a adultos e pode estar limitado pela legislação da sua região. Quando deixa de ser uma atividade recreativa, interrompa a participação e procure um serviço de apoio qualificado.
 
-## Defina limites antes de jogar
+## Sinais de alerta e medidas possíveis
 
-Defina um orçamento cuja perda não afete despesas essenciais e estabeleça um limite de tempo. Não tente recuperar perdas aumentando as apostas. Se esconder o jogo, ultrapassar repetidamente os limites ou afetar relações e responsabilidades, faça uma pausa e procure ajuda.
-
-| Sinal de alerta | Resposta sugerida | Medida de proteção |
+| O que está a acontecer | Primeira medida | Proteção a considerar |
 |---|---|---|
-| Tentar recuperar perdas | Terminar a sessão | Reduzir limites ou fazer pausa |
-| Perder a noção do tempo | Parar de jogar | Definir limites de tempo e despesa |
-| Esconder o jogo | Falar com alguém de confiança | Considerar autoexclusão |
-| Impacto na vida diária | Afastar-se do jogo | Procurar ajuda profissional |
+| Quer recuperar dinheiro perdido | Termine a sessão e não aumente as apostas | Considere uma pausa ou autoexclusão |
+| Gastou mais do que tinha previsto | Suspenda os depósitos e reveja as transações recentes | Defina limites de depósito ou perdas, quando disponíveis |
+| Esconde o jogo de pessoas próximas | Converse com alguém em quem confia | Procure aconselhamento ou apoio independente |
+| O jogo prejudica o trabalho, o sono ou as relações | Afaste-se da atividade | Considere apoio profissional e autoexclusão |
 
-O jogo não é uma fonte de rendimento. Não jogue sob pressão nem com dinheiro destinado a necessidades essenciais.
+### O orçamento é um teto, não um objetivo
 
-## Sinais de alerta e medidas práticas
+Não arrisque dinheiro destinado à habitação, alimentação, contas, cuidados familiares ou pagamento de dívidas. Não peça empréstimos para jogar nem considere um bónus como rendimento. Se não conseguir cumprir os limites definidos, pare de jogar e contacte um serviço independente no seu país. A autoexclusão, os programas de bloqueio e o apoio de alguém de confiança podem ajudar a manter essa distância.
 
-| Sinal | Ação imediata | Proteção a longo prazo |
-|---|---|---|
-| Tentar recuperar perdas | Termine a sessão e não aumente as apostas | Faça uma pausa ou ative a autoexclusão |
-| Gastar mais do que planeou | Interrompa os depósitos e reveja os movimentos | Defina limites de depósito e perdas, quando disponíveis |
-| Esconder o jogo de outras pessoas | Fale com alguém de confiança | Procure apoio independente ou aconselhamento |
-| Impacto no trabalho, sono ou relações | Afaste-se do jogo | Considere autoexclusão e ajuda profissional |
-
-### O orçamento é um limite, não uma meta
-
-Não utilize dinheiro destinado a renda, alimentação, contas ou dívidas. Não peça dinheiro emprestado para jogar nem trate um bónus como rendimento. Se não conseguir respeitar os limites definidos, pare de jogar e procure apoio independente no seu país. Ferramentas de autoexclusão, bloqueadores e apoio de alguém de confiança podem ajudar a criar distância. Este site é informativo e não presta cuidados médicos. O jogo destina-se apenas a adultos e envolve risco de perda financeira.
+Esta página é informativa; não presta cuidados médicos nem aconselhamento clínico. O jogo destina-se apenas a adultos e envolve sempre a possibilidade de perda financeira.

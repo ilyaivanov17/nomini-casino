@@ -1,9 +1,9 @@
 ---
-title: 'Slot guide: themes, volatility and comparison'
-description: 'Learn how free spins, wilds, scatters, bonus rounds and other slot features work.'
+title: 'Slot mechanics explained: themes, volatility and features'
+description: 'A practical guide to free spins, wilds, scatters, bonus rounds and how to read slot specifications.'
 type: page
-seo_title: 'Slot guide: themes, volatility and comparison | Nomini Casino Guide'
-lastmod: '2026-10-30'
+seo_title: 'Slot Mechanics Explained | Features, Volatility and RTP'
+lastmod: '2026-10-31'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -20,15 +20,15 @@ screenshots:
 - /images/guides/slot-features.svg
 screenshots_note: 'Illustrative editorial artwork, not a screenshot of a real operator interface.'
 ---
-## Slot guide: themes, volatility and comparison
+## Understanding slot features and differences
 
-This guide groups existing information by topic so rules and limitations are easier to compare. Game rules, RTP figures, bonus terms, payment options and legal availability can vary by version, operator and country. Check details directly in the version currently offered.
+Slot features are easier to compare when their rules are separated from their visual theme. This guide looks at familiar mechanics such as wild symbols, scatters, respins and free spins, alongside published RTP and volatility descriptions. Those terms explain parts of a game's design; they do not predict a session or tell a player when a feature will appear. The help screen for the version actually offered remains the reference for trigger rules and exclusions.
 
 ## Starburst
 
 ## Starburst: a quick guide
 
-Starburst keeps things visually simple: bright gems, a clean layout and a quick rhythm. The details stored for this title list wild symbols and respins. It is easy to get a feel for the basic layout, but the in-game help is still the place to check the exact rules for the version on offer.
+Starburst uses a bright gem theme and a straightforward screen layout. The catalogue record lists wild symbols and respins. These labels describe the recorded feature set, but the game help should be checked for the exact substitution rules, respin conditions and any version-specific differences.
 
 ### Game overview
 

@@ -8,7 +8,7 @@ slug: dominic-field
 aliases:
 - /pl/authors/author-6/
 date: '2026-09-27'
-lastmod: '2026-10-30'
+lastmod: '2026-10-31'
 author_id: author-6
 role: Niezależny autor treści iGaming
 photo: images/Dominic_Field.jpg
@@ -40,7 +40,7 @@ Kasyna online, sloty, poker, zakłady sportowe i branża iGaming
 
 ### Wkład redakcyjny w Nomini Casino Guide
 
-W Nomini Casino Guide profil należy do pracy redakcyjnej dotyczącej informacji o kasynach, objaśnień gier i porównywania warunków ofert. Specjalizacja wyznacza sposób prezentacji: mechanika gier jest opisywana na podstawie dostępnych danych, bonusy porządkuje się według warunków, a metody płatności zestawia według limitów i podanego czasu realizacji.
+Deklarowane obszary obejmują kasyna online, sloty, pokera i zakłady sportowe. Ta szeroka perspektywa iGaming pomaga przedstawić powiązane zagadnienia, ale zasady oraz dostępność konkretnego produktu trzeba potwierdzić w aktualnych źródłach.
 
 ### Jak korzystać z tego profilu
 

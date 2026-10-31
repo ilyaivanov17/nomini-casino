@@ -1,9 +1,9 @@
 ---
-title: Informações legais e privacidade
-description: 'Informação legal, privacidade, cookies e detalhes importantes deste site informativo.'
+title: 'Privacidade, cookies e informação legal do guia'
+description: 'Como são tratados contactos, preferências locais e ligações externas, além dos avisos legais deste site informativo.'
 type: page
-seo_title: 'Informações legais e privacidade | Nomini Casino Guide'
-lastmod: '2026-10-30'
+seo_title: 'Privacidade e informação legal | Nomini Casino Guide'
+lastmod: '2026-10-31'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -17,9 +17,9 @@ screenshots:
 - /images/guides/legal.svg
 screenshots_note: 'Ilustração editorial; não é uma captura de uma interface real do operador.'
 ---
-## Informações legais e privacidade
+## Âmbito dos avisos legais e de privacidade
 
-Este guia reúne informações por tema para facilitar a comparação de regras e limitações. As regras dos jogos, o RTP, as condições dos bónus, os métodos de pagamento e a disponibilidade legal podem variar consoante a versão, o operador e o país. Confirme os dados na versão atualmente disponibilizada.
+Esta página apresenta as informações de privacidade e cookies aplicáveis à Nomini Casino Guide, um projeto informativo independente e não o operador do casino. Explica também quais os detalhes técnicos que dependem do alojamento e da infraestrutura efetivamente utilizados. As secções seguintes distinguem o tratamento de contactos e preferências do navegador neste site daquele que é realizado por fornecedores de alojamento e páginas externas.
 
 ## Política de privacidade
 

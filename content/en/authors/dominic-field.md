@@ -8,7 +8,7 @@ slug: dominic-field
 aliases:
 - /en/authors/author-6/
 date: '2026-09-27'
-lastmod: '2026-10-30'
+lastmod: '2026-10-31'
 author_id: author-6
 role: Freelance iGaming writer
 photo: images/Dominic_Field.jpg
@@ -40,7 +40,7 @@ Online casinos, slots, poker, sports betting and the iGaming industry
 
 ### Editorial contribution at Nomini Casino Guide
 
-At Nomini Casino Guide, this profile belongs to the editorial work covering casino information, game explainers and comparisons of offer terms. The subject area shapes the approach: game mechanics are explained through available game data, bonus details are structured by their conditions, and payment methods are compared using the listed limits and processing times.
+His stated areas cover online casinos, slots, poker and sports betting. This broad iGaming perspective helps frame related topics, while the rules and availability of any individual product still require current source checks.
 
 ### How to use this profile
 

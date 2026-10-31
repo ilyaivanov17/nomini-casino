@@ -9,7 +9,7 @@ slug: dan-michalski
 aliases:
 - /pl/authors/author-2/
 date: '2026-09-27'
-lastmod: '2026-10-30'
+lastmod: '2026-10-31'
 author_id: author-2
 role: Redaktor naczelny i dziennikarz
 photo: images/Dan_Michalski.jpg
@@ -41,7 +41,7 @@ Branża hazardowa, media kasynowe, analiza redakcyjna i technologia
 
 ### Wkład redakcyjny w Nomini Casino Guide
 
-W Nomini Casino Guide profil należy do pracy redakcyjnej dotyczącej informacji o kasynach, objaśnień gier i porównywania warunków ofert. Specjalizacja wyznacza sposób prezentacji: mechanika gier jest opisywana na podstawie dostępnych danych, bonusy porządkuje się według warunków, a metody płatności zestawia według limitów i podanego czasu realizacji.
+Jego doświadczenie dziennikarskie i redakcyjne obejmuje hazard, media kasynowe i technologię. W serwisie rozdzielamy informacje pochodzące z publikacji, dane techniczne i interpretację redakcyjną.
 
 ### Jak korzystać z tego profilu
 

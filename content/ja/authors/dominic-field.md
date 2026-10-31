@@ -7,7 +7,7 @@ slug: dominic-field
 aliases:
 - /ja/authors/author-6/
 date: '2026-09-27'
-lastmod: '2026-10-30'
+lastmod: '2026-10-31'
 author_id: author-6
 role: フリーランスiGamingライター
 photo: images/Dominic_Field.jpg
@@ -38,7 +38,7 @@ Dominic Fieldは、ギャンブル関連コンテンツに長年携わるフリ�
 
 ### Nomini Casino Guideでの編集上の役割
 
-Nomini Casino Guideでは、このプロフィールはカジノ情報、ゲームの解説、キャンペーン条件の比較を扱う編集業務に関連しています。専門分野に応じて、利用可能なゲームデータをもとに仕組みを説明し、ボーナスを条件別に整理し、決済方法を登録済みの上限額や処理時間で比較します。
+公開されている専門分野は、オンラインカジノ、スロット、ポーカー、スポーツベッティングに及びます。この幅広いiGamingの視点は関連テーマの理解に役立ちますが、個々の商品のルールや提供状況は最新情報で確認します。
 
 ### このプロフィールの見方
 

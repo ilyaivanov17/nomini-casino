@@ -1,9 +1,9 @@
 ---
-title: 'Über Nomini: Redaktion und Methodik'
-description: 'Redaktionelle Methode, Quellenprüfung und Verantwortlichkeiten des Instant-Casino-Informationsportals.'
+title: 'Über Nomini Casino Guide: Arbeitsweise und Redaktion'
+description: 'Wie dieser unabhängige Guide Angaben prüft, Quellen einordnet und redaktionelle Korrekturen bearbeitet.'
 type: page
-seo_title: 'Über Nomini | Redaktion und Methodik'
-lastmod: '2026-10-30'
+seo_title: 'Über Nomini Casino Guide | Redaktion, Standards und Kontakt'
+lastmod: '2026-10-31'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -25,13 +25,17 @@ screenshots:
 - /images/guides/casino-editorial.webp
 screenshots_note: 'Illustrative redaktionelle Grafik, kein echter Screenshot einer Betreiberoberfläche.'
 ---
-## Über Nomini Casino Guide: Redaktion, Autoren und Methodik
+## Über Nomini Casino Guide
 
-Dieser Leitfaden bündelt vorhandene Informationen nach Themen, damit wichtige Regeln und Einschränkungen leichter vergleichbar sind. Spielregeln, RTP-Werte, Bonusbedingungen, Zahlungsoptionen und rechtliche Verfügbarkeit können sich je nach Version, Betreiber und Land ändern. Prüfe die Angaben direkt in der aktuell angebotenen Version.
+Nomini Casino Guide ist ein unabhängiges Informationsangebot. Es ist weder die offizielle Website von Nomini noch verwaltet es Spielerkonten, Spiele, Ein- oder Auszahlungen. Die Inhalte sind nach konkreten Leserfragen geordnet – etwa zu Spielregeln, Aktionsbedingungen, Zahlungswegen und dem Zugang zum Konto. Sie sollen zeigen, welche Angaben belegt sind, welche vom Land oder vom jeweiligen Konto abhängen und welche direkt beim Betreiber bestätigt werden müssen.
 
-## Redaktionelle Methodik
+## So arbeiten wir redaktionell
 
-Die Inhalte sind redaktionelle Informationen. Angaben zu RTP, Bonusbedingungen, Zahlungen und rechtlicher Verfügbarkeit müssen vor Veröffentlichung anhand aktueller Primärquellen geprüft werden. Autorenprofile dokumentieren die im Projekt hinterlegten Angaben und bedeuten nicht automatisch, dass die betreffende Person einen zusammengeführten Text geprüft oder freigegeben hat.
+Wir unterscheiden zwischen der Werbeaussage einer Aktion und den Bedingungen, die tatsächlich gelten. Ein beworbener Bonusbetrag erklärt zum Beispiel noch nicht, welcher Umsatz erforderlich ist, welche Spiele zählen, welche Fristen gelten oder wann eine Auszahlung eingeschränkt sein kann. Das gilt auch für Spiele und Zahlungen: Ein veröffentlichter RTP-Wert beschreibt einen theoretischen Langzeitdurchschnitt; Bearbeitungszeiten sind Schätzungen und keine Zusage für einen konkreten Vorgang.
+
+Bei veränderlichen Angaben bevorzugen wir aktuelle Primärquellen – etwa die geltenden Betreiberbedingungen, Dokumente des Spieleherstellers, Zahlungsbedingungen oder Veröffentlichungen zuständiger Aufsichtsstellen. Was nicht angegeben oder nicht bestätigt ist, kennzeichnen wir entsprechend, statt eine Lücke durch Vermutungen zu füllen. Erfahrungsberichte und unabhängige Kommentare können zusätzliche Perspektiven liefern, ersetzen aber keine Primärquelle.
+
+Autorenprofile beschreiben die angegebenen fachlichen Schwerpunkte und verlinken, sofern vorhanden, auf öffentliche Berufsprofile. Sie sind kein Beleg dafür, dass ein Autor jedes erwähnte Spiel getestet oder jede Seite freigegeben hat. Einen Praxistest nennen wir nur, wenn dafür ein nachvollziehbarer Nachweis vorliegt.
 
 ## Kontakt — Nomini Casino Guide
 

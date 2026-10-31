@@ -8,7 +8,7 @@ slug: arthur-mustoe
 aliases:
 - /pt/authors/author-4/
 date: '2026-09-27'
-lastmod: '2026-10-30'
+lastmod: '2026-10-31'
 author_id: author-4
 role: Redator sénior • iGaming e casinos
 photo: images/arthur_mustoe.jpg
@@ -42,7 +42,7 @@ Análises de casinos e slots, regras dos jogos, informação sobre fornecedores 
 
 ### Contributo editorial na Nomini Casino Guide
 
-Na Nomini Casino Guide, este perfil integra o trabalho editorial sobre informação de casinos, explicações de jogos e comparação das condições das ofertas. A área de especialidade orienta a abordagem: as mecânicas são explicadas com base nos dados disponíveis, os bónus são organizados pelas respetivas condições e os métodos de pagamento são comparados por limites e tempos indicados.
+A especialização indicada em análises de casinos e slots, regras dos jogos e informação sobre fornecedores relaciona-se com os perfis de jogos deste guia. Distinguimos especificações publicadas da explicação editorial e remetemos para as regras da versão efetivamente disponibilizada.
 
 ### Como interpretar este perfil
 

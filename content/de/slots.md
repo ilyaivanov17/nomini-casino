@@ -1,9 +1,9 @@
 ---
-title: 'Slot-Leitfaden: Grundlagen und Spielprofile'
-description: 'Spielprofile mit Regeln, Funktionen und Kennzahlen ausgewählter Online-Slots.'
+title: 'Online-Slots im Überblick: Spielregeln, Funktionen und Daten'
+description: 'Spielprofile ausgewählter Slots mit technischen Angaben, Bonusfunktionen und einer Einordnung der Kennzahlen.'
 type: page
-seo_title: 'Slot-Leitfaden: Grundlagen und Spielprofile | Nomini Casino Guide'
-lastmod: '2026-10-30'
+seo_title: 'Online-Slots im Überblick | RTP, Funktionen und Spielregeln'
+lastmod: '2026-10-31'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -20,16 +20,15 @@ screenshots:
 - /images/slots/wolf-gold.webp
 screenshots_note: 'Illustrative redaktionelle Grafik, kein echter Screenshot einer Betreiberoberfläche.'
 ---
-## Slot-Leitfaden: Grundlagen und Spielprofile
+## So lassen sich die Slot-Profile lesen
 
-Dieser Leitfaden bündelt vorhandene Informationen nach Themen, damit wichtige Regeln und Einschränkungen leichter vergleichbar sind. Spielregeln, RTP-Werte, Bonusbedingungen, Zahlungsoptionen und rechtliche Verfügbarkeit können sich je nach Version, Betreiber und Land ändern. Prüfe die Angaben direkt in der aktuell angebotenen Version.
+Der Name eines Spielautomaten verrät noch nicht, wie eine Runde abläuft. Die folgenden Profile stellen ausgewählte Angaben gegenüber – Spielehersteller, veröffentlichter RTP, Volatilitätsangabe, Einsatzbereich und registrierte Funktionen – und ordnen ein, was daraus tatsächlich folgt. Katalogwerte sind eine erste Orientierung, aber keine Garantie dafür, dass jede Spielversion für jedes Konto gleich angeboten wird. Vergleiche die Angaben vor dem Start mit der Spielhilfe und der Auszahlungstabelle der konkreten Version.
 
 ## Bigger Bass Bonanza
 
 ## Bigger Bass Bonanza: kurz erklärt
 
-Das Angler-Thema und die Bonusmechanik geben Bigger Bass Bonanza seinen eigenen Charakter. In der hinterlegten Liste stehen Freispiele und Multiplikatoren. Entscheidend ist, welche Symbole die Bonusphase starten und wie die Spielhilfe den Ablauf beschreibt.
-
+Bigger Bass Bonanza verbindet ein Angelthema mit einer besonderen Bonusrunde. Im Projektverzeichnis sind Scatter-Symbole, Freispiele und Multiplikatoren aufgeführt. Diese Stichworte sind nur eine Kurzbeschreibung: Welche Symbole eine Funktion auslösen und wie sie abläuft, lässt sich erst anhand der Spielhilfe und Auszahlungstabelle der tatsächlich angebotenen Version klären.
 ### Spielprofil
 
 | Anbieter | RTP (theoretisch) | Volatilität | Einsatzbereich | Funktionen |

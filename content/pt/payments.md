@@ -1,9 +1,9 @@
 ---
-title: Depósitos, levantamentos e métodos de pagamento
-description: 'Compare depósitos e levantamentos, possíveis taxas, tempos de processamento e verificações.'
+title: 'Pagamentos em casinos: depósitos, levantamentos e taxas'
+description: 'O que confirmar antes de pagar: métodos disponíveis, limites, prazos estimados, custos e verificações.'
 type: page
-seo_title: Depósitos, levantamentos e métodos de pagamento | Nomini Casino Guide
-lastmod: '2026-10-30'
+seo_title: 'Guia de pagamentos | Depósitos, levantamentos e taxas'
+lastmod: '2026-10-31'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -24,9 +24,10 @@ screenshots:
 - /images/guides/casino-payments.webp
 screenshots_note: 'Ilustração editorial; não é uma captura de uma interface real do operador.'
 ---
-## Depósitos, levantamentos e métodos de pagamento
+## Avaliar os métodos antes de pagar
 
-Este guia reúne informações por tema para facilitar a comparação de regras e limitações. As regras dos jogos, o RTP, as condições dos bónus, os métodos de pagamento e a disponibilidade legal podem variar consoante a versão, o operador e o país. Confirme os dados na versão atualmente disponibilizada.
+As opções de pagamento podem variar consoante o país, o estado da conta e a oferta disponível no momento. A presença de um método numa lista não garante que apareça na sua área de cliente. Antes de avançar, compare a moeda, os montantes mínimo e máximo, eventuais taxas, a possibilidade de levantar pelo mesmo método e os requisitos de verificação. Confirme os dados atuais na caixa oficial depois de iniciar sessão.
+
 
 ### Como encontrar a área de depósitos
 

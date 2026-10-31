@@ -7,7 +7,7 @@ slug: marco-ibarra
 aliases:
 - /ja/authors/author-3/
 date: '2026-09-27'
-lastmod: '2026-10-30'
+lastmod: '2026-10-31'
 author_id: author-3
 role: iGamingライター・編集者
 photo: images/Marco_Ibarra.jpg
@@ -38,7 +38,7 @@ Marco Ibarraは、バイリンガルのiGamingライター、編集者、マネ�
 
 ### Nomini Casino Guideでの編集上の役割
 
-Nomini Casino Guideでは、このプロフィールはカジノ情報、ゲームの解説、キャンペーン条件の比較を扱う編集業務に関連しています。専門分野に応じて、利用可能なゲームデータをもとに仕組みを説明し、ボーナスを条件別に整理し、決済方法を登録済みの上限額や処理時間で比較します。
+iGamingライティング、編集、スロットレビュー、ボーナス分析、SEOに関する公開情報は、多言語で内容を構成するうえで関連しています。検索での見つけやすさよりも、分かりやすい説明と追跡可能な情報源を重視します。
 
 ### このプロフィールの見方
 

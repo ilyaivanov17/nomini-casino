@@ -8,7 +8,7 @@ slug: jon-pill
 aliases:
 - /en/authors/author-7/
 date: '2026-09-27'
-lastmod: '2026-10-30'
+lastmod: '2026-10-31'
 author_id: author-7
 role: Game analyst and gambling journalist
 photo: images/Jon_Pill.webp
@@ -41,7 +41,7 @@ Game strategy, poker rules, casino games and analysis of game mechanics
 
 ### Editorial contribution at Nomini Casino Guide
 
-At Nomini Casino Guide, this profile belongs to the editorial work covering casino information, game explainers and comparisons of offer terms. The subject area shapes the approach: game mechanics are explained through available game data, bonus details are structured by their conditions, and payment methods are compared using the listed limits and processing times.
+His focus on game strategy, poker rules and casino mechanics is relevant to the guide's explanatory articles. Game descriptions clarify published rules; they do not offer a method for securing wins or predicting future results.
 
 ### How to use this profile
 

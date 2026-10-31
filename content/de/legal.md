@@ -1,9 +1,9 @@
 ---
-title: Rechtliche Hinweise und Datenschutz
-description: 'Rechtliche Hinweise, Datenschutz, Cookies und wichtige Informationen zum Informationsangebot.'
+title: 'Datenschutz, Cookies und rechtliche Hinweise zum Guide'
+description: 'Informationen zum Umgang mit Anfragen, lokalen Einstellungen, externen Links und rechtlichen Hinweisen dieses Informationsangebots.'
 type: page
-seo_title: 'Rechtliche Hinweise und Datenschutz | Nomini Casino Guide'
-lastmod: '2026-10-30'
+seo_title: 'Datenschutz und rechtliche Hinweise | Nomini Casino Guide'
+lastmod: '2026-10-31'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -17,9 +17,9 @@ screenshots:
 - /images/guides/legal.svg
 screenshots_note: 'Illustrative redaktionelle Grafik, kein echter Screenshot einer Betreiberoberfläche.'
 ---
-## Rechtliche Hinweise und Datenschutz
+## Worum es in diesen Hinweisen geht
 
-Dieser Leitfaden bündelt vorhandene Informationen nach Themen, damit wichtige Regeln und Einschränkungen leichter vergleichbar sind. Spielregeln, RTP-Werte, Bonusbedingungen, Zahlungsoptionen und rechtliche Verfügbarkeit können sich je nach Version, Betreiber und Land ändern. Prüfe die Angaben direkt in der aktuell angebotenen Version.
+Diese Seite beschreibt die Datenschutz- und Cookie-Angaben des Nomini Casino Guide. Dabei handelt es sich um ein unabhängiges Informationsangebot und nicht um den Betreiber des Casinos. Außerdem erläutern wir, welche technischen Einzelheiten zur tatsächlichen Infrastruktur noch vom eingesetzten Hosting und den verbundenen Diensten abhängen. Die folgenden Abschnitte trennen die Kontakt- und Browsereinstellungen dieses Guides von der Datenverarbeitung durch Hosting-Anbieter und externe Websites.
 
 ## Datenschutzerklärung
 

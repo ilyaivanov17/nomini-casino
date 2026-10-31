@@ -8,7 +8,7 @@ slug: corey-levitan
 aliases:
 - /authors/author-1/
 date: '2026-09-27'
-lastmod: '2026-10-30'
+lastmod: '2026-10-31'
 author_id: author-1
 role: Journalist und Casino-Autor
 photo: images/Corey_Levitan.jpg
@@ -41,7 +41,7 @@ Las Vegas, Glücksspielnachrichten, Unterhaltung und Casino-Berichterstattung
 
 ### Redaktioneller Beitrag bei Nomini Casino Guide
 
-Bei Nomini Casino Guide arbeitet das Profil im thematischen Umfeld von Casino-Informationen, Spielbeschreibungen und dem Vergleich von Angebotsbedingungen. Die Einordnung der Inhalte folgt dem jeweiligen Fachgebiet: Spielmechaniken werden anhand der verfügbaren Spieldaten erklärt, Bonusangaben nach Bedingungen strukturiert und Zahlungsmethoden anhand der hinterlegten Limits und Zeitangaben verglichen.
+Seine öffentlich beschriebenen Arbeiten zu Las Vegas, Unterhaltung und Glücksspieljournalismus liefern Kontext für Casino- und Freizeitthemen. Aktuelle Produktbedingungen werden jedoch anhand von Betreiber- und Anbieterquellen geprüft und nicht aus einer Autorenbiografie abgeleitet.
 
 ### So ist das Profil einzuordnen
 

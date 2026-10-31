@@ -1,9 +1,9 @@
 ---
-title: Account, registration, login and common questions
-description: 'Guidance on registration, login, identity checks, privacy and keeping an account secure.'
+title: 'Nomini account help: registration, login and common issues'
+description: 'Practical guidance for setting up an account, protecting sign-in details and handling common access questions.'
 type: page
-seo_title: Account, registration, login and common questions | Nomini
-lastmod: '2026-10-30'
+seo_title: 'Nomini Account Help | Registration, Login and Security'
+lastmod: '2026-10-31'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -28,7 +28,7 @@ screenshots_note: 'Illustrative editorial artwork, not a screenshot of a real op
 ---
 ## Account, registration, login and common questions
 
-This guide groups existing information by topic so rules and limitations are easier to compare. Game rules, RTP figures, bonus terms, payment options and legal availability can vary by version, operator and country. Check details directly in the version currently offered.
+This page is a practical reference for account-related questions, from the details to check before registration to safer ways to recover access. The operator controls account approval, identity checks, payment decisions and support; this independent guide cannot open, inspect or change a player account. Rules and available features may differ by country, account status and the version of the service, so use the official account area for the requirements that apply to you.
 
 ## Registration guide
 
