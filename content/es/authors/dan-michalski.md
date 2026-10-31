@@ -9,7 +9,7 @@ slug: dan-michalski
 aliases:
 - /es/authors/author-2/
 date: '2026-09-27'
-lastmod: '2026-10-30'
+lastmod: '2026-10-31'
 author_id: author-2
 role: Editor sénior y periodista
 photo: images/Dan_Michalski.jpg
@@ -41,7 +41,7 @@ Industria del juego, medios sobre casinos, análisis editorial y tecnología
 
 ### Contribución editorial en Nomini Casino Guide
 
-En Nomini Casino Guide, este perfil forma parte del trabajo editorial sobre información de casinos, explicaciones de juegos y comparación de condiciones. El área de especialidad determina el enfoque: las mecánicas se explican a partir de los datos disponibles, los bonos se organizan por sus condiciones y los métodos de pago se comparan según límites y tiempos indicados.
+Su trayectoria periodística y editorial abarca juego, medios de casino y tecnología. En esta web tratamos esos asuntos diferenciando los hechos publicados, la información técnica y la interpretación editorial.
 
 ### Cómo interpretar este perfil
 
