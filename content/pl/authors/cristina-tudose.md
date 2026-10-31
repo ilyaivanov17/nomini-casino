@@ -2,7 +2,7 @@
 title: Cristina Tudose
 description: Cristina Tudose tworzy treści i teksty marketingowe w języku angielskim i rumuńskim, specjalizując
   się w iGamingu. Opisywane publicznie obszary jej…
-seo_title: Cristina Tudose – Autorka treści / copywriterka • iGaming | Nomini Casino Guide
+seo_title: 'Cristina Tudose – Autorka treści iGaming | Nomini Casino Guide'
 type: author
 slug: cristina-tudose
 aliases:
