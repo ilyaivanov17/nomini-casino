@@ -1,21 +1,20 @@
 ---
-title: Autores de Nomini Casino Guide
+title: 'Quiénes colaboran en Nomini Casino Guide'
 description: Conoce a los siete colaboradores de Nomini Casino Guide, sus especialidades y enlaces a perfiles profesionales
   públicos.
-seo_title: Autores y equipo editorial | Nomini Casino Guide
+seo_title: 'Autores y colaboradores | Nomini Casino Guide'
 type: authors
 date: 2026-09-27
-lastmod: '2026-10-30'
+lastmod: '2026-10-31'
 build:
   render: always
   list: always
 ---
+## Las personas que participan en la guía
 
-## Equipo editorial de Nomini Casino Guide
+El directorio reúne a siete colaboradores con trayectorias públicas relacionadas con los contenidos iGaming, el periodismo de casinos, el análisis de juegos y la edición. Cada ficha incluye enlaces a referencias profesionales abiertas para que el lector pueda acudir a la fuente original.
 
-Esta página presenta a las siete personas que colaboran en el proyecto. Cada perfil resume su especialidad y enlaza con fuentes públicas para que los lectores puedan consultar su experiencia en iGaming, periodismo de casinos, análisis de juegos, bonos y trabajo editorial.
-
-El directorio también permite explorar el contenido de la redacción. Las áreas profesionales declaradas ayudan a entender el contexto de los materiales sobre juegos, promociones y pagos. Una biografía profesional no se utiliza como prueba de un resultado de juego concreto ni de ganancias personales.
+Estos perfiles sirven para situar los temas que trabaja cada persona. Describen experiencia profesional declarada, pero no acreditan ganancias personales ni demuestran que un autor haya probado todos los juegos citados o revisado cada página de este sitio.
 
 | Autor | Especialidad | Perfil público |
 |---|---|---|
@@ -27,4 +26,4 @@ El directorio también permite explorar el contenido de la redacción. Las área
 | Jon Pill | Estrategia de juego, póquer y juegos de casino | [Medium](https://medium.com/@zuza76hgtf) |
 | Marco Ibarra | iGaming, reseñas de slots, bonos y SEO editorial | [LinkedIn](https://cl.linkedin.com/in/ibarram94/en) · [Web](https://marco-ibarra.com/) |
 
-Abre cada perfil para consultar la información profesional en la fuente pública original.
+Para ampliar la información, consulta los enlaces profesionales y contrasta los detalles en las fuentes públicas originales.
