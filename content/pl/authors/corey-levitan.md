@@ -2,7 +2,7 @@
 title: Corey Levitan
 description: Corey Levitan opisuje rozrywkę, gastronomię i hazard w Las Vegas. Jego kariera obejmuje sześć lat pracy reporterskiej
   dla Las Vegas Review-Journal; w…
-seo_title: Corey Levitan – Dziennikarz i autor tekstów o kasynach | Nomini Casino Guide
+seo_title: 'Corey Levitan – Dziennikarz kasynowy | Nomini Casino Guide'
 type: author
 slug: corey-levitan
 aliases:
