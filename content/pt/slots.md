@@ -1,9 +1,9 @@
 ---
-title: 'Guia de slots: fundamentos e perfis de jogos'
-description: 'Perfis de jogos com regras, funcionalidades e dados essenciais de slots online selecionadas.'
+title: 'Perfis de slots online: regras, funcionalidades e dados'
+description: 'Perfis de slots selecionados com especificações publicadas, funcionalidades de bónus e explicação dos indicadores.'
 type: page
-seo_title: 'Guia de slots: fundamentos e perfis de jogos | Nomini Casino Guide'
-lastmod: '2026-10-30'
+seo_title: 'Perfis de slots online | RTP, funcionalidades e regras'
+lastmod: '2026-10-31'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -20,16 +20,15 @@ screenshots:
 - /images/slots/wolf-gold.webp
 screenshots_note: 'Ilustração editorial; não é uma captura de uma interface real do operador.'
 ---
-## Guia de slots: fundamentos e perfis de jogos
+## Como interpretar os perfis dos slots
 
-Este guia reúne informações por tema para facilitar a comparação de regras e limitações. As regras dos jogos, o RTP, as condições dos bónus, os métodos de pagamento e a disponibilidade legal podem variar consoante a versão, o operador e o país. Confirme os dados na versão atualmente disponibilizada.
+O nome de um slot, por si só, não explica a dinâmica do jogo. Os perfis seguintes reúnem alguns dados — fornecedor, RTP publicado, indicação de volatilidade, intervalo de apostas e funcionalidades registadas — e esclarecem o que esses elementos permitem ou não concluir. Os valores do catálogo são uma referência inicial, não uma garantia de que todas as contas tenham a mesma configuração. Antes de jogar, compare-os com a ajuda e a tabela de pagamentos da versão concreta.
 
 ## Bigger Bass Bonanza
 
 ## Bigger Bass Bonanza: guia rápido
 
-Bigger Bass Bonanza tem um tema e funcionalidades próprios que vale a pena conhecer antes de jogar. A ficha inclui símbolos Scatter, rodadas grátis, multiplicadores. Consulte a ajuda e a tabela de pagamentos para confirmar as condições e os limites da versão disponível.
-
+Bigger Bass Bonanza combina um tema de pesca com uma ronda de funcionalidades especiais. O registo do projeto indica símbolos Scatter, rodadas grátis e multiplicadores. Estas designações são apenas um resumo: as condições de ativação e o funcionamento da ronda devem ser confirmados na ajuda e na tabela de pagamentos da versão disponibilizada.
 ### Dados do jogo
 
 | Fornecedor | RTP teórico | Volatilidade | Intervalo de aposta | Funcionalidades |
