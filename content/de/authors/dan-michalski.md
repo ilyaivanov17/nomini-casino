@@ -9,7 +9,7 @@ slug: dan-michalski
 aliases:
 - /authors/author-2/
 date: '2026-09-27'
-lastmod: '2026-10-30'
+lastmod: '2026-10-31'
 author_id: author-2
 role: Leitender Redakteur und Journalist
 photo: images/Dan_Michalski.jpg
@@ -41,7 +41,7 @@ Glücksspielbranche, Casino-Medien, redaktionelle Einordnung und Technologie
 
 ### Redaktioneller Beitrag bei Nomini Casino Guide
 
-Bei Nomini Casino Guide arbeitet das Profil im thematischen Umfeld von Casino-Informationen, Spielbeschreibungen und dem Vergleich von Angebotsbedingungen. Die Einordnung der Inhalte folgt dem jeweiligen Fachgebiet: Spielmechaniken werden anhand der verfügbaren Spieldaten erklärt, Bonusangaben nach Bedingungen strukturiert und Zahlungsmethoden anhand der hinterlegten Limits und Zeitangaben verglichen.
+Sein journalistischer und redaktioneller Hintergrund umfasst Glücksspiel, Casino-Medien und Technologie. Bei diesen Themen unterscheiden wir auf der Website zwischen berichteten Fakten, technischen Angaben und redaktioneller Bewertung.
 
 ### So ist das Profil einzuordnen
 
