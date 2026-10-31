@@ -27,11 +27,13 @@ Ein Limit wirkt am besten, wenn es vor einer Sitzung feststeht. Je nach Angebot 
 - **Verlustlimit:** markiert den Betrag, bei dessen Erreichen das Spielen enden soll.
 - **Zeitgrenzen und Erinnerungen:** helfen, die Dauer einer Sitzung nicht aus dem Blick zu verlieren.
 
-Die konkreten Funktionen und Änderungsfristen hängen vom Anbieter ab. Ein gesetztes Limit sollte nicht spontan erhöht werden, nur um eine laufende Sitzung fortzusetzen.
+Die konkreten Funktionen und Änderungsfristen hängen vom Anbieter ab. In der ursprünglichen Projektbeschreibung wird darauf hingewiesen, dass eine Erhöhung zuvor gesetzter Limits meist erst nach einigen Tagen wirksam wird; die aktuelle Frist muss direkt beim Anbieter geprüft werden. Ein gesetztes Limit sollte nicht spontan erhöht werden, nur um eine laufende Sitzung fortzusetzen.
 
 ## Selbstausschluss und Sperrmöglichkeiten
 
-Wenn Sie merken, dass Sie nicht mehr zuverlässig aufhören können, kann eine Sperre helfen, Abstand zu schaffen. Je nach System gibt es zeitlich begrenzte Pausen oder längerfristige Ausschlüsse. In Deutschland ermöglicht **OASIS** eine zentrale Sperre für das regulierte Glücksspielangebot bei angeschlossenen lizenzierten Anbietern. Prüfen Sie die offiziellen Informationen zum jeweiligen Verfahren, bevor Sie einen Antrag stellen.
+Wenn Sie merken, dass Sie nicht mehr zuverlässig aufhören können, kann ein Selbstausschluss helfen, Abstand zu schaffen. Je nach Anbieter sind vorübergehende Sperren möglich – laut den hier dokumentierten Projektangaben von **24 Stunden bis zu sechs Monaten** – oder ein dauerhafter Ausschluss ohne reguläre Rücknahmemöglichkeit. Prüfen Sie vor dem Antrag die aktuell geltenden Regeln des jeweiligen Anbieters.
+
+Für Deutschland ermöglicht **OASIS** eine zentrale Sperre, die bei angeschlossenen lizenzierten Anbietern bundesweit gilt. OASIS ist vom jeweiligen Casino-Konto zu unterscheiden. Informieren Sie sich auf der offiziellen OASIS-Seite über Antrag, Dauer und mögliche Aufhebung.
 
 Eine Selbstsperre ist kein persönliches Versagen. Sie ist eine Schutzmaßnahme für Situationen, in denen eigene Vorsätze nicht mehr ausreichen.
 
