@@ -1,9 +1,9 @@
 ---
-title: 'Guía de tragamonedas: funciones y mecánicas'
-description: 'Comprende RTP, volatilidad y mecánicas sin tratarlos como predicciones de resultados.'
+title: 'Mecánica de los slots: RTP, volatilidad y funciones especiales'
+description: 'Entiende RTP, volatilidad, sistemas de premios y funciones de bonificación sin convertirlos en predicciones.'
 type: page
-seo_title: 'Guía de tragamonedas: funciones y mecánicas | Nomini Casino Guide'
-lastmod: '2026-10-30'
+seo_title: 'Mecánica de tragamonedas | RTP, volatilidad y bonos'
+lastmod: '2026-10-31'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -19,9 +19,9 @@ screenshots:
 - /images/guides/slot-strategy.svg
 screenshots_note: 'Ilustración editorial, no es una captura de una interfaz real del operador.'
 ---
-## Guía de tragamonedas: funciones y mecánicas
+## Qué hay detrás de las reglas de un slot
 
-Esta guía reúne la información por temas para facilitar la comparación de reglas y limitaciones. Las reglas del juego, el RTP, las condiciones de los bonos, los métodos de pago y la disponibilidad legal pueden variar según la versión, el operador y el país. Comprueba los datos en la versión ofrecida actualmente.
+Una guía útil debe explicar cómo se calculan los premios y cómo se activan las funciones especiales, no limitarse al tema visual o a la cifra de RTP. Esta página presenta conceptos como RTP, volatilidad, líneas o formas de ganar, multiplicadores y activadores de bonus, y señala qué reglas deben comprobarse en la ayuda del juego concreto. Las estadísticas publicadas describen el diseño a largo plazo; no anticipan el resultado de una sesión individual.
 
 Un caso práctico ayuda a entender cómo funciona un jackpot progresivo: nuestro [análisis de Mega Fortune y el premio de 3,5 millones de euros]({{< relref "mega-fortune-progressive-jackpot" >}}) distingue los hechos confirmados de 2018 de las reglas publicadas del juego, el RTP y los límites de los datos de volatilidad disponibles.
 
@@ -29,7 +29,7 @@ Un caso práctico ayuda a entender cómo funciona un jackpot progresivo: nuestro
 
 ## Gates of Olympus: guía rápida
 
-Gates of Olympus se inspira en la mitología griega y da protagonismo a los multiplicadores y las funciones de bonificación. No conviene dar por hecho que funciona como una tragamonedas de líneas tradicional: consulta las reglas para entender cómo se calculan las combinaciones y qué activa las funciones especiales.
+Gates of Olympus se inspira en la mitología griega y da protagonismo a los multiplicadores y las funciones de bonificación. No debe asumirse que funciona como una tragamonedas convencional de líneas de pago. Las reglas del juego explican cómo se calculan las combinaciones ganadoras y qué condiciones activan los giros gratis u otras funciones.
 
 ### Ficha del juego
 
