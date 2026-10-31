@@ -1,21 +1,20 @@
 ---
-title: Nomini Casino Guide authors
+title: 'Meet the Nomini Casino Guide contributors'
 description: Meet the seven Nomini Casino Guide contributors, their specialist areas and links to public professional
   profiles.
-seo_title: Authors and editorial team | Nomini Casino Guide
+seo_title: 'Contributor profiles | Nomini Casino Guide'
 type: authors
 date: 2026-09-27
-lastmod: '2026-10-30'
+lastmod: '2026-10-31'
 build:
   render: always
   list: always
 ---
+## The people behind the guide
 
-## Nomini Casino Guide editorial team
+The directory brings together seven contributors whose published work spans iGaming writing, casino reporting, game analysis and editorial content. Each entry links to public professional information so readers can follow the source rather than rely only on a short summary on this site.
 
-This page introduces the seven contributors working on this project. Each profile outlines a professional focus and links to public sources, so readers can explore experience related to iGaming, casino journalism, game analysis, bonuses and editorial work.
-
-The author directory is also a useful route into the editorial content. The contributors’ stated areas help readers understand the background behind material about casino games, promotions and payments. A professional biography is not used as evidence for a particular game result or personal winnings.
+Use the profiles to understand the subjects each contributor is associated with and to find the original public references. They describe professional background only: they are not evidence of personal gambling results, nor do they establish that an author has tested every product or reviewed every page on this website.
 
 | Author | Focus | Public profile |
 |---|---|---|
@@ -27,4 +26,4 @@ The author directory is also a useful route into the editorial content. The cont
 | Jon Pill | Game strategy, poker and casino games | [Medium](https://medium.com/@zuza76hgtf) |
 | Marco Ibarra | iGaming, slot reviews, bonuses and editorial SEO | [LinkedIn](https://cl.linkedin.com/in/ibarram94/en) · [Website](https://marco-ibarra.com/) |
 
-Open a profile to read the professional details at the original public source.
+For background details, follow the public profile links in the table and consult the source material directly.
