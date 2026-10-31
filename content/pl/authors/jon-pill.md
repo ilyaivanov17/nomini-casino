@@ -8,7 +8,7 @@ slug: jon-pill
 aliases:
 - /pl/authors/author-7/
 date: '2026-09-27'
-lastmod: '2026-10-30'
+lastmod: '2026-10-31'
 author_id: author-7
 role: Analityk gier i dziennikarz hazardowy
 photo: images/Jon_Pill.webp
@@ -41,7 +41,7 @@ Strategie gry, zasady pokera, gry kasynowe i analiza mechaniki
 
 ### Wkład redakcyjny w Nomini Casino Guide
 
-W Nomini Casino Guide profil należy do pracy redakcyjnej dotyczącej informacji o kasynach, objaśnień gier i porównywania warunków ofert. Specjalizacja wyznacza sposób prezentacji: mechanika gier jest opisywana na podstawie dostępnych danych, bonusy porządkuje się według warunków, a metody płatności zestawia według limitów i podanego czasu realizacji.
+Specjalizacja w strategii gier, zasadach pokera i mechanice kasynowej jest związana z artykułami wyjaśniającymi przebieg gry. Opisy porządkują opublikowane reguły; nie przedstawiają sposobu na zapewnienie wygranej ani prognozy przyszłych wyników.
 
 ### Jak korzystać z tego profilu
 
