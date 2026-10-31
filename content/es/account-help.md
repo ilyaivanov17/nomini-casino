@@ -1,9 +1,9 @@
 ---
-title: Cuenta, registro, acceso y preguntas frecuentes
-description: 'Información sobre registro, inicio de sesión, verificación, privacidad y seguridad de la cuenta.'
+title: 'Ayuda de cuenta Nomini: registro, acceso y seguridad'
+description: 'Orientación práctica para crear una cuenta, proteger el inicio de sesión y resolver dudas de acceso.'
 type: page
-seo_title: Cuenta, registro, acceso y preguntas frecuentes | Nomini
-lastmod: '2026-10-30'
+seo_title: 'Ayuda de cuenta Nomini | Registro, inicio de sesión y seguridad'
+lastmod: '2026-10-31'
 article_review_status: editorial-review-pending
 build:
   render: always
@@ -28,7 +28,7 @@ screenshots_note: 'Ilustración editorial, no es una captura de una interfaz rea
 ---
 ## Cuenta, registro, acceso y preguntas frecuentes
 
-Esta guía reúne la información por temas para facilitar la comparación de reglas y limitaciones. Las reglas del juego, el RTP, las condiciones de los bonos, los métodos de pago y la disponibilidad legal pueden variar según la versión, el operador y el país. Comprueba los datos en la versión ofrecida actualmente.
+Esta página reúne orientación para las distintas etapas del uso de una cuenta: qué revisar antes de registrarte, cómo proteger las credenciales y dónde acudir cuando no puedes acceder. La aprobación de cuentas, las comprobaciones de identidad, los pagos y la asistencia corresponden al operador. Esta guía independiente no puede abrir, consultar ni modificar cuentas de jugadores. Los requisitos pueden variar por país, estado de la cuenta y versión del servicio; confirma siempre los que aparecen en el área oficial.
 
 ## Guía de registro
 
